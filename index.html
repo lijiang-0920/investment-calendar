@@ -23,8 +23,11 @@
                 <nav class="nav">
                     <a href="#today" class="nav-link active" data-section="today">今日事件</a>
                     <a href="#calendar" class="nav-link" data-section="calendar">日历视图</a>
+                    <a href="#history" class="nav-link" data-section="history">历史数据</a>
+                    <a href="#search" class="nav-link" data-section="search">数据搜索</a>
                     <a href="#about" class="nav-link" data-section="about">关于</a>
                 </nav>
+
                 <div class="header-actions">
                     <div class="theme-toggle">
                         <i class="fas fa-moon" id="theme-toggle"></i>
@@ -157,6 +160,110 @@
                 </div>
             </div>
         </section>
+        <!-- 历史数据页面 -->
+        <section id="history" class="content-section">
+            <div class="container">
+                <div class="section-header">
+                    <h2><i class="fas fa-history"></i> 历史数据</h2>
+                    <div class="section-filters">
+                        <input type="date" id="history-date" placeholder="选择日期">
+                        <input type="month" id="history-month" placeholder="选择月份">
+                        <select id="history-platform-filter">
+                            <option value="">全部平台</option>
+                            <option value="cls">财联社</option>
+                            <option value="jiuyangongshe">韭研公社</option>
+                            <option value="tonghuashun">同花顺</option>
+                            <option value="investing">英为财情</option>
+                            <option value="eastmoney">东方财富</option>
+                        </select>
+                        <button id="load-history-btn" class="btn btn-primary">
+                            <i class="fas fa-search"></i> 查询
+                        </button>
+                    </div>
+                </div>
+                
+                <div class="history-stats" id="history-stats" style="display: none;">
+                    <div class="stats-cards">
+                        <div class="stat-card">
+                            <h3 id="history-total-events">0</h3>
+                            <p>历史事件</p>
+                        </div>
+                        <div class="stat-card">
+                            <h3 id="history-date-range">-</h3>
+                            <p>查询范围</p>
+                        </div>
+                        <div class="stat-card">
+                            <h3 id="history-platforms-count">0</h3>
+                            <p>活跃平台</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="events-container" id="history-events">
+                    <div class="empty-state">
+                        <i class="fas fa-calendar-times"></i>
+                        <h3>选择日期或月份查看历史数据</h3>
+                        <p>您可以选择具体日期查看当天事件，或选择月份查看整月数据</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <!-- 数据搜索页面 -->
+        <section id="search" class="content-section">
+            <div class="container">
+                <div class="section-header">
+                    <h2><i class="fas fa-search"></i> 数据搜索</h2>
+                    <div class="search-options">
+                        <label class="checkbox-label">
+                            <input type="checkbox" id="include-historical">
+                            <span>包含历史数据</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="search-container">
+                    <div class="search-input-group">
+                        <input type="text" id="global-search-input" placeholder="搜索事件标题、内容、股票代码、主题等...">
+                        <button id="global-search-btn" class="btn btn-primary">
+                            <i class="fas fa-search"></i> 搜索
+                        </button>
+                    </div>
+                    
+                    <div class="search-filters">
+                        <select id="search-platform-filter">
+                            <option value="">全部平台</option>
+                            <option value="cls">财联社</option>
+                            <option value="jiuyangongshe">韭研公社</option>
+                            <option value="tonghuashun">同花顺</option>
+                            <option value="investing">英为财情</option>
+                            <option value="eastmoney">东方财富</option>
+                        </select>
+                        
+                        <select id="search-importance-filter">
+                            <option value="">全部重要性</option>
+                            <option value="5">★★★★★</option>
+                            <option value="4">★★★★☆</option>
+                            <option value="3">★★★☆☆</option>
+                            <option value="2">★★☆☆☆</option>
+                            <option value="1">★☆☆☆☆</option>
+                        </select>
+                        
+                        <input type="date" id="search-start-date" placeholder="开始日期">
+                        <input type="date" id="search-end-date" placeholder="结束日期">
+                    </div>
+                </div>
+                
+                <div class="search-results" id="search-results">
+                    <div class="empty-state">
+                        <i class="fas fa-search"></i>
+                        <h3>输入关键词开始搜索</h3>
+                        <p>支持搜索事件标题、内容、股票代码、主题概念等</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+                
 
         <!-- 关于页面 -->
         <section id="about" class="content-section">
