@@ -1,0 +1,90 @@
+name: Daily Investment Calendar Update
+
+on:
+  schedule:
+    # 每天北京时间 18:00 (UTC 6:00) 执行
+    - cron: '0 6 * * *'
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+    
+    - name: Install dependencies
+      run: |
+        pip install -r scripts/requirements.txt
+    
+    - name: Check if first run
+      id: check_first_run
+      run: |
+        if [ ! -f "data/active/current/metadata.txt" ]; then
+          echo "first_run=true" >> $GITHUB_OUTPUT
+        else
+          echo "first_run=false" >> $GITHUB_OUTPUT
+        fi
+    
+    - name: Run historical data collection (first time only)
+      if: steps.check_first_run.outputs.first_run == 'true'
+      run: |
+        cd scripts
+        python historical_collector.py
+    
+    - name: Run daily update
+      run: |
+        cd scripts
+        if [ "${{ steps.check_first_run.outputs.first_run }}" == "true" ]; then
+          python daily_calendar.py --first-run
+        else
+          python daily_calendar.py --daily
+        fi
+    
+    - name: Convert data for web
+      run: |
+        cd scripts
+        python data_converter.py
+    
+    - name: Configure Git
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+    
+    - name: Commit and push changes
+      run: |
+        git add .
+        if [ -n "$(git status --porcelain)" ]; then
+          git commit -m "📊 Daily data update - $(date +'%Y-%m-%d %H:%M:%S')"
+          git push
+        else
+          echo "No changes to commit"
+        fi
+    
+    - name: Update deployment status
+      run: |
+        echo "Deployment completed at $(date)" > deployment_status.txt
+        git add deployment_status.txt
+        git commit -m "🚀 Update deployment status" || echo "No status changes"
+        git push || echo "No status push needed"
+
+  deploy:
+    needs: update-data
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./
+        exclude_assets: 'scripts/**,data/archived/**,.github/**'
