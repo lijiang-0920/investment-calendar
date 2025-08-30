@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>投资日历 - 多平台投资事件聚合</title>
+    <meta name="description" content="聚合财联社、韭研公社、同花顺、英为财情、东方财富等平台的投资事件数据">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/calendar.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <!-- 顶部导航 -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <i class="fas fa-calendar-alt"></i>
+                    <span>投资日历</span>
+                </div>
+                <nav class="nav">
+                    <a href="#today" class="nav-link active" data-section="today">今日事件</a>
+                    <a href="#calendar" class="nav-link" data-section="calendar">日历视图</a>
+                    <a href="#about" class="nav-link" data-section="about">关于</a>
+                </nav>
+                <div class="header-actions">
+                    <div class="theme-toggle">
+                        <i class="fas fa-moon" id="theme-toggle"></i>
+                    </div>
+                    <div class="last-update">
+                        <span id="last-update-time">更新中...</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- 数据概览卡片 -->
+    <section class="overview-section">
+        <div class="container">
+            <div class="overview-cards">
+                <div class="overview-card">
+                    <div class="card-icon">
+                        <i class="fas fa-calendar-day"></i>
+                    </div>
+                    <div class="card-content">
+                        <h3 id="today-events-count">0</h3>
+                        <p>今日事件</p>
+                    </div>
+                </div>
+                <div class="overview-card">
+                    <div class="card-icon new">
+                        <i class="fas fa-plus-circle"></i>
+                    </div>
+                    <div class="card-content">
+                        <h3 id="new-events-count">0</h3>
+                        <p>新增事件</p>
+                    </div>
+                </div>
+                <div class="overview-card">
+                    <div class="card-icon important">
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <div class="card-content">
+                        <h3 id="important-events-count">0</h3>
+                        <p>重要事件</p>
+                    </div>
+                </div>
+                <div class="overview-card">
+                    <div class="card-icon platforms">
+                        <i class="fas fa-network-wired"></i>
+                    </div>
+                    <div class="card-content">
+                        <h3 id="active-platforms-count">5</h3>
+                        <p>数据源</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 主要内容区域 -->
+    <main class="main">
+        <!-- 今日事件 -->
+        <section id="today" class="content-section active">
+            <div class="container">
+                <div class="section-header">
+                    <h2><i class="fas fa-calendar-day"></i> 今日事件</h2>
+                    <div class="section-filters">
+                        <select id="platform-filter">
+                            <option value="">全部平台</option>
+                            <option value="cls">财联社</option>
+                            <option value="jiuyangongshe">韭研公社</option>
+                            <option value="tonghuashun">同花顺</option>
+                            <option value="investing">英为财情</option>
+                            <option value="eastmoney">东方财富</option>
+                        </select>
+                        <select id="importance-filter">
+                            <option value="">全部重要性</option>
+                            <option value="5">★★★★★</option>
+                            <option value="4">★★★★☆</option>
+                            <option value="3">★★★☆☆</option>
+                            <option value="2">★★☆☆☆</option>
+                            <option value="1">★☆☆☆☆</option>
+                        </select>
+                        <select id="category-filter">
+                            <option value="">全部类别</option>
+                        </select>
+                        <input type="text" id="search-input" placeholder="搜索事件...">
+                    </div>
+                </div>
+                <div class="events-container" id="today-events">
+                    <div class="loading">
+                        <i class="fas fa-spinner fa-spin"></i>
+                        <span>加载中...</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- 日历视图 -->
+        <section id="calendar" class="content-section">
+            <div class="container">
+                <div class="section-header">
+                    <h2><i class="fas fa-calendar"></i> 日历视图</h2>
+                    <div class="calendar-controls">
+                        <button id="prev-month" class="btn btn-outline">
+                            <i class="fas fa-chevron-left"></i>
+                        </button>
+                        <span id="current-month-year"></span>
+                        <button id="next-month" class="btn btn-outline">
+                            <i class="fas fa-chevron-right"></i>
+                        </button>
+                        <button id="today-btn" class="btn btn-primary">今天</button>
+                    </div>
+                </div>
+                <div class="calendar-container">
+                    <div id="calendar-grid" class="calendar-grid">
+                        <!-- 日历将通过JavaScript生成 -->
+                    </div>
+                </div>
+                <div class="calendar-legend">
+                    <div class="legend-item">
+                        <span class="legend-dot new"></span>
+                        <span>新增事件</span>
+                    </div>
+                    <div class="legend-item">
+                        <span class="legend-dot important"></span>
+                        <span>重要事件</span>
+                    </div>
+                    <div class="legend-item">
+                        <span class="legend-dot normal"></span>
+                        <span>普通事件</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- 关于页面 -->
+        <section id="about" class="content-section">
+            <div class="container">
+                <div class="about-content">
+                    <h2><i class="fas fa-info-circle"></i> 关于投资日历</h2>
+                    <div class="about-grid">
+                        <div class="about-card">
+                            <h3><i class="fas fa-target"></i> 项目目标</h3>
+                            <p>聚合多个主流投资平台的事件数据，为投资者提供统一的事件日历视图，帮助把握投资机会。</p>
+                        </div>
+                        <div class="about-card">
+                            <h3><i class="fas fa-database"></i> 数据源</h3>
+                            <ul>
+                                <li><strong>财联社</strong> - 经济数据、事件公告</li>
+                                <li><strong>韭研公社</strong> - 投资事件分析</li>
+                                <li><strong>同花顺</strong> - 股票相关事件</li>
+                                <li><strong>英为财情</strong> - 国际经济数据</li>
+                                <li><strong>东方财富</strong> - A股市场数据</li>
+                            </ul>
+                        </div>
+                        <div class="about-card">
+                            <h3><i class="fas fa-sync-alt"></i> 更新机制</h3>
+                            <p>通过GitHub Actions每日自动采集数据，检测变更并更新网站。所有数据处理过程完全透明。</p>
+                        </div>
+                        <div class="about-card">
+                            <h3><i class="fas fa-code"></i> 技术栈</h3>
+                            <ul>
+                                <li>数据采集：Python + Requests + BeautifulSoup</li>
+                                <li>前端：HTML5 + CSS3 + Vanilla JavaScript</li>
+                                <li>部署：GitHub Pages + GitHub Actions</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="github-link">
+                        <a href="https://github.com/yourusername/investment-calendar" target="_blank" class="btn btn-primary">
+                            <i class="fab fa-github"></i> 查看源码
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- 事件详情模态框 -->
+    <div id="event-modal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 id="modal-title"></h3>
+                <span class="close">&times;</span>
+            </div>
+            <div class="modal-body" id="modal-body">
+                <!-- 事件详情内容 -->
+            </div>
+        </div>
+    </div>
+
+    <!-- 加载脚本 -->
+    <script src="assets/js/data-loader.js"></script>
+    <script src="assets/js/calendar.js"></script>
+    <script src="assets/js/main.js"></script>
+</body>
+</html>
