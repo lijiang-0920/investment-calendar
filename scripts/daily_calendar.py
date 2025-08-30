@@ -891,56 +891,109 @@ class FutureDataCollector:
         return events
     
     def _process_eastmoney_tfpxx(self, tfpxx_data: list, start_date: str, end_date: str) -> List[StandardizedEvent]:
-        """处理停复牌信息"""
+        """处理停复牌信息 - 修复版"""
         events = []
-        for item in tfpxx_data:
-            if not item:
+        
+        print(f"      🔍 处理停复牌信息: 输入 {len(tfpxx_data)} 条")
+        
+        for tfpxx_item in tfpxx_data:
+            if not tfpxx_item:
                 continue
-            item_date = self._extract_date_fixed(item.get('Date'))
+            
+            # 数据结构：tfpxx_item包含Date和Data字段
+            item_date = self._extract_date_fixed(tfpxx_item.get('Date'))
+            data_list = tfpxx_item.get('Data', [])
+            
+            print(f"      📅 日期: {item_date}, 停复牌股票: {len(data_list)} 只")
+            
             if item_date and start_date <= item_date <= end_date:
-                stock_data = item.get('Data') or []
-                for stock in stock_data:
-                    if not stock:
+                for i, stock_data in enumerate(data_list):
+                    if not stock_data:
                         continue
+                    
+                    stock_code = stock_data.get('Scode', '')
+                    stock_name = stock_data.get('Sname', '')
+                    
                     event = StandardizedEvent(
                         platform="eastmoney",
-                        event_id=f"em_tfpxx_{item_date.replace('-', '')}_{stock.get('Scode', '')}",
-                        original_id=stock.get('Scode', ''),
+                        event_id=f"em_tfpxx_{stock_code}_{item_date.replace('-', '')}_{i}",
+                        original_id=stock_code,
                         event_date=item_date,
-                        title=f"{stock.get('Sname', '')}停复牌",
-                        content=f"股票代码: {stock.get('Scode', '')}, 停复牌原因: {stock.get('Reason', '')}",
+                        title=f"{stock_name}停复牌",
+                        content=f"股票代码: {stock_code}, 股票名称: {stock_name}",
                         category='停复牌信息',
                         importance=2,
                         country='中国',
-                        stocks=[stock.get('Scode', '')] if stock.get('Scode') else [],
-                        raw_data=stock
+                        stocks=[stock_code] if stock_code else [],
+                        raw_data={
+                            'stock_code': stock_code,
+                            'stock_name': stock_name,
+                            'date': item_date
+                        }
                     )
                     events.append(event)
+                
+                print(f"      ✅ {item_date} 创建了 {len(data_list)} 个停复牌事件")
+        
+        print(f"      📊 停复牌信息处理完成: {len(events)} 个有效事件")
         return events
+
     
+
     def _process_eastmoney_hsgg(self, hsgg_data: list, start_date: str, end_date: str) -> List[StandardizedEvent]:
-        """处理A股公告"""
+        """处理A股公告 - 修复版"""
         events = []
-        for item in hsgg_data:
-            if not item:
+        
+        print(f"      🔍 处理A股公告数据: 输入 {len(hsgg_data)} 条")
+        
+        for hsgg_item in hsgg_data:
+            if not hsgg_item:
                 continue
-            item_date = self._extract_date_fixed(item.get('NOTICE_DATE'))
+            
+            # 新的数据结构：hsgg_item包含Date和Data字段
+            item_date = self._extract_date_fixed(hsgg_item.get('Date'))
+            total_count = hsgg_item.get('TotalCount', 0)
+            data_list = hsgg_item.get('Data', [])
+            
+            print(f"      📅 日期: {item_date}, 总数: {total_count}, 当日数据: {len(data_list)} 条")
+            
             if item_date and start_date <= item_date <= end_date:
-                event = StandardizedEvent(
-                    platform="eastmoney",
-                    event_id=f"em_hsgg_{item.get('SECUCODE', '')}_{item_date.replace('-', '')}_{hash(item.get('TITLE', ''))}",
-                    original_id=item.get('SECUCODE', ''),
-                    event_date=item_date,
-                    title=f"{item.get('SECURITY_NAME_ABBR', '')} - {item.get('TITLE', '')}",
-                    content=item.get('TITLE', ''),
-                    category='A股公告',
-                    importance=3,
-                    country='中国',
-                    stocks=[item.get('SECURITY_CODE', '')] if item.get('SECURITY_CODE') else [],
-                    raw_data=item
-                )
-                events.append(event)
+                # 处理当日的所有股票公告
+                for i, stock_data in enumerate(data_list):
+                    if not stock_data:
+                        continue
+                    
+                    stock_code = stock_data.get('Scode', '')
+                    stock_name = stock_data.get('Sname', '')
+                    
+                    event = StandardizedEvent(
+                        platform="eastmoney",
+                        event_id=f"em_hsgg_{stock_code}_{item_date.replace('-', '')}_{i}",
+                        original_id=stock_code,
+                        event_date=item_date,
+                        title=f"{stock_name}发布公告",
+                        content=f"股票代码: {stock_code}, 股票名称: {stock_name}",
+                        category='A股公告',
+                        importance=3,
+                        country='中国',
+                        stocks=[stock_code] if stock_code else [],
+                        raw_data={
+                            'stock_code': stock_code,
+                            'stock_name': stock_name,
+                            'date': item_date,
+                            'total_count': total_count
+                        }
+                    )
+                    events.append(event)
+                
+                print(f"      ✅ {item_date} 创建了 {len(data_list)} 个A股公告事件")
+            else:
+                print(f"      ❌ 日期不在范围内: {item_date}")
+        
+        print(f"      📊 A股公告处理完成: {len(events)} 个有效事件")
         return events
+
+    
     
     def _process_eastmoney_nbjb(self, nbjb_data: list, start_date: str, end_date: str) -> List[StandardizedEvent]:
         """处理年报季报"""
@@ -993,15 +1046,28 @@ class FutureDataCollector:
                     )
                     events.append(event)
         return events
-    
+        
     def _process_eastmoney_hyhy(self, hyhy_data: list, start_date: str, end_date: str) -> List[StandardizedEvent]:
-        """处理行业会议"""
+        """处理行业会议 - 修复版"""
         events = []
+        
+        print(f"      🔍 处理行业会议: 输入 {len(hyhy_data)} 条")
+        
         for item in hyhy_data:
             if not item:
                 continue
+            
             start_event_date = self._extract_date_fixed(item.get('START_DATE'))
-            if start_event_date and start_date <= start_event_date <= end_date:
+            end_event_date = self._extract_date_fixed(item.get('END_DATE'))
+            
+            print(f"      📅 会议: {item.get('FE_NAME', '')} ({start_event_date} ~ {end_event_date})")
+            
+            # 检查会议是否在查询范围内（会议开始或结束日期在范围内）
+            if start_event_date and (
+                (start_date <= start_event_date <= end_date) or 
+                (end_event_date and start_date <= end_event_date <= end_date) or
+                (start_event_date <= start_date and end_event_date and end_event_date >= end_date)
+            ):
                 event = StandardizedEvent(
                     platform="eastmoney",
                     event_id=f"em_hyhy_{item.get('FE_CODE', '')}",
@@ -1013,10 +1079,23 @@ class FutureDataCollector:
                     importance=3,
                     country='中国',
                     city=item.get('CITY'),
-                    raw_data=item
+                    raw_data={
+                        'fe_code': item.get('FE_CODE'),
+                        'fe_name': item.get('FE_NAME'),
+                        'start_date': start_event_date,
+                        'end_date': end_event_date,
+                        'fe_type': item.get('FE_TYPE'),
+                        'sponsor': item.get('SPONSOR_NAME'),
+                        'city': item.get('CITY'),
+                        'content': item.get('CONTENT')
+                    }
                 )
                 events.append(event)
+                print(f"      ✅ 创建会议事件: {event.title}")
+        
+        print(f"      📊 行业会议处理完成: {len(events)} 个有效事件")
         return events
+
     
     def _process_eastmoney_gddh(self, gddh_data: list, start_date: str, end_date: str) -> List[StandardizedEvent]:
         """处理股东大会"""
