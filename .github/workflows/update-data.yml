@@ -2,8 +2,9 @@ name: Daily Investment Calendar Update
 
 on:
   schedule:
+    # 每天北京时间 6:00 (UTC 22:00) 执行
     - cron: '0 22 * * *'
-  workflow_dispatch:
+  workflow_dispatch: # 允许手动触发
 
 jobs:
   update-data:
@@ -25,10 +26,18 @@ jobs:
       run: |
         pip install -r scripts/requirements.txt
     
-    - name: Check if first run
-      id: check_first_run
+    - name: Check if historical data exists
+      id: check_historical
       run: |
-        # 检查是否有足够的数据文件
+        if [ -d "data/archived" ] && [ "$(find data/archived -name '*.txt' 2>/dev/null | wc -l)" -gt 0 ]; then
+          echo "has_historical=true" >> $GITHUB_OUTPUT
+        else
+          echo "has_historical=false" >> $GITHUB_OUTPUT
+        fi
+    
+    - name: Check if current data exists
+      id: check_current
+      run: |
         count=0
         for platform in cls jiuyangongshe tonghuashun investing eastmoney; do
           if [ -f "data/active/current/${platform}.txt" ]; then
@@ -37,29 +46,36 @@ jobs:
         done
         
         if [ $count -lt 3 ]; then
-          echo "first_run=true" >> $GITHUB_OUTPUT
+          echo "has_current=false" >> $GITHUB_OUTPUT
         else
-          echo "first_run=false" >> $GITHUB_OUTPUT
+          echo "has_current=true" >> $GITHUB_OUTPUT
         fi
     
-    - name: Run historical data collection (first time only)
-      if: steps.check_first_run.outputs.first_run == 'true'
+    - name: Run historical data collection (if no historical data)
+      if: steps.check_historical.outputs.has_historical == 'false'
       run: |
         cd scripts
+        echo "🕒 开始采集历史数据..."
         python historical_collector.py
     
-    - name: Run daily update
+    - name: Run first-time setup (if no current data)
+      if: steps.check_current.outputs.has_current == 'false'
       run: |
         cd scripts
-        if [ "${{ steps.check_first_run.outputs.first_run }}" == "true" ]; then
-          python daily_calendar.py --first-run
-        else
-          python daily_calendar.py --daily
-        fi
+        echo "🚀 首次运行模式..."
+        python daily_calendar.py --first-run
+    
+    - name: Run daily update (if has current data)
+      if: steps.check_current.outputs.has_current == 'true'
+      run: |
+        cd scripts
+        echo "🔄 日常更新模式..."
+        python daily_calendar.py --daily
     
     - name: Convert data for web
       run: |
         cd scripts
+        echo "🔄 转换数据为Web格式..."
         python data_converter.py
     
     - name: Configure Git
@@ -67,14 +83,37 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
     
-    # 只提交web数据，不提交原始数据
     - name: Commit and push changes
       run: |
         git add data/web/
         git add data/active/current/metadata.txt
+        # 如果是首次运行，也提交一些关键数据文件
+        if [ "${{ steps.check_current.outputs.has_current }}" == "false" ]; then
+          git add data/active/current/*.txt
+        fi
+        
         if [ -n "$(git status --porcelain)" ]; then
           git commit -m "📊 Daily data update - $(date +'%Y-%m-%d %H:%M:%S')"
           git push
         else
           echo "No changes to commit"
         fi
+    
+    - name: Update deployment status
+      run: |
+        echo "Deployment completed at $(date)" > deployment_status.txt
+        git add deployment_status.txt
+        git commit -m "🚀 Update deployment status" || echo "No status changes"
+        git push || echo "No status push needed"
+
+  deploy:
+    needs: update-data
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./
+        exclude_assets: 'scripts/**,.github/**'
