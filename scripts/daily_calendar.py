@@ -1865,152 +1865,10 @@ def show_system_status():
     except:
         pass
 
-def interactive_mode():
-    """交互模式"""
-    print("\n🔍 日常数据管理交互模式")
-    print("=" * 40)
-    
-    while True:
-        print("\n请选择操作:")
-        print("1. 查询今日事件")
-        print("2. 查询新增事件")
-        print("3. 查询指定日期事件")
-        print("4. 查询日期范围事件")
-        print("5. 按平台查询事件")
-        print("6. 执行变更检测")
-        print("7. 执行完整日常更新")
-        print("8. 系统状态")
-        print("0. 退出")
-        
-        choice = input("\n请输入选择 (0-10): ").strip()
-        
-        if choice == "1":
-            today = datetime.now().strftime('%Y-%m-%d')
-            events = get_events_by_date(today)
-            print(f"\n今日 ({today}) 事件:")
-            print_events_summary(events)
-            
-        elif choice == "2":
-            discovery_date = input("请输入发现日期 (YYYY-MM-DD，默认今天): ").strip()
-            if not discovery_date:
-                discovery_date = datetime.now().strftime('%Y-%m-%d')
-            
-            new_events = get_new_events_by_date(discovery_date)
-            print(f"\n{discovery_date} 发现的新增事件:")
-            print_events_summary(new_events)
-            
-        elif choice == "3":
-            date = input("请输入日期 (YYYY-MM-DD): ").strip()
-            if date:
-                events = get_events_by_date(date)
-                print(f"\n{date} 的事件:")
-                print_events_summary(events)
-            else:
-                print("日期不能为空")
-        
-        elif choice == "4":
-            start_date = input("请输入开始日期 (YYYY-MM-DD): ").strip()
-            end_date = input("请输入结束日期 (YYYY-MM-DD): ").strip()
-            
-            if start_date and end_date:
-                if start_date <= end_date:
-                    events = get_events_by_date_range(start_date, end_date)
-                    print(f"\n{start_date} 至 {end_date} 的事件:")
-                    print_events_summary(events)
-                else:
-                    print("开始日期不能晚于结束日期")
-            else:
-                print("日期不能为空")
-        
-        elif choice == "5":
-            print("\n可选平台:")
-            print("1. 财联社 (cls)")
-            print("2. 韭研公社 (jiuyangongshe)")
-            print("3. 同花顺 (tonghuashun)")
-            print("4. 英为财情 (investing)")
-            print("5. 东方财富 (eastmoney)")
-            
-            platform_choice = input("请选择平台 (1-5): ").strip()
-            platform_map = {
-                '1': 'cls',
-                '2': 'jiuyangongshe', 
-                '3': 'tonghuashun',
-                '4': 'investing',
-                '5': 'eastmoney'
-            }
-            
-            if platform_choice in platform_map:
-                platform = platform_map[platform_choice]
-                events = get_events_by_platform(platform)
-                platform_name = {
-                    'cls': '财联社',
-                    'jiuyangongshe': '韭研公社',
-                    'tonghuashun': '同花顺',
-                    'investing': '英为财情', 
-                    'eastmoney': '东方财富'
-                }[platform]
-                print(f"\n{platform_name} 的事件:")
-                print_events_summary(events)
-            else:
-                print("无效选择")
-        
-        elif choice == "6":
-            categories = get_available_categories()
-            if categories:
-                print("\n可选类别:")
-                for i, category in enumerate(categories, 1):
-                    print(f"{i}. {category}")
-                
-                try:
-                    cat_choice = int(input(f"请选择类别 (1-{len(categories)}): ").strip())
-                    if 1 <= cat_choice <= len(categories):
-                        category = categories[cat_choice - 1]
-                        events = get_events_by_category(category)
-                        print(f"\n{category} 类别的事件:")
-                        print_events_summary(events)
-                    else:
-                        print("无效选择")
-                except ValueError:
-                    print("请输入数字")
-            else:
-                print("未找到事件类别")
-        
-        elif choice == "7":
-            min_importance = input("请输入最低重要性等级 (1-5，默认4): ").strip()
-            try:
-                min_importance = int(min_importance) if min_importance else 4
-                if 1 <= min_importance <= 5:
-                    events = get_high_importance_events(min_importance)
-                    print(f"\n重要性 >= {min_importance}星 的事件:")
-                    print_events_summary(events)
-                else:
-                    print("重要性等级必须在1-5之间")
-            except ValueError:
-                print("请输入有效数字")
-                
-        elif choice == "8":
-            collector = FutureDataCollector()
-            detector = ChangeDetectionEngine()
-            future_data = collector.collect_all_future_data()
-            detector.detect_all_changes_with_new_data(future_data)
-            
-        elif choice == "9":
-            scheduler = DailyTaskScheduler()
-            scheduler.run_daily_update()
-            
-        elif choice == "10":
-            show_system_status()
-            
-        elif choice == "0":
-            print("👋 再见！")
-            break
-        else:
-            print("❌ 无效选择，请重试")
 
 # ============================================================================
 # 程序入口
 # ============================================================================
-
 if __name__ == "__main__":
     import sys
     
@@ -2023,15 +1881,6 @@ if __name__ == "__main__":
         print("请运行: pip install requests beautifulsoup4")
         sys.exit(1)
     
-    # 检查是否有历史数据
-    archived_path = "./data/archived"
-    if not os.path.exists(archived_path) or not any(
-        f.endswith('.txt') for root, dirs, files in os.walk(archived_path) for f in files
-    ):
-        print("❌ 未发现历史数据！")
-        print("请先运行: python historical_collector.py")
-        sys.exit(1)
-    
     print("🔄 投资日历日常数据管理系统")
     print("=" * 50)
     
@@ -2041,18 +1890,18 @@ if __name__ == "__main__":
             # 首次运行模式
             scheduler = DailyTaskScheduler()
             success = scheduler.run_first_time()
-            
             if success:
-                choice = input("\n是否进入交互查询模式？(y/n): ").strip().lower()
-                if choice in ['y', 'yes', '是']:
-                    interactive_mode()
-            
+                print("✅ 首次运行完成")
+            else:
+                sys.exit(1)
+        
         elif sys.argv[1] == "--collect":
             # 只采集未来数据
             collector = FutureDataCollector()
             storage = DataStorage()
             future_data = collector.collect_all_future_data()
             storage.save_all_data(future_data)
+            print("✅ 数据采集完成")
             
         elif sys.argv[1] == "--detect":
             # 只执行变更检测
@@ -2060,37 +1909,32 @@ if __name__ == "__main__":
             detector = ChangeDetectionEngine()
             future_data = collector.collect_all_future_data()
             detector.detect_all_changes_with_new_data(future_data)
+            print("✅ 变更检测完成")
             
         elif sys.argv[1] == "--daily":
             # 执行完整日常更新
             scheduler = DailyTaskScheduler()
             success = scheduler.run_daily_update()
-            
             if success:
-                choice = input("\n是否进入交互查询模式？(y/n): ").strip().lower()
-                if choice in ['y', 'yes', '是']:
-                    interactive_mode()
+                print("✅ 日常更新完成")
+            else:
+                sys.exit(1)
             
         elif sys.argv[1] == "--status":
             # 显示系统状态
             show_system_status()
             
-        elif sys.argv[1] == "--interactive":
-            # 交互模式
-            interactive_mode()
-            
         elif sys.argv[1] == "--new":
             # 查询新增事件
             discovery_date = sys.argv[2] if len(sys.argv) > 2 else datetime.now().strftime('%Y-%m-%d')
             try:
-                # 验证日期格式
                 datetime.strptime(discovery_date, '%Y-%m-%d')
                 new_events = get_new_events_by_date(discovery_date)
                 print(f"{discovery_date} 新增事件:")
                 print_events_summary(new_events)
             except ValueError:
                 print("❌ 日期格式错误，请使用 YYYY-MM-DD 格式")
-                print("用法: python daily_calendar.py --new [YYYY-MM-DD]")
+                sys.exit(1)
             
         elif sys.argv[1] == "--today":
             # 查询今日事件
@@ -2104,17 +1948,17 @@ if __name__ == "__main__":
             if len(sys.argv) > 2:
                 query_date = sys.argv[2]
                 try:
-                    # 验证日期格式
                     datetime.strptime(query_date, '%Y-%m-%d')
                     events = get_events_by_date(query_date)
                     print(f"{query_date} 的事件:")
                     print_events_summary(events)
                 except ValueError:
                     print("❌ 日期格式错误，请使用 YYYY-MM-DD 格式")
-                    print("用法: python daily_calendar.py --date YYYY-MM-DD")
+                    sys.exit(1)
             else:
                 print("❌ 请指定查询日期")
                 print("用法: python daily_calendar.py --date YYYY-MM-DD")
+                sys.exit(1)
         
         elif sys.argv[1] == "--range":
             # 查询日期范围事件
@@ -2122,7 +1966,6 @@ if __name__ == "__main__":
                 start_date = sys.argv[2]
                 end_date = sys.argv[3]
                 try:
-                    # 验证日期格式
                     datetime.strptime(start_date, '%Y-%m-%d')
                     datetime.strptime(end_date, '%Y-%m-%d')
                     
@@ -2132,12 +1975,14 @@ if __name__ == "__main__":
                         print_events_summary(events)
                     else:
                         print("❌ 开始日期不能晚于结束日期")
+                        sys.exit(1)
                 except ValueError:
                     print("❌ 日期格式错误，请使用 YYYY-MM-DD 格式")
-                    print("用法: python daily_calendar.py --range YYYY-MM-DD YYYY-MM-DD")
+                    sys.exit(1)
             else:
                 print("❌ 请指定开始和结束日期")
                 print("用法: python daily_calendar.py --range YYYY-MM-DD YYYY-MM-DD")
+                sys.exit(1)
         
         elif sys.argv[1] == "--platform":
             # 按平台查询事件
@@ -2159,10 +2004,11 @@ if __name__ == "__main__":
                 else:
                     print(f"❌ 无效的平台名称: {platform}")
                     print(f"可用平台: {', '.join(valid_platforms)}")
+                    sys.exit(1)
             else:
                 print("❌ 请指定平台名称")
                 print("用法: python daily_calendar.py --platform [cls|jiuyangongshe|tonghuashun|investing|eastmoney]")
-
+                sys.exit(1)
         
         elif sys.argv[1] == "--help" or sys.argv[1] == "-h":
             # 显示帮助信息
@@ -2180,24 +2026,16 @@ if __name__ == "__main__":
             print("  python daily_calendar.py --date 日期      # 查询指定日期")
             print("  python daily_calendar.py --range 开始 结束 # 查询日期范围")
             print("  python daily_calendar.py --platform 平台  # 按平台查询")
-            print("  python daily_calendar.py --category 类别  # 按类别查询")
-            print("  python daily_calendar.py --importance 等级 # 查询高重要性事件")
-            print()
-            print("系统功能:")
             print("  python daily_calendar.py --status        # 系统状态")
-            print("  python daily_calendar.py --interactive   # 交互模式")
-            print("  python daily_calendar.py --help          # 显示帮助")
             print()
             print("参数说明:")
-            print("  日期格式: YYYY-MM-DD (如: 2025-08-29)")
+            print("  日期格式: YYYY-MM-DD (如: 2025-01-15)")
             print("  平台名称: cls, jiuyangongshe, tonghuashun, investing, eastmoney")
-            print("  重要性等级: 1-5 (数字越大越重要)")
             print()
             print("示例:")
-            print("  python daily_calendar.py --new 2025-08-29")
-            print("  python daily_calendar.py --range 2025-08-29 2025-08-31")
+            print("  python daily_calendar.py --new 2025-01-15")
+            print("  python daily_calendar.py --range 2025-01-15 2025-01-17")
             print("  python daily_calendar.py --platform investing")
-            print("  python daily_calendar.py --importance 4")
             
         else:
             print("❌ 未知参数，使用 --help 查看使用说明")
@@ -2205,8 +2043,8 @@ if __name__ == "__main__":
             print("  python daily_calendar.py --first-run    # 首次运行")
             print("  python daily_calendar.py --daily        # 日常更新")
             print("  python daily_calendar.py --today        # 查询今日事件")
-            print("  python daily_calendar.py --interactive  # 交互模式")
             print("  python daily_calendar.py --help         # 完整帮助")
+            sys.exit(1)
     else:
         # 默认：自动判断运行模式
         scheduler = DailyTaskScheduler()
@@ -2217,9 +2055,10 @@ if __name__ == "__main__":
             print("🔄 执行日常更新...")
             success = scheduler.run_daily_update()
         
-        if success:
-            # 询问是否进入交互模式
-            choice = input("\n是否进入交互查询模式？(y/n): ").strip().lower()
-            if choice in ['y', 'yes', '是']:
-                interactive_mode()
+        if not success:
+            sys.exit(1)
+        
+        print("✅ 程序执行完成")
+
+
             
