@@ -68,30 +68,29 @@ jobs:
     
     - name: Run investment calendar
       run: |
-        cd scripts
+        # 不要cd到scripts目录，在根目录运行
         mode="${{ steps.check_data.outputs.run_mode }}"
         echo "🚀 执行模式: $mode"
         
         if [ "$mode" == "daily" ]; then
-          python daily_calendar.py --daily
+          python scripts/daily_calendar.py --daily
         else
-          # 如果没有足够数据，先运行历史采集，再首次运行
-          if [ ! -f "../data/archived/historical_summary.txt" ]; then
+          if [ ! -f "data/archived/historical_summary.txt" ]; then
             echo "📚 开始采集历史数据..."
-            python historical_collector.py
+            python scripts/historical_collector.py
           fi
           echo "🚀 开始首次运行..."
-          python daily_calendar.py --first-run
+          python scripts/daily_calendar.py --first-run
         fi
     
     - name: Convert data for web
       run: |
-        cd scripts
         echo "🔄 转换数据为Web格式..."
-        python data_converter.py
+        python scripts/data_converter.py
         
         echo "📊 Web数据生成结果:"
-        ls -la ../data/web/ || echo "Web目录不存在"
+        ls -la data/web/ || echo "Web目录不存在"
+
     
     - name: Configure Git
       run: |
