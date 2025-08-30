@@ -26,57 +26,72 @@ jobs:
       run: |
         pip install -r scripts/requirements.txt
     
-    - name: Check if historical data exists
-      id: check_historical
+    - name: Ensure directory structure
       run: |
-        if [ -d "data/archived" ] && [ "$(find data/archived -name '*.txt' 2>/dev/null | wc -l)" -gt 0 ]; then
-          echo "has_historical=true" >> $GITHUB_OUTPUT
-        else
-          echo "has_historical=false" >> $GITHUB_OUTPUT
-        fi
+        mkdir -p data/web
+        ls -la data/
+        echo "📁 检查data目录结构："
+        find data/ -type f -name "*.txt" | head -10
     
-    - name: Check if current data exists
-      id: check_current
+    - name: Check current data status
+      id: check_data
       run: |
-        count=0
+        echo "🔍 检查当前数据状态..."
+        
+        # 检查current目录中的平台文件
+        current_count=0
         for platform in cls jiuyangongshe tonghuashun investing eastmoney; do
-          if [ -f "data/active/current/${platform}.txt" ]; then
-            count=$((count + 1))
+          file_path="data/active/current/${platform}.txt"
+          if [ -f "$file_path" ] && [ -s "$file_path" ]; then
+            current_count=$((current_count + 1))
+            echo "✅ 发现 ${platform}.txt ($(stat -c%s "$file_path") bytes)"
+          else
+            echo "❌ 缺少或为空: ${platform}.txt"
           fi
         done
         
-        if [ $count -lt 3 ]; then
-          echo "has_current=false" >> $GITHUB_OUTPUT
+        # 检查历史数据
+        archived_count=$(find data/archived -name "*.txt" 2>/dev/null | wc -l)
+        
+        echo "📊 数据统计:"
+        echo "  - 当前数据文件: $current_count/5"
+        echo "  - 历史数据文件: $archived_count"
+        
+        # 决定运行模式
+        if [ $current_count -ge 3 ]; then
+          echo "run_mode=daily" >> $GITHUB_OUTPUT
+          echo "🔄 使用日常更新模式"
         else
-          echo "has_current=true" >> $GITHUB_OUTPUT
+          echo "run_mode=first-run" >> $GITHUB_OUTPUT
+          echo "🚀 使用首次运行模式"
         fi
     
-    - name: Run historical data collection (if no historical data)
-      if: steps.check_historical.outputs.has_historical == 'false'
+    - name: Run investment calendar
       run: |
         cd scripts
-        echo "🕒 开始采集历史数据..."
-        python historical_collector.py
-    
-    - name: Run first-time setup (if no current data)
-      if: steps.check_current.outputs.has_current == 'false'
-      run: |
-        cd scripts
-        echo "🚀 首次运行模式..."
-        python daily_calendar.py --first-run
-    
-    - name: Run daily update (if has current data)
-      if: steps.check_current.outputs.has_current == 'true'
-      run: |
-        cd scripts
-        echo "🔄 日常更新模式..."
-        python daily_calendar.py --daily
+        mode="${{ steps.check_data.outputs.run_mode }}"
+        echo "🚀 执行模式: $mode"
+        
+        if [ "$mode" == "daily" ]; then
+          python daily_calendar.py --daily
+        else
+          # 如果没有足够数据，先运行历史采集，再首次运行
+          if [ ! -f "../data/archived/historical_summary.txt" ]; then
+            echo "📚 开始采集历史数据..."
+            python historical_collector.py
+          fi
+          echo "🚀 开始首次运行..."
+          python daily_calendar.py --first-run
+        fi
     
     - name: Convert data for web
       run: |
         cd scripts
         echo "🔄 转换数据为Web格式..."
         python data_converter.py
+        
+        echo "📊 Web数据生成结果:"
+        ls -la ../data/web/ || echo "Web目录不存在"
     
     - name: Configure Git
       run: |
@@ -85,26 +100,33 @@ jobs:
     
     - name: Commit and push changes
       run: |
-        git add data/web/
-        git add data/active/current/metadata.txt
-        # 如果是首次运行，也提交一些关键数据文件
-        if [ "${{ steps.check_current.outputs.has_current }}" == "false" ]; then
-          git add data/active/current/*.txt
-        fi
+        echo "📝 准备提交更改..."
         
+        # 添加web数据（这是网页必需的）
+        git add data/web/
+        
+        # 添加元数据
+        git add data/active/current/metadata.txt 2>/dev/null || echo "无元数据文件"
+        
+        # 检查变更
         if [ -n "$(git status --porcelain)" ]; then
+          echo "📊 发现以下变更:"
+          git status --porcelain
+          
           git commit -m "📊 Daily data update - $(date +'%Y-%m-%d %H:%M:%S')"
           git push
+          echo "✅ 变更已提交并推送"
         else
-          echo "No changes to commit"
+          echo "ℹ️ 没有需要提交的变更"
         fi
     
-    - name: Update deployment status
+    - name: Deployment summary
       run: |
-        echo "Deployment completed at $(date)" > deployment_status.txt
-        git add deployment_status.txt
-        git commit -m "🚀 Update deployment status" || echo "No status changes"
-        git push || echo "No status push needed"
+        echo "🎉 部署完成!"
+        echo "📊 最终状态:"
+        echo "  - 运行模式: ${{ steps.check_data.outputs.run_mode }}"
+        echo "  - Web数据: $(ls data/web/*.json 2>/dev/null | wc -l) 个JSON文件"
+        echo "  - 网站地址: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
 
   deploy:
     needs: update-data
