@@ -1,8 +1,8 @@
 {
   "platform": "jiuyangongshe",
   "platform_name": "韭研公社",
-  "total_events": 44,
-  "last_updated": "2025-08-30T11:38:41.104713",
+  "total_events": 45,
+  "last_updated": "2025-08-30T11:51:39.332133",
   "events": [
     {
       "id": "jygs_f61d789f4cd34dfa82e999767cfee7e1_1b47bfd78285481e8101a3b9377d5c0f_20250830",
@@ -132,6 +132,22 @@
       "discovery_date": "2025-08-30",
       "stocks": [],
       "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_21b18adf0eb6487a8278b83d8dc6cfa4_2831518d3b5e4f51a2e22d340f1bf3e9_20250901",
+      "platform": "jiuyangongshe",
+      "title": "泰凌微拟收购磐启微100%股权",
+      "event_date": "2025-09-01",
+      "content": "公司拟通过发行股份及支付现金的方式向 STYLISH、上海芯闪、上海颂池等 26 名交易对方购买其合计持有的磐启微100%股权，并募集配套资金。磐启微与泰凌微同属于低功耗无线物联网芯片设计领域企业，双方在业务上具有较高的协同性。通过本次交易，公司有望打造一个覆盖近场、远场的超低功耗全场景的物联网无线连接平台，扩充全栈式无线物联网解决方案，显著增强市场综合竞争力。经公司申请，股票将于2025年9月1日（星期一）开市起复牌。",
+      "importance": 1,
+      "country": "中国",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
       "concepts": []
     },
     {

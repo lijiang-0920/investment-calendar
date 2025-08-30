@@ -1,6 +1,6 @@
 {
   "collection_type": "ACTIVE",
-  "collection_time": "2025-08-30T11:38:41.222950",
+  "collection_time": "2025-08-30T11:51:39.444684",
   "platforms": {
     "cls": {
       "event_count": 85,
@@ -10,7 +10,7 @@
       }
     },
     "jiuyangongshe": {
-      "event_count": 44,
+      "event_count": 45,
       "date_range": {
         "start": "2025-08-30",
         "end": "2025-12-28"
@@ -38,7 +38,7 @@
       }
     }
   },
-  "total_events": 1432,
+  "total_events": 1433,
   "date_range": {
     "start": "2025-08-30",
     "end": "2025-12-31"
