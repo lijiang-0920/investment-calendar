@@ -1,0 +1,50 @@
+name: 每日数据更新
+
+on:
+  schedule:
+    # 北京时间晚上8点 (UTC+8)，对应 UTC 时间 12:00
+    - cron: '0 12 * * *'
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # 获取完整历史记录
+      
+      - name: 设置 Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          
+      - name: 安装依赖
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      
+      - name: 运行日常数据更新
+        run: |
+          python daily_calendar.py --daily --export
+      
+      - name: 配置 Git
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+      
+      - name: 提交更新的数据
+        run: |
+          git add docs/data/
+          git add data/active/
+          git add data/archived/
+          # 如果有变更则提交
+          if git diff --staged --quiet; then
+            echo "没有数据变更，跳过提交"
+          else
+            git commit -m "自动更新数据: $(date +'%Y-%m-%d')"
+            git push
+          fi
