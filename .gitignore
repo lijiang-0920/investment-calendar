@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# IDE & OS  
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 原始数据文件（Python内部使用，不需要公开）
+data/active/current/*.txt
+!data/active/current/metadata.txt
+data/active/previous/*.txt
+data/archived/**/*.txt
+
+# 保留web数据供网页访问（这是网页的数据接口！）
+# data/web/ 目录下的所有.json文件都会被提交
+
+# 临时文件
+*.tmp
+deployment_status.txt
