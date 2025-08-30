@@ -608,5 +608,19 @@ footer a:hover {
         gap: 5px;
     }
 }
+/* 历史日期和事件样式 */
+.past-date {
+    background-color: #f9f9f9;
+}
+
+.past-event {
+    opacity: 0.8;
+    background-color: #f0f0f0;
+    border-left-color: #999;
+}
+
+.past-event .calendar-event-time {
+    color: #999;
+}
 
     
