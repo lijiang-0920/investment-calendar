@@ -2,9 +2,11 @@ name: Daily Investment Calendar Update
 
 on:
   schedule:
-    # 每天北京时间 6:00 (UTC 22:00) 执行
     - cron: '0 22 * * *'
-  workflow_dispatch: # 允许手动触发
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-data:
@@ -14,7 +16,6 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        fetch-depth: 0
         token: ${{ secrets.GITHUB_TOKEN }}
     
     - name: Set up Python
@@ -29,35 +30,27 @@ jobs:
     - name: Ensure directory structure
       run: |
         mkdir -p data/web
-        ls -la data/
-        echo "📁 检查data目录结构："
-        find data/ -type f -name "*.txt" | head -10
+        echo "📁 当前目录结构："
+        ls -la
     
     - name: Check current data status
       id: check_data
       run: |
         echo "🔍 检查当前数据状态..."
         
-        # 检查current目录中的平台文件
         current_count=0
         for platform in cls jiuyangongshe tonghuashun investing eastmoney; do
           file_path="data/active/current/${platform}.txt"
           if [ -f "$file_path" ] && [ -s "$file_path" ]; then
             current_count=$((current_count + 1))
-            echo "✅ 发现 ${platform}.txt ($(stat -c%s "$file_path") bytes)"
+            echo "✅ 发现 ${platform}.txt"
           else
-            echo "❌ 缺少或为空: ${platform}.txt"
+            echo "❌ 缺少: ${platform}.txt"
           fi
         done
         
-        # 检查历史数据
-        archived_count=$(find data/archived -name "*.txt" 2>/dev/null | wc -l)
+        echo "📊 当前数据文件: $current_count/5"
         
-        echo "📊 数据统计:"
-        echo "  - 当前数据文件: $current_count/5"
-        echo "  - 历史数据文件: $archived_count"
-        
-        # 决定运行模式
         if [ $current_count -ge 3 ]; then
           echo "run_mode=daily" >> $GITHUB_OUTPUT
           echo "🔄 使用日常更新模式"
@@ -68,7 +61,6 @@ jobs:
     
     - name: Run investment calendar
       run: |
-        # 不要cd到scripts目录，在根目录运行
         mode="${{ steps.check_data.outputs.run_mode }}"
         echo "🚀 执行模式: $mode"
         
@@ -90,7 +82,6 @@ jobs:
         
         echo "📊 Web数据生成结果:"
         ls -la data/web/ || echo "Web目录不存在"
-
     
     - name: Configure Git
       run: |
@@ -101,40 +92,27 @@ jobs:
       run: |
         echo "📝 准备提交更改..."
         
-        # 添加web数据（这是网页必需的）
+        # 添加web数据文件
         git add data/web/
         
-        # 添加元数据
+        # 添加元数据文件
         git add data/active/current/metadata.txt 2>/dev/null || echo "无元数据文件"
         
-        # 检查变更
+        # 检查是否有变更
         if [ -n "$(git status --porcelain)" ]; then
           echo "📊 发现以下变更:"
           git status --porcelain
           
           git commit -m "📊 Daily data update - $(date +'%Y-%m-%d %H:%M:%S')"
           git push
-          echo "✅ 变更已提交并推送"
+          echo "✅ 变更已提交并推送到main分支"
+          echo "🌐 GitHub Pages将自动部署更新"
         else
           echo "ℹ️ 没有需要提交的变更"
         fi
     
-    - name: Deployment summary
+    - name: Deployment info
       run: |
-        echo "🎉 部署完成!"
-        echo "📊 最终状态:"
-        echo "  - 运行模式: ${{ steps.check_data.outputs.run_mode }}"
-        echo "  - Web数据: $(ls data/web/*.json 2>/dev/null | wc -l) 个JSON文件"
-        echo "  - 网站地址: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
-
-  deploy:
-    needs: update-data
-    runs-on: ubuntu-latest
-    
-    steps:
-    - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./
-        exclude_assets: 'scripts/**,.github/**'
+        echo "🎉 数据更新完成！"
+        echo "🌐 网站将在几分钟内自动更新"
+        echo "📍 访问地
