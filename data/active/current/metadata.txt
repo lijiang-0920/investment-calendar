@@ -1,6 +1,6 @@
 {
   "collection_type": "ACTIVE",
-  "collection_time": "2025-08-30T14:22:17.688104",
+  "collection_time": "2025-08-30T22:07:41.393543",
   "platforms": {
     "cls": {
       "event_count": 85,
@@ -24,7 +24,7 @@
       }
     },
     "investing": {
-      "event_count": 678,
+      "event_count": 683,
       "date_range": {
         "start": "2025-08-30",
         "end": "2025-12-19"
@@ -38,7 +38,7 @@
       }
     }
   },
-  "total_events": 1442,
+  "total_events": 1447,
   "date_range": {
     "start": "2025-08-27",
     "end": "2025-12-31"
