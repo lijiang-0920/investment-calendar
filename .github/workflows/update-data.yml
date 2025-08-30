@@ -87,167 +87,173 @@ jobs:
         echo "📄 Current目录文件大小:"
         du -h data/active/current/*.txt 2>/dev/null || echo "无txt文件"
     
+    - name: Create data converter script
+      run: |
+        cat > convert_data.py << 'EOF'
+        import json
+        import os
+        import glob
+        from datetime import datetime
+
+        def convert_platform_data(platform):
+            source_file = f'data/active/current/{platform}.txt'
+            target_file = f'data/web/{platform}.json'
+            
+            if not os.path.exists(source_file):
+                print(f'⚠️ {platform} 源文件不存在')
+                return False
+            
+            try:
+                with open(source_file, 'r', encoding='utf-8') as f:
+                    data = json.loads(f.read())
+                
+                platform_names = {
+                    'cls': '财联社',
+                    'jiuyangongshe': '韭研公社', 
+                    'tonghuashun': '同花顺',
+                    'investing': '英为财情',
+                    'eastmoney': '东方财富'
+                }
+                
+                web_data = {
+                    'platform': platform,
+                    'platform_name': platform_names.get(platform, platform),
+                    'data_type': 'ACTIVE',
+                    'total_events': data.get('total_events', 0),
+                    'last_updated': data.get('last_updated', datetime.now().isoformat()),
+                    'events': []
+                }
+                
+                for event_data in data.get('events', []):
+                    web_event = {
+                        'id': event_data.get('event_id', ''),
+                        'platform': event_data.get('platform', ''),
+                        'title': event_data.get('title', ''),
+                        'event_date': event_data.get('event_date', ''),
+                        'event_time': event_data.get('event_time'),
+                        'event_datetime': event_data.get('event_datetime'),
+                        'content': event_data.get('content'),
+                        'category': event_data.get('category'),
+                        'importance': event_data.get('importance', 1),
+                        'country': event_data.get('country'),
+                        'city': event_data.get('city'),
+                        'is_new': event_data.get('is_new', False),
+                        'discovery_date': event_data.get('discovery_date'),
+                        'data_status': event_data.get('data_status', 'ACTIVE'),
+                        'stocks': event_data.get('stocks', []),
+                        'themes': event_data.get('themes', []),
+                        'concepts': event_data.get('concepts', [])
+                    }
+                    web_data['events'].append({k: v for k, v in web_event.items() if v is not None})
+                
+                with open(target_file, 'w', encoding='utf-8') as f:
+                    json.dump(web_data, f, ensure_ascii=False, indent=2)
+                
+                print(f'✅ {platform} 转换完成: {len(web_data["events"])} 个事件')
+                return True
+                
+            except Exception as e:
+                print(f'❌ {platform} 转换失败: {e}')
+                return False
+
+        def main():
+            platforms = ['cls', 'jiuyangongshe', 'tonghuashun', 'investing', 'eastmoney']
+            platform_names = {
+                'cls': '财联社',
+                'jiuyangongshe': '韭研公社', 
+                'tonghuashun': '同花顺',
+                'investing': '英为财情',
+                'eastmoney': '东方财富'
+            }
+            
+            converted = 0
+            
+            for platform in platforms:
+                if convert_platform_data(platform):
+                    converted += 1
+            
+            # 生成元数据
+            metadata = {
+                'last_updated': datetime.now().isoformat(),
+                'total_events': 0,
+                'platforms': {},
+                'has_historical_data': os.path.exists('data/archived')
+            }
+            
+            for platform in platforms:
+                json_file = f'data/web/{platform}.json'
+                if os.path.exists(json_file):
+                    try:
+                        with open(json_file, 'r', encoding='utf-8') as f:
+                            data = json.loads(f.read())
+                            event_count = data.get('total_events', 0)
+                            metadata['total_events'] += event_count
+                            metadata['platforms'][platform] = {
+                                'name': data.get('platform_name', platform),
+                                'event_count': event_count
+                            }
+                    except Exception as e:
+                        print(f'❌ 读取{platform}元数据失败: {e}')
+            
+            with open('data/web/metadata.json', 'w', encoding='utf-8') as f:
+                json.dump(metadata, f, ensure_ascii=False, indent=2)
+            
+            print(f'🎉 转换完成! 成功转换 {converted} 个平台，总计 {metadata["total_events"]} 个事件')
+            
+            # 处理变更报告
+            change_files = glob.glob('data/active/current/change_report_*.txt')
+            for change_file in change_files:
+                try:
+                    with open(change_file, 'r', encoding='utf-8') as f:
+                        change_data = json.loads(f.read())
+                    
+                    web_change_data = {
+                        'detection_time': change_data.get('detection_time'),
+                        'summary': change_data.get('summary', {}),
+                        'platforms': {},
+                        'top_new_events': []
+                    }
+                    
+                    for platform, changes in change_data.get('platforms', {}).items():
+                        web_change_data['platforms'][platform] = {
+                            'name': platform_names.get(platform, platform),
+                            'new_events': changes.get('new_events', 0),
+                            'updated_events': changes.get('updated_events', 0),
+                            'cancelled_events': changes.get('cancelled_events', 0),
+                            'sample_new_titles': changes.get('sample_new_titles', [])
+                        }
+                    
+                    for event in change_data.get('top_new_events', []):
+                        web_event = {
+                            'platform': event.get('platform'),
+                            'platform_name': platform_names.get(event.get('platform', ''), event.get('platform', '')),
+                            'date': event.get('date'),
+                            'title': event.get('title'),
+                            'importance': event.get('importance'),
+                            'country': event.get('country')
+                        }
+                        web_change_data['top_new_events'].append(web_event)
+                    
+                    change_filename = os.path.basename(change_file).replace('.txt', '.json')
+                    with open(f'data/web/{change_filename}', 'w', encoding='utf-8') as f:
+                        json.dump(web_change_data, f, ensure_ascii=False, indent=2)
+                    
+                    print(f'✅ 变更报告转换完成: {change_filename}')
+                    
+                except Exception as e:
+                    print(f'❌ 变更报告转换失败: {e}')
+            
+            print('📊 所有数据转换完成')
+
+        if __name__ == '__main__':
+            main()
+        EOF
+    
     - name: Convert data for web
       run: |
         echo "🔄 转换数据为Web格式..."
-        
-        # 创建web目录
         mkdir -p data/web
-        
-        # 使用Python直接转换数据
-        python3 -c "
-import json
-import os
-from datetime import datetime
-
-def convert_platform_data(platform):
-    source_file = f'data/active/current/{platform}.txt'
-    target_file = f'data/web/{platform}.json'
-    
-    if not os.path.exists(source_file):
-        print(f'⚠️ {platform} 源文件不存在')
-        return False
-    
-    try:
-        with open(source_file, 'r', encoding='utf-8') as f:
-            data = json.loads(f.read())
-        
-        # 转换为Web格式
-        platform_names = {
-            'cls': '财联社',
-            'jiuyangongshe': '韭研公社', 
-            'tonghuashun': '同花顺',
-            'investing': '英为财情',
-            'eastmoney': '东方财富'
-        }
-        
-        web_data = {
-            'platform': platform,
-            'platform_name': platform_names.get(platform, platform),
-            'data_type': 'ACTIVE',
-            'total_events': data.get('total_events', 0),
-            'last_updated': data.get('last_updated', datetime.now().isoformat()),
-            'events': []
-        }
-        
-        for event_data in data.get('events', []):
-            web_event = {
-                'id': event_data.get('event_id', ''),
-                'platform': event_data.get('platform', ''),
-                'title': event_data.get('title', ''),
-                'event_date': event_data.get('event_date', ''),
-                'event_time': event_data.get('event_time'),
-                'event_datetime': event_data.get('event_datetime'),
-                'content': event_data.get('content'),
-                'category': event_data.get('category'),
-                'importance': event_data.get('importance', 1),
-                'country': event_data.get('country'),
-                'city': event_data.get('city'),
-                'is_new': event_data.get('is_new', False),
-                'discovery_date': event_data.get('discovery_date'),
-                'data_status': event_data.get('data_status', 'ACTIVE'),
-                'stocks': event_data.get('stocks', []),
-                'themes': event_data.get('themes', []),
-                'concepts': event_data.get('concepts', [])
-            }
-            web_data['events'].append({k: v for k, v in web_event.items() if v is not None})
-        
-        with open(target_file, 'w', encoding='utf-8') as f:
-            json.dump(web_data, f, ensure_ascii=False, indent=2)
-        
-        print(f'✅ {platform} 转换完成: {len(web_data[\"events\"])} 个事件')
-        return True
-        
-    except Exception as e:
-        print(f'❌ {platform} 转换失败: {e}')
-        return False
-
-# 转换所有平台
-platforms = ['cls', 'jiuyangongshe', 'tonghuashun', 'investing', 'eastmoney']
-converted = 0
-total_events = 0
-
-for platform in platforms:
-    if convert_platform_data(platform):
-        converted += 1
-
-# 生成元数据
-metadata = {
-    'last_updated': datetime.now().isoformat(),
-    'total_events': 0,
-    'platforms': {},
-    'has_historical_data': os.path.exists('data/archived')
-}
-
-for platform in platforms:
-    json_file = f'data/web/{platform}.json'
-    if os.path.exists(json_file):
-        try:
-            with open(json_file, 'r', encoding='utf-8') as f:
-                data = json.loads(f.read())
-                event_count = data.get('total_events', 0)
-                metadata['total_events'] += event_count
-                metadata['platforms'][platform] = {
-                    'name': data.get('platform_name', platform),
-                    'event_count': event_count
-                }
-        except Exception as e:
-            print(f'❌ 读取{platform}元数据失败: {e}')
-
-# 保存元数据
-with open('data/web/metadata.json', 'w', encoding='utf-8') as f:
-    json.dump(metadata, f, ensure_ascii=False, indent=2)
-
-print(f'🎉 转换完成! 成功转换 {converted} 个平台，总计 {metadata[\"total_events\"]} 个事件')
-
-# 处理变更报告
-import glob
-change_files = glob.glob('data/active/current/change_report_*.txt')
-for change_file in change_files:
-    try:
-        with open(change_file, 'r', encoding='utf-8') as f:
-            change_data = json.loads(f.read())
-        
-        # 转换变更报告为Web格式
-        web_change_data = {
-            'detection_time': change_data.get('detection_time'),
-            'summary': change_data.get('summary', {}),
-            'platforms': {},
-            'top_new_events': []
-        }
-        
-        for platform, changes in change_data.get('platforms', {}).items():
-            web_change_data['platforms'][platform] = {
-                'name': platform_names.get(platform, platform),
-                'new_events': changes.get('new_events', 0),
-                'updated_events': changes.get('updated_events', 0),
-                'cancelled_events': changes.get('cancelled_events', 0),
-                'sample_new_titles': changes.get('sample_new_titles', [])
-            }
-        
-        for event in change_data.get('top_new_events', []):
-            web_event = {
-                'platform': event.get('platform'),
-                'platform_name': platform_names.get(event.get('platform', ''), event.get('platform', '')),
-                'date': event.get('date'),
-                'title': event.get('title'),
-                'importance': event.get('importance'),
-                'country': event.get('country')
-            }
-            web_change_data['top_new_events'].append(web_event)
-        
-        # 保存变更报告
-        change_filename = os.path.basename(change_file).replace('.txt', '.json')
-        with open(f'data/web/{change_filename}', 'w', encoding='utf-8') as f:
-            json.dump(web_change_data, f, ensure_ascii=False, indent=2)
-        
-        print(f'✅ 变更报告转换完成: {change_filename}')
-        
-    except Exception as e:
-        print(f'❌ 变更报告转换失败: {e}')
-
-print('📊 所有数据转换完成')
-"
+        python3 convert_data.py
         
         echo "📊 Web数据生成结果:"
         ls -la data/web/ || echo "Web目录不存在"
@@ -302,14 +308,14 @@ print('📊 所有数据转换完成')
         if [ -f "data/web/metadata.json" ]; then
           echo "📈 数据统计:"
           python3 -c "
-import json
-try:
-    with open('data/web/metadata.json', 'r') as f:
-        metadata = json.load(f)
-    print(f'  - 总事件数: {metadata.get(\"total_events\", 0)}')
-    print(f'  - 活跃平台: {len(metadata.get(\"platforms\", {}))}')
-    print(f'  - 最后更新: {metadata.get(\"last_updated\", \"未知\")}')
-except:
-    print('  - 无法读取元数据')
-"
+        import json
+        try:
+            with open('data/web/metadata.json', 'r') as f:
+                metadata = json.load(f)
+            print(f'  - 总事件数: {metadata.get(\"total_events\", 0)}')
+            print(f'  - 活跃平台: {len(metadata.get(\"platforms\", {}))}')
+            print(f'  - 最后更新: {metadata.get(\"last_updated\", \"未知\")}')
+        except:
+            print('  - 无法读取元数据')
+        "
         fi
