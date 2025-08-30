@@ -9,6 +9,8 @@ on:
 jobs:
   update-data:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 确保有写入权限
     
     steps:
       - name: 检出代码
@@ -27,9 +29,23 @@ jobs:
           pip install requests beautifulsoup4
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       
+      - name: 确保目录结构存在
+        run: |
+          mkdir -p data/active/current
+          mkdir -p data/active/previous
+          mkdir -p data/archived
+          mkdir -p docs/data
+      
       - name: 运行日常数据更新
         run: |
-          python daily_calendar.py --daily --export
+          # 检查是否首次运行
+          if [ -f "data/active/current/metadata.txt" ]; then
+            echo "执行日常更新模式..."
+            python daily_calendar.py --daily --export
+          else
+            echo "执行首次运行模式..."
+            python daily_calendar.py --first-run --export
+          fi
       
       - name: 配置 Git
         run: |
@@ -38,10 +54,11 @@ jobs:
       
       - name: 提交更新的数据
         run: |
+          # 添加所有更改
           git add docs/data/
-          git add data/active/
-          git add data/archived/
-          # 如果有变更则提交
+          git add data/
+          
+          # 检查是否有变更
           if git diff --staged --quiet; then
             echo "没有数据变更，跳过提交"
           else
