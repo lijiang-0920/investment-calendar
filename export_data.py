@@ -187,17 +187,21 @@ def export_latest_events(export_dir, today):
     print(f"   📅 最新事件已导出 (新增: {len(all_new_events)}, 今日: {len(today_events)})")
 
 def export_calendar_data(export_dir, today):
-    """导出日历数据"""
+    """导出日历数据 - 包含历史和未来数据"""
     current_path = "./data/active/current"
+    archived_path = "./data/archived"
     platforms = ['cls', 'jiuyangongshe', 'tonghuashun', 'investing', 'eastmoney']
     
-    # 计算导出范围：今天开始的30天
-    start_date = today
+    # 计算导出范围：过去30天到未来30天
+    start_date = (datetime.strptime(today, '%Y-%m-%d') - timedelta(days=30)).strftime('%Y-%m-%d')
     end_date = (datetime.strptime(today, '%Y-%m-%d') + timedelta(days=30)).strftime('%Y-%m-%d')
+    
+    print(f"   🗓️ 导出日历数据范围: {start_date} 至 {end_date}")
     
     # 按日期组织事件
     calendar_data = {}
     
+    # 1. 从当前活跃数据加载事件
     for platform in platforms:
         events = load_platform_data(platform, current_path)
         
@@ -220,6 +224,56 @@ def export_calendar_data(export_dir, today):
                 
                 calendar_data[event.event_date].append(simplified_event)
     
+    # 2. 从归档数据加载历史事件
+    try:
+        # 获取相关的年月
+        start_dt = datetime.strptime(start_date, '%Y-%m-%d')
+        end_dt = datetime.strptime(end_date, '%Y-%m-%d')
+        
+        current_dt = start_dt
+        while current_dt <= end_dt:
+            year, month = current_dt.year, current_dt.month
+            month_path = os.path.join(archived_path, str(year), f"{month:02d}月")
+            
+            if os.path.exists(month_path):
+                for platform in platforms:
+                    archive_events = load_platform_data(platform, month_path)
+                    
+                    for event in archive_events:
+                        if start_date <= event.event_date <= end_date:
+                            if event.event_date not in calendar_data:
+                                calendar_data[event.event_date] = []
+                            
+                            # 简化事件数据
+                            simplified_event = {
+                                'event_id': event.event_id,
+                                'platform': event.platform,
+                                'title': event.title,
+                                'event_time': event.event_time,
+                                'importance': event.importance,
+                                'category': event.category,
+                                'country': event.country,
+                                'is_new': False  # 归档数据不是新事件
+                            }
+                            
+                            # 检查是否已存在相同事件（避免重复）
+                            is_duplicate = False
+                            for existing_event in calendar_data[event.event_date]:
+                                if existing_event['event_id'] == simplified_event['event_id']:
+                                    is_duplicate = True
+                                    break
+                            
+                            if not is_duplicate:
+                                calendar_data[event.event_date].append(simplified_event)
+            
+            # 移动到下个月
+            if current_dt.month == 12:
+                current_dt = current_dt.replace(year=current_dt.year + 1, month=1)
+            else:
+                current_dt = current_dt.replace(month=current_dt.month + 1)
+    except Exception as e:
+        print(f"   ⚠️ 加载归档数据时出错: {e}")
+    
     # 对每天的事件按重要性排序
     for date, events in calendar_data.items():
         events.sort(key=lambda x: x.get('importance', 0) or 0, reverse=True)
@@ -228,6 +282,7 @@ def export_calendar_data(export_dir, today):
     export_data = {
         'start_date': start_date,
         'end_date': end_date,
+        'today': today,
         'days': calendar_data,
         'export_time': datetime.now().isoformat()
     }
@@ -239,6 +294,7 @@ def export_calendar_data(export_dir, today):
     # 统计总事件数
     total_events = sum(len(events) for events in calendar_data.values())
     print(f"   🗓️ 日历数据已导出 ({len(calendar_data)} 天, {total_events} 个事件)")
+
 
 def export_change_report(export_dir):
     """导出最新变更报告"""
