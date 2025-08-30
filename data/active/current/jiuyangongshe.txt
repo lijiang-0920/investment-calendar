@@ -1,0 +1,2117 @@
+{
+  "platform": "jiuyangongshe",
+  "total_events": 45,
+  "data_status": "ACTIVE",
+  "date_type": "FUTURE",
+  "last_updated": "2025-08-30T13:46:06.838453",
+  "immutable": false,
+  "events": [
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_f61d789f4cd34dfa82e999767cfee7e1_1b47bfd78285481e8101a3b9377d5c0f_20250830",
+      "original_id": "f61d789f4cd34dfa82e999767cfee7e1",
+      "event_date": "2025-08-30",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025鸿蒙生态大会",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [
+        "鸿蒙"
+      ],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "f61d789f4cd34dfa82e999767cfee7e1",
+        "user_id": "1",
+        "title": "2025鸿蒙生态大会",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "f61d789f4cd34dfa82e999767cfee7e1",
+          "timeline_id": "1b47bfd78285481e8101a3b9377d5c0f",
+          "date": "2025-08-30",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-20 23:38:04",
+          "theme_list": [
+            {
+              "timeline_theme_id": "73305189127d40b387c565e92505e39c",
+              "name": "鸿蒙"
+            }
+          ]
+        }
+      },
+      "created_at": "2025-08-30T13:45:33.970237"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_6a0376b38cc147bf96dd72a2f10195b9_d86b302f99f84411946bfa7ee30cc074_20250831",
+      "original_id": "6a0376b38cc147bf96dd72a2f10195b9",
+      "event_date": "2025-08-31",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "上海合作组织天津峰会",
+      "content": "上海合作组织天津峰会将于8月31日至9月1日举行",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "6a0376b38cc147bf96dd72a2f10195b9",
+        "user_id": "1",
+        "title": "上海合作组织天津峰会",
+        "content": "上海合作组织天津峰会将于8月31日至9月1日举行",
+        "like_count": 3,
+        "comment_count": 0,
+        "forward_count": 1,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "6a0376b38cc147bf96dd72a2f10195b9",
+          "timeline_id": "d86b302f99f84411946bfa7ee30cc074",
+          "date": "2025-08-31",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-07-15 20:43:56",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:33.970265"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_7109102f647e46859bdd9836fea1261d_a59e02b521754790aa764bee21151898_20250831",
+      "original_id": "7109102f647e46859bdd9836fea1261d",
+      "event_date": "2025-08-31",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "云鲸将发布新一代扫拖机器人",
+      "content": "云鲸将于8月31日发布新一代扫拖机器人。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "7109102f647e46859bdd9836fea1261d",
+        "user_id": "1",
+        "title": "云鲸将发布新一代扫拖机器人",
+        "content": "云鲸将于8月31日发布新一代扫拖机器人。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 2,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "7109102f647e46859bdd9836fea1261d",
+          "timeline_id": "a59e02b521754790aa764bee21151898",
+          "date": "2025-08-31",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-07-31 23:21:53",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:33.970278"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_78ffb2c5907248328960fbfdc4fcf20c_e0adb326c97f48088047afcbbf524839_20250901",
+      "original_id": "78ffb2c5907248328960fbfdc4fcf20c",
+      "event_date": "2025-09-01",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "最高法规定雇佣关系必须缴纳员工社保",
+      "content": "最高法规定9月1日起雇佣关系必须缴纳员工社保。",
+      "category": null,
+      "importance": 4,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "78ffb2c5907248328960fbfdc4fcf20c",
+        "user_id": "1",
+        "title": "最高法规定雇佣关系必须缴纳员工社保",
+        "content": "最高法规定9月1日起雇佣关系必须缴纳员工社保。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 7,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "78ffb2c5907248328960fbfdc4fcf20c",
+          "timeline_id": "e0adb326c97f48088047afcbbf524839",
+          "date": "2025-09-01",
+          "grade": 3,
+          "source": "2",
+          "create_time": "2025-08-11 23:00:30",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591022"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_bcfd19351d134132b7d19b1b24b97e33_a141d8cd13ce4923a4ceaa148ec15f07_20250901",
+      "original_id": "bcfd19351d134132b7d19b1b24b97e33",
+      "event_date": "2025-09-01",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "西藏自治区成立60周年",
+      "content": "",
+      "category": null,
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "bcfd19351d134132b7d19b1b24b97e33",
+        "user_id": "1",
+        "title": "西藏自治区成立60周年",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 1,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "bcfd19351d134132b7d19b1b24b97e33",
+          "timeline_id": "a141d8cd13ce4923a4ceaa148ec15f07",
+          "date": "2025-09-01",
+          "grade": 5,
+          "source": "2",
+          "create_time": "2025-08-11 23:02:23",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591051"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_ec81fb335d044dddb36b7aac367174d0_a058c1adf76b466c947d1c09aeb9186a_20250901",
+      "original_id": "ec81fb335d044dddb36b7aac367174d0",
+      "event_date": "2025-09-01",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025第二十三届中国国际装备制造业博览会",
+      "content": "2025第二十三届中国国际装备制造业博览会将于9月1-4日在沈阳举行。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "ec81fb335d044dddb36b7aac367174d0",
+        "user_id": "1",
+        "title": "2025第二十三届中国国际装备制造业博览会",
+        "content": "2025第二十三届中国国际装备制造业博览会将于9月1-4日在沈阳举行。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "ec81fb335d044dddb36b7aac367174d0",
+          "timeline_id": "a058c1adf76b466c947d1c09aeb9186a",
+          "date": "2025-09-01",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-11 23:01:21",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591064"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_4d5673967e4c4f26a059055812e2013a_0a07f9ba183d4dfb86417d165dd7a9c8_20250901",
+      "original_id": "4d5673967e4c4f26a059055812e2013a",
+      "event_date": "2025-09-01",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "《人工智能生成合成内容标识办法》施行",
+      "content": "国家网信办等四部门印发《人工智能生成合成内容标识办法》自2025年9月1日起施行。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [
+        "人工智能"
+      ],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "4d5673967e4c4f26a059055812e2013a",
+        "user_id": "1",
+        "title": "《人工智能生成合成内容标识办法》施行",
+        "content": "国家网信办等四部门印发《人工智能生成合成内容标识办法》自2025年9月1日起施行。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "4d5673967e4c4f26a059055812e2013a",
+          "timeline_id": "0a07f9ba183d4dfb86417d165dd7a9c8",
+          "date": "2025-09-01",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-15 01:10:47",
+          "theme_list": [
+            {
+              "timeline_theme_id": "ec81b5576a9d46d0a0aa67e63149b8dd",
+              "name": "人工智能"
+            }
+          ]
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591075"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_25594e09040749ccbfa9902386f1662f_27b05cec525e45aa84c1c5b3f25c3bd0_20250901",
+      "original_id": "25594e09040749ccbfa9902386f1662f",
+      "event_date": "2025-09-01",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "广东《关于人工智能与机器人产业创新发展有关资金管理实施细则》实施",
+      "content": "广东发布《关于人工智能与机器人产业创新发展有关资金管理实施细则》，单个项目最高可获5000万元奖补。该实施细则自2025年9月1日起实施，有效期至2027年底。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "25594e09040749ccbfa9902386f1662f",
+        "user_id": "1",
+        "title": "广东《关于人工智能与机器人产业创新发展有关资金管理实施细则》实施",
+        "content": "广东发布《关于人工智能与机器人产业创新发展有关资金管理实施细则》，单个项目最高可获5000万元奖补。该实施细则自2025年9月1日起实施，有效期至2027年底。",
+        "like_count": 2,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "25594e09040749ccbfa9902386f1662f",
+          "timeline_id": "27b05cec525e45aa84c1c5b3f25c3bd0",
+          "date": "2025-09-01",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-20 23:39:42",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591085"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_bdf5e78c764a4457b14d38638322da22_0334be7b5d314f2a93f77f5df62513c9_20250901",
+      "original_id": "bdf5e78c764a4457b14d38638322da22",
+      "event_date": "2025-09-01",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "《上海关于深入推进生态文明建设 打造美丽中国上海典范的决定》施行",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "bdf5e78c764a4457b14d38638322da22",
+        "user_id": "1",
+        "title": "《上海关于深入推进生态文明建设 打造美丽中国上海典范的决定》施行",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "bdf5e78c764a4457b14d38638322da22",
+          "timeline_id": "0334be7b5d314f2a93f77f5df62513c9",
+          "date": "2025-09-01",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-20 23:40:01",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591095"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_21b18adf0eb6487a8278b83d8dc6cfa4_2831518d3b5e4f51a2e22d340f1bf3e9_20250901",
+      "original_id": "21b18adf0eb6487a8278b83d8dc6cfa4",
+      "event_date": "2025-09-01",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "泰凌微拟收购磐启微100%股权",
+      "content": "公司拟通过发行股份及支付现金的方式向 STYLISH、上海芯闪、上海颂池等 26 名交易对方购买其合计持有的磐启微100%股权，并募集配套资金。磐启微与泰凌微同属于低功耗无线物联网芯片设计领域企业，双方在业务上具有较高的协同性。通过本次交易，公司有望打造一个覆盖近场、远场的超低功耗全场景的物联网无线连接平台，扩充全栈式无线物联网解决方案，显著增强市场综合竞争力。经公司申请，股票将于2025年9月1日（星期一）开市起复牌。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [
+        "复牌"
+      ],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "21b18adf0eb6487a8278b83d8dc6cfa4",
+        "user_id": "1",
+        "title": "泰凌微拟收购磐启微100%股权",
+        "content": "公司拟通过发行股份及支付现金的方式向 STYLISH、上海芯闪、上海颂池等 26 名交易对方购买其合计持有的磐启微100%股权，并募集配套资金。磐启微与泰凌微同属于低功耗无线物联网芯片设计领域企业，双方在业务上具有较高的协同性。通过本次交易，公司有望打造一个覆盖近场、远场的超低功耗全场景的物联网无线连接平台，扩充全栈式无线物联网解决方案，显著增强市场综合竞争力。经公司申请，股票将于2025年9月1日（星期一）开市起复牌。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "21b18adf0eb6487a8278b83d8dc6cfa4",
+          "timeline_id": "2831518d3b5e4f51a2e22d340f1bf3e9",
+          "date": "2025-09-01",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-30 19:47:52",
+          "theme_list": [
+            {
+              "timeline_theme_id": "8b08fab7282e4514a0d87c95f5eea703",
+              "name": "复牌"
+            }
+          ]
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591105"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_9e34d547ac9c41ac9f8604087c69816b_f165e62c86a24318bc3b355d3f03b138_20250902",
+      "original_id": "9e34d547ac9c41ac9f8604087c69816b",
+      "event_date": "2025-09-02",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025全球氢能投资峰会",
+      "content": "2025全球氢能投资峰会将于9月2日至3日在伦敦举行，",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "9e34d547ac9c41ac9f8604087c69816b",
+        "user_id": "1",
+        "title": "2025全球氢能投资峰会",
+        "content": "2025全球氢能投资峰会将于9月2日至3日在伦敦举行，",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "9e34d547ac9c41ac9f8604087c69816b",
+          "timeline_id": "f165e62c86a24318bc3b355d3f03b138",
+          "date": "2025-09-02",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-15 01:10:14",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591115"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_d915c76d69ad447491ec5ef2ba771920_650e2c1c18a84ccfb1832565d832509d_20250903",
+      "original_id": "d915c76d69ad447491ec5ef2ba771920",
+      "event_date": "2025-09-03",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "北京天安门广场将举行阅兵",
+      "content": "",
+      "category": null,
+      "importance": 4,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [
+        "军工"
+      ],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "d915c76d69ad447491ec5ef2ba771920",
+        "user_id": "1",
+        "title": "北京天安门广场将举行阅兵",
+        "content": "",
+        "like_count": 1,
+        "comment_count": 2,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "d915c76d69ad447491ec5ef2ba771920",
+          "timeline_id": "650e2c1c18a84ccfb1832565d832509d",
+          "date": "2025-09-03",
+          "grade": 3,
+          "source": "2",
+          "create_time": "2025-08-06 00:38:04",
+          "theme_list": [
+            {
+              "timeline_theme_id": "83efa2d8505043e4a33a466e6b5c53c1",
+              "name": "军工"
+            }
+          ]
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591125"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_9aa7f9d7aa8e4516946063d4368fb1a5_6602192dc4a4435196dbbcabb525288a_20250903",
+      "original_id": "9aa7f9d7aa8e4516946063d4368fb1a5",
+      "event_date": "2025-09-03",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "第10届东方经济论坛",
+      "content": "第10届东方经济论坛将于9月3-6日在符拉迪沃斯托克举行。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "9aa7f9d7aa8e4516946063d4368fb1a5",
+        "user_id": "1",
+        "title": "第10届东方经济论坛",
+        "content": "第10届东方经济论坛将于9月3-6日在符拉迪沃斯托克举行。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "9aa7f9d7aa8e4516946063d4368fb1a5",
+          "timeline_id": "6602192dc4a4435196dbbcabb525288a",
+          "date": "2025-09-03",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-06 00:37:14",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591134"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_f354ff995e5744c7b2e4b75dad7b3808_d46a9286eb964b71b2934ae0620fb857_20250904",
+      "original_id": "f354ff995e5744c7b2e4b75dad7b3808",
+      "event_date": "2025-09-04",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "第十三届半导体设备与核心部件及材料展",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "f354ff995e5744c7b2e4b75dad7b3808",
+        "user_id": "1",
+        "title": "第十三届半导体设备与核心部件及材料展",
+        "content": "",
+        "like_count": 1,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "f354ff995e5744c7b2e4b75dad7b3808",
+          "timeline_id": "d46a9286eb964b71b2934ae0620fb857",
+          "date": "2025-09-04",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-06 00:34:50",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591143"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_2c32fa796e704884ab049143a4d6dd92_affe0c226bcf45efa62f56265846de57_20250904",
+      "original_id": "2c32fa796e704884ab049143a4d6dd92",
+      "event_date": "2025-09-04",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025年中国钨钼产业发展论坛",
+      "content": "2025年中国钨钼产业发展论坛将于9月4-5日在苏州举行。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "2c32fa796e704884ab049143a4d6dd92",
+        "user_id": "1",
+        "title": "2025年中国钨钼产业发展论坛",
+        "content": "2025年中国钨钼产业发展论坛将于9月4-5日在苏州举行。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "2c32fa796e704884ab049143a4d6dd92",
+          "timeline_id": "affe0c226bcf45efa62f56265846de57",
+          "date": "2025-09-04",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-15 01:11:11",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591153"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_da317f34d57b4855bcd6763c5887990d_126621285bc74cc6b0db0532cdbb04d6_20250904",
+      "original_id": "da317f34d57b4855bcd6763c5887990d",
+      "event_date": "2025-09-04",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "全国各省市区水泥(建材)协会会长、秘书长联席会",
+      "content": "中国水泥协会最新通知，为确保雅下水电站水泥稳定有序供应全国各省市区水泥(建材)协会会长、秘书长联席会于9月4-5日在西藏自治区林芝市召开。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [
+        "雅下水电站"
+      ],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "da317f34d57b4855bcd6763c5887990d",
+        "user_id": "1",
+        "title": "全国各省市区水泥(建材)协会会长、秘书长联席会",
+        "content": "中国水泥协会最新通知，为确保雅下水电站水泥稳定有序供应全国各省市区水泥(建材)协会会长、秘书长联席会于9月4-5日在西藏自治区林芝市召开。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "da317f34d57b4855bcd6763c5887990d",
+          "timeline_id": "126621285bc74cc6b0db0532cdbb04d6",
+          "date": "2025-09-04",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-15 01:12:03",
+          "theme_list": [
+            {
+              "timeline_theme_id": "9c2b95d2bc284d1ba856894ccda0b7a9",
+              "name": "雅下水电站"
+            }
+          ]
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591162"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_8d16c42b2c8f4d8eb28d108a3df7286d_b532b08536844b159ec322bc772423de_20250904",
+      "original_id": "8d16c42b2c8f4d8eb28d108a3df7286d",
+      "event_date": "2025-09-04",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025(第十五届)航空工业大会暨(第四届)航空产业质量基础设施建设大会",
+      "content": "2025(第十五届)航空工业大会暨(第四届)航空产业质量基础设施建设大会将于9月4日至5日召开。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "8d16c42b2c8f4d8eb28d108a3df7286d",
+        "user_id": "1",
+        "title": "2025(第十五届)航空工业大会暨(第四届)航空产业质量基础设施建设大会",
+        "content": "2025(第十五届)航空工业大会暨(第四届)航空产业质量基础设施建设大会将于9月4日至5日召开。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "8d16c42b2c8f4d8eb28d108a3df7286d",
+          "timeline_id": "b532b08536844b159ec322bc772423de",
+          "date": "2025-09-04",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-18 23:55:05",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591171"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_10uhs5qk5t3_3b82f5d99a8e41499b107e979b54e5bc_20250904",
+      "original_id": "10uhs5qk5t3",
+      "event_date": "2025-09-04",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "华为mate XTs发布",
+      "content": "余承东官宣9/4日发布XTs，抢占市场先机",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "10uhs5qk5t3",
+        "user_id": "3658212e1fd443b593c8756c7305af1f",
+        "title": "华为mate XTs发布",
+        "content": "余承东官宣9/4日发布XTs，抢占市场先机",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "3658212e1fd443b593c8756c7305af1f",
+          "nickname": "干就一个字来干"
+        },
+        "timeline": {
+          "article_id": "10uhs5qk5t3",
+          "timeline_id": "3b82f5d99a8e41499b107e979b54e5bc",
+          "date": "2025-09-04",
+          "grade": 6,
+          "source": "1",
+          "create_time": "2025-08-27 15:28:25",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591180"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_52d89f51e4444792b58506f6e80aba76_c5f9a09d610c4029918ef9cbe08c1788_20250905",
+      "original_id": "52d89f51e4444792b58506f6e80aba76",
+      "event_date": "2025-09-05",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025低空经济发展大会",
+      "content": "9月5日-7日，“2025低空经济发展大会”将在芜湖市宜居国际博览中心举办。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [
+        "低空经济"
+      ],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "52d89f51e4444792b58506f6e80aba76",
+        "user_id": "1",
+        "title": "2025低空经济发展大会",
+        "content": "9月5日-7日，“2025低空经济发展大会”将在芜湖市宜居国际博览中心举办。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 1,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "52d89f51e4444792b58506f6e80aba76",
+          "timeline_id": "c5f9a09d610c4029918ef9cbe08c1788",
+          "date": "2025-09-05",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-06 00:36:54",
+          "theme_list": [
+            {
+              "timeline_theme_id": "bf041aa2b6524492a7ab6eeb7d7905b0",
+              "name": "低空经济"
+            }
+          ]
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591189"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_b5227df63a484f76982190dd5a728421_727b83e836b34ea6b4735a7657bb20b9_20250905",
+      "original_id": "b5227df63a484f76982190dd5a728421",
+      "event_date": "2025-09-05",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "巴蜀雄起杯四川省业余足球联赛",
+      "content": "2025年四川“三大球”城市联赛(足球项目)暨“巴蜀雄起杯”四川省业余足球联赛总决赛时间为9月5日至9月27日。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "b5227df63a484f76982190dd5a728421",
+        "user_id": "1",
+        "title": "巴蜀雄起杯四川省业余足球联赛",
+        "content": "2025年四川“三大球”城市联赛(足球项目)暨“巴蜀雄起杯”四川省业余足球联赛总决赛时间为9月5日至9月27日。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "b5227df63a484f76982190dd5a728421",
+          "timeline_id": "727b83e836b34ea6b4735a7657bb20b9",
+          "date": "2025-09-05",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-18 23:56:04",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591198"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_ec7aae6cbdb54f5391dde88dca30ab1f_3d87e2c1063d426dbcf7f051bfea90e4_20250905",
+      "original_id": "ec7aae6cbdb54f5391dde88dca30ab1f",
+      "event_date": "2025-09-05",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "“NVIDIA Al Factory 助力企业构建 AI 工厂”生态合作伙伴大会",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "ec7aae6cbdb54f5391dde88dca30ab1f",
+        "user_id": "1",
+        "title": "“NVIDIA Al Factory 助力企业构建 AI 工厂”生态合作伙伴大会",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "ec7aae6cbdb54f5391dde88dca30ab1f",
+          "timeline_id": "3d87e2c1063d426dbcf7f051bfea90e4",
+          "date": "2025-09-05",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-25 21:28:25",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591207"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_44f7b304b3054dceb0a2150eb34c52d2_6edc959f006442f5a51e0585072c8c18_20250906",
+      "original_id": "44f7b304b3054dceb0a2150eb34c52d2",
+      "event_date": "2025-09-06",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025年世界肺癌大会",
+      "content": "2025年世界肺癌大会(WCLC)将于9月6-9日公布，迪哲医药舒沃哲®和高瑞哲®多项研究成果入选。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [
+        "医药"
+      ],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "44f7b304b3054dceb0a2150eb34c52d2",
+        "user_id": "1",
+        "title": "2025年世界肺癌大会",
+        "content": "2025年世界肺癌大会(WCLC)将于9月6-9日公布，迪哲医药舒沃哲®和高瑞哲®多项研究成果入选。",
+        "like_count": 1,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "44f7b304b3054dceb0a2150eb34c52d2",
+          "timeline_id": "6edc959f006442f5a51e0585072c8c18",
+          "date": "2025-09-06",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-11 23:03:51",
+          "theme_list": [
+            {
+              "timeline_theme_id": "3c5d3918aa4c4d7f8ad93d411dbebccc",
+              "name": "医药"
+            }
+          ]
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591216"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_f20797b18a4248c49f221afc4395bd7c_59fcb8ca12d546faab323cf8a81263da_20250910",
+      "original_id": "f20797b18a4248c49f221afc4395bd7c",
+      "event_date": "2025-09-10",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025年中国硅业大会",
+      "content": "中国有色金属工业协会以“技术创新协同绿色转型、行业自律助力和谐发展”为主题，定于2025年9月10-12日在内蒙古自治区包头市召开“2025年中国硅业大会”。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "f20797b18a4248c49f221afc4395bd7c",
+        "user_id": "1",
+        "title": "2025年中国硅业大会",
+        "content": "中国有色金属工业协会以“技术创新协同绿色转型、行业自律助力和谐发展”为主题，定于2025年9月10-12日在内蒙古自治区包头市召开“2025年中国硅业大会”。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "f20797b18a4248c49f221afc4395bd7c",
+          "timeline_id": "59fcb8ca12d546faab323cf8a81263da",
+          "date": "2025-09-10",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-06 00:35:40",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591226"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_2db359f236fb491abf1f8c2c98ef2c8f_f15a756ab99c43ab959463370c570323_20250910",
+      "original_id": "2db359f236fb491abf1f8c2c98ef2c8f",
+      "event_date": "2025-09-10",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025年服贸会",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "2db359f236fb491abf1f8c2c98ef2c8f",
+        "user_id": "1",
+        "title": "2025年服贸会",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "2db359f236fb491abf1f8c2c98ef2c8f",
+          "timeline_id": "f15a756ab99c43ab959463370c570323",
+          "date": "2025-09-10",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-06 00:36:01",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591235"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_1h9np5wvxe8_e06fe2423a09438986ff45de032f11bd_20250910",
+      "original_id": "1h9np5wvxe8",
+      "event_date": "2025-09-10",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "第二十六届光电博览会",
+      "content": "第二十六届中国国际光电博览会（CIOE）将于2025年9月10-12日在深圳国际会展中心举办。作为全球光电全产业链旗舰展会，本届汇聚全球3800+企业，聚焦信息通信、精密光学、摄像头技术及应用、激光制造、红外紫外、智能传感、新型显示及AR/VR等八大前沿领域。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "1h9np5wvxe8",
+        "user_id": "00525773fe47467cac470afac1e73909",
+        "title": "第二十六届光电博览会",
+        "content": "第二十六届中国国际光电博览会（CIOE）将于2025年9月10-12日在深圳国际会展中心举办。作为全球光电全产业链旗舰展会，本届汇聚全球3800+企业，聚焦信息通信、精密光学、摄像头技术及应用、激光制造、红外紫外、智能传感、新型显示及AR/VR等八大前沿领域。",
+        "like_count": 2,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "00525773fe47467cac470afac1e73909",
+          "nickname": "无名小韭73650717"
+        },
+        "timeline": {
+          "article_id": "1h9np5wvxe8",
+          "timeline_id": "e06fe2423a09438986ff45de032f11bd",
+          "date": "2025-09-10",
+          "grade": 6,
+          "source": "1",
+          "create_time": "2025-08-10 11:28:09",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591244"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_fbc82778df0c476d8d7fb24ea83da0bd_e2686d185df44c1081298a415559e9db_20250910",
+      "original_id": "fbc82778df0c476d8d7fb24ea83da0bd",
+      "event_date": "2025-09-10",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "苹果旗舰手机ipone17系列将发布",
+      "content": "苹果秋季新品发布会，苹果旗舰手机ipone17系列将发布。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [
+        "苹果",
+        "消费电子"
+      ],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "fbc82778df0c476d8d7fb24ea83da0bd",
+        "user_id": "1",
+        "title": "苹果旗舰手机ipone17系列将发布",
+        "content": "苹果秋季新品发布会，苹果旗舰手机ipone17系列将发布。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "fbc82778df0c476d8d7fb24ea83da0bd",
+          "timeline_id": "e2686d185df44c1081298a415559e9db",
+          "date": "2025-09-10",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-11 23:04:55",
+          "theme_list": [
+            {
+              "timeline_theme_id": "2091a3888fae4ff7b42f386948c1e006",
+              "name": "苹果"
+            },
+            {
+              "timeline_theme_id": "b8d287a3014f441c888e98156b2067e3",
+              "name": "消费电子"
+            }
+          ]
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591253"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_4e9c55ca12d7493f8e35d596f9c2bc3e_0ff323061a114c1e856b8ad2e155c77a_20250912",
+      "original_id": "4e9c55ca12d7493f8e35d596f9c2bc3e",
+      "event_date": "2025-09-12",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025中国文化旅游产业博览会",
+      "content": "2025中国文化旅游产业博览会定于9月12日至14日在武汉国际博览中心举办。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "4e9c55ca12d7493f8e35d596f9c2bc3e",
+        "user_id": "1",
+        "title": "2025中国文化旅游产业博览会",
+        "content": "2025中国文化旅游产业博览会定于9月12日至14日在武汉国际博览中心举办。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "4e9c55ca12d7493f8e35d596f9c2bc3e",
+          "timeline_id": "0ff323061a114c1e856b8ad2e155c77a",
+          "date": "2025-09-12",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-15 01:12:24",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591262"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_67418d6f9fbb4807a23e647fa0fce377_7011efe390fe406a86b1c7492dc3cb5b_20250912",
+      "original_id": "67418d6f9fbb4807a23e647fa0fce377",
+      "event_date": "2025-09-12",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025中国文化旅游产业博览会",
+      "content": "2025中国文化旅游产业博览会定于9月12日至14日在武汉国际博览中心举办。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "67418d6f9fbb4807a23e647fa0fce377",
+        "user_id": "1",
+        "title": "2025中国文化旅游产业博览会",
+        "content": "2025中国文化旅游产业博览会定于9月12日至14日在武汉国际博览中心举办。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "67418d6f9fbb4807a23e647fa0fce377",
+          "timeline_id": "7011efe390fe406a86b1c7492dc3cb5b",
+          "date": "2025-09-12",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-18 23:56:41",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591271"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_d77c924898534f24be47ab318619ce2f_4dc7aac1aed54e59b8882f1f536be918_20250916",
+      "original_id": "d77c924898534f24be47ab318619ce2f",
+      "event_date": "2025-09-16",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025世界储能大会",
+      "content": "2025世界储能大会将于2025年9月16-18日在福建省宁德市召开。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "d77c924898534f24be47ab318619ce2f",
+        "user_id": "1",
+        "title": "2025世界储能大会",
+        "content": "2025世界储能大会将于2025年9月16-18日在福建省宁德市召开。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "d77c924898534f24be47ab318619ce2f",
+          "timeline_id": "4dc7aac1aed54e59b8882f1f536be918",
+          "date": "2025-09-16",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-11 23:05:38",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591280"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_88857e127c7043a7953fc083bc7b7a8b_e799c66f69ee45269615c9ba103c9266_20250916",
+      "original_id": "88857e127c7043a7953fc083bc7b7a8b",
+      "event_date": "2025-09-16",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "灭菌乳中明确禁止添加复原乳",
+      "content": "根据《食品安全国家标准灭菌乳》第1号修改单最新要求，灭菌乳中明确禁止添加复原乳，将于9月16日施行。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "88857e127c7043a7953fc083bc7b7a8b",
+        "user_id": "1",
+        "title": "灭菌乳中明确禁止添加复原乳",
+        "content": "根据《食品安全国家标准灭菌乳》第1号修改单最新要求，灭菌乳中明确禁止添加复原乳，将于9月16日施行。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "88857e127c7043a7953fc083bc7b7a8b",
+          "timeline_id": "e799c66f69ee45269615c9ba103c9266",
+          "date": "2025-09-16",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-11 23:06:03",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591289"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_93bd3d89ef514a09bb6eebc34f93110e_fdbcae5fc289481aa576ea454610481c_20250917",
+      "original_id": "93bd3d89ef514a09bb6eebc34f93110e",
+      "event_date": "2025-09-17",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "第22届中国一东盟博览会",
+      "content": "第22届中国一东盟博览会将于9月17-21日在广西南宁举办。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "93bd3d89ef514a09bb6eebc34f93110e",
+        "user_id": "1",
+        "title": "第22届中国一东盟博览会",
+        "content": "第22届中国一东盟博览会将于9月17-21日在广西南宁举办。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "93bd3d89ef514a09bb6eebc34f93110e",
+          "timeline_id": "fdbcae5fc289481aa576ea454610481c",
+          "date": "2025-09-17",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-11 23:07:01",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591299"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_jbqcqabdgy_2d511f458fc74fe79c8edb0e500a6d75_20250918",
+      "original_id": "jbqcqabdgy",
+      "event_date": "2025-09-18",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "华为全联接大会",
+      "content": "2025年9月18-20日，第十届华为全联接大会将在上海世博展览馆及世博中心举办。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "jbqcqabdgy",
+        "user_id": "00525773fe47467cac470afac1e73909",
+        "title": "华为全联接大会",
+        "content": "2025年9月18-20日，第十届华为全联接大会将在上海世博展览馆及世博中心举办。",
+        "like_count": 1,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "00525773fe47467cac470afac1e73909",
+          "nickname": "无名小韭73650717"
+        },
+        "timeline": {
+          "article_id": "jbqcqabdgy",
+          "timeline_id": "2d511f458fc74fe79c8edb0e500a6d75",
+          "date": "2025-09-18",
+          "grade": 6,
+          "source": "1",
+          "create_time": "2025-08-10 11:23:25",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591308"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_58d5f99214b941eab8e75c7669f9cb70_98d389cc3cff4623bff27e2ba1a0e3ee_20250918",
+      "original_id": "58d5f99214b941eab8e75c7669f9cb70",
+      "event_date": "2025-09-18",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "第十届中国国际氢能与燃料电池设备技术展览会",
+      "content": "第十届中国国际氢能与燃料电池设备技术展览会将于9月18-20日在北京举行。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "58d5f99214b941eab8e75c7669f9cb70",
+        "user_id": "1",
+        "title": "第十届中国国际氢能与燃料电池设备技术展览会",
+        "content": "第十届中国国际氢能与燃料电池设备技术展览会将于9月18-20日在北京举行。",
+        "like_count": 1,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "58d5f99214b941eab8e75c7669f9cb70",
+          "timeline_id": "98d389cc3cff4623bff27e2ba1a0e3ee",
+          "date": "2025-09-18",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-11 23:07:25",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591317"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_3579b2a1b29644299d211d5f83695d6e_1c08d229f8ce4997b00b747c920aa737_20250918",
+      "original_id": "3579b2a1b29644299d211d5f83695d6e",
+      "event_date": "2025-09-18",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "华为全联接大会",
+      "content": "华为全联接大会2025将于9月18日-20日在上海举行。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "3579b2a1b29644299d211d5f83695d6e",
+        "user_id": "1",
+        "title": "华为全联接大会",
+        "content": "华为全联接大会2025将于9月18日-20日在上海举行。",
+        "like_count": 2,
+        "comment_count": 0,
+        "forward_count": 1,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "3579b2a1b29644299d211d5f83695d6e",
+          "timeline_id": "1c08d229f8ce4997b00b747c920aa737",
+          "date": "2025-09-18",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-11 23:07:44",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591327"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_c2c04f1ecb804330971724af6ccaaa3d_41fc734fc7504a90a16aae8f1998be76_20250918",
+      "original_id": "c2c04f1ecb804330971724af6ccaaa3d",
+      "event_date": "2025-09-18",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025第六届广州军民两用技术装备展览会",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "c2c04f1ecb804330971724af6ccaaa3d",
+        "user_id": "1",
+        "title": "2025第六届广州军民两用技术装备展览会",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "c2c04f1ecb804330971724af6ccaaa3d",
+          "timeline_id": "41fc734fc7504a90a16aae8f1998be76",
+          "date": "2025-09-18",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-11 23:08:02",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591336"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_1h8lelz3qzv_c69239c35118439a8a14578bd73152a7_20250919",
+      "original_id": "1h8lelz3qzv",
+      "event_date": "2025-09-19",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "中日韩钢铁材料研讨会",
+      "content": "中日韩钢铁材料研讨会，于2025年9月19日至9月22日在河北省唐山市召开。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "1h8lelz3qzv",
+        "user_id": "6c42499113454e18854fe372c264fe61",
+        "title": "中日韩钢铁材料研讨会",
+        "content": "中日韩钢铁材料研讨会，于2025年9月19日至9月22日在河北省唐山市召开。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "6c42499113454e18854fe372c264fe61",
+          "nickname": "成功率90%"
+        },
+        "timeline": {
+          "article_id": "1h8lelz3qzv",
+          "timeline_id": "c69239c35118439a8a14578bd73152a7",
+          "date": "2025-09-19",
+          "grade": 6,
+          "source": "1",
+          "create_time": "2025-07-19 10:33:50",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591345"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_b171a1b98caa42bfa684956e82399102_8d75370932e74ca9acacb8c38970e038_20250919",
+      "original_id": "b171a1b98caa42bfa684956e82399102",
+      "event_date": "2025-09-19",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "华为全球新品发布会",
+      "content": "华为宣布将于9月19日在巴黎举办全球新品发布会。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "b171a1b98caa42bfa684956e82399102",
+        "user_id": "1",
+        "title": "华为全球新品发布会",
+        "content": "华为宣布将于9月19日在巴黎举办全球新品发布会。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "b171a1b98caa42bfa684956e82399102",
+          "timeline_id": "8d75370932e74ca9acacb8c38970e038",
+          "date": "2025-09-19",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-24 13:57:16",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591353"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_40b3978695bb48eb8f242e78be101f07_efac1ead3bf84d8993d1f9902606e9e5_20250920",
+      "original_id": "40b3978695bb48eb8f242e78be101f07",
+      "event_date": "2025-09-20",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "川超计划开幕",
+      "content": "川超计划于9月20日开幕，将一直持续到2026年7月结束。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "40b3978695bb48eb8f242e78be101f07",
+        "user_id": "1",
+        "title": "川超计划开幕",
+        "content": "川超计划于9月20日开幕，将一直持续到2026年7月结束。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "40b3978695bb48eb8f242e78be101f07",
+          "timeline_id": "efac1ead3bf84d8993d1f9902606e9e5",
+          "date": "2025-09-20",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-20 23:41:16",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591360"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_10tpmr15cfm_c8871318e675461b85c955e2a09c3d89_20250924",
+      "original_id": "10tpmr15cfm",
+      "event_date": "2025-09-24",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "上海国际电力元件、可再生能源管理展览会",
+      "content": "PCIM Asia 国际电力元件、可再生能源管理展览会是一场在亚洲领先的电力电子国际展览会及研讨会。PCIM Asia 作为一个涵盖组件、驱动控制、散热管理及终端智能系统的全方位展示平台，向业界人士呈现一条完整的产业价值链。来自电力电子、电动交通、国家电网、轨道交通、新能源发电（光伏、风能）等领域的买家齐聚一堂，参与这场年度电力电子盛会!",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "10tpmr15cfm",
+        "user_id": "00525773fe47467cac470afac1e73909",
+        "title": "上海国际电力元件、可再生能源管理展览会",
+        "content": "PCIM Asia 国际电力元件、可再生能源管理展览会是一场在亚洲领先的电力电子国际展览会及研讨会。PCIM Asia 作为一个涵盖组件、驱动控制、散热管理及终端智能系统的全方位展示平台，向业界人士呈现一条完整的产业价值链。来自电力电子、电动交通、国家电网、轨道交通、新能源发电（光伏、风能）等领域的买家齐聚一堂，参与这场年度电力电子盛会!",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "00525773fe47467cac470afac1e73909",
+          "nickname": "无名小韭73650717"
+        },
+        "timeline": {
+          "article_id": "10tpmr15cfm",
+          "timeline_id": "c8871318e675461b85c955e2a09c3d89",
+          "date": "2025-09-24",
+          "grade": 6,
+          "source": "1",
+          "create_time": "2025-08-10 13:03:25",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:35.591368"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_f3f4626b8e044b8dbf838ceada5ab2e4_785516386e33437098ebf4d670a9eddf_20251001",
+      "original_id": "f3f4626b8e044b8dbf838ceada5ab2e4",
+      "event_date": "2025-10-01",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "新疆维吾尔自治区成立70周年",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "f3f4626b8e044b8dbf838ceada5ab2e4",
+        "user_id": "1",
+        "title": "新疆维吾尔自治区成立70周年",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "f3f4626b8e044b8dbf838ceada5ab2e4",
+          "timeline_id": "785516386e33437098ebf4d670a9eddf",
+          "date": "2025-10-01",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-06-02 20:41:21",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:36.964723"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_0f054980a968431c94d5686cd894b41c_cf96a218dd1d472c9c6c26ec10ce2811_20251001",
+      "original_id": "0f054980a968431c94d5686cd894b41c",
+      "event_date": "2025-10-01",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "正式实施新的电商税收政策",
+      "content": "2025年10月1日起，我国将正式实施新的电商税收政策，其中对“投流税”（广告推广费用税收抵扣）的调整，将直接影响广大电商商家的运营成本。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [
+        "MCN"
+      ],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "0f054980a968431c94d5686cd894b41c",
+        "user_id": "1",
+        "title": "正式实施新的电商税收政策",
+        "content": "2025年10月1日起，我国将正式实施新的电商税收政策，其中对“投流税”（广告推广费用税收抵扣）的调整，将直接影响广大电商商家的运营成本。",
+        "like_count": 2,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "0f054980a968431c94d5686cd894b41c",
+          "timeline_id": "cf96a218dd1d472c9c6c26ec10ce2811",
+          "date": "2025-10-01",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-07-30 19:52:04",
+          "theme_list": [
+            {
+              "timeline_theme_id": "bcd841041c954d539834eeda9c699c84",
+              "name": "MCN"
+            }
+          ]
+        }
+      },
+      "created_at": "2025-08-30T13:45:36.964748"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_4e2wfmzg1nt_7071d9f22f2f4a759d5122a8a3c1a73f_20251016",
+      "original_id": "4e2wfmzg1nt",
+      "event_date": "2025-10-16",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025世界智能网联汽车大会",
+      "content": "14:59:32【2025世界智能网联汽车大会将于10月16-18日召开】财联社7月28日电，《科创板日报》记者获悉，2025世界智能网联汽车大会由工业和信息化部、交通运输部、北京市人民政府联合主办，将于2025年10月16日至18日在北京亦庄北人亦创国际会展中心召开。大会将聚焦自动驾驶、智能座舱、“车路云一体化”等重点领域，推动智能网联汽车与通信、交通、人工智能等关键领域融合发展。（记者 李明明）(来自财联社APP)",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "4e2wfmzg1nt",
+        "user_id": "c8cdb5523f5b48c6b1012644d365d7d5",
+        "title": "2025世界智能网联汽车大会",
+        "content": "14:59:32【2025世界智能网联汽车大会将于10月16-18日召开】财联社7月28日电，《科创板日报》记者获悉，2025世界智能网联汽车大会由工业和信息化部、交通运输部、北京市人民政府联合主办，将于2025年10月16日至18日在北京亦庄北人亦创国际会展中心召开。大会将聚焦自动驾驶、智能座舱、“车路云一体化”等重点领域，推动智能网联汽车与通信、交通、人工智能等关键领域融合发展。（记者 李明明）(来自财联社APP)",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "c8cdb5523f5b48c6b1012644d365d7d5",
+          "nickname": "无名小韭78390625"
+        },
+        "timeline": {
+          "article_id": "4e2wfmzg1nt",
+          "timeline_id": "7071d9f22f2f4a759d5122a8a3c1a73f",
+          "date": "2025-10-16",
+          "grade": 6,
+          "source": "1",
+          "create_time": "2025-07-28 15:12:54",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:36.964762"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_213e834215414c4aa7bdbd705f26039e_b711b99682044bf4a930acec52818571_20251017",
+      "original_id": "213e834215414c4aa7bdbd705f26039e",
+      "event_date": "2025-10-17",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "第二十二届中国国际农产品交易会",
+      "content": "第二十二届中国国际农产品交易会将在天津举办。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [
+        "农业农村"
+      ],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "213e834215414c4aa7bdbd705f26039e",
+        "user_id": "1",
+        "title": "第二十二届中国国际农产品交易会",
+        "content": "第二十二届中国国际农产品交易会将在天津举办。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "213e834215414c4aa7bdbd705f26039e",
+          "timeline_id": "b711b99682044bf4a930acec52818571",
+          "date": "2025-10-17",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-07-23 10:12:30",
+          "theme_list": [
+            {
+              "timeline_theme_id": "a621126bd8c94aa99b739b90a404e8fc",
+              "name": "农业农村"
+            }
+          ]
+        }
+      },
+      "created_at": "2025-08-30T13:45:36.964773"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_1zqkku3eug3_a689d505e002436b8b2c6301bf912fe4_20251102",
+      "original_id": "1zqkku3eug3",
+      "event_date": "2025-11-02",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "第九届国际低合金高强度钢会议",
+      "content": "于2025年11月2-4日在江苏省南京市举行。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "1zqkku3eug3",
+        "user_id": "6c42499113454e18854fe372c264fe61",
+        "title": "第九届国际低合金高强度钢会议",
+        "content": "于2025年11月2-4日在江苏省南京市举行。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "6c42499113454e18854fe372c264fe61",
+          "nickname": "成功率90%"
+        },
+        "timeline": {
+          "article_id": "1zqkku3eug3",
+          "timeline_id": "a689d505e002436b8b2c6301bf912fe4",
+          "date": "2025-11-02",
+          "grade": 6,
+          "source": "1",
+          "create_time": "2025-07-19 10:35:41",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-08-30T13:45:38.320412"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_47badf532b0340d697a22e11a8a090a4_3b9f6a29dcc64bde93c1cf3e5e8e26d3_20251228",
+      "original_id": "47badf532b0340d697a22e11a8a090a4",
+      "event_date": "2025-12-28",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "BCI-2025深圳国际脑机接口创新技术展览会",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [
+        "脑机接口"
+      ],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "article_id": "47badf532b0340d697a22e11a8a090a4",
+        "user_id": "1",
+        "title": "BCI-2025深圳国际脑机接口创新技术展览会",
+        "content": "",
+        "like_count": 2,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "47badf532b0340d697a22e11a8a090a4",
+          "timeline_id": "3b9f6a29dcc64bde93c1cf3e5e8e26d3",
+          "date": "2025-12-28",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-06-01 11:29:15",
+          "theme_list": [
+            {
+              "timeline_theme_id": "1206f8611b76449ba609ffde40f64a9c",
+              "name": "脑机接口"
+            }
+          ]
+        }
+      },
+      "created_at": "2025-08-30T13:45:39.430181"
+    }
+  ]
+}
