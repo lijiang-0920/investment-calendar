@@ -92,13 +92,9 @@ jobs:
       run: |
         echo "📝 准备提交更改..."
         
-        # 添加web数据文件
         git add data/web/
-        
-        # 添加元数据文件
         git add data/active/current/metadata.txt 2>/dev/null || echo "无元数据文件"
         
-        # 检查是否有变更
         if [ -n "$(git status --porcelain)" ]; then
           echo "📊 发现以下变更:"
           git status --porcelain
@@ -115,4 +111,4 @@ jobs:
       run: |
         echo "🎉 数据更新完成！"
         echo "🌐 网站将在几分钟内自动更新"
-        echo "📍 访问地
+        echo "📍 访问地址: https://lijiang-0920.github.io/investment-calendar/"
