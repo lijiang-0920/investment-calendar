@@ -1,0 +1,51 @@
+{
+  "last_updated": "2025-08-30T11:38:41.222950",
+  "total_events": 1432,
+  "platforms": {
+    "cls": {
+      "name": "财联社",
+      "event_count": 85,
+      "date_range": {
+        "start": "2025-08-31",
+        "end": "2025-09-30"
+      }
+    },
+    "jiuyangongshe": {
+      "name": "韭研公社",
+      "event_count": 44,
+      "date_range": {
+        "start": "2025-08-30",
+        "end": "2025-12-28"
+      }
+    },
+    "tonghuashun": {
+      "name": "同花顺",
+      "event_count": 48,
+      "date_range": {
+        "start": "2025-08-31",
+        "end": "2025-09-30"
+      }
+    },
+    "investing": {
+      "name": "英为财情",
+      "event_count": 678,
+      "date_range": {
+        "start": "2025-08-30",
+        "end": "2025-12-19"
+      }
+    },
+    "eastmoney": {
+      "name": "东方财富",
+      "event_count": 577,
+      "date_range": {
+        "start": "2025-08-30",
+        "end": "2025-12-31"
+      }
+    }
+  },
+  "date_range": {
+    "start": "2025-08-30",
+    "end": "2025-12-31"
+  },
+  "collection_type": "ACTIVE"
+}
