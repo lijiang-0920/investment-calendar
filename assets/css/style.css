@@ -811,4 +811,156 @@ body {
         width: 100%;
     }
 }
+/* 历史数据特殊样式 */
+.historical-badge {
+    background-color: var(--info-color);
+    color: white;
+    padding: 0.25rem 0.5rem;
+    border-radius: 9999px;
+    font-size: 0.75rem;
+    font-weight: 500;
+}
+
+.historical-tag {
+    background-color: var(--info-color);
+    color: white;
+}
+
+.event-card.historical {
+    border-left: 4px solid var(--info-color);
+    background-color: rgba(59, 130, 246, 0.05);
+}
+
+/* 模态框增强样式 */
+.modal-event-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1.5rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.modal-event-meta {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.modal-section {
+    margin-bottom: 1.5rem;
+}
+
+.modal-section h4 {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+    color: var(--primary-color);
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.info-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 0.75rem;
+}
+
+.info-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.info-label {
+    font-weight: 500;
+    color: var(--text-secondary);
+    min-width: 80px;
+}
+
+.info-value {
+    color: var(--text-primary);
+}
+
+.stocks-list,
+.themes-list,
+.concepts-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+/* 搜索结果样式 */
+.search-results .event-card {
+    position: relative;
+}
+
+.search-results .event-card::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: linear-gradient(to bottom, var(--primary-color), var(--info-color));
+}
+
+/* 空状态样式增强 */
+.empty-state.warning {
+    color: var(--warning-color);
+}
+
+.empty-state.error {
+    color: var(--danger-color);
+}
+
+.empty-state.empty {
+    color: var(--text-muted);
+}
+
+/* 加载动画优化 */
+.loading-spinner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    padding: 3rem;
+    color: var(--text-secondary);
+}
+
+.loading-spinner .spinner {
+    width: 40px;
+    height: 40px;
+    border: 4px solid var(--border-color);
+    border-top: 4px solid var(--primary-color);
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+/* 响应式优化 */
+@media (max-width: 768px) {
+    .modal-event-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1rem;
+    }
+    
+    .info-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .info-item {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.25rem;
+    }
+    
+    .info-label {
+        min-width: auto;
+        font-size: 0.875rem;
+    }
+}
 
