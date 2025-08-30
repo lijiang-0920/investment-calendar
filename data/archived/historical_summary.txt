@@ -1,0 +1,29 @@
+{
+  "collection_type": "HISTORICAL",
+  "collection_time": "2025-08-29T23:20:35.751302",
+  "historical_range": "2025-01-01 至 2025-08-28",
+  "total_events": 14797,
+  "platforms": {
+    "cls": {
+      "total_events": 369,
+      "status": "success"
+    },
+    "jiuyangongshe": {
+      "total_events": 875,
+      "status": "success"
+    },
+    "tonghuashun": {
+      "total_events": 335,
+      "status": "success"
+    },
+    "investing": {
+      "total_events": 9917,
+      "status": "success"
+    },
+    "eastmoney": {
+      "total_events": 3301,
+      "status": "success"
+    }
+  },
+  "status": "completed"
+}
