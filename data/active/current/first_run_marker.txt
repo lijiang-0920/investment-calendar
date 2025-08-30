@@ -1,5 +1,0 @@
-{
-  "first_run_date": "2025-08-29",
-  "first_run_time": "2025-08-29T23:59:19.307853",
-  "status": "completed"
-}
