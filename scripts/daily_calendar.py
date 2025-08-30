@@ -1515,11 +1515,6 @@ class DailyTaskScheduler:
         print(f"🔄 日常更新模式：处理 {yesterday} 归档，采集 {today} 至最远日期")
         print("=" * 60)
         
-        # 检查是否为首次运行
-        if self._is_first_run():
-            print("❌ 检测到首次运行状态，请先使用 --first-run 模式")
-            return False
-        
         try:
             # 第1步：归档昨天的数据
             print(f"\n📦 第1步：归档 {yesterday} 的数据")
@@ -1549,15 +1544,21 @@ class DailyTaskScheduler:
             return False
     
     def _is_first_run(self):
-        """检查是否为首次运行"""
-        # 检查current目录是否为空或不存在
+        """检查是否为首次运行 - 简化版"""
         if not os.path.exists(self.storage.current_path):
             return True
         
-        # 检查是否有平台数据文件
-        platform_files = [f for f in os.listdir(self.storage.current_path) 
-                          if f.endswith('.txt') and f not in ['metadata.txt', 'first_run_marker.txt']]
-        return len(platform_files) == 0
+        # 检查关键平台数据文件
+        required_platforms = ['cls', 'jiuyangongshe', 'tonghuashun']  # 至少需要这3个
+        valid_files = 0
+        
+        for platform in required_platforms:
+            file_path = os.path.join(self.storage.current_path, f"{platform}.txt")
+            if os.path.exists(file_path) and os.path.getsize(file_path) > 100:  # 文件存在且不为空
+                valid_files += 1
+        
+        return valid_files < 2  # 至少需要2个有效文件
+
     
     def _create_first_run_marker(self):
         """创建首次运行标记"""
