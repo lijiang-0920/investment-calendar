@@ -1,0 +1,118 @@
+{
+  "detection_time": "2025-08-30T00:01:39.705527",
+  "summary": {
+    "total_new": 21,
+    "total_updated": 12,
+    "total_cancelled": 0
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "investing": {
+      "new_events": 1,
+      "updated_events": 12,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "美国EIA汽油库存变动(桶)"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 20,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "德国：HICP：同比(报告期:2025年10月)",
+        "德国：HICP：环比(报告期:2025年10月)",
+        "意大利：HICP：环比(报告期:2025年10月)"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-18",
+      "title": "德国：HICP：同比(报告期:2025年10月)",
+      "importance": 4,
+      "country": "德国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-18",
+      "title": "德国：HICP：环比(报告期:2025年10月)",
+      "importance": 4,
+      "country": "德国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-18",
+      "title": "意大利：HICP：环比(报告期:2025年10月)",
+      "importance": 4,
+      "country": "意大利"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-18",
+      "title": "意大利：HICP：同比(报告期:2025年10月)",
+      "importance": 4,
+      "country": "意大利"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-18",
+      "title": "欧元区：CPI(报告期:2025年10月)",
+      "importance": 4,
+      "country": "欧盟"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-18",
+      "title": "欧元区：CPI：当月同比(报告期:2025年10月)",
+      "importance": 4,
+      "country": "欧盟"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-18",
+      "title": "欧元区:CPI:环比(报告期:2025年10月)",
+      "importance": 4,
+      "country": "欧盟"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-18",
+      "title": "欧盟：核心CPI：环比(报告期:2025年10月)",
+      "importance": 4,
+      "country": "欧盟"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-18",
+      "title": "欧元区：核心CPI：当月同比(报告期:2025年10月)",
+      "importance": 4,
+      "country": "欧盟"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-18",
+      "title": "欧元区：核心CPI：环比(报告期:2025年10月)",
+      "importance": 4,
+      "country": "欧盟"
+    }
+  ]
+}
