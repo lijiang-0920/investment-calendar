@@ -1,6 +1,6 @@
 {
   "collection_type": "ACTIVE",
-  "collection_time": "2025-08-30T00:01:39.775538",
+  "collection_time": "2025-08-30T10:17:04.872328",
   "platforms": {
     "cls": {
       "event_count": 85,
@@ -24,21 +24,21 @@
       }
     },
     "investing": {
-      "event_count": 659,
+      "event_count": 678,
       "date_range": {
         "start": "2025-08-30",
         "end": "2025-12-19"
       }
     },
     "eastmoney": {
-      "event_count": 564,
+      "event_count": 577,
       "date_range": {
-        "start": "2025-08-31",
+        "start": "2025-08-30",
         "end": "2025-12-31"
       }
     }
   },
-  "total_events": 1400,
+  "total_events": 1432,
   "date_range": {
     "start": "2025-08-30",
     "end": "2025-12-31"

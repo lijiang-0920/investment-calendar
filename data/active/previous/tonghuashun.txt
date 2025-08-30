@@ -3,7 +3,7 @@
   "total_events": 48,
   "data_status": "ACTIVE",
   "date_type": "FUTURE",
-  "last_updated": "2025-08-30T00:00:51.372758",
+  "last_updated": "2025-08-30T10:16:28.078044",
   "immutable": false,
   "events": [
     {
@@ -29,7 +29,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "云鲸将于8月31日发布新一代扫拖机器人",
@@ -45,7 +45,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.037532"
+      "created_at": "2025-08-30T00:00:56.535812"
     },
     {
       "platform": "tonghuashun",
@@ -70,7 +70,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "上合组织峰会将于8月31日至9月1日在天津举办",
@@ -86,7 +86,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.037552"
+      "created_at": "2025-08-30T00:00:56.535891"
     },
     {
       "platform": "tonghuashun",
@@ -111,7 +111,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "财政部、中国人民银行、金融监管总局印发《个人消费贷款财政贴息政策实施方案》，2025年9月1日至2026年8月31日期间，居民个人使用贷款经办机构发放的个人消费贷款（不含信用卡业务）中实际用于消费，且贷款经办机构可通过贷款发放账户等识别借款人相关消费交易信息的部分，可按规定享受贴息政策",
@@ -127,7 +127,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.733984"
+      "created_at": "2025-08-30T00:00:57.274760"
     },
     {
       "platform": "tonghuashun",
@@ -152,7 +152,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "《上海市粮食安全保障条例》将于2025年9月1日起施行",
@@ -168,7 +168,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734091"
+      "created_at": "2025-08-30T00:00:57.274829"
     },
     {
       "platform": "tonghuashun",
@@ -193,7 +193,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "沪苏浙皖共同发布《关于促进长三角科技创新协同发展的决定》，自9月1日起施行",
@@ -209,7 +209,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734115"
+      "created_at": "2025-08-30T00:00:57.274855"
     },
     {
       "platform": "tonghuashun",
@@ -234,7 +234,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "市场监管总局（国家标准委）批准发布《家居产品适老化设计指南》（GB/T 452722025）国家标准，将于2025年9月1日正式实施",
@@ -250,7 +250,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734136"
+      "created_at": "2025-08-30T00:00:57.274879"
     },
     {
       "platform": "tonghuashun",
@@ -275,7 +275,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "国家网信办等四部门印发《人工智能生成合成内容标识办法》，自2025年9月1日起施行",
@@ -291,7 +291,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734158"
+      "created_at": "2025-08-30T00:00:57.274900"
     },
     {
       "platform": "tonghuashun",
@@ -316,7 +316,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "中证指数修订上证基准做市公司债指数，9月1日实施",
@@ -332,7 +332,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734181"
+      "created_at": "2025-08-30T00:00:57.274921"
     },
     {
       "platform": "tonghuashun",
@@ -357,7 +357,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "第二十三届中国国际装备制造业博览会将于9月1日至4日举办",
@@ -373,7 +373,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734203"
+      "created_at": "2025-08-30T00:00:57.274941"
     },
     {
       "platform": "tonghuashun",
@@ -393,7 +393,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "《固定资产投资项目节能审查和碳排放评价办法》自9月1日起施行",
@@ -403,7 +403,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-08-29T23:58:37.734222"
+      "created_at": "2025-08-30T00:00:57.274961"
     },
     {
       "platform": "tonghuashun",
@@ -428,7 +428,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "国家发展改革委修订印发《固定资产投资项目节能审查和碳排放评价办法》，自2025年9月1日起施行",
@@ -444,7 +444,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734242"
+      "created_at": "2025-08-30T00:00:57.274983"
     },
     {
       "platform": "tonghuashun",
@@ -469,7 +469,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "新版强制性国家标准《电动自行车安全技术规范》将于9月1日起实施",
@@ -485,7 +485,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734264"
+      "created_at": "2025-08-30T00:00:57.275003"
     },
     {
       "platform": "tonghuashun",
@@ -510,7 +510,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "中国机械工业联合会将于9月1日至7日组团赴白俄罗斯进行产业考察对接",
@@ -526,7 +526,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734286"
+      "created_at": "2025-08-30T00:00:57.275023"
     },
     {
       "platform": "tonghuashun",
@@ -551,7 +551,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "2025年9月1日至2026年8月31日期间，消费者在重点领域消费可享受个人消费贷款财政贴息政策",
@@ -567,7 +567,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734307"
+      "created_at": "2025-08-30T00:00:57.275047"
     },
     {
       "platform": "tonghuashun",
@@ -592,7 +592,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "财政部：自2025年9月1日起，吉林省实施境外旅客购物离境退税政策",
@@ -608,7 +608,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734329"
+      "created_at": "2025-08-30T00:00:57.275068"
     },
     {
       "platform": "tonghuashun",
@@ -633,7 +633,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "9月3日，北京天安门广场将举行纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会，包括检阅部队",
@@ -649,7 +649,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734353"
+      "created_at": "2025-08-30T00:00:57.275091"
     },
     {
       "platform": "tonghuashun",
@@ -674,7 +674,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "第十届东方经济论坛将于9月3日至6日举行",
@@ -690,7 +690,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734374"
+      "created_at": "2025-08-30T00:00:57.275111"
     },
     {
       "platform": "tonghuashun",
@@ -715,7 +715,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "华为官宣将于9月4日举办华为Mate XTs 非凡大师及全场景新品发布会，将发布新款华为三折叠屏手机",
@@ -731,7 +731,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734396"
+      "created_at": "2025-08-30T00:00:57.275134"
     },
     {
       "platform": "tonghuashun",
@@ -756,7 +756,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "2025（第十五届）航空工业大会暨（第四届）航空产业质量基础设施建设大会将于9月4日至5日召开",
@@ -772,7 +772,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734417"
+      "created_at": "2025-08-30T00:00:57.275155"
     },
     {
       "platform": "tonghuashun",
@@ -797,7 +797,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "2025年四川“三大球”城市联赛（足球项目）暨“巴蜀雄起杯”四川省业余足球联赛总决赛时间为9月5日至9月27日",
@@ -813,7 +813,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734442"
+      "created_at": "2025-08-30T00:00:57.275177"
     },
     {
       "platform": "tonghuashun",
@@ -838,7 +838,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "2025低空经济发展大会将于9月5日至7日在芜湖举办",
@@ -854,7 +854,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734464"
+      "created_at": "2025-08-30T00:00:57.275218"
     },
     {
       "platform": "tonghuashun",
@@ -879,7 +879,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "2025世界肺癌大会将于9月6日至9日在西班牙举办",
@@ -895,7 +895,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734487"
+      "created_at": "2025-08-30T00:00:57.275239"
     },
     {
       "platform": "tonghuashun",
@@ -920,7 +920,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "恒生港股通创新药精选指数的编算方法调整，成份股变动将于9月8日（星期一）实施",
@@ -936,7 +936,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734508"
+      "created_at": "2025-08-30T00:00:57.275261"
     },
     {
       "platform": "tonghuashun",
@@ -961,7 +961,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "第二十五届中国国际投资贸易洽谈会将于9月8日至11日举办",
@@ -977,7 +977,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734531"
+      "created_at": "2025-08-30T00:00:57.275281"
     },
     {
       "platform": "tonghuashun",
@@ -1002,7 +1002,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "恒生指数有限公司宣布2025年第二季度之恒生指数系列检讨结果，成份股变动将于9月8日(星期 一)生效",
@@ -1018,7 +1018,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734553"
+      "created_at": "2025-08-30T00:00:57.275302"
     },
     {
       "platform": "tonghuashun",
@@ -1043,7 +1043,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "2025年服贸会将于9月10日至14日举办",
@@ -1059,7 +1059,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734578"
+      "created_at": "2025-08-30T00:00:57.275323"
     },
     {
       "platform": "tonghuashun",
@@ -1084,7 +1084,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "2025苹果秋季新品发布会将于9月10日举办",
@@ -1100,7 +1100,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734597"
+      "created_at": "2025-08-30T00:00:57.275343"
     },
     {
       "platform": "tonghuashun",
@@ -1125,7 +1125,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "2025中国文化旅游产业博览会将于9月12日至14日举办",
@@ -1141,7 +1141,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734630"
+      "created_at": "2025-08-30T00:00:57.275365"
     },
     {
       "platform": "tonghuashun",
@@ -1166,7 +1166,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "2025世界储能大会将于9月16日至18日在福建省宁德市召开",
@@ -1182,7 +1182,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734655"
+      "created_at": "2025-08-30T00:00:57.275385"
     },
     {
       "platform": "tonghuashun",
@@ -1207,7 +1207,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "Meta Connect 2025将于9月17日至18日举办",
@@ -1223,7 +1223,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734679"
+      "created_at": "2025-08-30T00:00:57.275406"
     },
     {
       "platform": "tonghuashun",
@@ -1248,7 +1248,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "美联储主席鲍威尔召开货币政策新闻发布会",
@@ -1264,7 +1264,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734703"
+      "created_at": "2025-08-30T00:00:57.275426"
     },
     {
       "platform": "tonghuashun",
@@ -1289,7 +1289,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "第四届智慧医疗与康复大会暨第七届脑机接口论坛将于9月18日至20日在上海召开",
@@ -1305,7 +1305,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734724"
+      "created_at": "2025-08-30T00:00:57.275446"
     },
     {
       "platform": "tonghuashun",
@@ -1330,7 +1330,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "美联储FOMC公布利率决议和经济预期摘要。",
@@ -1346,7 +1346,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734745"
+      "created_at": "2025-08-30T00:00:57.275465"
     },
     {
       "platform": "tonghuashun",
@@ -1371,7 +1371,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "美联储FOMC公布利率决议和经济预期摘要",
@@ -1387,7 +1387,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734764"
+      "created_at": "2025-08-30T00:00:57.275485"
     },
     {
       "platform": "tonghuashun",
@@ -1412,7 +1412,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "2025第十届中国国际氢能车船及加氢站设备展览会将于9月18日举办",
@@ -1428,7 +1428,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734783"
+      "created_at": "2025-08-30T00:00:57.275505"
     },
     {
       "platform": "tonghuashun",
@@ -1453,7 +1453,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "美联储主席鲍威尔召开货币政策新闻发布会。[同传]",
@@ -1469,7 +1469,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734806"
+      "created_at": "2025-08-30T00:00:57.275526"
     },
     {
       "platform": "tonghuashun",
@@ -1494,7 +1494,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "第十届华为全联接大会将于9月18日至20日在上海举办",
@@ -1510,7 +1510,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734826"
+      "created_at": "2025-08-30T00:00:57.275545"
     },
     {
       "platform": "tonghuashun",
@@ -1535,7 +1535,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "2025浦江创新论坛（第十八届）年会将于年9月20日至22日在上海举办",
@@ -1551,7 +1551,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734849"
+      "created_at": "2025-08-30T00:00:57.275566"
     },
     {
       "platform": "tonghuashun",
@@ -1576,7 +1576,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "全新问界M7将于9月23日在深圳正式发布，将首搭“舱内激光视觉”技术",
@@ -1592,7 +1592,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734871"
+      "created_at": "2025-08-30T00:00:57.275587"
     },
     {
       "platform": "tonghuashun",
@@ -1617,7 +1617,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "2025中国电力企业数智化大会暨数智赋能电力行业高质量发展论坛将于9月23日至25日召开",
@@ -1633,7 +1633,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734892"
+      "created_at": "2025-08-30T00:00:57.275606"
     },
     {
       "platform": "tonghuashun",
@@ -1658,7 +1658,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "2025云栖大会将于9月24日至26日举办",
@@ -1674,7 +1674,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734913"
+      "created_at": "2025-08-30T00:00:57.275626"
     },
     {
       "platform": "tonghuashun",
@@ -1699,7 +1699,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "2025中国生物制造科技创新论坛将于9月25日至26日举行",
@@ -1715,7 +1715,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734936"
+      "created_at": "2025-08-30T00:00:57.275647"
     },
     {
       "platform": "tonghuashun",
@@ -1740,7 +1740,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "2025网易未来大会将于9月27日在杭州举行",
@@ -1756,7 +1756,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734956"
+      "created_at": "2025-08-30T00:00:57.275668"
     },
     {
       "platform": "tonghuashun",
@@ -1781,7 +1781,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "第十七届央国企CIO及数科公司高管峰会将于9月27日在北京召开",
@@ -1797,7 +1797,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734976"
+      "created_at": "2025-08-30T00:00:57.275688"
     },
     {
       "platform": "tonghuashun",
@@ -1822,7 +1822,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "韩国9月29日起对中国团队游客实行临时免签政策",
@@ -1838,7 +1838,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.734997"
+      "created_at": "2025-08-30T00:00:57.275708"
     },
     {
       "platform": "tonghuashun",
@@ -1863,7 +1863,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "第二届北京数字人才发展大会将于9月29日至30日举办",
@@ -1879,7 +1879,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.735017"
+      "created_at": "2025-08-30T00:00:57.275728"
     },
     {
       "platform": "tonghuashun",
@@ -1904,7 +1904,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "辽宁省航空产业发展大会将于9月29日至10月1日在沈阳举办",
@@ -1920,7 +1920,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.735036"
+      "created_at": "2025-08-30T00:00:57.275747"
     },
     {
       "platform": "tonghuashun",
@@ -1945,7 +1945,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-29",
+      "discovery_date": "2025-08-30",
       "raw_data": {
         "event": [
           "第二届培育钻石研讨会将于9月30日在迪拜举行",
@@ -1961,7 +1961,7 @@
           }
         ]
       },
-      "created_at": "2025-08-29T23:58:37.735057"
+      "created_at": "2025-08-30T00:00:57.275767"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "detection_time": "2025-08-30T00:01:39.705527",
+  "detection_time": "2025-08-30T10:17:04.773306",
   "summary": {
-    "total_new": 21,
-    "total_updated": 12,
+    "total_new": 14,
+    "total_updated": 18,
     "total_cancelled": 0
   },
   "platforms": {
@@ -26,93 +26,93 @@
     },
     "investing": {
       "new_events": 1,
-      "updated_events": 12,
+      "updated_events": 18,
       "cancelled_events": 0,
       "sample_new_titles": [
-        "美国EIA汽油库存变动(桶)"
+        "美国商品期货交易委员会投机净仓位-欧元"
       ]
     },
     "eastmoney": {
-      "new_events": 20,
+      "new_events": 13,
       "updated_events": 0,
       "cancelled_events": 0,
       "sample_new_titles": [
-        "德国：HICP：同比(报告期:2025年10月)",
-        "德国：HICP：环比(报告期:2025年10月)",
-        "意大利：HICP：环比(报告期:2025年10月)"
+        "晶升股份停复牌",
+        "东珠生态停复牌",
+        "*ST紫天停复牌"
       ]
     }
   },
   "top_new_events": [
     {
-      "platform": "eastmoney",
-      "date": "2025-11-18",
-      "title": "德国：HICP：同比(报告期:2025年10月)",
-      "importance": 4,
-      "country": "德国"
+      "platform": "investing",
+      "date": "2025-09-06",
+      "title": "美国商品期货交易委员会投机净仓位-欧元",
+      "importance": 2,
+      "country": "欧元区"
     },
     {
       "platform": "eastmoney",
-      "date": "2025-11-18",
-      "title": "德国：HICP：环比(报告期:2025年10月)",
-      "importance": 4,
-      "country": "德国"
+      "date": "2025-08-30",
+      "title": "晶升股份停复牌",
+      "importance": 2,
+      "country": "中国"
     },
     {
       "platform": "eastmoney",
-      "date": "2025-11-18",
-      "title": "意大利：HICP：环比(报告期:2025年10月)",
-      "importance": 4,
-      "country": "意大利"
+      "date": "2025-08-30",
+      "title": "东珠生态停复牌",
+      "importance": 2,
+      "country": "中国"
     },
     {
       "platform": "eastmoney",
-      "date": "2025-11-18",
-      "title": "意大利：HICP：同比(报告期:2025年10月)",
-      "importance": 4,
-      "country": "意大利"
+      "date": "2025-08-30",
+      "title": "*ST紫天停复牌",
+      "importance": 2,
+      "country": "中国"
     },
     {
       "platform": "eastmoney",
-      "date": "2025-11-18",
-      "title": "欧元区：CPI(报告期:2025年10月)",
-      "importance": 4,
-      "country": "欧盟"
+      "date": "2025-08-30",
+      "title": "*ST天茂停复牌",
+      "importance": 2,
+      "country": "中国"
     },
     {
       "platform": "eastmoney",
-      "date": "2025-11-18",
-      "title": "欧元区：CPI：当月同比(报告期:2025年10月)",
-      "importance": 4,
-      "country": "欧盟"
+      "date": "2025-08-30",
+      "title": "华虹公司停复牌",
+      "importance": 2,
+      "country": "中国"
     },
     {
       "platform": "eastmoney",
-      "date": "2025-11-18",
-      "title": "欧元区:CPI:环比(报告期:2025年10月)",
-      "importance": 4,
-      "country": "欧盟"
+      "date": "2025-08-30",
+      "title": "中芯国际停复牌",
+      "importance": 2,
+      "country": "中国"
     },
     {
       "platform": "eastmoney",
-      "date": "2025-11-18",
-      "title": "欧盟：核心CPI：环比(报告期:2025年10月)",
-      "importance": 4,
-      "country": "欧盟"
+      "date": "2025-08-30",
+      "title": "申科股份停复牌",
+      "importance": 2,
+      "country": "中国"
     },
     {
       "platform": "eastmoney",
-      "date": "2025-11-18",
-      "title": "欧元区：核心CPI：当月同比(报告期:2025年10月)",
-      "importance": 4,
-      "country": "欧盟"
+      "date": "2025-08-30",
+      "title": "东芯股份停复牌",
+      "importance": 2,
+      "country": "中国"
     },
     {
       "platform": "eastmoney",
-      "date": "2025-11-18",
-      "title": "欧元区：核心CPI：环比(报告期:2025年10月)",
-      "importance": 4,
-      "country": "欧盟"
+      "date": "2025-08-30",
+      "title": "芯原股份停复牌",
+      "importance": 2,
+      "country": "中国"
     }
   ]
 }

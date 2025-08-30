@@ -1,5 +1,946 @@
 {
-  "new_events": [],
+  "new_events": [
+    {
+      "platform": "investing",
+      "event_id": "inv__20250906033000",
+      "original_id": "eventRowId_530969",
+      "event_date": "2025-09-06",
+      "event_time": "03:30",
+      "event_datetime": "2025/09/06 03:30:00",
+      "title": "美国商品期货交易委员会投机净仓位-英镑",
+      "content": "前值: -31.4K",
+      "category": null,
+      "importance": 2,
+      "country": "英国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "event_id": "eventRowId_530969",
+        "event_attr_id": "",
+        "datetime": "2025/09/06 03:30:00",
+        "time": "03:30",
+        "country": "英国",
+        "importance": 2,
+        "event_name": "美国商品期货交易委员会投机净仓位-英镑",
+        "previous": "-31.4K"
+      },
+      "created_at": "2025-08-30T10:16:47.247206"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250906033000",
+      "original_id": "eventRowId_530977",
+      "event_date": "2025-09-06",
+      "event_time": "03:30",
+      "event_datetime": "2025/09/06 03:30:00",
+      "title": "美国商品期货交易委员会投机净仓位-原油",
+      "content": "前值: 109.5K",
+      "category": null,
+      "importance": 2,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "event_id": "eventRowId_530977",
+        "event_attr_id": "",
+        "datetime": "2025/09/06 03:30:00",
+        "time": "03:30",
+        "country": "美国",
+        "importance": 2,
+        "event_name": "美国商品期货交易委员会投机净仓位-原油",
+        "previous": "109.5K"
+      },
+      "created_at": "2025-08-30T10:16:47.247674"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250906033000",
+      "original_id": "eventRowId_530975",
+      "event_date": "2025-09-06",
+      "event_time": "03:30",
+      "event_datetime": "2025/09/06 03:30:00",
+      "title": "美国商品期货交易委员会投机净仓位-黄金",
+      "content": "前值: 214.3K",
+      "category": null,
+      "importance": 2,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "event_id": "eventRowId_530975",
+        "event_attr_id": "",
+        "datetime": "2025/09/06 03:30:00",
+        "time": "03:30",
+        "country": "美国",
+        "importance": 2,
+        "event_name": "美国商品期货交易委员会投机净仓位-黄金",
+        "previous": "214.3K"
+      },
+      "created_at": "2025-08-30T10:16:47.247804"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250906033000",
+      "original_id": "eventRowId_530967",
+      "event_date": "2025-09-06",
+      "event_time": "03:30",
+      "event_datetime": "2025/09/06 03:30:00",
+      "title": "商品期货交易委员会投机净仓位-纳斯达克100",
+      "content": "前值: 36.1K",
+      "category": null,
+      "importance": 2,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "event_id": "eventRowId_530967",
+        "event_attr_id": "",
+        "datetime": "2025/09/06 03:30:00",
+        "time": "03:30",
+        "country": "美国",
+        "importance": 2,
+        "event_name": "商品期货交易委员会投机净仓位-纳斯达克100",
+        "previous": "36.1K"
+      },
+      "created_at": "2025-08-30T10:16:47.247917"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250906033000",
+      "original_id": "eventRowId_530965",
+      "event_date": "2025-09-06",
+      "event_time": "03:30",
+      "event_datetime": "2025/09/06 03:30:00",
+      "title": "美国商品期货交易委员会投机净仓位-标普500",
+      "content": "前值: -187.8K",
+      "category": null,
+      "importance": 2,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "event_id": "eventRowId_530965",
+        "event_attr_id": "",
+        "datetime": "2025/09/06 03:30:00",
+        "time": "03:30",
+        "country": "美国",
+        "importance": 2,
+        "event_name": "美国商品期货交易委员会投机净仓位-标普500",
+        "previous": "-187.8K"
+      },
+      "created_at": "2025-08-30T10:16:47.248143"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250906033000",
+      "original_id": "eventRowId_530962",
+      "event_date": "2025-09-06",
+      "event_time": "03:30",
+      "event_datetime": "2025/09/06 03:30:00",
+      "title": "美国商品期货交易委员会投机净仓位-澳元",
+      "content": "前值: -100.6K",
+      "category": null,
+      "importance": 2,
+      "country": "澳大利亚",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "event_id": "eventRowId_530962",
+        "event_attr_id": "",
+        "datetime": "2025/09/06 03:30:00",
+        "time": "03:30",
+        "country": "澳大利亚",
+        "importance": 2,
+        "event_name": "美国商品期货交易委员会投机净仓位-澳元",
+        "previous": "-100.6K"
+      },
+      "created_at": "2025-08-30T10:16:47.248859"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250906033000",
+      "original_id": "eventRowId_530968",
+      "event_date": "2025-09-06",
+      "event_time": "03:30",
+      "event_datetime": "2025/09/06 03:30:00",
+      "title": "美国商品期货交易委员会投机净仓位-巴西雷亚尔",
+      "content": "前值: 28.9K",
+      "category": null,
+      "importance": 2,
+      "country": "巴西",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "event_id": "eventRowId_530968",
+        "event_attr_id": "",
+        "datetime": "2025/09/06 03:30:00",
+        "time": "03:30",
+        "country": "巴西",
+        "importance": 2,
+        "event_name": "美国商品期货交易委员会投机净仓位-巴西雷亚尔",
+        "previous": "28.9K"
+      },
+      "created_at": "2025-08-30T10:16:47.248972"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250906033000",
+      "original_id": "eventRowId_530961",
+      "event_date": "2025-09-06",
+      "event_time": "03:30",
+      "event_datetime": "2025/09/06 03:30:00",
+      "title": "美国商品期货交易委员会投机净仓位-日元",
+      "content": "前值: 84.5K",
+      "category": null,
+      "importance": 2,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "event_id": "eventRowId_530961",
+        "event_attr_id": "",
+        "datetime": "2025/09/06 03:30:00",
+        "time": "03:30",
+        "country": "日本",
+        "importance": 2,
+        "event_name": "美国商品期货交易委员会投机净仓位-日元",
+        "previous": "84.5K"
+      },
+      "created_at": "2025-08-30T10:16:47.249084"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250906033000",
+      "original_id": "eventRowId_530972",
+      "event_date": "2025-09-06",
+      "event_time": "03:30",
+      "event_datetime": "2025/09/06 03:30:00",
+      "title": "美国商品期货交易委员会投机净仓位-欧元",
+      "content": "前值: 123.0K",
+      "category": null,
+      "importance": 2,
+      "country": "欧元区",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "event_id": "eventRowId_530972",
+        "event_attr_id": "",
+        "datetime": "2025/09/06 03:30:00",
+        "time": "03:30",
+        "country": "欧元区",
+        "importance": 2,
+        "event_name": "美国商品期货交易委员会投机净仓位-欧元",
+        "previous": "123.0K"
+      },
+      "created_at": "2025-08-30T10:16:47.249303"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_20250830_688478",
+      "original_id": "688478",
+      "event_date": "2025-08-30",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "晶升股份停复牌",
+      "content": "股票代码: 688478, 停复牌原因: ",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "688478"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "Scode": "688478",
+        "Sname": "晶升股份"
+      },
+      "created_at": "2025-08-30T10:17:04.742892"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_20250830_603359",
+      "original_id": "603359",
+      "event_date": "2025-08-30",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "东珠生态停复牌",
+      "content": "股票代码: 603359, 停复牌原因: ",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "603359"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "Scode": "603359",
+        "Sname": "东珠生态"
+      },
+      "created_at": "2025-08-30T10:17:04.742900"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_20250830_300280",
+      "original_id": "300280",
+      "event_date": "2025-08-30",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "*ST紫天停复牌",
+      "content": "股票代码: 300280, 停复牌原因: ",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "300280"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "Scode": "300280",
+        "Sname": "*ST紫天"
+      },
+      "created_at": "2025-08-30T10:17:04.742907"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_20250830_000627",
+      "original_id": "000627",
+      "event_date": "2025-08-30",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "*ST天茂停复牌",
+      "content": "股票代码: 000627, 停复牌原因: ",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "000627"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "Scode": "000627",
+        "Sname": "*ST天茂"
+      },
+      "created_at": "2025-08-30T10:17:04.742914"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_20250830_688347",
+      "original_id": "688347",
+      "event_date": "2025-08-30",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "华虹公司停复牌",
+      "content": "股票代码: 688347, 停复牌原因: ",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "688347"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "Scode": "688347",
+        "Sname": "华虹公司"
+      },
+      "created_at": "2025-08-30T10:17:04.742921"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_20250830_688981",
+      "original_id": "688981",
+      "event_date": "2025-08-30",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "中芯国际停复牌",
+      "content": "股票代码: 688981, 停复牌原因: ",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "688981"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "Scode": "688981",
+        "Sname": "中芯国际"
+      },
+      "created_at": "2025-08-30T10:17:04.742928"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_20250830_002633",
+      "original_id": "002633",
+      "event_date": "2025-08-30",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "申科股份停复牌",
+      "content": "股票代码: 002633, 停复牌原因: ",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "002633"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "Scode": "002633",
+        "Sname": "申科股份"
+      },
+      "created_at": "2025-08-30T10:17:04.742935"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_20250830_688110",
+      "original_id": "688110",
+      "event_date": "2025-08-30",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "东芯股份停复牌",
+      "content": "股票代码: 688110, 停复牌原因: ",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "688110"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "Scode": "688110",
+        "Sname": "东芯股份"
+      },
+      "created_at": "2025-08-30T10:17:04.742942"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_20250830_688521",
+      "original_id": "688521",
+      "event_date": "2025-08-30",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "芯原股份停复牌",
+      "content": "股票代码: 688521, 停复牌原因: ",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "688521"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "Scode": "688521",
+        "Sname": "芯原股份"
+      },
+      "created_at": "2025-08-30T10:17:04.742949"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_20250830_839680",
+      "original_id": "839680",
+      "event_date": "2025-08-30",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "*ST广道停复牌",
+      "content": "股票代码: 839680, 停复牌原因: ",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "839680"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "Scode": "839680",
+        "Sname": "*ST广道"
+      },
+      "created_at": "2025-08-30T10:17:04.742957"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_20250830_601989",
+      "original_id": "601989",
+      "event_date": "2025-08-30",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "中国重工停复牌",
+      "content": "股票代码: 601989, 停复牌原因: ",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "601989"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "Scode": "601989",
+        "Sname": "中国重工"
+      },
+      "created_at": "2025-08-30T10:17:04.742964"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_20250830_301040",
+      "original_id": "301040",
+      "event_date": "2025-08-30",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "中环海陆停复牌",
+      "content": "股票代码: 301040, 停复牌原因: ",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "301040"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "Scode": "301040",
+        "Sname": "中环海陆"
+      },
+      "created_at": "2025-08-30T10:17:04.742971"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_20250830_603213",
+      "original_id": "603213",
+      "event_date": "2025-08-30",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "镇洋发展停复牌",
+      "content": "股票代码: 603213, 停复牌原因: ",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "603213"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "Scode": "603213",
+        "Sname": "镇洋发展"
+      },
+      "created_at": "2025-08-30T10:17:04.742978"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250906033000",
+      "original_id": "eventRowId_530973",
+      "event_date": "2025-09-06",
+      "event_time": "03:30",
+      "event_datetime": "2025/09/06 03:30:00",
+      "title": "美国商品期货交易委员会投机净仓位-铝",
+      "content": "前值: 1.1K",
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "event_id": "eventRowId_530973",
+        "event_attr_id": "",
+        "datetime": "2025/09/06 03:30:00",
+        "time": "03:30",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美国商品期货交易委员会投机净仓位-铝",
+        "previous": "1.1K"
+      },
+      "created_at": "2025-08-30T10:16:47.247321"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250906033000",
+      "original_id": "eventRowId_530974",
+      "event_date": "2025-09-06",
+      "event_time": "03:30",
+      "event_datetime": "2025/09/06 03:30:00",
+      "title": "美国商品期货交易委员会投机净仓位-铜",
+      "content": "前值: 26.2K",
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "event_id": "eventRowId_530974",
+        "event_attr_id": "",
+        "datetime": "2025/09/06 03:30:00",
+        "time": "03:30",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美国商品期货交易委员会投机净仓位-铜",
+        "previous": "26.2K"
+      },
+      "created_at": "2025-08-30T10:16:47.247441"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250906033000",
+      "original_id": "eventRowId_530980",
+      "event_date": "2025-09-06",
+      "event_time": "03:30",
+      "event_datetime": "2025/09/06 03:30:00",
+      "title": "美国商品期货交易委员会投机净仓位-玉米",
+      "content": "前值: -70.9K",
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "event_id": "eventRowId_530980",
+        "event_attr_id": "",
+        "datetime": "2025/09/06 03:30:00",
+        "time": "03:30",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美国商品期货交易委员会投机净仓位-玉米",
+        "previous": "-70.9K"
+      },
+      "created_at": "2025-08-30T10:16:47.247560"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250906033000",
+      "original_id": "eventRowId_530978",
+      "event_date": "2025-09-06",
+      "event_time": "03:30",
+      "event_datetime": "2025/09/06 03:30:00",
+      "title": "美国商品期货交易委员会投机净仓位-天然气",
+      "content": "前值: -103.9K",
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "event_id": "eventRowId_530978",
+        "event_attr_id": "",
+        "datetime": "2025/09/06 03:30:00",
+        "time": "03:30",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美国商品期货交易委员会投机净仓位-天然气",
+        "previous": "-103.9K"
+      },
+      "created_at": "2025-08-30T10:16:47.248030"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250906033000",
+      "original_id": "eventRowId_530976",
+      "event_date": "2025-09-06",
+      "event_time": "03:30",
+      "event_datetime": "2025/09/06 03:30:00",
+      "title": "美国商品期货交易委员会投机净仓位-白银",
+      "content": "前值: 46.5K",
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "event_id": "eventRowId_530976",
+        "event_attr_id": "",
+        "datetime": "2025/09/06 03:30:00",
+        "time": "03:30",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美国商品期货交易委员会投机净仓位-白银",
+        "previous": "46.5K"
+      },
+      "created_at": "2025-08-30T10:16:47.248256"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250906033000",
+      "original_id": "eventRowId_530981",
+      "event_date": "2025-09-06",
+      "event_time": "03:30",
+      "event_datetime": "2025/09/06 03:30:00",
+      "title": "美国商品期货交易委员会投机净仓位-大豆",
+      "content": "前值: 18.2K",
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "event_id": "eventRowId_530981",
+        "event_attr_id": "",
+        "datetime": "2025/09/06 03:30:00",
+        "time": "03:30",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美国商品期货交易委员会投机净仓位-大豆",
+        "previous": "18.2K"
+      },
+      "created_at": "2025-08-30T10:16:47.248366"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250906033000",
+      "original_id": "eventRowId_530979",
+      "event_date": "2025-09-06",
+      "event_time": "03:30",
+      "event_datetime": "2025/09/06 03:30:00",
+      "title": "美国商品期货交易委员会投机净仓位-小麦",
+      "content": "前值: -78.8K",
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "event_id": "eventRowId_530979",
+        "event_attr_id": "",
+        "datetime": "2025/09/06 03:30:00",
+        "time": "03:30",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美国商品期货交易委员会投机净仓位-小麦",
+        "previous": "-78.8K"
+      },
+      "created_at": "2025-08-30T10:16:47.248474"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250906033000",
+      "original_id": "eventRowId_530971",
+      "event_date": "2025-09-06",
+      "event_time": "03:30",
+      "event_datetime": "2025/09/06 03:30:00",
+      "title": "美国商品期货交易委员会投机净仓位-加元",
+      "content": "前值: -105.0K",
+      "category": null,
+      "importance": 1,
+      "country": "加拿大",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "event_id": "eventRowId_530971",
+        "event_attr_id": "",
+        "datetime": "2025/09/06 03:30:00",
+        "time": "03:30",
+        "country": "加拿大",
+        "importance": 1,
+        "event_name": "美国商品期货交易委员会投机净仓位-加元",
+        "previous": "-105.0K"
+      },
+      "created_at": "2025-08-30T10:16:47.248584"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250906033000",
+      "original_id": "eventRowId_530963",
+      "event_date": "2025-09-06",
+      "event_time": "03:30",
+      "event_datetime": "2025/09/06 03:30:00",
+      "title": "美国商品期货交易委员会投机净仓位-瑞郎",
+      "content": "前值: -27.0K",
+      "category": null,
+      "importance": 1,
+      "country": "瑞士",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "event_id": "eventRowId_530963",
+        "event_attr_id": "",
+        "datetime": "2025/09/06 03:30:00",
+        "time": "03:30",
+        "country": "瑞士",
+        "importance": 1,
+        "event_name": "美国商品期货交易委员会投机净仓位-瑞郎",
+        "previous": "-27.0K"
+      },
+      "created_at": "2025-08-30T10:16:47.248711"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250906033000",
+      "original_id": "eventRowId_530970",
+      "event_date": "2025-09-06",
+      "event_time": "03:30",
+      "event_datetime": "2025/09/06 03:30:00",
+      "title": "美国商品期货交易委员会投机净仓位-纽元",
+      "content": "前值: -6.1K",
+      "category": null,
+      "importance": 1,
+      "country": "新西兰",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-08-30",
+      "raw_data": {
+        "event_id": "eventRowId_530970",
+        "event_attr_id": "",
+        "datetime": "2025/09/06 03:30:00",
+        "time": "03:30",
+        "country": "新西兰",
+        "importance": 1,
+        "event_name": "美国商品期货交易委员会投机净仓位-纽元",
+        "previous": "-6.1K"
+      },
+      "created_at": "2025-08-30T10:16:47.249192"
+    }
+  ],
   "today_events": [
     {
       "platform": "investing",
@@ -32,7 +973,7 @@
         "forecast": "408",
         "previous": "411"
       },
-      "created_at": "2025-08-30T10:10:53.940586"
+      "created_at": "2025-08-30T10:16:46.583472"
     },
     {
       "platform": "investing",
@@ -64,7 +1005,7 @@
         "actual": "536",
         "previous": "538"
       },
-      "created_at": "2025-08-30T10:10:53.940716"
+      "created_at": "2025-08-30T10:16:46.583608"
     },
     {
       "platform": "investing",
@@ -96,7 +1037,7 @@
         "actual": "-31.4K",
         "previous": "-25.2K"
       },
-      "created_at": "2025-08-30T10:10:53.940834"
+      "created_at": "2025-08-30T10:16:46.583746"
     },
     {
       "platform": "investing",
@@ -128,7 +1069,7 @@
         "actual": "109.5K",
         "previous": "120.2K"
       },
-      "created_at": "2025-08-30T10:10:53.941307"
+      "created_at": "2025-08-30T10:16:46.584219"
     },
     {
       "platform": "investing",
@@ -160,7 +1101,7 @@
         "actual": "214.3K",
         "previous": "212.6K"
       },
-      "created_at": "2025-08-30T10:10:53.941424"
+      "created_at": "2025-08-30T10:16:46.584336"
     },
     {
       "platform": "investing",
@@ -192,7 +1133,7 @@
         "actual": "36.1K",
         "previous": "33.8K"
       },
-      "created_at": "2025-08-30T10:10:53.941536"
+      "created_at": "2025-08-30T10:16:46.584459"
     },
     {
       "platform": "investing",
@@ -224,7 +1165,7 @@
         "actual": "-187.8K",
         "previous": "-171.5K"
       },
-      "created_at": "2025-08-30T10:10:53.941760"
+      "created_at": "2025-08-30T10:16:46.584684"
     },
     {
       "platform": "investing",
@@ -256,7 +1197,7 @@
         "actual": "-100.6K",
         "previous": "-94.9K"
       },
-      "created_at": "2025-08-30T10:10:53.942445"
+      "created_at": "2025-08-30T10:16:46.585388"
     },
     {
       "platform": "investing",
@@ -288,7 +1229,7 @@
         "actual": "28.9K",
         "previous": "30.4K"
       },
-      "created_at": "2025-08-30T10:10:53.942556"
+      "created_at": "2025-08-30T10:16:46.585500"
     },
     {
       "platform": "investing",
@@ -320,7 +1261,7 @@
         "actual": "84.5K",
         "previous": "77.6K"
       },
-      "created_at": "2025-08-30T10:10:53.942666"
+      "created_at": "2025-08-30T10:16:46.585609"
     },
     {
       "platform": "investing",
@@ -352,7 +1293,7 @@
         "actual": "123.0K",
         "previous": "118.7K"
       },
-      "created_at": "2025-08-30T10:10:53.942890"
+      "created_at": "2025-08-30T10:16:46.585884"
     },
     {
       "platform": "eastmoney",
@@ -373,13 +1314,13 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
+      "is_new": true,
       "discovery_date": "2025-08-30",
       "raw_data": {
         "Scode": "688478",
         "Sname": "晶升股份"
       },
-      "created_at": "2025-08-30T10:11:13.706493"
+      "created_at": "2025-08-30T10:17:04.742892"
     },
     {
       "platform": "eastmoney",
@@ -400,13 +1341,13 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
+      "is_new": true,
       "discovery_date": "2025-08-30",
       "raw_data": {
         "Scode": "603359",
         "Sname": "东珠生态"
       },
-      "created_at": "2025-08-30T10:11:13.706502"
+      "created_at": "2025-08-30T10:17:04.742900"
     },
     {
       "platform": "eastmoney",
@@ -427,13 +1368,13 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
+      "is_new": true,
       "discovery_date": "2025-08-30",
       "raw_data": {
         "Scode": "300280",
         "Sname": "*ST紫天"
       },
-      "created_at": "2025-08-30T10:11:13.706511"
+      "created_at": "2025-08-30T10:17:04.742907"
     },
     {
       "platform": "eastmoney",
@@ -454,13 +1395,13 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
+      "is_new": true,
       "discovery_date": "2025-08-30",
       "raw_data": {
         "Scode": "000627",
         "Sname": "*ST天茂"
       },
-      "created_at": "2025-08-30T10:11:13.706520"
+      "created_at": "2025-08-30T10:17:04.742914"
     },
     {
       "platform": "eastmoney",
@@ -481,13 +1422,13 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
+      "is_new": true,
       "discovery_date": "2025-08-30",
       "raw_data": {
         "Scode": "688347",
         "Sname": "华虹公司"
       },
-      "created_at": "2025-08-30T10:11:13.706527"
+      "created_at": "2025-08-30T10:17:04.742921"
     },
     {
       "platform": "eastmoney",
@@ -508,13 +1449,13 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
+      "is_new": true,
       "discovery_date": "2025-08-30",
       "raw_data": {
         "Scode": "688981",
         "Sname": "中芯国际"
       },
-      "created_at": "2025-08-30T10:11:13.706534"
+      "created_at": "2025-08-30T10:17:04.742928"
     },
     {
       "platform": "eastmoney",
@@ -535,13 +1476,13 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
+      "is_new": true,
       "discovery_date": "2025-08-30",
       "raw_data": {
         "Scode": "002633",
         "Sname": "申科股份"
       },
-      "created_at": "2025-08-30T10:11:13.706540"
+      "created_at": "2025-08-30T10:17:04.742935"
     },
     {
       "platform": "eastmoney",
@@ -562,13 +1503,13 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
+      "is_new": true,
       "discovery_date": "2025-08-30",
       "raw_data": {
         "Scode": "688110",
         "Sname": "东芯股份"
       },
-      "created_at": "2025-08-30T10:11:13.706546"
+      "created_at": "2025-08-30T10:17:04.742942"
     },
     {
       "platform": "eastmoney",
@@ -589,13 +1530,13 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
+      "is_new": true,
       "discovery_date": "2025-08-30",
       "raw_data": {
         "Scode": "688521",
         "Sname": "芯原股份"
       },
-      "created_at": "2025-08-30T10:11:13.706553"
+      "created_at": "2025-08-30T10:17:04.742949"
     },
     {
       "platform": "eastmoney",
@@ -616,13 +1557,13 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
+      "is_new": true,
       "discovery_date": "2025-08-30",
       "raw_data": {
         "Scode": "839680",
         "Sname": "*ST广道"
       },
-      "created_at": "2025-08-30T10:11:13.706559"
+      "created_at": "2025-08-30T10:17:04.742957"
     },
     {
       "platform": "eastmoney",
@@ -643,13 +1584,13 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
+      "is_new": true,
       "discovery_date": "2025-08-30",
       "raw_data": {
         "Scode": "601989",
         "Sname": "中国重工"
       },
-      "created_at": "2025-08-30T10:11:13.706565"
+      "created_at": "2025-08-30T10:17:04.742964"
     },
     {
       "platform": "eastmoney",
@@ -670,13 +1611,13 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
+      "is_new": true,
       "discovery_date": "2025-08-30",
       "raw_data": {
         "Scode": "301040",
         "Sname": "中环海陆"
       },
-      "created_at": "2025-08-30T10:11:13.706572"
+      "created_at": "2025-08-30T10:17:04.742971"
     },
     {
       "platform": "eastmoney",
@@ -697,13 +1638,13 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
+      "is_new": true,
       "discovery_date": "2025-08-30",
       "raw_data": {
         "Scode": "603213",
         "Sname": "镇洋发展"
       },
-      "created_at": "2025-08-30T10:11:13.706579"
+      "created_at": "2025-08-30T10:17:04.742978"
     },
     {
       "platform": "jiuyangongshe",
@@ -755,7 +1696,7 @@
           ]
         }
       },
-      "created_at": "2025-08-30T10:10:38.850403"
+      "created_at": "2025-08-30T10:16:31.596209"
     },
     {
       "platform": "investing",
@@ -787,7 +1728,7 @@
         "actual": "1.1K",
         "previous": "1.1K"
       },
-      "created_at": "2025-08-30T10:10:53.940949"
+      "created_at": "2025-08-30T10:16:46.583873"
     },
     {
       "platform": "investing",
@@ -819,7 +1760,7 @@
         "actual": "26.2K",
         "previous": "26.0K"
       },
-      "created_at": "2025-08-30T10:10:53.941063"
+      "created_at": "2025-08-30T10:16:46.583993"
     },
     {
       "platform": "investing",
@@ -851,7 +1792,7 @@
         "actual": "-70.9K",
         "previous": "-133.2K"
       },
-      "created_at": "2025-08-30T10:10:53.941178"
+      "created_at": "2025-08-30T10:16:46.584107"
     },
     {
       "platform": "investing",
@@ -883,7 +1824,7 @@
         "actual": "-103.9K",
         "previous": "-105.1K"
       },
-      "created_at": "2025-08-30T10:10:53.941648"
+      "created_at": "2025-08-30T10:16:46.584573"
     },
     {
       "platform": "investing",
@@ -915,7 +1856,7 @@
         "actual": "46.5K",
         "previous": "46.5K"
       },
-      "created_at": "2025-08-30T10:10:53.941871"
+      "created_at": "2025-08-30T10:16:46.584817"
     },
     {
       "platform": "investing",
@@ -947,7 +1888,7 @@
         "actual": "18.2K",
         "previous": "-15.6K"
       },
-      "created_at": "2025-08-30T10:10:53.941982"
+      "created_at": "2025-08-30T10:16:46.584930"
     },
     {
       "platform": "investing",
@@ -979,7 +1920,7 @@
         "actual": "-78.8K",
         "previous": "-89.0K"
       },
-      "created_at": "2025-08-30T10:10:53.942095"
+      "created_at": "2025-08-30T10:16:46.585041"
     },
     {
       "platform": "investing",
@@ -1011,7 +1952,7 @@
         "actual": "-105.0K",
         "previous": "-93.1K"
       },
-      "created_at": "2025-08-30T10:10:53.942206"
+      "created_at": "2025-08-30T10:16:46.585160"
     },
     {
       "platform": "investing",
@@ -1043,7 +1984,7 @@
         "actual": "-27.0K",
         "previous": "-27.3K"
       },
-      "created_at": "2025-08-30T10:10:53.942334"
+      "created_at": "2025-08-30T10:16:46.585277"
     },
     {
       "platform": "investing",
@@ -1075,9 +2016,9 @@
         "actual": "-6.1K",
         "previous": "-4.1K"
       },
-      "created_at": "2025-08-30T10:10:53.942778"
+      "created_at": "2025-08-30T10:16:46.585719"
     }
   ],
-  "export_time": "2025-08-30T10:11:13.900022",
+  "export_time": "2025-08-30T10:17:04.939986",
   "today": "2025-08-30"
 }

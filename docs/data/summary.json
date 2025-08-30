@@ -1,6 +1,6 @@
 {
   "collection_type": "ACTIVE",
-  "collection_time": "2025-08-30T10:11:13.834853",
+  "collection_time": "2025-08-30T10:17:04.872328",
   "platforms": {
     "cls": {
       "event_count": 85,
@@ -49,13 +49,13 @@
     "end": "2025-12-31"
   },
   "new_events": {
-    "total": 0,
+    "total": 32,
     "platforms": {
       "cls": 0,
       "jiuyangongshe": 0,
       "tonghuashun": 0,
-      "investing": 0,
-      "eastmoney": 0
+      "investing": 19,
+      "eastmoney": 13
     }
   }
 }
