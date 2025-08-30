@@ -2,9 +2,8 @@ name: Daily Investment Calendar Update
 
 on:
   schedule:
-    # 每天北京时间 20:00 (UTC 12:00) 执行
-    - cron: '0 12 * * *'
-  workflow_dispatch: # 允许手动触发
+    - cron: '0 22 * * *'
+  workflow_dispatch:
 
 jobs:
   update-data:
@@ -29,7 +28,15 @@ jobs:
     - name: Check if first run
       id: check_first_run
       run: |
-        if [ ! -f "data/active/current/metadata.txt" ]; then
+        # 检查是否有足够的数据文件
+        count=0
+        for platform in cls jiuyangongshe tonghuashun investing eastmoney; do
+          if [ -f "data/active/current/${platform}.txt" ]; then
+            count=$((count + 1))
+          fi
+        done
+        
+        if [ $count -lt 3 ]; then
           echo "first_run=true" >> $GITHUB_OUTPUT
         else
           echo "first_run=false" >> $GITHUB_OUTPUT
@@ -60,31 +67,14 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
     
+    # 只提交web数据，不提交原始数据
     - name: Commit and push changes
       run: |
-        git add .
+        git add data/web/
+        git add data/active/current/metadata.txt
         if [ -n "$(git status --porcelain)" ]; then
           git commit -m "📊 Daily data update - $(date +'%Y-%m-%d %H:%M:%S')"
           git push
         else
           echo "No changes to commit"
         fi
-    
-    - name: Update deployment status
-      run: |
-        echo "Deployment completed at $(date)" > deployment_status.txt
-        git add deployment_status.txt
-        git commit -m "🚀 Update deployment status" || echo "No status changes"
-        git push || echo "No status push needed"
-
-  deploy:
-    needs: update-data
-    runs-on: ubuntu-latest
-    
-    steps:
-    - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./
-        exclude_assets: 'scripts/**,data/archived/**,.github/**'
