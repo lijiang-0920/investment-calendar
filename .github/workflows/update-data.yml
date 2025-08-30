@@ -37,6 +37,8 @@ jobs:
         ls -la
         echo "📁 Data目录结构："
         ls -la data/ || echo "Data目录不存在"
+        echo "📁 Archived目录结构："
+        ls -la data/archived/ || echo "Archived目录不存在"
     
     - name: Check current data status
       id: check_data
@@ -87,7 +89,7 @@ jobs:
         echo "📄 Current目录文件大小:"
         du -h data/active/current/*.txt 2>/dev/null || echo "无txt文件"
     
-    - name: Create data converter script
+    - name: Create comprehensive data converter script
       run: |
         cat > convert_data.py << 'EOF'
         import json
@@ -96,6 +98,7 @@ jobs:
         from datetime import datetime
 
         def convert_platform_data(platform):
+            """转换当前数据"""
             source_file = f'data/active/current/{platform}.txt'
             target_file = f'data/web/{platform}.json'
             
@@ -156,8 +159,15 @@ jobs:
                 print(f'❌ {platform} 转换失败: {e}')
                 return False
 
-        def main():
-            platforms = ['cls', 'jiuyangongshe', 'tonghuashun', 'investing', 'eastmoney']
+        def convert_archived_data():
+            """转换归档的历史数据"""
+            print("📚 开始转换历史归档数据...")
+            
+            archived_path = "data/archived"
+            if not os.path.exists(archived_path):
+                print("⚠️ 归档目录不存在")
+                return 0
+            
             platform_names = {
                 'cls': '财联社',
                 'jiuyangongshe': '韭研公社', 
@@ -166,41 +176,143 @@ jobs:
                 'eastmoney': '东方财富'
             }
             
-            converted = 0
+            platforms = ['cls', 'jiuyangongshe', 'tonghuashun', 'investing', 'eastmoney']
+            converted_files = 0
             
-            for platform in platforms:
-                if convert_platform_data(platform):
-                    converted += 1
+            # 遍历年份目录
+            for year_dir in os.listdir(archived_path):
+                if not year_dir.isdigit():
+                    continue
+                    
+                year_path = os.path.join(archived_path, year_dir)
+                if not os.path.isdir(year_path):
+                    continue
+                
+                print(f"📅 处理 {year_dir} 年数据...")
+                
+                # 遍历月份目录
+                for month_dir in os.listdir(year_path):
+                    if not month_dir.endswith('月'):
+                        continue
+                        
+                    month_path = os.path.join(year_path, month_dir)
+                    if not os.path.isdir(month_path):
+                        continue
+                    
+                    month_num = month_dir.replace('月', '').zfill(2)
+                    print(f"  📊 处理 {year_dir}-{month_num} 数据...")
+                    
+                    # 处理每个平台
+                    for platform in platforms:
+                        source_file = os.path.join(month_path, f"{platform}.txt")
+                        if not os.path.exists(source_file):
+                            continue
+                        
+                        try:
+                            with open(source_file, 'r', encoding='utf-8') as f:
+                                data = json.loads(f.read())
+                            
+                            # 创建历史数据文件
+                            target_file = f"data/web/{platform}_history_{year_dir}_{month_num}.json"
+                            
+                            web_data = {
+                                'platform': platform,
+                                'platform_name': platform_names.get(platform, platform),
+                                'data_type': 'HISTORICAL',
+                                'year': int(year_dir),
+                                'month': int(month_num),
+                                'total_events': data.get('total_events', 0),
+                                'events': []
+                            }
+                            
+                            for event_data in data.get('events', []):
+                                web_event = {
+                                    'id': event_data.get('event_id', ''),
+                                    'platform': event_data.get('platform', ''),
+                                    'title': event_data.get('title', ''),
+                                    'event_date': event_data.get('event_date', ''),
+                                    'event_time': event_data.get('event_time'),
+                                    'content': event_data.get('content'),
+                                    'category': event_data.get('category'),
+                                    'importance': event_data.get('importance', 1),
+                                    'country': event_data.get('country'),
+                                    'city': event_data.get('city'),
+                                    'data_status': 'ARCHIVED',
+                                    'stocks': event_data.get('stocks', []),
+                                    'themes': event_data.get('themes', []),
+                                    'concepts': event_data.get('concepts', [])
+                                }
+                                web_data['events'].append({k: v for k, v in web_event.items() if v is not None})
+                            
+                            with open(target_file, 'w', encoding='utf-8') as f:
+                                json.dump(web_data, f, ensure_ascii=False, indent=2)
+                            
+                            converted_files += 1
+                            print(f"    ✅ {platform} {year_dir}-{month_num}: {len(web_data['events'])} 个事件")
+                            
+                        except Exception as e:
+                            print(f"    ❌ {platform} {year_dir}-{month_num} 转换失败: {e}")
             
-            # 生成元数据
-            metadata = {
-                'last_updated': datetime.now().isoformat(),
-                'total_events': 0,
-                'platforms': {},
-                'has_historical_data': os.path.exists('data/archived')
+            print(f"📚 历史数据转换完成，共转换 {converted_files} 个文件")
+            return converted_files
+
+        def generate_historical_index():
+            """生成历史数据索引"""
+            print("📋 生成历史数据索引...")
+            
+            # 扫描所有历史数据文件
+            historical_files = glob.glob("data/web/*_history_*.json")
+            
+            index = {
+                'generated_at': datetime.now().isoformat(),
+                'total_files': len(historical_files),
+                'available_periods': [],
+                'platforms': {}
             }
             
-            for platform in platforms:
-                json_file = f'data/web/{platform}.json'
-                if os.path.exists(json_file):
-                    try:
-                        with open(json_file, 'r', encoding='utf-8') as f:
-                            data = json.loads(f.read())
-                            event_count = data.get('total_events', 0)
-                            metadata['total_events'] += event_count
-                            metadata['platforms'][platform] = {
-                                'name': data.get('platform_name', platform),
-                                'event_count': event_count
-                            }
-                    except Exception as e:
-                        print(f'❌ 读取{platform}元数据失败: {e}')
+            periods = set()
+            platform_data = {}
             
-            with open('data/web/metadata.json', 'w', encoding='utf-8') as f:
-                json.dump(metadata, f, ensure_ascii=False, indent=2)
+            for file_path in historical_files:
+                try:
+                    filename = os.path.basename(file_path)
+                    # 解析文件名: platform_history_year_month.json
+                    parts = filename.replace('.json', '').split('_')
+                    if len(parts) >= 4:
+                        platform = parts[0]
+                        year = parts[2]
+                        month = parts[3]
+                        period = f"{year}-{month}"
+                        
+                        periods.add(period)
+                        
+                        if platform not in platform_data:
+                            platform_data[platform] = []
+                        platform_data[platform].append(period)
+                        
+                except Exception as e:
+                    print(f"解析文件名失败: {filename}, {e}")
             
-            print(f'🎉 转换完成! 成功转换 {converted} 个平台，总计 {metadata["total_events"]} 个事件')
+            index['available_periods'] = sorted(list(periods))
+            index['platforms'] = {k: sorted(v) for k, v in platform_data.items()}
             
-            # 处理变更报告
+            with open('data/web/historical_index.json', 'w', encoding='utf-8') as f:
+                json.dump(index, f, ensure_ascii=False, indent=2)
+            
+            print(f"📋 历史索引生成完成: {len(periods)} 个时期，{len(platform_data)} 个平台")
+
+        def convert_change_reports():
+            """转换变更报告"""
+            print("📊 转换变更报告...")
+            
+            platform_names = {
+                'cls': '财联社',
+                'jiuyangongshe': '韭研公社', 
+                'tonghuashun': '同花顺',
+                'investing': '英为财情',
+                'eastmoney': '东方财富'
+            }
+            
             change_files = glob.glob('data/active/current/change_report_*.txt')
             for change_file in change_files:
                 try:
@@ -242,8 +354,68 @@ jobs:
                     
                 except Exception as e:
                     print(f'❌ 变更报告转换失败: {e}')
+
+        def main():
+            print("🔄 开始数据转换...")
             
-            print('📊 所有数据转换完成')
+            # 转换当前数据
+            platforms = ['cls', 'jiuyangongshe', 'tonghuashun', 'investing', 'eastmoney']
+            current_converted = 0
+            
+            print("📊 转换当前数据...")
+            for platform in platforms:
+                if convert_platform_data(platform):
+                    current_converted += 1
+            
+            # 转换历史数据
+            historical_converted = convert_archived_data()
+            
+            # 生成历史数据索引
+            generate_historical_index()
+            
+            # 转换变更报告
+            convert_change_reports()
+            
+            # 生成元数据
+            print("📋 生成元数据...")
+            metadata = {
+                'last_updated': datetime.now().isoformat(),
+                'total_events': 0,
+                'platforms': {},
+                'has_historical_data': historical_converted > 0,
+                'historical_files': historical_converted
+            }
+            
+            platform_names = {
+                'cls': '财联社',
+                'jiuyangongshe': '韭研公社', 
+                'tonghuashun': '同花顺',
+                'investing': '英为财情',
+                'eastmoney': '东方财富'
+            }
+            
+            for platform in platforms:
+                json_file = f'data/web/{platform}.json'
+                if os.path.exists(json_file):
+                    try:
+                        with open(json_file, 'r', encoding='utf-8') as f:
+                            data = json.loads(f.read())
+                            event_count = data.get('total_events', 0)
+                            metadata['total_events'] += event_count
+                            metadata['platforms'][platform] = {
+                                'name': data.get('platform_name', platform),
+                                'event_count': event_count
+                            }
+                    except Exception as e:
+                        print(f'❌ 读取{platform}元数据失败: {e}')
+            
+            with open('data/web/metadata.json', 'w', encoding='utf-8') as f:
+                json.dump(metadata, f, ensure_ascii=False, indent=2)
+            
+            print(f'🎉 转换完成!')
+            print(f'  - 当前数据: {current_converted} 个平台')
+            print(f'  - 历史数据: {historical_converted} 个文件')
+            print(f'  - 总事件数: {metadata["total_events"]}')
 
         if __name__ == '__main__':
             main()
@@ -258,8 +430,13 @@ jobs:
         echo "📊 Web数据生成结果:"
         ls -la data/web/ || echo "Web目录不存在"
         
-        echo "📄 生成的JSON文件:"
-        find data/web -name "*.json" -exec echo "  {}" \; 2>/dev/null || echo "无JSON文件"
+        echo "📄 生成的JSON文件统计:"
+        echo "  - 当前数据: $(ls data/web/*.json 2>/dev/null | grep -v history | grep -v index | grep -v metadata | grep -v change_report | wc -l) 个"
+        echo "  - 历史数据: $(ls data/web/*_history_*.json 2>/dev/null | wc -l) 个"
+        echo "  - 其他文件: $(ls data/web/*index*.json data/web/metadata.json data/web/change_report*.json 2>/dev/null | wc -l) 个"
+        
+        echo "📋 历史数据文件示例:"
+        ls data/web/*_history_*.json 2>/dev/null | head -5 || echo "无历史数据文件"
     
     - name: Configure Git
       run: |
@@ -286,7 +463,13 @@ jobs:
         # 检查变更
         if [ -n "$(git status --porcelain)" ]; then
           echo "📊 发现以下变更:"
-          git status --porcelain
+          git status --porcelain | head -20
+          
+          # 如果变更太多，只显示摘要
+          total_changes=$(git status --porcelain | wc -l)
+          if [ $total_changes -gt 20 ]; then
+            echo "... 还有 $((total_changes - 20)) 个变更文件"
+          fi
           
           git commit -m "📊 Daily data update - $(date +'%Y-%m-%d %H:%M:%S')"
           git push
@@ -302,20 +485,43 @@ jobs:
         echo "  - 运行模式: ${{ steps.check_data.outputs.run_mode }}"
         echo "  - Current数据: $(ls data/active/current/*.txt 2>/dev/null | wc -l) 个文件"
         echo "  - Web数据: $(ls data/web/*.json 2>/dev/null | wc -l) 个JSON文件"
+        echo "  - 历史数据: $(ls data/web/*_history_*.json 2>/dev/null | wc -l) 个历史文件"
         echo "  - 网站地址: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
         
         # 显示数据统计
         if [ -f "data/web/metadata.json" ]; then
           echo "📈 数据统计:"
           python3 -c "
-        import json
-        try:
-            with open('data/web/metadata.json', 'r') as f:
-                metadata = json.load(f)
-            print(f'  - 总事件数: {metadata.get(\"total_events\", 0)}')
-            print(f'  - 活跃平台: {len(metadata.get(\"platforms\", {}))}')
-            print(f'  - 最后更新: {metadata.get(\"last_updated\", \"未知\")}')
-        except:
-            print('  - 无法读取元数据')
-        "
+import json
+try:
+    with open('data/web/metadata.json', 'r') as f:
+        metadata = json.load(f)
+    print(f'  - 总事件数: {metadata.get(\"total_events\", 0)}')
+    print(f'  - 活跃平台: {len(metadata.get(\"platforms\", {}))}')
+    print(f'  - 历史文件: {metadata.get(\"historical_files\", 0)}')
+    print(f'  - 最后更新: {metadata.get(\"last_updated\", \"未知\")}')
+except Exception as e:
+    print(f'  - 无法读取元数据: {e}')
+"
         fi
+        
+        # 显示历史数据索引
+        if [ -f "data/web/historical_index.json" ]; then
+          echo "📅 历史数据索引:"
+          python3 -c "
+import json
+try:
+    with open('data/web/historical_index.json', 'r') as f:
+        index = json.load(f)
+    periods = index.get('available_periods', [])
+    print(f'  - 可用时期: {len(periods)} 个')
+    if periods:
+        print(f'  - 时间范围: {periods[0]} 至 {periods[-1]}')
+        print(f'  - 最新时期: {periods[-3:] if len(periods) >= 3 else periods}')
+except Exception as e:
+    print(f'  - 无法读取历史索引: {e}')
+"
+        fi
+        
+        echo ""
+        echo "🌐 访问网站查看数据更新结果！"
