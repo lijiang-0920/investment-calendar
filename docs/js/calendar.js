@@ -9,7 +9,7 @@ function initCalendar() {
             calendarData = data;
             
             // 设置初始周为今天所在的周
-            const today = new Date();
+            const today = new Date(data.today);
             currentWeekStart = new Date(today);
             currentWeekStart.setDate(today.getDate() - today.getDay()); // 设置为本周日
             
@@ -37,7 +37,7 @@ function renderCalendar() {
     if (!calendarData) return;
     
     const container = document.getElementById('calendarContainer');
-    const today = new Date().toISOString().split('T')[0]; // 今天的日期，格式为 YYYY-MM-DD
+    const today = calendarData.today || new Date().toISOString().split('T')[0]; // 今天的日期，格式为 YYYY-MM-DD
     
     // 生成周日期范围
     const weekDates = [];
@@ -87,9 +87,10 @@ function renderCalendar() {
     weekDates.forEach(dateInfo => {
         const dateEvents = calendarData.days[dateInfo.date] || [];
         const isToday = dateInfo.date === today;
+        const isPast = dateInfo.date < today;
         
         tableHtml += `
-            <td>
+            <td class="${isPast ? 'past-date' : ''}">
                 <div class="calendar-date ${isToday ? 'today' : ''}">${dateInfo.formattedDate}</div>
                 <div class="calendar-events">
         `;
@@ -102,7 +103,7 @@ function renderCalendar() {
                 const importanceStars = '★'.repeat(event.importance || 0);
                 
                 tableHtml += `
-                    <div class="calendar-event ${event.is_new ? 'new' : ''}">
+                    <div class="calendar-event ${event.is_new ? 'new' : ''} ${isPast ? 'past-event' : ''}" data-event-id="${event.event_id}">
                         ${event.event_time ? `<div class="calendar-event-time">${event.event_time}</div>` : ''}
                         <div class="calendar-event-title">${event.title}</div>
                         <div class="calendar-event-footer">
