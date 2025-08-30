@@ -1,0 +1,1443 @@
+{
+  "platform": "jiuyangongshe",
+  "platform_name": "韭研公社",
+  "data_type": "HISTORICAL",
+  "year": 2025,
+  "month": 8,
+  "total_events": 96,
+  "events": [
+    {
+      "id": "jygs_bd2310e306a843fe99446891001b0dc1_1b0188c0719e42dea351571739a88d16_20250801",
+      "platform": "jiuyangongshe",
+      "title": "美国开始对日韩等14个国家征收对等关税",
+      "event_date": "2025-08-01",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_58b1499a932443f28695bb14fea94b57_6f1bb09e5e794537b026983f091d45db_20250801",
+      "platform": "jiuyangongshe",
+      "title": "香港金融管理局开始接受稳定币牌照申请",
+      "event_date": "2025-08-01",
+      "content": "香港金融管理局(金管局)将从8月1日起开始接受稳定币牌照申请。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "稳定币"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_4e1aa163b20e467fa07c7ea8b1643cde_4620987abf9647d1b37cc06ef0416bd0_20250801",
+      "platform": "jiuyangongshe",
+      "title": "中药饮片保质期标注将强制执行",
+      "event_date": "2025-08-01",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "中药"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_e29f4497f9f742fe93dc96f0cc349f55_b2d1c19ce0424a50973c9afd2127795d_20250801",
+      "platform": "jiuyangongshe",
+      "title": "智己汽车“超级增程”将全球首发",
+      "event_date": "2025-08-01",
+      "content": "智己汽车划时代的“超级增程”将于8月1日全球首发。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "新能源汽车"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_6bdad70056b84b91b1c571344760127d_00ccedd0b81f4d27925f37b73d8cb238_20250801",
+      "platform": "jiuyangongshe",
+      "title": "全球RWA百城行北京站",
+      "event_date": "2025-08-01",
+      "content": "全球RWA百城行北京站将于8月1日举行 主题将聚焦“RWA.稳定币场景创新”。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "稳定币"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_82fc33e43ee54eb79a16b1ea31810980_c45e3e0fe01248b19115a2c5018969c8_20250801",
+      "platform": "jiuyangongshe",
+      "title": "大模型一体机性能标准框架研讨会",
+      "event_date": "2025-08-01",
+      "content": "大模型一体机性能标准框架研讨会将于8月1日召开。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "人工智能"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_484ba2ea4c854f1195f4e703027ed870_f82dac4ef86d4980b0103ff0984401bd_20250801",
+      "platform": "jiuyangongshe",
+      "title": "三祥新材锆铪分离技术发布会暨产业化启动仪式",
+      "event_date": "2025-08-01",
+      "content": "三祥新材锆铪分离技术发布会暨产业化启动仪式将于8月1日9:30举行。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "固态电池"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_12759f3ce4e1489583c40ff4f138dbc1_946b58e0baf34e9dbca37c8ca736ede0_20250801",
+      "platform": "jiuyangongshe",
+      "title": "国家发改委召开新闻发布会",
+      "event_date": "2025-08-01",
+      "content": "国家发改委定于8月1日召开国家发展改革委新闻发布会，解读当前经济形势和经济工作。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_7c93f709930f4706920740bb8e9c4cde_5037ba5b1e4a4557a59e55143491499f_20250802",
+      "platform": "jiuyangongshe",
+      "title": "欧盟《人工智能法案》中涉及通用人工智能模型的关键条款生效",
+      "event_date": "2025-08-02",
+      "content": "欧盟《人工智能法案》中涉及通用人工智能(AI)模型的关键条款将于8月2日正式生效。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "人工智能"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_21ee56c55f49468c86cc5da33e92d519_9900d67c78a64b6ca8eca2ddedf66d77_20250804",
+      "platform": "jiuyangongshe",
+      "title": "第10届亚太催化大会",
+      "event_date": "2025-08-04",
+      "content": "第10届亚太催化大会(APCAT-10)将于8月4日至7日在新加坡举行。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_e5585a02c5f4485eb000f76b73539bbc_8eb6beb3d7934f13b0c3d4cc3fa2f749_20250805",
+      "platform": "jiuyangongshe",
+      "title": "第32届IEEE集成电路物理和失效分析国际研讨会(IPFA2025)",
+      "event_date": "2025-08-05",
+      "content": "第32届IEEE集成电路物理和失效分析国际研讨会(IPFA2025)将于8月5-8日在马来西亚举行，该研讨会是全球有关半导体物理分析、失效分析及可靠性方面学术水平最高、规模最大、影响力最广的国际会议之一。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_dfa73e430f7c43ca844f926ffd5dd338_059c47ef1c864391ad2250014e2ad253_20250805",
+      "platform": "jiuyangongshe",
+      "title": "第26届电子封装技术国际会议",
+      "event_date": "2025-08-05",
+      "content": "第26届电子封装技术国际会议将于8月5-7日在上海隆重举行2025国际封装创新成果展”也将同步举办。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "半导体"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_11c626756f0a4c5794fd8dc9b7c0a26d_6671f28baac24ec999ee379d4d93904a_20250805",
+      "platform": "jiuyangongshe",
+      "title": "名爵新MG4将正式发布",
+      "event_date": "2025-08-05",
+      "content": "名爵新MG4将在8月5日正式发布，该车型为全球首款量产半固态电池车型，固态车型将在本次发布会上披露更多信息。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "固态电池"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_acca11164f7c40a3aa8ee86b7c918f69_633ff16804754e57827f2571edc17bd5_20250805",
+      "platform": "jiuyangongshe",
+      "title": "三超新材控股股东变更为博达新能母公",
+      "event_date": "2025-08-05",
+      "content": "公司股票自2025年8月5日开市起复牌。公司股东邹余耀、刘建勋与博达合一、无锡博达新能科技有限公司签署《股份转让协议》，博达合一分两期协议受让邹余耀、刘建勋持有的公司1899万股股份。同时，博达合一与邹余耀、刘建勋签署《表决权放弃协议》。第一期交割完成后，公司控股股东变更为博达合一，实际控制人变更为柳敬麒。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_f292bbf18ce14903be49502abc1c20b4_ea1144c1ec804afeb32a799db158ecc8_20250805",
+      "platform": "jiuyangongshe",
+      "title": "上纬新材核查工作完成",
+      "event_date": "2025-08-05",
+      "content": "公司就股票交易异常波动及严重异常波动的相关事项进行了核查。鉴于相关核查工作已完成，经公司向上交所申请，公司股票将于8月5日开市起复牌。目前公司基本面未发生重大变化。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_bb6ecc25eeeb45999ad97614557c6437_9c79831c74364f228e0b2d949cd565ae_20250806",
+      "platform": "jiuyangongshe",
+      "title": "第26届电子封装技术国际会议(ICEPT 2025)",
+      "event_date": "2025-08-06",
+      "content": "第26届电子封装技术国际会议(ICEPT 2025)将于8月6-8日在上海举行。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_f361027f352a46e48241babebebc1924_e9de4248d20d449aa36e7ce40fd4ce26_20250806",
+      "platform": "jiuyangongshe",
+      "title": "大疆将发布旗下首款扫地机器人",
+      "event_date": "2025-08-06",
+      "content": "大疆正式宣布，将在8月6日正式发布旗下首款扫地机器人。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "机器人"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_400a56b5af6449cd8ebea7fddbc1aee6_3459d09ba426482dbdad171234306a76_20250806",
+      "platform": "jiuyangongshe",
+      "title": "2025怡亚通供应链出海战略发布会暨产业出海生态联盟启动仪式",
+      "event_date": "2025-08-06",
+      "content": "2025怡亚通供应链出海战略发布会暨产业出海生态联盟启动仪式将于8月6日举行。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_95bd30db69524ac89f465f3bdda183cc_1fa04725a00f4ba6a9821cc812caa19b_20250806",
+      "platform": "jiuyangongshe",
+      "title": "傅利叶将发布GRx系列第三代产品GR-3",
+      "event_date": "2025-08-06",
+      "content": "傅利叶将于8月6日发布GRx系列第三代产品GR-3，主打交互陪伴的医用康养机器人。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "人形机器人"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_2ypb0znse5e_01d062a8a6d149ca978856e5ad64444b_20250806",
+      "platform": "jiuyangongshe",
+      "title": "中国国际钢铁大会",
+      "event_date": "2025-08-06",
+      "content": "中国钢铁行业最重要的年度对外交流活动，围绕绿色低碳转型、智能制造发展、终端用钢需求、钢铁市场趋势等关键议题进行深入探讨，创新打造1+2+N中国国际钢铁周。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_87f5d262a3fb403193775eb0912ee0a5_2b911b8e0297418a8860457cb1f4db4c_20250806",
+      "platform": "jiuyangongshe",
+      "title": "安车检测控股股东变更为矽睿科技",
+      "event_date": "2025-08-06",
+      "content": "矽睿科技拟协议收购公司实控人持有的6.43%公司股份。双方约定在第一期标的股份转让完成后，贺宪宁将其持有的13.57%公司股份对应的表决权委托给矽睿科技行使。在第一期标的股份转让完成的前提下，贺宪宁拟将其持有的13.57%公司股份在该等股份解除限售后转让给矽睿科技。本次权益变动实施完成后，公司控股股东将由贺宪宁变更为矽睿科技，实际控制人将由贺宪宁变更为无实际控制人。公司股票自2025年8月6日（星期三）上午开市起复牌。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_a0f203a49fce42ebac2c89ff826c86f4_a1d56c0b35524e11b6e70af4ce68c4ef_20250806",
+      "platform": "jiuyangongshe",
+      "title": "第13届云台会主题活动",
+      "event_date": "2025-08-06",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_637ab6eae9484c83b3517dc91e8e6357_c357174b8753490fa36874ddba393280_20250806",
+      "platform": "jiuyangongshe",
+      "title": "2025(第三届)再生铝产业高质量发展大会",
+      "event_date": "2025-08-06",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_0a7f45dc30694727b71df446b3fe627b_aabe8fbe0da94037a0baa07d80c39dd4_20250806",
+      "platform": "jiuyangongshe",
+      "title": "2025中国硅基负极材料技术与应用大会",
+      "event_date": "2025-08-06",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_cef5da9e30f142788f089d98b26047fb_59de3442c3d34ad69ee0dc3f0b7d2884_20250807",
+      "platform": "jiuyangongshe",
+      "title": "第12届世界运动会",
+      "event_date": "2025-08-07",
+      "content": "第12届世界运动会将于8月7-17日在成都举办。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_b5cdf1b0615f4d18a88895049cfa2dc4_5820d9edc5b348ddbd8e2c50913afddc_20250807",
+      "platform": "jiuyangongshe",
+      "title": "2025第五届中国煤化工行业高峰论坛",
+      "event_date": "2025-08-07",
+      "content": "2025第五届中国煤化工行业高峰论坛将于8月7日-9日在成都举行(卓创资讯举办)。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "煤化工"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_635eeb4f2a1740bab39944face2eb0f1_80e9659510594da18d2ac5dd99735548_20250807",
+      "platform": "jiuyangongshe",
+      "title": "诛仙IP正统续作MMORPG游戏《诛仙2》国内公测",
+      "event_date": "2025-08-07",
+      "content": "诛仙IP正统续作MMORPG游戏《诛仙2》定档2025年8月7日在国内公测。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "游戏"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_75ee8f6151614114bfe7b8218d2a95c1_4ed122a53cfc4ce9934aacf96564002b_20250807",
+      "platform": "jiuyangongshe",
+      "title": "第五届中国工业软件大会",
+      "event_date": "2025-08-07",
+      "content": "第五届中国工业软件大会将于8月7日在重庆举办。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_4304ff043e164f7d90acba88691ba344_305b18b882ec418fad4c8154c92ebeec_20250807",
+      "platform": "jiuyangongshe",
+      "title": "全球首个RWA注册登记平台将正式上线",
+      "event_date": "2025-08-07",
+      "content": "全球首个RWA(真实世界资产)注册登记平台将于2025年8月7日正式上线，由中国香港Web3.0标准化协会发起，旨在打通RWA资产代币化的全流程服务体系。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "稳定币"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_5516c9b882e749b384ccf2bfbee600b2_01e0054044a44c64bdb1f2ed14a59d52_20250807",
+      "platform": "jiuyangongshe",
+      "title": "2025亚洲最大开放计算技术大会",
+      "event_date": "2025-08-07",
+      "content": "2025亚洲最大开放计算技术大会将于8月7日举办。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_0abbc2ac360640809a7de28b2ea6fb2c_0d7d90ab6f0b46ca860bb6f5dcb35e21_20250807",
+      "platform": "jiuyangongshe",
+      "title": "河化股份控股股东银亿控股100%股权拟转让给北京胜顶或其指定方",
+      "event_date": "2025-08-07",
+      "content": "公司接到银亿控股有限公司的通知，银亿集团、宁波如升实业有限公司与北京胜顶科技有限公司达成合作意向，银亿控股全体股东拟将所持银亿控股100%股权转让给北京胜顶或其指定方。若转让完成，公司实际控制人将变更。本次交易总价为6.92亿元，包括现金交易款3.37亿元及承接债务3.55亿元。目前该合作意向仅为初步意向，具体内容以相关方另行签署的正式协议为准，存在不确定性。公司股票自8月7日起复牌。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_09bc619ad8d94523b0ba765dfffb2015_271e1f3d5e1d4f389d5343364063ee84_20250808",
+      "platform": "jiuyangongshe",
+      "title": "2025世界机器人大会",
+      "event_date": "2025-08-08",
+      "content": "2025世界机器人大会将于8月8日至12日在北京举办。",
+      "category": "投资事件",
+      "importance": 4,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "人形机器人"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_184ed56be142437a84759c002aba78f0_9ea657eb48f54fe4b5499f6a09045547_20250808",
+      "platform": "jiuyangongshe",
+      "title": "2025第三届世界氢能产业博览会",
+      "event_date": "2025-08-08",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "氢能源"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_d9ed401689284d37b54eef938829bf7c_67afd7cf24e54ccbb86c087b99b54e03_20250810",
+      "platform": "jiuyangongshe",
+      "title": "“河北五超”将开幕",
+      "event_date": "2025-08-10",
+      "content": "河北省五人制足球超级联赛即“河北五超”将于8月10日开幕。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_e5fa10b27b2d49b899fc9d91a32d2a41_beab5493e0274bb8b6d4981ac9742811_20250811",
+      "platform": "jiuyangongshe",
+      "title": "广旅大健康拟收购黑芝麻20%股份成公司控股股",
+      "event_date": "2025-08-11",
+      "content": "广旅大健康拟协议收购公司控股股东黑五类集团持有的公司20%股份。同日，黑五类集团、韦清文、李汉荣、李汉朝、李玉琦签署《表决权放弃承诺》，自《股份转让协议》项下标的股份过户完成之日起，无条件且不可撤销地放弃承诺人各自持有的公司股份（合计占公司股份的17.66%）对应的表决权，亦不委托任何其他方行使该等股份的表决权。本次权益变动完成后，公司控股股东将变更为广旅大健康，公司实际控制人将变更为广西国资委。公司股票自2025年8月11日（星期一）上午开市起复牌。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_b741b14dd97d48cebb8ad7e151197ef8_b77fc3c42be54ed39aba854e5bde7745_20250811",
+      "platform": "jiuyangongshe",
+      "title": "佳创视讯实控人将变更为毛广甫与李莉夫妇",
+      "event_date": "2025-08-11",
+      "content": "公司控股股东、实际控制人陈坤江与李莉、毛广甫签署了《控制权变更框架协议》。若本次控制权变更事项顺利推进并实施完成，公司控股股东、实际控制人将由陈坤江变更为毛广甫与李莉夫妇。公司股票自2025年8月11日开市起复牌。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_19ec69eff4f444b68ba8068cc9f3596a_94103402ca6d4446ae5d25ed433e9c76_20250812",
+      "platform": "jiuyangongshe",
+      "title": "光库科技拟购买苏州安捷讯光电科技股份有限公司100%股权",
+      "event_date": "2025-08-12",
+      "content": "公司拟以发行股份、可转换公司债券及支付现金的方式向张关明等6名交易对方购买其合计所持有的苏州安捷讯光电科技公司100%股权，并拟向不超过35名特定投资者发行股份募集配套资金。标的公司主营业务为光通信领域光无源器件的研发、生产、销售。公司股票将于2025年8月12日开市起复牌。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_eeead4a7fc494f5a82b2ea68ea6b5f43_f9faceeb2e8f48a28bd569ce902609eb_20250812",
+      "platform": "jiuyangongshe",
+      "title": "华为将发布AI推理领域的突破性技术成果",
+      "event_date": "2025-08-12",
+      "content": "华为将于8月12日在2025金融AI推理应用落地与发展论坛上，发布AI推理领域的突破性技术成果。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_f80a4464695844369f092d6f5c1ea483_a1d593a0f1214711991b0de94a90548e_20250812",
+      "platform": "jiuyangongshe",
+      "title": "海南自贸港政策解读系列-主题新闻发布会",
+      "event_date": "2025-08-12",
+      "content": "海南自贸港政策解读系列-主题新闻发布会(第四十五场)《海南省涉企行政检查条例(试行)》专场将于8月12日举行。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_50316e0d478c4959858e8b7ea7ca23f7_57fcf5030ca54e6893740efb66a68d13_20250813",
+      "platform": "jiuyangongshe",
+      "title": "2025中国LNG及乙烷行业发展峰会",
+      "event_date": "2025-08-13",
+      "content": "2025中国LNG及乙烷行业发展峰会将于8月13-15日举行(卓创资讯举办)。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_5dfef49f9a9741b498044b67c66ac681_5ae407830d7a47ecb6b22a14c10f46b1_20250813",
+      "platform": "jiuyangongshe",
+      "title": "2025中国具身智能机器人产业大会暨展览会",
+      "event_date": "2025-08-13",
+      "content": "8月13-15日，2025中国具身智能机器人产业大会暨展览会将在上海启幕。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "人形机器人"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_6ff39349e5a24cb7a35750bef4ff1bbd_eeb6f959048b47678a9358f74d6e3cd9_20250813",
+      "platform": "jiuyangongshe",
+      "title": "衢州发展拟购买先导电科95.46%股份",
+      "event_date": "2025-08-13",
+      "content": "公司拟通过发行股份的方式，向先导稀材、中金先导等购买先导电科95.46%股份，并募集配套资金，此次交易价格尚未确定。先导电科100%股权预估值不超过120亿元。公司股票8月13日复牌。衢州发展表示，先导电科主营先进PVD溅射靶材和蒸镀材料业务，此次交易前，公司主要业务为“地产+高科技投资”双主业模式，此次重组将扩展公司主营业务范围，直接提供公司在先进新材料领域的实体制造业务发展平台，进一步推动公司业务结构向硬科技实体制造转型。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_289e7d2c58fc48fb85fcec071a3f880c_37ee8ed12e594736a72d091e3d02eaf4_20250813",
+      "platform": "jiuyangongshe",
+      "title": "金橙子拟购买萨米特55%股权",
+      "event_date": "2025-08-13",
+      "content": "公司拟通过发行股份及支付现金的方式，向汪永阳、黄猛等8名交易对方购买长春萨米特光电科技有限公司（简称“萨米特”）55%股权，并募集配套资金。资产交易价格尚未确定。萨米特主营高精度快速反射镜业务，公司与萨米特均长期从事光学控制领域，此次交易后，双方将形成积极的互补关系。公司股票8月13日复牌。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_03631b2d7a6c4e52bfdfcbafc8959756_12344fe02eb64723934dcd0ca2cf1bcf_20250814",
+      "platform": "jiuyangongshe",
+      "title": "HTC VIVE将推出首款智能眼镜",
+      "event_date": "2025-08-14",
+      "content": "HTC VIVE将于8月14日举办发布会，推出首款智能眼镜。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "AI眼镜"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_9786ae2123714e11aaf6202c6aa96bb9_564f685c56504878b1ac76950796b0d1_20250815",
+      "platform": "jiuyangongshe",
+      "title": "2025世界人形机器人运动会",
+      "event_date": "2025-08-15",
+      "content": "2025世界人形机器人运动会将于今年8月15日至17日在国家体育场(鸟巢)和国家速滑馆(冰丝带)举办。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "人形机器人"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_706c17643f8a4f47a39fd87ad44d4ef4_eba723c2c0a4485e90eb2ce0446d2faa_20250815",
+      "platform": "jiuyangongshe",
+      "title": "《强制性产品认证实施规则移动电源、锂离子电池和电池组(试行)》实施",
+      "event_date": "2025-08-15",
+      "content": "国家认监委制定了《强制性产品认证实施规则移动电源、锂离子电池和电池组(试行)》，新版规则自8月15日起实施。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_615482f14ed44eab994a324243e6e562_e1bd3d0fd71b4b4c8e02131e770fe042_20250815",
+      "platform": "jiuyangongshe",
+      "title": "鸿蒙生态伙伴论坛",
+      "event_date": "2025-08-15",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "鸿蒙"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_900e0e2539bd4464857817f174f407f5_c9c21f6929a648a299440c79791b6527_20250815",
+      "platform": "jiuyangongshe",
+      "title": "普京和特朗普确定会晤",
+      "event_date": "2025-08-15",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_176fe57a5c0940f7a6bfecbc4f649d73_02d47c38302c44398bfeb6e9ccab3c64_20250815",
+      "platform": "jiuyangongshe",
+      "title": "2025华为深圳政企&恒扬数据新品推介会",
+      "event_date": "2025-08-15",
+      "content": "华为携手恒扬数据，将于8月15日在深圳五洲宾馆举办2025华为深圳政企&恒扬数据新品推介会暨展车体验活动。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_7264a06519a34576af2873b5c212aa20_3e9330e4a2a146d1ab248d4503212cca_20250817",
+      "platform": "jiuyangongshe",
+      "title": "《江苏省“两高”项目管理目录(2025年版)》施行",
+      "event_date": "2025-08-17",
+      "content": "《江苏省“两高”项目管理目录(2025年版)》自2025年8月17日起施行。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_e4524631460240309edfcf5e89b3c96f_c9241f4f35bd4232b1009288fec699c1_20250818",
+      "platform": "jiuyangongshe",
+      "title": "2025全球智慧教育大会",
+      "event_date": "2025-08-18",
+      "content": "2025全球智慧教育大会(Global Smart EducationConference 2025)将于8月18-20日在北京召开。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_7832b238168e489b83ae99c378113044_8b6c59b1bb0e438b88d7029daa825c26_20250818",
+      "platform": "jiuyangongshe",
+      "title": "中国神华拟向国家能源集团及西部能源购买资产",
+      "event_date": "2025-08-18",
+      "content": "公司拟通过发行A股股份及支付现金的方式购买国家能源集团持有的国源电力100%股权、新疆能源100%股权、化工公司100%股权、乌海能源100%股权、平庄煤业100%股权、神延煤炭41%股权、晋神能源49%股权、包头矿业100%股权、航运公司100%股权、煤炭运销公司100%股权、电子商务公司100%股权、港口公司100%股权，并以支付现金的方式购买西部能源持有的内蒙建投100%股权；同时，上市公司拟向不超过35名特定投资者发行 A 股股份募集配套资金。本次交易预案已通过董事会审议，A股股票自2025年8月18日开市起复牌。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_41659f91d794453eab064bb8555503c8_89064d48c6e44edfad5ab59d0fcae8e0_20250819",
+      "platform": "jiuyangongshe",
+      "title": "第二十四届全国植物基因组学大会",
+      "event_date": "2025-08-19",
+      "content": "第二十四届全国植物基因组学大会将于2025年8月19日-22日在西藏林芝召开。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_f1bba17ad22249ff8b2b86f62e34cdc3_d1a9e7afe6c1425ab53d667ed00c2e13_20250819",
+      "platform": "jiuyangongshe",
+      "title": "《无畏契约:源能行动》正式上线",
+      "event_date": "2025-08-19",
+      "content": "《无畏契约:源能行动》官宣定档日期，8月19日正式上线，",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "游戏"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_1h9v7ud99f1_79d33899768d49eda1d2bb407507cb02_20250819",
+      "platform": "jiuyangongshe",
+      "title": "第九届未来网络发展大会",
+      "event_date": "2025-08-19",
+      "content": "网络全球 决胜未来\n\n第九届未来网络发展大会将于8月19日至21日在南京举办\n\n本届大会，由1场开幕式、1场主论坛、17场分论坛和1场闭幕式组成，将邀请近千位专家学者参与，聚焦算网融合、智算网络、网络大模型、6G、数据基础设施等话题开展深入探讨，期间将发布重大研究成果，举行多项产业合作签约仪式。\n",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_6012f0583a114f9591d25d017f1a4981_ac263346efdf4004af09d7b1f5f624b3_20250819",
+      "platform": "jiuyangongshe",
+      "title": "国新办介绍“十四五”时期体育强国建设成就",
+      "event_date": "2025-08-19",
+      "content": "国新办8月19日举行新闻发布会，介绍“十四五”时期体育强国建设成就。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_331142a232004a6ebe44980f430b91c6_2eaaa501dbb446bfab118999900f3faf_20250819",
+      "platform": "jiuyangongshe",
+      "title": "中国船舶有效申报的异议股份数量为0股",
+      "event_date": "2025-08-19",
+      "content": "公司股票将于2025年8月19日开市起复牌。此前，公司已刊登拟开展吸收合并重大资产重组项目的异议股东收购请求权申报结果，并于8月13日开市起停牌实施收购请求权申报，申报期截至8月15日结束。公司同时公告，公司换股吸收合并中国重工暨关联交易之异议股东收购请求权申报期间内，共有3名股东进行了申报，申报股份数量10,500股。经核对，剔除无效申报后，本次收购请求权有效申报的异议股东数量为0名，有效申报的异议股份数量为0股。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_16420b591d304dd3ad72b9b38add46dc_2134f870b15842c9a56756ea42c65a99_20250819",
+      "platform": "jiuyangongshe",
+      "title": "北京量子产业生态创新发布会",
+      "event_date": "2025-08-19",
+      "content": "北京量子产业生态创新发布会将于8月19日举行。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "量子通信"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_6cf17991acd345dcb71ad1efa71fb39d_7de28d3e1f1e446dad9677f5cd1613e0_20250819",
+      "platform": "jiuyangongshe",
+      "title": "第五届中国快消品经销商大会",
+      "event_date": "2025-08-19",
+      "content": "第五届中国快消品经销商大会将于8月19-21日举行。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_56a7a5f0dfa046588346acbbf968d266_9d846acdbfc24cea8a8bf864e6ca3d81_20250820",
+      "platform": "jiuyangongshe",
+      "title": "2025可信数据空间推进大会",
+      "event_date": "2025-08-20",
+      "content": "2025可信数据空间推进大会将于2025年8月20日-21日在北京举行。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_a367c57ea4b149ffa9f7fdd7c2de0ae0_024a056d6c284b8c9b8c54507afe1a70_20250820",
+      "platform": "jiuyangongshe",
+      "title": "2025第十四届中国煤焦钢产业大会",
+      "event_date": "2025-08-20",
+      "content": "2025第十四届中国煤焦钢产业大会将于8月20-22日在青岛香格里拉酒店召开。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "煤炭"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_854e8aa143914cf8ae0ac64e97257ce4_2f8a15333cd34d2ba74124fcafc984ff_20250820",
+      "platform": "jiuyangongshe",
+      "title": "2025年WWEC世界教育者大会",
+      "event_date": "2025-08-20",
+      "content": "2025年WWEC世界教育者大会将于8月20日至22日在上海举办。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_28acfda8ba6b4e22ba833faf1f3aa07e_d2449024602649699681335570f01e90_20250820",
+      "platform": "jiuyangongshe",
+      "title": "谷歌将举办发布会",
+      "event_date": "2025-08-20",
+      "content": "谷歌将于8月20日举办发布会，推出新的Pixel品牌硬件。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_94da0a91ffa44a959c2fdd4c4b8dabcd_6e96ceb6f52d475cad7834ba5549a1c9_20250820",
+      "platform": "jiuyangongshe",
+      "title": "理想汽车:VLA司机大模型随理想i8交付",
+      "event_date": "2025-08-20",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_a637ab3f35f84bd190833c659761e5cb_1957098274f04262a3502093b5cfb6dc_20250821",
+      "platform": "jiuyangongshe",
+      "title": "2025中国电解铝大会",
+      "event_date": "2025-08-21",
+      "content": "2025中国电解铝大会将于2025年8月21-23日在云南省昆明市召开。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_4ffe4bb880cf4b83864dfc47f65d148e_cdd58dd268944c0d8e683103c50a2a49_20250821",
+      "platform": "jiuyangongshe",
+      "title": "《海南自由贸易港跨境资产管理试点业务实施细则》施行",
+      "event_date": "2025-08-21",
+      "content": "《海南自由贸易港跨境资产管理试点业务实施细则》将于8月21日施行。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "海南自贸"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_40cf4aaf12cc448a88da2a74ef81f1e1_fe977a94a71e4cfb8970b86aa34452ba_20250821",
+      "platform": "jiuyangongshe",
+      "title": "智元机器人首届合作伙伴大会",
+      "event_date": "2025-08-21",
+      "content": "智元机器人将于2025年8月21日在上海举办首届合作伙伴大会，会上百台机器人同场亮相，还将首发“神秘新品”。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "人形机器人"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_18ec93cf84534967bc95abc22256ca5f_53b215afc65940dba8497d4844508335_20250821",
+      "platform": "jiuyangongshe",
+      "title": "折叠屏旗舰手机荣耀MagicVFlip 2发布",
+      "event_date": "2025-08-21",
+      "content": "荣耀官宣新款折叠屏旗舰手机荣耀MagicVFlip2将于8月21日发布，产品slogan为“小高定，大自拍”，将在影像、外观、续航等方面迎来升级。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_2e83502d5d2a44e2bbff863a0f3352d9_881c9b5077c34331ac2dc7b9407ed6da_20250821",
+      "platform": "jiuyangongshe",
+      "title": "影石新品发布会",
+      "event_date": "2025-08-21",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_a5141e5b2b3542b1940de08f133d23ca_87d207ecc9f44b98aa24c7c58cd7df73_20250822",
+      "platform": "jiuyangongshe",
+      "title": "杰克逊霍尔全球央行年会",
+      "event_date": "2025-08-22",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_4359a5f5063e4a9c9c57bd49c119ef41_3e53dc2b3279438097f536604a71c419_20250822",
+      "platform": "jiuyangongshe",
+      "title": "中国化学与物理电源行业协会磷酸铁锂材料分会第一届第二次理事会",
+      "event_date": "2025-08-22",
+      "content": "中国化学与物理电源行业协会磷酸铁锂材料分会第一届第二次理事会将于8月22日在深圳举行，探讨行业内卷及去落后产能方案.",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_bc733f6c15b045c7b945f5802007e9f0_95b0d314a24549afbba0b7ffcfb36340_20250822",
+      "platform": "jiuyangongshe",
+      "title": "2025中国算力大会",
+      "event_date": "2025-08-22",
+      "content": "2025中国算力大会将于8月22日至24日在山西省大同市举行。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "算力"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_60370a515b6048309ae920a402440dcb_1e2bd4a88b7f408387083301c05c3989_20250822",
+      "platform": "jiuyangongshe",
+      "title": "2025华为兆瓦超充高质量发展峰会",
+      "event_date": "2025-08-22",
+      "content": "2025华为兆瓦超充高质量发展峰会将于8月22日在四川举行主题为共建兆瓦超充生态，共赢全电物流机遇。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_cc7dfdbd280247e6b87912131cdb1726_0c277ba9ead0447faf054a8e79635951_20250822",
+      "platform": "jiuyangongshe",
+      "title": "天普股份：杨龚轶凡将成为公司实控人",
+      "event_date": "2025-08-22",
+      "content": "公司控股股东天普控股、天昕贸易、尤建义拟以协议转让方式合计向中昊芯英转让公司10.75%股份。同时，普恩投资、天昕贸易拟以协议转让方式向方东晖合计转让公司8%股份。以本次股份转让完成为前提，中昊芯英、海南芯繁和方东晖拟向天普控股增资。增资后，中昊芯英、海南芯繁合计持有天普控股50.01%股权，杨龚轶凡通过中昊芯英、海南芯繁控制天普控股，进而控制上市公司，杨龚轶凡将成为上市公司的新实控人。公司股票将于8月22日复牌。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_44f6b523733c45f8a200520293314558_5c733207171242929884034ee6728ec8_20250825",
+      "platform": "jiuyangongshe",
+      "title": "老铺黄金将进行产品提价调整",
+      "event_date": "2025-08-25",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_872ecaaac3394641b7e37ae1180be4fe_2bab2ebc618d425289ccb6ebfeebac47_20250825",
+      "platform": "jiuyangongshe",
+      "title": "智界及问界秋季新品发布会",
+      "event_date": "2025-08-25",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_a710b5cac67945a38ace7461d92dfc72_2779f8dbda994e659e7fc43372c312f4_20250825",
+      "platform": "jiuyangongshe",
+      "title": "尚界H5正式开启预订",
+      "event_date": "2025-08-25",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_11855e7d63b04ea8b5980e7c1ddef0e0_02b8c41dc7654acda58bbc7aebc8630f_20250825",
+      "platform": "jiuyangongshe",
+      "title": "科华控股实控人将变更为卢红萍和涂瀚",
+      "event_date": "2025-08-25",
+      "content": "卢红萍、涂瀚拟以协议转让方式合计受让公司实控人陈洪民及其一致行动人持有的公司3145.47万股股份。同时约定收购人将以不低于第一期协议转让的价格继续收购陈洪民及其一致行动人持有的公司976.61万股股份。公司同日公告，拟以10.87元/股的价格向卢红萍、涂瀚发行3000万股股票募资不超过3.26亿元，扣除发行费用后将全部用于补充流动资金。公司股票将于8月25日开市起复牌。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_7757025cd2a5443c9637adc05fff4cbe_9408bae2b0af464bb68c9fc14cbfb66e_20250825",
+      "platform": "jiuyangongshe",
+      "title": "开普云拟收购金泰克半导体",
+      "event_date": "2025-08-25",
+      "content": "开普云拟通过支付现金方式购买南宁泰克半导体有限公司（简称“南宁泰克”）70%的股权，同时拟以发行股份方式购买南宁泰克30%的股权并募集配套资金。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_7bbe07f3bca94080809fd1253156e98f_78aeb11e52484ffb8701ff03901ef79e_20250826",
+      "platform": "jiuyangongshe",
+      "title": "2025中国操作系统产业大会",
+      "event_date": "2025-08-26",
+      "content": "8月26日，2025中国操作系统产业大会将在北京举行，将重磅发布openKyin操作系统新版。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_23631023532d481bbe1f2067565b7b9a_bae378ce1a65484ba9ae8993b099a0ed_20250826",
+      "platform": "jiuyangongshe",
+      "title": "广州市内免税店将开业",
+      "event_date": "2025-08-26",
+      "content": "广州市内免税店将于8月26日盛大开业。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_460b4cefdb36473ca1c4204fda3b9f02_92cb1738f987496c8db72323f0656fd9_20250826",
+      "platform": "jiuyangongshe",
+      "title": "2025人民数据大会",
+      "event_date": "2025-08-26",
+      "content": "2025人民数据大会将于8月26日举行。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "数据要素"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_28b4f02a3fbb4079bf7d86adc398f6d3_85c4a704914e43c8add8976e4f4db185_20250826",
+      "platform": "jiuyangongshe",
+      "title": "天太机器人将全球首发新一代径向与轴向关节模组",
+      "event_date": "2025-08-26",
+      "content": "天太机器人8月26日将全球首发新一代径向与轴向关节模组。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_3cf8d3349f374bb1962861d6ea654c7a_1913318dbe974dfa97ec7a4cbf7f4853_20250826",
+      "platform": "jiuyangongshe",
+      "title": "广东省人工智能与机器人产业创新产品与服务发布会(佛山专场)",
+      "event_date": "2025-08-26",
+      "content": "广东省人工智能与机器人产业创新产品与服务发布会(佛山专场)将于8月26日14:30举行。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "机器人"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_4b722eb4d6cd4c31ba4507110a786f6f_0ce559eeae124370bcf4050b0f2598e4_20250826",
+      "platform": "jiuyangongshe",
+      "title": "Rokid Glasses海外发布会",
+      "event_date": "2025-08-26",
+      "content": "Rokid将于8月26日在纽约曼哈顿举办Rokid Glasses海外发布会，发布会当天也将开启Rokid Glasses海外Kickstarter众筹。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "AI眼镜"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_c8e0472aea1b46b0ab9939c693c44698_c6cc1ea48291469d822112e3ebcbc846_20250826",
+      "platform": "jiuyangongshe",
+      "title": "飞鹿股份：实际控制人将变更为杨奕骁",
+      "event_date": "2025-08-26",
+      "content": "公司控股股东、实际控制人章卫国与上海骁光智能技术有限公司签署《股份转让协议》及《表决权委托协议》，章卫国拟将其持有的公司1100万股股份转让给骁光智能，并委托其2996.69万股股份的表决权。协议转让及表决权委托完成后，骁光智能拥有公司表决权的比例将达到18.71%。同时，骁光智能与公司签署了《附条件生效的股份认购协议》，拟认购公司向其发行的不超过4000万股且不低于3200万股股票。本次交易完成后，骁光智能将持有公司发行后总股本的17.14%-19.70%，公司控股股东仍为骁光智能，实际控制人将变更为杨奕骁。股票自2025年8月26日（星期二）上午开市起复牌。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_7d13cec17e5d4e54ac730dcd763b407c_19919c0e191e45c6b8a13b5263cc76dc_20250827",
+      "platform": "jiuyangongshe",
+      "title": "第十五届中国一东北亚博览会",
+      "event_date": "2025-08-27",
+      "content": "第十五届中国一东北亚博览会将于8月27日至31日在吉林省长春市举办。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_dede7386ab394b29afa67d887bd44b23_ee35632c718b4c29a1ad01fab746d3b1_20250827",
+      "platform": "jiuyangongshe",
+      "title": "2025势银绿氢产业大会",
+      "event_date": "2025-08-27",
+      "content": "2025势银绿氢产业大会将于8月27日至28日举办。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_ec611b34c78f42bf9918132d7bb76c16_bb81ea3f57dc4fb0aca9b9af2b078767_20250827",
+      "platform": "jiuyangongshe",
+      "title": "英伟达预将发布Q2财报",
+      "event_date": "2025-08-27",
+      "content": "英伟达预计于08月27日(美东)发布Q2财报",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "人工智能"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_dfda341f8a0c45d8a30511940035f6c0_d86f99209bd94a999a005ed5f33a8349_20250827",
+      "platform": "jiuyangongshe",
+      "title": "第24届ITE深圳国际物联网展",
+      "event_date": "2025-08-27",
+      "content": "第24届ITE深圳国际物联网展将于8月27-29日在深圳国际会展中心(宝安新馆)举行。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_53ca93fd47c94ba0a72b6833ba1dbf85_3e593fad6c174c0d9e7f4e0f006e366a_20250827",
+      "platform": "jiuyangongshe",
+      "title": "华为数据存储AISSD新品发布会",
+      "event_date": "2025-08-27",
+      "content": "华为数据存储AISSD新品发布会将于8月27日在上海举办，主题为“AI SSD，加速智能经济涌现”",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_3a007898d88743d2991bff9aadd20bb7_863efaf8cdc4435c9367d0c87e8f3a2c_20250827",
+      "platform": "jiuyangongshe",
+      "title": "力源科技第三代PPS复合隔膜+方形电解槽联袂发布",
+      "event_date": "2025-08-27",
+      "content": "力源科技第三代PPS复合隔膜+方形电解槽联袂发布将于8月27日举行。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_19c4c753e8e04d6b9c742270be0fa3ce_aced969f99d8446a8c72d01aec53343a_20250827",
+      "platform": "jiuyangongshe",
+      "title": "东杰智能实控人将变更为自然人韩永光",
+      "event_date": "2025-08-27",
+      "content": "公司控股股东淄博匠图的控股股东淄博展恒的有限合伙人淄博市财金控股集团有限公司将其持有的淄博展恒99%的基金份额转让给海南鹤平投资有限公司，交易价格为16.2亿人民币。本次权益变动完成后，公司实际控制人由淄博市财政局变更为自然人韩永光，控股股东仍为淄博匠图。新的实际控制人将积极赋能公司现有产业迭代升级，为智慧仓储物流行业研发、提供具身智能解决方案，同时助力公司培育新的利润增长点。公司股票、债券自2025年8月27日（星期三）开市起复牌。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_0f6e316840894809804a391b3d4ec8bd_b2ea253f523e492a902500031ebbd4a2_20250829",
+      "platform": "jiuyangongshe",
+      "title": "2025全球动力电池回收产业峰会",
+      "event_date": "2025-08-29",
+      "content": "2025全球动力电池回收产业峰会暨第十三届退役动力电池回收利用高峰论坛将于8月29日至31日在深圳举办。",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_5ddcfcd111fe415c9362fdde4185912d_5ec61166160b40ecbce8954fe7adc928_20250829",
+      "platform": "jiuyangongshe",
+      "title": "第二十八届成都国际车展",
+      "event_date": "2025-08-29",
+      "content": "",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_1a91d33b9f9348bda7a0df474626f893_7156ee55049a4d42b4b3b09b4522e1e6_20250829",
+      "platform": "jiuyangongshe",
+      "title": "第三届出海AI营销生产力峰会",
+      "event_date": "2025-08-29",
+      "content": "",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    }
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "platform": "tonghuashun",
+  "platform_name": "同花顺",
+  "data_type": "HISTORICAL",
+  "year": 2025,
+  "month": 6,
+  "total_events": 26,
+  "events": [
+    {
+      "id": "ths_20250601_0_231cbb23",
+      "platform": "tonghuashun",
+      "title": "C919正式首次境外商业飞行",
+      "event_date": "2025-06-01",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885566",
+          "name": "大飞机"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250604_0_03955f66",
+      "platform": "tonghuashun",
+      "title": "台北国际电脑展",
+      "event_date": "2025-06-04",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885800",
+          "name": "消费电子概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250605_0_6b384e3b",
+      "platform": "tonghuashun",
+      "title": "Switch 2将于6月5日发售",
+      "event_date": "2025-06-05",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885457",
+          "name": "手机游戏"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250605_1_2e347f74",
+      "platform": "tonghuashun",
+      "title": "上海国际碳中和博览会",
+      "event_date": "2025-06-05",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885919",
+          "name": "碳中和"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250607_0_a7f819b4",
+      "platform": "tonghuashun",
+      "title": "2025全球人工智能技术大会",
+      "event_date": "2025-06-07",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885728",
+          "name": "人工智能"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250607_1_eef37d00",
+      "platform": "tonghuashun",
+      "title": "2025全球人工智能技术大会(GAITC2025)",
+      "event_date": "2025-06-07",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885728",
+          "name": "人工智能"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250609_0_3d29c498",
+      "platform": "tonghuashun",
+      "title": "苹果公司举行年度全球开发者大会\t",
+      "event_date": "2025-06-09",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885376",
+          "name": "苹果概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250618_0_f96f140e",
+      "platform": "tonghuashun",
+      "title": "2025全球高速铜缆创新连接技术与供应链大会",
+      "event_date": "2025-06-18",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885957",
+          "name": "东数西算(算力)"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250619_0_9a54da83",
+      "platform": "tonghuashun",
+      "title": "2024陆家嘴论坛",
+      "event_date": "2025-06-19",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885456",
+          "name": "互联网金融"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250621_0_fcb98b67",
+      "platform": "tonghuashun",
+      "title": "华为开发者大会",
+      "event_date": "2025-06-21",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885923",
+          "name": "鸿蒙概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250624_0_6b921347",
+      "platform": "tonghuashun",
+      "title": "国新办6月24日上午举行新闻发布会，介绍抗战胜利80周年纪念活动总体安排",
+      "event_date": "2025-06-24",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "ths_20250624_1_6b1c4dda",
+      "platform": "tonghuashun",
+      "title": "2025国际低空经济博览会将于7月23日至26日在上海举办。",
+      "event_date": "2025-06-24",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "ths_20250624_2_257893c8",
+      "platform": "tonghuashun",
+      "title": "第22届亚洲消费电子展",
+      "event_date": "2025-06-24",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885800",
+          "name": "消费电子概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250625_0_a7878b4b",
+      "platform": "tonghuashun",
+      "title": "国务院台湾事务办公室6月25日举行新闻发布会，就近期两岸热点问题回答记者提问",
+      "event_date": "2025-06-25",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "ths_20250625_1_ea49e665",
+      "platform": "tonghuashun",
+      "title": "英伟达将于美国太平洋时间6月25日上午9点（北京时间次日凌晨0点）举行2025年度股东大会",
+      "event_date": "2025-06-25",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "ths_20250625_2_4308f3f2",
+      "platform": "tonghuashun",
+      "title": "国新办6月25日举行“新征程上的奋斗者”中外记者见面会，围绕“推动文化和旅游高质量发展 丰富人民美好生活”与中外记者见面交流。",
+      "event_date": "2025-06-25",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "ths_20250626_0_e3ea2549",
+      "platform": "tonghuashun",
+      "title": "第八届亚洲电力电工暨数字电网展览会、亚洲新型电力系统及储能展览会将于6月26日至28日在广州举行",
+      "event_date": "2025-06-26",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "ths_20250626_1_4cd29220",
+      "platform": "tonghuashun",
+      "title": "国家发改委将于6月26日10:00举行6月份新闻发布会",
+      "event_date": "2025-06-26",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "ths_20250626_2_3990ede4",
+      "platform": "tonghuashun",
+      "title": "上海黄金交易所：6月26日上市iPAu99.99HK、iPAu99.5HK合约并设立香港指定仓库",
+      "event_date": "2025-06-26",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "ths_20250626_3_f56cc4d9",
+      "platform": "tonghuashun",
+      "title": "国务院总理李强将于6月26日在北京出席2025年亚洲基础设施投资银行第十届理事会年会开幕式并致辞",
+      "event_date": "2025-06-26",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "ths_20250627_0_6a240cd3",
+      "platform": "tonghuashun",
+      "title": "苹果首部原创电影《F1》将于6月27日院线首映",
+      "event_date": "2025-06-27",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "ths_20250627_1_bba3acc7",
+      "platform": "tonghuashun",
+      "title": "国新办将于6月27日就内河航运高质量发展等有关情况举行新闻发布会",
+      "event_date": "2025-06-27",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "ths_20250627_2_bdbac16f",
+      "platform": "tonghuashun",
+      "title": "第六届人工智能与机电自动化国际学术会议将于6月27日至29日举办",
+      "event_date": "2025-06-27",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "ths_20250630_0_9bac0eb5",
+      "platform": "tonghuashun",
+      "title": "大疆运载2025新品发布会官宣将于6月30日15:00举行",
+      "event_date": "2025-06-30",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "ths_20250630_1_fc4d0beb",
+      "platform": "tonghuashun",
+      "title": "中共中央政治局委员、外交部长王毅将于6月30日至7月6日访问欧盟总部并举行第十三轮中欧高级别战略对话",
+      "event_date": "2025-06-30",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "ths_20250630_2_39de7245",
+      "platform": "tonghuashun",
+      "title": "全球可持续交通高峰论坛高官会议暨上海合作组织成员国交通部长第十二次会议将于6月30日至7月2日举办",
+      "event_date": "2025-06-30",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    }
+  ]
+}

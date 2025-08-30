@@ -1,0 +1,226 @@
+{
+  "platform": "tonghuashun",
+  "platform_name": "同花顺",
+  "data_type": "HISTORICAL",
+  "year": 2025,
+  "month": 1,
+  "total_events": 12,
+  "events": [
+    {
+      "id": "ths_20250106_0_c3d356ff",
+      "platform": "tonghuashun",
+      "title": "香港国际玩具展览会",
+      "event_date": "2025-01-06",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885876",
+          "name": "网红经济"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250107_0_9f6eb70a",
+      "platform": "tonghuashun",
+      "title": "CES 2025将于美国拉斯维加斯国际会议中心举办",
+      "event_date": "2025-01-07",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885800",
+          "name": "消费电子概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250107_1_d05f721b",
+      "platform": "tonghuashun",
+      "title": "英伟达CEO 黄仁勋将在 CES 2025 发表主题演讲",
+      "event_date": "2025-01-07",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885957",
+          "name": "东数西算(算力)"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250110_0_61e827d9",
+      "platform": "tonghuashun",
+      "title": "2025全球计算大会将在深圳启幕",
+      "event_date": "2025-01-10",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885957",
+          "name": "东数西算(算力)"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250113_0_17eeea6a",
+      "platform": "tonghuashun",
+      "title": "第 18 届亚洲金融论坛将在香港会议展览中心举办",
+      "event_date": "2025-01-13",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885456",
+          "name": "互联网金融"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250114_0_a8cebb8b",
+      "platform": "tonghuashun",
+      "title": "第四届全球自动驾驶峰会将于北京举行",
+      "event_date": "2025-01-14",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885736",
+          "name": "无人驾驶"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250119_0_0a9f9ee8",
+      "platform": "tonghuashun",
+      "title": "“TikTok不卖就禁”法案最后期限",
+      "event_date": "2025-01-19",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885890",
+          "name": "抖音概念(字节概念)"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250120_0_986dbf3f",
+      "platform": "tonghuashun",
+      "title": "美国总统特朗普宣誓就职",
+      "event_date": "2025-01-20",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885840",
+          "name": "人民币贬值受益"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250123_0_5f66c509",
+      "platform": "tonghuashun",
+      "title": "三星 Galaxy全球新品发布会\t",
+      "event_date": "2025-01-23",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885800",
+          "name": "消费电子概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250128_0_245385a1",
+      "platform": "tonghuashun",
+      "title": "春节A股休市8天",
+      "event_date": "2025-01-28",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885525",
+          "name": "白酒概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250130_0_58baac11",
+      "platform": "tonghuashun",
+      "title": "美联储利率决议，鲍威尔举行发布会",
+      "event_date": "2025-01-30",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885456",
+          "name": "互联网金融"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250130_1_2dfdc668",
+      "platform": "tonghuashun",
+      "title": "特斯拉发布2024年财报、举行业绩会",
+      "event_date": "2025-01-30",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885431",
+          "name": "新能源汽车"
+        }
+      ]
+    }
+  ]
+}

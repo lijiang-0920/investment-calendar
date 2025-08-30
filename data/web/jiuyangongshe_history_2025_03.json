@@ -1,0 +1,2435 @@
+{
+  "platform": "jiuyangongshe",
+  "platform_name": "韭研公社",
+  "data_type": "HISTORICAL",
+  "year": 2025,
+  "month": 3,
+  "total_events": 161,
+  "events": [
+    {
+      "id": "jygs_512ef3f4b0f24c41b49ee2798d9d146b_bb4f60654a654010a77931e0eed73d12_20250301",
+      "platform": "jiuyangongshe",
+      "title": "汽车年检新规3月1日正式实施",
+      "event_date": "2025-03-01",
+      "content": "国家标准《新能源汽车运行安全性能检验规程》（以下简称《规程》）将于2025年3月1日正式实施。该标准将成为新能源汽车年检的检验标准，《规程》不仅适用于纯电动汽车，也将适用插电式混合动力（包含增程式）汽车，预计会对全国2472万辆新能源车车主产生影响。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_1157047667cf4e7896436109b4318b34_6b3ca45623fb46b59d0ee2c6f6809edd_20250301",
+      "platform": "jiuyangongshe",
+      "title": "国家公共数据资源登记平台上线试运行",
+      "event_date": "2025-03-01",
+      "content": "国家公共数据资源登记平台将于3月1日正式上线试运行，这个平台不仅是公共数据资源的管理系统，也是信息披露和资源发现的窗口。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "数据要素"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_a0122d5edc764b94a03f508d9ee24a0a_be6256750e3f45558a7b410f32db5310_20250301",
+      "platform": "jiuyangongshe",
+      "title": "东风日产最家技术发布会",
+      "event_date": "2025-03-01",
+      "content": "东风日产最家技术发布会将于3月1日举行，普及全民智驾",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_fcda21deb35b4869aa5462922d3462db_a80e811990b2455a868b72c58c98f484_20250302",
+      "platform": "jiuyangongshe",
+      "title": "荣耀将在MWC2025发布阿尔法战略",
+      "event_date": "2025-03-02",
+      "content": "荣耀3月2日将在MWC2025发布阿尔法战略，李健或亮相。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_840031287ac84055a65959aa9dfea72a_9ae17636169b4821b0dec288f57eff6e_20250302",
+      "platform": "jiuyangongshe",
+      "title": "比亚迪举行智能车载无人机系统发布会",
+      "event_date": "2025-03-02",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_0dc774874e954652b81eb54b9f0a3004_3d6307b753fc4de8ba62fa2401a8f609_20250303",
+      "platform": "jiuyangongshe",
+      "title": "2025年世界移动通信大会",
+      "event_date": "2025-03-03",
+      "content": "由GSMA主办的“2025年世界移动通信大会”将于2025年3月3日至6日在西班牙巴塞罗那举行！展览面积达到110000平方米。本届展会重点关注六大领域：超越5G、智联万物、AI人性化、数智制造、颠覆规则、数字基因，标志着全球规模最大、最具影响力的移动通信盛会正式开启。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "通信"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_8cda78fa1cc346c2bc33c685b0f115b4_bcdfa65414c14ac38ee7645904f0a6f5_20250303",
+      "platform": "jiuyangongshe",
+      "title": "蜜雪冰城上市",
+      "event_date": "2025-03-03",
+      "content": "蜜雪冰城披露了全球发售的上市文件，启动招股程序，计划于3月3日在港交所主板挂牌上市。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_bb94fb6d81444dc6bc0fd7dbf7a27809_9693930a3cec4fc6aba8d647b1ba290f_20250303",
+      "platform": "jiuyangongshe",
+      "title": "华为数字能源高峰论坛在西班牙巴塞罗那举行",
+      "event_date": "2025-03-03",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_775556e3682243cabb442717242a60e2_c147f0ba530742c38d09b6ab45de7c66_20250304",
+      "platform": "jiuyangongshe",
+      "title": "全国政协十四届三次会议于2025年3月4日在北京召开",
+      "event_date": "2025-03-04",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_278ab5fe8c75468db9522106bc2c3a95_d19feafa91f14868b9e21c8a8d4fd85b_20250304",
+      "platform": "jiuyangongshe",
+      "title": "SpaceX第八次飞行测试",
+      "event_date": "2025-03-04",
+      "content": "SpaceX 宣布星舰二级S34已运抵发射场，第八次飞行测试的发射窗口期将于北京时间3月4日早上7:30开启。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "商业航天"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_cf01628081f54939b085c200344e70cd_2ed8112da6024393a3c6d14f9d68be72_20250304",
+      "platform": "jiuyangongshe",
+      "title": "杰思金材将成为跃岭股份第一大股东",
+      "event_date": "2025-03-04",
+      "content": "跃岭股份公告称，公司控股股东、实际控制人林仙明、林万青、林信福、林申茂、林平、林斌与北京杰思金材科技有限公司签署《股份转让协议》，林氏家族合计转让的股份数量为6287.5万股（占上市公司股份总数的24.5606%），转让完成后，杰思金材将成为公司第一大股东，公司实际控制人将变更为王冠然。公司股票自2025年3月4日起复牌。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_ddc5f11df8394a07a68749e4b29ced7c_19decd9af44346f7abb251988223507e_20250305",
+      "platform": "jiuyangongshe",
+      "title": "十四届全国人大三次会议",
+      "event_date": "2025-03-05",
+      "content": "十四届全国人大三次会议将于2025年3月5日在北京召开。决定建议十四届全国人大三次会议的议程是：审议政府工作报告；审查2024年国民经济和社会发展计划执行情况与2025年国民经济和社会发展计划草案的报告、2025年国民经济和社会发展计划草案；审查2024年中央和地方预算执行情况与2025年中央和地方预算草案的报告、2025年中央和地方预算草案等。",
+      "category": "投资事件",
+      "importance": 2,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_6kmgt0j20c_114b6902bd464d89b380fa61d59e00ec_20250305",
+      "platform": "jiuyangongshe",
+      "title": "第十四届智能交通市场年会",
+      "event_date": "2025-03-05",
+      "content": "本届年会以“寻径破局，洞见未来”为主题，希望激发企业的创新精神和前瞻意识，鼓舞企业在复杂多变的市场环境中寻找出路、打破困境，并具备前瞻性地把握未来趋势，推动企业在激烈的市场竞争中不断前行。本届年会为期两天，共计划12场专题论坛，重点关注讨论智慧公路、智慧交管、智慧交运、低空交通、车路云一体化、交通信号控制、公路数字化转型、交通安全与精细化治理、海外业务发展等行业热点",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_2160e234a2064a89bfa5286f1c447e4c_5a1f3626c2054af3ac8a49db1610b0e6_20250305",
+      "platform": "jiuyangongshe",
+      "title": "特朗普向国会发表联合讲话",
+      "event_date": "2025-03-05",
+      "content": "特朗普称，将于美国东部时间周二晚上9:10(北京时间为3月5日周三上午10:10)向国会发表联合讲话",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_6b695d3bbe3d46ad8d97d9c735c828d3_4b6f4d2c6bbe40a692549cf5e742b5b8_20250306",
+      "platform": "jiuyangongshe",
+      "title": "InnoCosme第九届中国国际护肤技术论坛",
+      "event_date": "2025-03-06",
+      "content": "InnoCosme第九届中国国际护肤技术论坛将于3月6日至7日在上海举行",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_3efb10d9a94c4b2891f6b7c5ced294ba_78a53a7a6d584a808cbf315e8654f826_20250306",
+      "platform": "jiuyangongshe",
+      "title": "2025沃尔玛全球电商启动大会",
+      "event_date": "2025-03-06",
+      "content": "2025沃尔玛全球电商启动大会将于3月6日10:00举行",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "电商"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_4184edcdbc72420099732469d227a7ef_f511b1b7c61d4b689c58473dcfbdb1c3_20250306",
+      "platform": "jiuyangongshe",
+      "title": "《哪吒2》在新加坡公映",
+      "event_date": "2025-03-06",
+      "content": "《哪吒2》将于3月6日起在新加坡公映",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_f14aa1ea36da4290adce95ed53e77479_77d41ace9d7944bd98114e99e52b52dc_20250306",
+      "platform": "jiuyangongshe",
+      "title": "趣睡科技开启众筹，8H趣睡智能多用床头柜即将上线",
+      "event_date": "2025-03-06",
+      "content": "趣睡科技:3月6日上午10点开启众筹，8H趣睡智能多用床头柜即将上线，做你的智慧床头管家。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_92527e7ab22040ddb0b81be868056b26_d9b65b47122645a0b3c2e78c8843e546_20250307",
+      "platform": "jiuyangongshe",
+      "title": "第32届成都医疗健康博览会",
+      "event_date": "2025-03-07",
+      "content": "第32届成都医疗健康博览会将于3月7日至9日举办",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_dd78ff1e2a6b47bcab1f6f70634626eb_364f366675424407baf3f23848e313ab_20250307",
+      "platform": "jiuyangongshe",
+      "title": "博通发布2025财年一季报",
+      "event_date": "2025-03-07",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_a7b97e89f18245fa994cc01780638e7c_a64e7a53960240b0a2ee6d86524d3016_20250307",
+      "platform": "jiuyangongshe",
+      "title": "白宫宣布举办首次加密货币峰会",
+      "event_date": "2025-03-07",
+      "content": "美国白宫宣布将于3月7日举办首次加密货币峰会",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "数字货币"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_1e1f0ac0badb4926a058757e30782ac4_75e6ae38f90641c4a05a43d63f0a0674_20250307",
+      "platform": "jiuyangongshe",
+      "title": "武汉控股拟购买武汉市政院100%股权",
+      "event_date": "2025-03-07",
+      "content": "武汉控股公告，公司拟通过发行股份及支付现金的方式向武汉市城投集团购买其持有的武汉市政院100%股权，并向不超过35名符合中国证监会规定条件的特定投资者发行股份募集配套资金。本次交易完成后，上市公司主营业务将增加市政院现有的工程设计、工程勘测、城乡规划、工程咨询等业务板块，并获取相应业务收入及利润，打造上市公司新的业绩增长点。公司股票自2025年3月7日（星期五）开市起复牌。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_d23c314f2512480abb8ff737a1bc060b_14c76a612b0a460a864a111498c0382e_20250308",
+      "platform": "jiuyangongshe",
+      "title": "第八届河南商业零售业大会",
+      "event_date": "2025-03-08",
+      "content": "第八届河南商业零售业大会将于3月8日举办",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "消费"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_bea5c54b75684f8f846a4c34d443f892_f61fea5781b74998a8ed62ee5a5e43cf_20250310",
+      "platform": "jiuyangongshe",
+      "title": "对原产于美国的部分进口商品加征关税",
+      "event_date": "2025-03-10",
+      "content": "自2025年3月10日起，对原产于美国的部分进口商品加征关税",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_aeec9162281a414cb0bee1614069a519_089b14f8de5e4de4bcc6cecbe15971d6_20250310",
+      "platform": "jiuyangongshe",
+      "title": "狮头股份拟购利珀科技100%股权切入机器视觉领域",
+      "event_date": "2025-03-10",
+      "content": "狮头股份拟以发行股份及支付现金方式向王旭龙琦等14名交易对方收购杭州利珀科技100%股权，同时向上市公司实控人旗下企业募集配套资金。本次交易预计构成重大资产重组。标的公司自成立以来一直致力于机器视觉相关技术产品的研发、生产与销售。本次交易完成后，上市公司将实现战略转型，切入到机器视觉领域。利珀科技创始人王旭龙琦及核心团队成员作出了相关竞业禁止承诺。公司股票将于2025年3月10日开市起复牌。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_119262fc8816495bbd982a0deb6123df_21b9a15502224c52a215115ed1c1437f_20250310",
+      "platform": "jiuyangongshe",
+      "title": "沪硅产业拟购买3家子公司的少数股权",
+      "event_date": "2025-03-10",
+      "content": "沪硅产业拟通过发行股份及支付现金方式，购买新昇晶投46.7354%股权、新昇晶科49.1228%股权及新昇晶睿48.7805%股权，并募集配套资金。本次交易完成后，公司将通过直接和间接方式持有新昇晶投100%股权、新昇晶科100%股权、新昇晶睿100%股权。本次交易预计构成重大资产重组，公司股票自3月10日开市起复牌。公司表示，本次交易完成后，上市公司的总资产将进一步增长，长期而言上市公司的持续经营能力将进一步增强。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_603b752b80b74c39843d705e49e6b79c_fc103227c167425a80910c45104232a9_20250310",
+      "platform": "jiuyangongshe",
+      "title": "智元正式发布首个通用具身基座模型--智元启元大模型",
+      "event_date": "2025-03-10",
+      "content": "智元将于3月10日正式发布首个通用具身基座模型--智元启元大模型(Genie Operator-1)，该模型框架由VLM(多模态大模型)+MoE(混合专家)组成，将集合采训推一体，小样本快速泛化、-脑多形”的跨本体应用、持续进化、人类视频学习等能力。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "人形机器人"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_debe4b3d7a7a4653bbe113c2f7f603b1_1d95f1a8a1564848aaf14ef50fd15ba9_20250311",
+      "platform": "jiuyangongshe",
+      "title": "锐科激光6大新品暨产业生态合作战略重磅发布",
+      "event_date": "2025-03-11",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_b59f361bdd144550871245b109b0b19f_97c51536def74b91b21d83c7a8eb1327_20250311",
+      "platform": "jiuyangongshe",
+      "title": "2025中国纺联春季联展",
+      "event_date": "2025-03-11",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "纺织服装"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_d8b37936d354496f909cfc285bc18692_66152d0a886d4d72a0bb489b65301f3f_20250311",
+      "platform": "jiuyangongshe",
+      "title": "美国众议院委员会就数字支付生态系统举行听证会",
+      "event_date": "2025-03-11",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_de8b0228928745e1858be12fc0770a17_2e38a437be494145b41b075c2af86698_20250311",
+      "platform": "jiuyangongshe",
+      "title": "美国贸易代表办公室将就中国制造的“传统”半导体举行听证会",
+      "event_date": "2025-03-11",
+      "content": "美国贸易代表办公室将于周二（3月11日）就中国制造的“传统”半导体举行听证会，可能对相关芯片征收更多关税，这些芯片用于汽车、洗衣机、电信设备等日常用品。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "半导体"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_db94b6ac926e4e13975c08bc497b5f26_4b2eed4f24d14767af6e91b9d1ca613b_20250311",
+      "platform": "jiuyangongshe",
+      "title": "NVIDIA 创业企业展示",
+      "event_date": "2025-03-11",
+      "content": "由NVIDIA主办、超擎数智(航锦科技)与Google Cloud等伙伴协办的2025 NVIDIA 创业企业展示·武汉站活动将于3月11日在武汉产业创新发展研究院举行",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "英伟达"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_f8e4cea6b0c64477ba9c0977f8d72a61_8cf7f8d01ccd46ca9a1e98722eb3f0dc_20250311",
+      "platform": "jiuyangongshe",
+      "title": "芯源微：北方华创拟受让9.49%公司股份",
+      "event_date": "2025-03-11",
+      "content": "芯源微公司持股5%以上的股东先进制造于2025年3月10日与北方华创签署了股份转让协议，先进制造拟将其持有的1906.49万股公司股份以88.48元/股的价格转让给北方华创，占公司总股本的9.49%。本次权益变动后，先进制造将不再持有公司股份，北方华创将持有1906.49万股公司股份，占总股本的9.49%。北方华创将积极通过参与公开挂牌竞买等方式继续增持公司股份并取得对公司的控制权。本次筹划控制权变更事项已取得进一步进展，公司股票将于2025年3月11日（星期二）开市起复牌。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_42e05fe49efc44b2a9767a5843136ace_4a0c856e63ab4710a8543472c46ad2be_20250311",
+      "platform": "jiuyangongshe",
+      "title": "东睦股份拟购买上海富驰20.75%股权",
+      "event_date": "2025-03-11",
+      "content": "东睦股份拟通过发行股份及支付现金的方式向共4名交易对方购买其合计持有的上海富驰20.75%股权，上海富驰主营业务为设计、开发、制造高密度、高精度、形状复杂的粉末冶金零件和组件，及新型复合材料、特种陶瓷无机非金属新材料及产品。本次交易后，公司预计将持有标的公司85%的股权，公司主营业务范围不会发生变化，将进一步提升MIM业务的战略地位，充分发挥粉末冶金压制成形技术与粉末冶金注射成形技术的互补性和协同性。公司股票自2025年3月11日（星期二）开市起复牌。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_7855b965ce8f4c818f6cd5649272c3d5_4f3be10d6b974028b890d6b23c19b4de_20250311",
+      "platform": "jiuyangongshe",
+      "title": "美国众议院委员会就数字支付生态系统举行听证会",
+      "event_date": "2025-03-11",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_ced6b4bbb9064bdaaceed61853500d23_19f320109cde44a885a1e792826ea06a_20250312",
+      "platform": "jiuyangongshe",
+      "title": "AI眼镜产业推进专题研讨会",
+      "event_date": "2025-03-12",
+      "content": "中国信息通信研究院拟于3月12日在浙江大学计算机创新技术研究院举办“AI眼镜产业推进专题研讨会”",
+      "category": "投资事件",
+      "importance": 2,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "AI眼镜"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_8dd5a00d59ba4a83974cd3ae0dc3095d_541cc970baca478ab7c9ac44a715500f_20250312",
+      "platform": "jiuyangongshe",
+      "title": "美国航天局(NASA)和SPaceX计划举行关于载人火箭发射的活动",
+      "event_date": "2025-03-12",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "商业航天"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_3410666e984f4774bb1aef1dc85a0224_cb69e52498fc497b96ebf4eb14dd2def_20250312",
+      "platform": "jiuyangongshe",
+      "title": "美国对进口钢铝征收25%关税生效",
+      "event_date": "2025-03-12",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_9ed1f0cfe67c44c08da104b25f3c094d_9c42c7461a3c401d92e1c62acb95148c_20250313",
+      "platform": "jiuyangongshe",
+      "title": "美国商务部禁止美国公司向中兴通讯销售零部件、商品、软件和技术 7 年，直到 2025年3月13日",
+      "event_date": "2025-03-13",
+      "content": "",
+      "category": "投资事件",
+      "importance": 2,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "中兴通讯"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_b9c331bb2c994ec7a33bfe078b4795b9_ce895289fb644e058ac707838d2be304_20250313",
+      "platform": "jiuyangongshe",
+      "title": "2025中国医学装备大会",
+      "event_date": "2025-03-13",
+      "content": "2025中国医学装备大会暨医学装备展览会将于3月13日至16日在重庆举办。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_10la97y9sej_8b2c99286d6649dc94eddbe4aa09f4cf_20250313",
+      "platform": "jiuyangongshe",
+      "title": "中国信通院：正式启动多模态智能体技术规范编制工作 将召开技术规范研讨会",
+      "event_date": "2025-03-13",
+      "content": "为进一步加速智能体赋能产业应用，推动多模态智能体高质量发展，中国信通院正式启动多模态智能体技术规范编制工作。为充分完善技术规范内容，增进产业交流，中国信通院人工智能研究所将于3月13日召开多模态智能体技术沙龙暨技术规范研讨会，邀请业内专家围绕多模态智能体技术的发展动态、应用落地等展开研讨，并介绍多模态智能体技术规范框架。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_02b770ceab8d430e802e951d274891d1_fd39f3135a46447985005989e54d5627_20250313",
+      "platform": "jiuyangongshe",
+      "title": "云智聚能，共筑AI产业新未来--人工智能与可控云计算产业生态大会",
+      "event_date": "2025-03-13",
+      "content": "云智聚能，共筑AI产业新未来--人工智能与可控云计算产业生态大会将于3月13日在杭州举行，浙江算力、阿里云、华为、超聚变将参会。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "算力"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_d3f2c3b7678247569236b3232710af6e_30bb65e4dd5b48df87c1f6bb4e7cdb54_20250313",
+      "platform": "jiuyangongshe",
+      "title": "腾景科技拟购买迅特通信100%股份",
+      "event_date": "2025-03-13",
+      "content": "腾景科技拟通过发行股份及支付现金的方式购买深圳市迅特通信技术股份有限公司100%股份，并募集配套资金。公司股票自2025年3月13日起复牌。双方业务整合完成后，公司将提高高速光通信产品与技术解决方案能力，有望扩大上市公司整体销售规模和提升盈利能力。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_ff0e0b973469490fb85145bc2cfa1daf_8f7f0087170e44c19058b3d6e2e7f0fd_20250313",
+      "platform": "jiuyangongshe",
+      "title": "2025小鹏汽车春季发布会",
+      "event_date": "2025-03-13",
+      "content": "2025小鹏汽车春季发布会将于3月13日举办，届时2025款小鹏G6和小鹏G9将正式发布。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "新能源汽车"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_1ad540651e944cc6bccf0767aa8c492e_bcd6e40db37e4fbd9c5183c9c0ade092_20250314",
+      "platform": "jiuyangongshe",
+      "title": "灵犀X2具身智能机器人线下(珠海)发布会",
+      "event_date": "2025-03-14",
+      "content": "智元机器人\"1+4启元具身智能模型'暨灵犀X2具身智能机器人线下(珠海)发布会将于3月14日举行。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "人形机器人"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_b66625153a0c42f48aea29d2a0616ea3_cb74d8de71464c68abf9fdb8b508dd3c_20250314",
+      "platform": "jiuyangongshe",
+      "title": "生物医药大模型沙龙暨系列标准研讨会",
+      "event_date": "2025-03-14",
+      "content": "中国人工智能产业发展联盟(AIIA)生物医药产业推进组将于2025年3月14日上午举办以“智链医药，创未来”为主题的生物医药大模型沙龙暨系列标准研讨会。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "AI医疗"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_777637cab97843e8927d77b92917cf93_6d3bd6a383f242e78eb586ed428cc4ad_20250314",
+      "platform": "jiuyangongshe",
+      "title": "鸿蒙原生游戏首场线下技术分享",
+      "event_date": "2025-03-14",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_28ad06a8e0f541e1b128c07baafd642f_b7925474ebdd4f998b421e2ade5d390f_20250315",
+      "platform": "jiuyangongshe",
+      "title": "余承东预告全民可负担新品搭载原生鸿蒙系统，3月亮相（估）",
+      "event_date": "2025-03-15",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "鸿蒙"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_a66af6631c154517b14eb46919c115f7_6d597290139f44fcab418db0054b80b6_20250315",
+      "platform": "jiuyangongshe",
+      "title": "315晚会",
+      "event_date": "2025-03-15",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_4cb41dd5e97441e0a95f686097b48867_a3b9dde9e9ac4cb39a6ba1b23ef97650_20250315",
+      "platform": "jiuyangongshe",
+      "title": "致远互联将召开AI产品战略发布和生态伙伴大会",
+      "event_date": "2025-03-15",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_8aaa795dce484bf1b9833cc366d7d079_5c7b52141a4049d78acec0d178da7d0e_20250316",
+      "platform": "jiuyangongshe",
+      "title": "百度文心大模型最新版4.5将正式上线",
+      "event_date": "2025-03-16",
+      "content": "百度文心大模型最新版4.5将在3月16日正式上线，不仅在基础模型能力上有大幅提升，且具备原生多模态、深度思考等能力。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "人工智能"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_0916d23657f64221a2846c05af48b2be_0375efeae2e041eda5d42815f76455ff_20250317",
+      "platform": "jiuyangongshe",
+      "title": "英伟达GTC将于2025年3月17日至20日美举行",
+      "event_date": "2025-03-17",
+      "content": "2025年3月17—21日，GTC将重新回到美国加州圣何塞及线上。与数千名开发者、创新者和行业领导者一起，体验AI和加速计算如何帮助人类解决极为复杂的挑战。",
+      "category": "投资事件",
+      "importance": 4,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "英伟达"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_377d26c8c41c4b0f80ad615a3325f1ec_721184a2e47943b595513931653df3ae_20250317",
+      "platform": "jiuyangongshe",
+      "title": "进博会走进地方",
+      "event_date": "2025-03-17",
+      "content": "2025年3月17日至19日，今年首场“进博会走进地方”活动将在湖北武汉举办。\n本活动将由商务部、湖北省人民政府共同主办，以“深化引进来 服务双循环”为主题，聚焦大健康、消费品零售、汽车和装备制造、现代农业与食品产业、服务业等湖北五大优势领域，更有针对性地组织进博会参展商、投促机构和跨国公司代表参加。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_492c8144180e4f90bc06d31d2b7016f8_78809a48f9044148a5b8211b01858427_20250317",
+      "platform": "jiuyangongshe",
+      "title": "第二十五届中国国际农用化学品及植保展览会",
+      "event_date": "2025-03-17",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "农业农村"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_af6451f0a4514d488ae27888f1dd82fe_d23db3d7338e4b3480a446181f3ec3fc_20250317",
+      "platform": "jiuyangongshe",
+      "title": "TCT Asia 2025亚洲3D打印展",
+      "event_date": "2025-03-17",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_f9835f1d9b14484ea8ef062faa150a7c_c23313504c6942a7b98d4747709aa5f1_20250317",
+      "platform": "jiuyangongshe",
+      "title": "比亚迪将举办“超级e平台技术发布暨汉L唐L预售发布会”",
+      "event_date": "2025-03-17",
+      "content": "比亚迪将于3月17日举办“超级e平台技术发布暨汉L唐L预售发布会”，超级e平台的核心亮点在于其支持的1000V高压技术",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_5b2e567dacca41a5877e325f79c94160_ad0b9232f67b4c08807e93e07dda44c9_20250317",
+      "platform": "jiuyangongshe",
+      "title": "天元宠物拟购买淘通科技89.71%股权",
+      "event_date": "2025-03-17",
+      "content": "天元宠物拟以发行股份及支付现金的方式购买广州淘通科技89.71%股权，本次交易的具体交易价格尚未确定。本次交易前，天元宠物持有淘通科技10%股权；本次交易完成后，淘通科技将成为天元宠物之控股子公司，纳入天元宠物合并财务报表范围。交易标的公司是一家服务全球知名品牌的全域电商服务商，提供基于大数据支持下的品牌咨询、电商运营、消费者洞察、全域营销、影像输出、供应链管理及技术支持等服务。公司股票将于3月17日开市起复牌。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_6cfbb60f078a47788b4080f6962e60b4_c6cea494ab0b45278c9e827785c1acbb_20250317",
+      "platform": "jiuyangongshe",
+      "title": "焦作万方拟收购三门峡铝业100%股权",
+      "event_date": "2025-03-17",
+      "content": "焦作万方拟通过发行股份的方式购买锦江集团等交易对方合计持有的三门峡铝业100%股权，并募集配套资金。截至预案签署日，本次交易相关的审计、评估及尽职调查工作尚未完成，标的资产交易价格尚未最终确定。公司股票将于3月17日开市起复牌。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_5b93889f979a41989756b636c24aa74b_b95df59d8dd342929ea821f67d06fab6_20250317",
+      "platform": "jiuyangongshe",
+      "title": "新相微拟购买爱协生100%股权",
+      "event_date": "2025-03-17",
+      "content": "新相微拟通过发行股份、可转换公司债券及支付现金方式，购买深圳市爱协生科技股份有限公司100%股权，并向不超过35名特定投资者发行股份募集配套资金。公司股票自2025年3月3日开市起开始停牌，于3月17日开市起复牌。由于本次交易涉及资产的审计、评估工作尚未完成，公司决定暂不召开股东大会审议本次交易事项。爱协生主要从事显示驱动芯片、触控驱动芯片等多种芯片产品的研发、设计及销售。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_e4400be0ac384ccdbdf8f256db2c79f5_05389aacd7c74b72ac068483f54996bc_20250317",
+      "platform": "jiuyangongshe",
+      "title": "第28届中国国际食品添加剂和配料展览会",
+      "event_date": "2025-03-17",
+      "content": "FIC 自 1997 年首次举办以来，凭借卓越质量、国际化、专业化、品牌化的特点，已成长为亚洲规模宏大、国际化程度高、具权威性的食品添加剂和食品配料行业专业品牌展览会，是国际食品添加剂、食品配料生产商进入中国及亚洲市场的最佳平台。本届展会预计将吸引来自全球各地的众多参展商和专业观众，规模十分可观，是食品行业交流合作、了解前沿趋势的绝佳机会。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "消费",
+        "食品饮料"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_322e49b8225c4bfab05b7ab09f6ea820_5cea59c53850424a9d15adb1df0eee52_20250317",
+      "platform": "jiuyangongshe",
+      "title": "永安行控制权将发生变更",
+      "event_date": "2025-03-17",
+      "content": "永安行公告称，公司控股股东、实际控制人孙继胜正在筹划公司股份转让事宜，该事项可能导致公司的控制权变更。2025年3月14日，上海哈茂商务咨询公司与孙继胜等签署了股份转让协议，受让其持有的3272万股上市公司流通股股份。同时，上海哈茂的实际控制人杨磊与上海云鑫签署了股份转让协议，受让其持有的1436万股上市公司流通股股份。此外，孙继胜放弃其持有的3295万股股份对应的表决权。本次协议转让完成及表决权放弃安排生效后，公司控股股东变更为上海哈茂，实际控制人变更为杨磊。公司股票将于2025年3月17日复牌。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_77a3235bfa4b4b51a7a179cbd54cc253_9efcf92052f74650a2d7a08fd8a95f0a_20250318",
+      "platform": "jiuyangongshe",
+      "title": "GTC2025大会将举行China AI Day",
+      "event_date": "2025-03-18",
+      "content": "GTC2025大会将举行China AI Day-云与互联网线上中文专场，计划于北京时间3月18日上午9:30开始直播。本次专场汇聚了国内多家云与互联网企业，包括字节跳动、火山引擎、阿里云、百度、蚂蚁集团、京东、美团、快手、百川智能、赖耶科技以及Votee AI，他们将分享在大语言模型、多模态大语言模型、数据科学和搜推广领域的前沿进展，展示如何采用软硬件协同优化方法实现生产级AI的性能和效率提升。",
+      "category": "投资事件",
+      "importance": 2,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "人工智能"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_ce11ad1c50824b9ca0a2bf52e63ca736_a4ac4339cb8646daa4364e92e1548f27_20250318",
+      "platform": "jiuyangongshe",
+      "title": "全球游戏开发者大会",
+      "event_date": "2025-03-18",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "游戏"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_de221aa94a074eef8bc04f3b57281398_325cb86af5a1437d9e2797fa7133179e_20250318",
+      "platform": "jiuyangongshe",
+      "title": "第五届中国跨境电商交易会",
+      "event_date": "2025-03-18",
+      "content": "第五届中国跨境电商交易会携多项创新升级，将于3月18-20日在福州海峡国际会展中心如期举行。本届展会由福建省进出口商会、商务部外贸发展事务局主办，福建荟源国际展览有限公司、福建荟源文化发展集团有限公司、福建米多多网络科技有限公司承办。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "跨境电商"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_87tdtbvlfu_fd05ca6456cc4130894a0ea4a0d77651_20250318",
+      "platform": "jiuyangongshe",
+      "title": "2025全固态电池技术交流大会",
+      "event_date": "2025-03-18",
+      "content": "2025全固态电池技术交流大会！聚焦全固态＋干法电极技术！",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_bdd5e64b92974c7fbebdf02259f70084_13d419d633ba4dfcb7cd76354d06fdf4_20250318",
+      "platform": "jiuyangongshe",
+      "title": "阿尔特受邀参加英伟达GTC2025全球科技大会",
+      "event_date": "2025-03-18",
+      "content": "阿尔特正式确定受邀参加英伟达GTC2025全球科技大会，并将于北京时间3月18日9:00在GTC大会线上演讲环节，进行主题为“AI如何加速赋能汽车工业设计”的演讲，分享探索AI在汽车设计中的实际应用，以及这些先进技术将如何重塑行业",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_def622bd32a249d5a480f7b09aebf557_cfe6ce06dfb54d888534f22059ffc195_20250318",
+      "platform": "jiuyangongshe",
+      "title": "小米集团董事会会议",
+      "event_date": "2025-03-18",
+      "content": "小米集团港交所公告:将于3月18日举行董事会会议，其中议程包括考虑及批准本公司及其附属公司截至2024年12月31日止年度的综合全年业绩，及考虑派发未期股息(如有)。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_401604a31326428a8351cd87800cf5b1_ae107d47cbd84795b68e8b3fc4937d53_20250318",
+      "platform": "jiuyangongshe",
+      "title": "奇瑞智能化战略发布会",
+      "event_date": "2025-03-18",
+      "content": "奇瑞将于3月18日举办智能化战略发布会，届时将带来人形机器人、智舱大模型等",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_3b579aee2f4a42aa82ebb56cb0cb54eb_cba45c3a947743feb9b6430fb5170f02_20250318",
+      "platform": "jiuyangongshe",
+      "title": "超擎数智将举办DeepSeek布署赋能企业智胜湾区沙龙活动",
+      "event_date": "2025-03-18",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_5c12ad09885f44d1a1bef2d0eefc8472_20a9b9d6edb7424cb6142a581d3d273d_20250318",
+      "platform": "jiuyangongshe",
+      "title": "腾讯混元3D开源日",
+      "event_date": "2025-03-18",
+      "content": "腾讯混元官方公众号发布消息:3月18-19日，为腾讯混元3D开源日",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "人工智能"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_b71772c4b7144cdd97ff8c11a9f6c18a_f2d71e52cf8747e7a3781a178c932b4a_20250318",
+      "platform": "jiuyangongshe",
+      "title": "英集芯终止购买辉芒微控制权",
+      "event_date": "2025-03-18",
+      "content": "英集芯因筹划支付现金、发行定向可转债购买辉芒微电子控制权，同时拟募集配套资金的事项，公司股票3月4日开市起停牌。由于交易相关方未能就交易对价等核心条款最终达成一致意见，经审慎研究，公司决定终止筹划此次重大资产重组事项，公司股票3月18日复牌。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_0de5f423508c49998fe9ca6ebc8d190d_3240c43c7f644c7da84f823dbf1a4435_20250318",
+      "platform": "jiuyangongshe",
+      "title": "厦门港务拟购买集装箱码头集团70%股权",
+      "event_date": "2025-03-18",
+      "content": "厦门港务拟通过发行股份及支付现金的方式，向国际港务购买集装箱码头集团70%股权，并向不超过35名符合条件的特定对象发行股份募集配套资金，交易资产预估值及拟定价尚未确定。集装箱码头集团主要从事港口集装箱装卸与堆存业务，与公司现有散杂货码头装卸与堆存及临港综合物流服务等业务具有显著的协同效应。公司股票将于3月18日复牌。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_8cde4745f92c41a8acea1f136bde1f50_acf6df1ca0be44a2ac947df7f2f81334_20250318",
+      "platform": "jiuyangongshe",
+      "title": "中国联通年度业绩说明会",
+      "event_date": "2025-03-18",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_35210a26a78747d39623053ccdf1f4e9_4c4bc5bb2db64710876b55dcd3b57125_20250319",
+      "platform": "jiuyangongshe",
+      "title": "黄仁勋主题演讲",
+      "event_date": "2025-03-19",
+      "content": "NVIDIA CEO 黄仁勋的主题演讲将于北京时间3月19日(星期三)凌晨1:00(当地时间 2025年3月18日上午10:00)在圣何塞SAP中心举行。",
+      "category": "投资事件",
+      "importance": 2,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_0dc732fe9d36488d9a499c3e42877753_d60270253fe14c2abaf7e798033ed12f_20250319",
+      "platform": "jiuyangongshe",
+      "title": "2025中国种子大会",
+      "event_date": "2025-03-19",
+      "content": "2025中国种子大会暨南繁硅谷论坛将于3月19日至3月23日在海南三亚举办",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "农业农村"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_efe589919152478396b8048cd7883889_a1ef083324e841b58402274fac130511_20250319",
+      "platform": "jiuyangongshe",
+      "title": "2025势银绿色液体燃料产业大会",
+      "event_date": "2025-03-19",
+      "content": "2025势银绿色液体燃料产业大会(GLFIC)将于3月19-20日在宁波举行。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_bcdc1a81d88d4e889bab13f5fb834eff_31496a8191a0427bba0273c0912a799f_20250319",
+      "platform": "jiuyangongshe",
+      "title": "HarmonyOs Connect 伙伴峰会将于上海举行",
+      "event_date": "2025-03-19",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "鸿蒙"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_2cc804412b30485e97cea4ee156ead97_10c9051ed2a0402098400ba9b25e60dd_20250319",
+      "platform": "jiuyangongshe",
+      "title": "腾讯将发布2024年全年财报及第四季度财报",
+      "event_date": "2025-03-19",
+      "content": "腾讯将于3月19日发布2024年全年财报及第四季度财报",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_e142b7bd256f4697a966f6b92379e01c_11a9a8ce7aca4395a6a8b370f551bf41_20250319",
+      "platform": "jiuyangongshe",
+      "title": "追觅科技在上海世界会客厅举办“生而无界2025追觅科技生态发布会”",
+      "event_date": "2025-03-19",
+      "content": "追觅科技官宣将于3月19日在上海世界会客厅举办“生而无界2025追觅科技生态发布会”，届时将发布包括扫地机器人、智能洗地机等在内的系列新品",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_dfd01fb08488448c867e6d7adafd3aee_c6d3ec46c8e04990ab86ef93a1430459_20250319",
+      "platform": "jiuyangongshe",
+      "title": "2025腾讯云城市峰会|上海峰会",
+      "event_date": "2025-03-19",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_92804e8234614144a5a60aa3387be3e7_f336b95d7aa14c8ca1cd31ad4e328654_20250319",
+      "platform": "jiuyangongshe",
+      "title": "OFweek 2025（第九届）动力电池产业年会暨行业年度评选颁奖典礼",
+      "event_date": "2025-03-19",
+      "content": "2025年3月19-20日，“OFweek 2025（第九届）动力电池产业年会暨行业年度评选颁奖典礼”将在深圳登喜路国际大酒店隆重举行。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "锂电池"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_7672feddb95841ee8fc2ff6b122398c5_0f69b7eb6a7c4c9bbd4e9d0beb582e10_20250319",
+      "platform": "jiuyangongshe",
+      "title": "2025浪潮云战略发布会",
+      "event_date": "2025-03-19",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_43446a27462046918424df3406163676_5070515fd6544af5a6aac83216a9fcfd_20250319",
+      "platform": "jiuyangongshe",
+      "title": "春晖智控拟购买春晖仪表61.29%股权",
+      "event_date": "2025-03-19",
+      "content": "春晖智控拟通过发行股份及支付现金的方式，向23名交易对方购买春晖仪表61.29%的股权，此次交易资产的价格尚未确定。公司股票将于3月19日复牌。春晖仪表主营温度传感器、微型铠装电加热材料及元器件业务，2024年成功开发出工业用压力传感器产品。此次重组完成后，公司取得春晖仪表控制权，将拓宽公司主营业务范围，优化公司业务布局。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_489fc6c1ac9f4581ab74b4ea1afabb6f_a852bcedd73f465cb4d69efbd8c8a201_20250320",
+      "platform": "jiuyangongshe",
+      "title": "华为将举办华为Pura先锋盛典及鸿蒙智行新品发布会",
+      "event_date": "2025-03-20",
+      "content": "华为将于3月20日14:30举办华为Pura先锋盛典及鸿蒙智行新品发布会，将推出首款搭载原生鸿蒙正式版的全新形态新机。",
+      "category": "投资事件",
+      "importance": 2,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "华为汽车",
+        "华为"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_0184185ebb874429b7ab7076500e69e8_3f741309cc7346b78ca6a1d0c8f562d4_20250320",
+      "platform": "jiuyangongshe",
+      "title": "英伟达公司宣布把2025年3月20日设为首个“量子日”",
+      "event_date": "2025-03-20",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "量子通信"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_d21270a499a64afd87aca002b06e3881_685e94e9500a4d40ac320544b88ca333_20250320",
+      "platform": "jiuyangongshe",
+      "title": "CESC2025第三届国际储能大会",
+      "event_date": "2025-03-20",
+      "content": "CESC2025第三届国际储能大会暨智慧储能技术及应用展览会将于2025年3月20-22日在南京国际博览中心盛大召开。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "储能"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_a71d743434b94b07b3bca0e65f4cd3eb_93cff8bf154e4286a3c58cf118397256_20250320",
+      "platform": "jiuyangongshe",
+      "title": "华为中国合作伙伴大会2025",
+      "event_date": "2025-03-20",
+      "content": "3月20日至21日，华为将在深圳举办主题为“因聚而生 众智有为”的“华为中国合作伙伴大会2025”",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "华为"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_596e7534ba07431d8a2f42649828d032_11b5788e38a24166a7fca9dce42aba15_20250320",
+      "platform": "jiuyangongshe",
+      "title": "中国家电及消费电子博览会2025",
+      "event_date": "2025-03-20",
+      "content": "AWE2025将于3月20-23日在上海新国际博览中心举办以“AI科技、AI生活”为主题",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_06974823c9bb446a9d55f07f412fcd77_62fce1f5aea648019adb1fe6c3717301_20250320",
+      "platform": "jiuyangongshe",
+      "title": "中国国际固态电池展",
+      "event_date": "2025-03-20",
+      "content": "中国国际固态电池展将于3月20-22日在江苏南京举行,聚焦固态电池技术。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "固态电池"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_36d68e6b0cd541939fc1ce85b7cc7b44_1408468613c14207965bed42d9dc0e74_20250320",
+      "platform": "jiuyangongshe",
+      "title": "第十一届赋能|AR/VR跨界融合创新论坛",
+      "event_date": "2025-03-20",
+      "content": "第十一届 赋能 | AR/VR跨界融合创新论坛将聚焦AR/VR行业应用，力促AI/AR/VR技术与社会各领域的深度融合，推动传统行业转型升级。本次论坛旨在通过深圳市AR协会的优势，整合产业链上下游资源，力促技术与商业的深度融合，推动传统行业转型升级。展示AI/AR/VR技术在多领域的创新应用，促进不同行业对这两项技术的了解与应用。搭建交流合作平台，推动AI/AR/VR企业、开发者、行业专家以及潜在用户之间的沟通与合作，激发跨界创新思维。活动时间：2025年03月20日 13:30-17:00",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "AR"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_5d99302d31a742d6b5b18db2db586531_7240b1ffe519404494133dd69726f05f_20250320",
+      "platform": "jiuyangongshe",
+      "title": "我国将对原产于加拿大的菜子油、豌豆等加征100%关税",
+      "event_date": "2025-03-20",
+      "content": "自3月20日起，我国将对原产于加拿大的菜子油、豌豆等加征100%关税，对原产于加拿大的水产品、猪肉加征25%关税",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_18a5bdc2089b48c9aa48c77bd5d3370d_10f2e4cac14047ccbe9fce3230733cf9_20250320",
+      "platform": "jiuyangongshe",
+      "title": "问界M9 2025款发布",
+      "event_date": "2025-03-20",
+      "content": "鸿蒙智行全景智慧旗舰SUV问界M9 2025款，极「智」焕新而来!3月20日见。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "华为汽车"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_c1f519e9b5ef47ec85859677d5fdf469_091af64563534b74b267e25cc35de620_20250320",
+      "platform": "jiuyangongshe",
+      "title": "中国移动年度业绩说明会",
+      "event_date": "2025-03-20",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_54565d32fd3c483c96c4c9468b03153f_9569d36ac391479287e44cca42f9f329_20250320",
+      "platform": "jiuyangongshe",
+      "title": "国新办新闻发布会介绍2025中关村论坛年会有关情况",
+      "event_date": "2025-03-20",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_70353710ab274fe9862a960129315007_d1b9379fc11d46008f6777a9ebdfc47d_20250321",
+      "platform": "jiuyangongshe",
+      "title": "昇腾人工智能伙伴峰会",
+      "event_date": "2025-03-21",
+      "content": "本次峰会以“与时代 共昇腾”为主题，聚焦大模型发展对人工智能产业的深远影响，剖析技术演进趋势与商业新机遇，共同探讨分享异腾原生开放带来的创新成果。与合作伙伴、思想领袖、商业精英、技术专家等业界同仁一起，共谋技术跃迁与商业增长新路径，携手探索智能未来的无限可能。",
+      "category": "投资事件",
+      "importance": 2,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "华为",
+        "人工智能"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_e43032b7760d4291bb3e1d06b4179678_71bae653c8c34a4f8d258dc6c56074d8_20250321",
+      "platform": "jiuyangongshe",
+      "title": "2025亚洲智能眼镜大会",
+      "event_date": "2025-03-21",
+      "content": "2025亚洲智能眼镜大会将于3月21日在深圳举办",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "AI眼镜"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_450b28a47eb54cff97b3bf48a8124fea_5559f002b3ec4ebb9113ffb888b35076_20250321",
+      "platform": "jiuyangongshe",
+      "title": "富时罗素调仓",
+      "event_date": "2025-03-21",
+      "content": "富时罗素对富时中国50指数、富时中国A50指数、富时中国A150指数、富时中国A200指数、富时中国A400指数的季度审核变更，该变更将于2025年3月21日星期五收盘后生效。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_ff646fdd9b654edca7fb57066ce8cdb6_acf7c524061843018c33760548860471_20250321",
+      "platform": "jiuyangongshe",
+      "title": "英伟达医疗技术开发者日",
+      "event_date": "2025-03-21",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_9965ca5f306b45cdb7edcde9bb676f93_8721f4c37b62499589055f123b1242f5_20250321",
+      "platform": "jiuyangongshe",
+      "title": "2025汉得用户大会",
+      "event_date": "2025-03-21",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_a149f32a5e0e4fa99f6fc2861d48e7ba_302a5e5883eb457c955bcf5871059550_20250321",
+      "platform": "jiuyangongshe",
+      "title": "阿里云将举办玩具行业的“智”变方程式会议",
+      "event_date": "2025-03-21",
+      "content": "阿里云将于3月21日举行会议，主题为:玩具行业的“智”变方程式。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "AI玩具"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_46a03dd0d9cd4c6aa45aacc6832f30f5_3f48e50964a7492dbea820ab695ccf4d_20250321",
+      "platform": "jiuyangongshe",
+      "title": "英维克XSpace液冷算力舱新品发布会",
+      "event_date": "2025-03-21",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "液冷"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_e5a071e90df44ecebc8354e6e8d43c70_092da9d23db04639a78c33aeabafc50e_20250321",
+      "platform": "jiuyangongshe",
+      "title": "腾讯混元T1上线",
+      "event_date": "2025-03-21",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "人工智能"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_2f38191ce3c949cea176a212b1bc1caf_81cb45b6d24a4aa6935bb1f751e3244e_20250321",
+      "platform": "jiuyangongshe",
+      "title": "格物具身智能仿真平台发布会",
+      "event_date": "2025-03-21",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "机器人"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_7053a21d2f8543d4a014e23a52fb82bf_cdb8c6f44c2d4d38bae73baa9c30a065_20250321",
+      "platform": "jiuyangongshe",
+      "title": "国新办举行政策例行吹风会，介绍提升中药质量促进中医药产业高质量发展有关情况",
+      "event_date": "2025-03-21",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "中药"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_2c7d10c1ed394ec085f5b5a2bba26a44_e01841be987f48e78acc78712aaa4b76_20250321",
+      "platform": "jiuyangongshe",
+      "title": "康惠制药实控人将变更为李红明、王雪芳夫妇",
+      "event_date": "2025-03-21",
+      "content": "康惠制药控股股东康惠控股当日与悦合智创签署股份转让协议，康惠控股拟向悦合智创协议转让公司股份2197.36万股（占公司股份总数的22%），转让价格24.7元/股，总价款5.43亿元。若交易顺利完成，公司控股股东将由康惠控股变更为悦合智创，实控人将由王延岭变更为李红明、王雪芳夫妇。公司股票将于3月21日复牌。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_c81aefab61924d81b89c8aa9a0a10559_0c1fd8f5373d4dcebaa802156a234758_20250322",
+      "platform": "jiuyangongshe",
+      "title": "第二十二届中国国际检验医学暨输血仪器试剂博览会",
+      "event_date": "2025-03-22",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_be1501c178e447139348592fdc9ed385_60471536d6f942eeaad09e4188eeacec_20250323",
+      "platform": "jiuyangongshe",
+      "title": "中国发展高层论坛2025年年会",
+      "event_date": "2025-03-23",
+      "content": "中国发展高层论坛2025年年会计划于3月23日至24日在北京召开，主题为“全面释放发展动能，共促全球经济稳定增长”",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_53011deea8ef481697a12752ffb5abfa_e663a77b276d4603afbf64e5bf474264_20250323",
+      "platform": "jiuyangongshe",
+      "title": "2025国际显示技术大会",
+      "event_date": "2025-03-23",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_857d69aef1d74396a67117bd46a673e8_a569e7a222424e76bd371f5130a18126_20250324",
+      "platform": "jiuyangongshe",
+      "title": "2025华为云中企出海全球峰会",
+      "event_date": "2025-03-24",
+      "content": "3月24日至25日，2025华为云中企出海全球峰会将在重庆举行，峰会云集500+商业大咖、100+合作伙伴及行业领袖，将就当下企业出海的新形势和新机会进行探讨。 华为云全球Marketing与销售服务总裁石冀琳将分享华为云对于企业全球化发展的洞察及其在运营中的实战经验，助力企业在全球范围内实现业务拓展与创新突破。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_b28ac28afb194a4bb793ad8127c4c920_c301e10c759a487e925f650294ee57cd_20250324",
+      "platform": "jiuyangongshe",
+      "title": "国际电子电路展览会",
+      "event_date": "2025-03-24",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_29e6f8d867c1449ba07b0d9c10351ff0_bdf9acf2e5ad4f1c8c4b11d467fb6841_20250324",
+      "platform": "jiuyangongshe",
+      "title": "新铝时代拟购买宏联电子100%股权并募集配套资金",
+      "event_date": "2025-03-24",
+      "content": "新铝时代拟以发行股份及支付现金方式向陈旺等19名交易对方购买宏联电子100%股权，并募集配套资金。公司股票将于2025年3月24日开市起复牌。本次交易预计构成重大资产重组。目前，本次交易涉及的审计、评估工作尚未完成，公司董事会决定暂不召开股东会审议本次交易事项。本次交易完成后，公司主营业务范围将增加显示器支架、精密转轴以及精密冲压产品等业务。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_051c64fcb76047128bf8163e09bb32b2_465f31aba9484acbb1175328e6c56a03_20250324",
+      "platform": "jiuyangongshe",
+      "title": "中科通达筹划购买星和动力100%股权",
+      "event_date": "2025-03-24",
+      "content": "中科通达正在筹划以发行股份及支付现金的方式购买星和动力100%股权并募集配套资金。公司股票将于2025年3月24日开市起复牌。标的公司主营业务为数字化产品综合服务，与上市公司同属信息化、数字化综合服务供应商。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_cd09e099ae8e45c5915980352486a7d5_e7b77a1602bb4c20a666a21c6577c98e_20250324",
+      "platform": "jiuyangongshe",
+      "title": "万德斯实控人等签署股权转让协议",
+      "event_date": "2025-03-24",
+      "content": "万德斯公告称，公司实控人刘军、股东宫建瑞3月21日与瑞源国际资源投资有限公司签署股权转让协议，拟转让公司控股股东万德斯投资合计100%股权，转让价款合计4.13亿元。因实控人筹划控制权变更事项现已取得进一步进展，公司股票将于3月24日开市起复牌。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_3b60938f2ea24f7d95aa78b1ac98dc85_f09843a7fbde4c7bbc67aefa384783d5_20250325",
+      "platform": "jiuyangongshe",
+      "title": "博鳌亚洲论坛2025年年会",
+      "event_date": "2025-03-25",
+      "content": "博鳌亚洲论坛2025年年会将于3月25日至28日在海南博鳌举行，设置了系列论坛活动。",
+      "category": "投资事件",
+      "importance": 2,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "海南自贸"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_d2e1e0c4a0a8449c90f5dd64974b2deb_5d61dccbef344e969dd22ba91c19c3ec_20250325",
+      "platform": "jiuyangongshe",
+      "title": "苹果3月25日举办开发者活动，或将推出国行Apple智能",
+      "event_date": "2025-03-25",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "苹果"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_0675cc0065d3459998a223140e64aa02_266700daa6664ffca189dcd84d1e597c_20250325",
+      "platform": "jiuyangongshe",
+      "title": "第112届全国糖酒商品交易会",
+      "event_date": "2025-03-25",
+      "content": "第112届全国糖酒商品交易会将于2025年3月25日-27日在成都举行，全国糖酒会将迎来70周年。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "消费"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_29bd067b611446ed8a625b4bbcb924d4_313717c0dd0a4ce99f5def151e1d88ac_20250325",
+      "platform": "jiuyangongshe",
+      "title": "全球大麻监管峰会",
+      "event_date": "2025-03-25",
+      "content": "3月25日至27日在华盛顿举行的“全球大麻监管峰会(GCRS)，旨在为合法大麻的全球统一监管框架奠定基础。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_0b061d9cdb0345109c785f9ae8ec0b4d_ce35721716404a6fa155d40e04d3c2ac_20250325",
+      "platform": "jiuyangongshe",
+      "title": "全球AI眼镜创新技术趋势论坛",
+      "event_date": "2025-03-25",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "AI眼镜"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_296c318ba8014bacac5e7385099636e6_cbee0e298bad42c3a8d5318dd9c1911c_20250325",
+      "platform": "jiuyangongshe",
+      "title": "2025商业航天大会暨展览会",
+      "event_date": "2025-03-25",
+      "content": "由广东省航空航天学会、上海市航空学会联合主办的2025商业航天大会暨展览会将于2025年3月25-26日在深圳召开。大会将重点围绕空间信息产业、在轨商业、卫星制造、快速运输等四大板块内容深入探讨。来自国内外知名商业航天企业、航天院所、卫星产业研发制造、卫星服务应用、在轨商业运营、大型低轨星座系统、商业火箭发射运输、创新型技术公司等高管等350+位领导、优秀代表将齐聚现场，共话商业航天发展新机遇。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "商业航天"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_3df15d5f3ee14ab7838dbc619c4af9cd_bcca5e32e4ef48da995ad6568705d0b7_20250325",
+      "platform": "jiuyangongshe",
+      "title": "中国电信年度业绩说明会",
+      "event_date": "2025-03-25",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_e0bce12345b549da8bd47914bab966da_82f2a346d927468989941e44ce618c31_20250325",
+      "platform": "jiuyangongshe",
+      "title": "国际星闪联盟2025年产业峰会",
+      "event_date": "2025-03-25",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "华为"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_0a1b716032714442aa35f0a821519b84_22e0898456804c2c9398b24e10454f9e_20250325",
+      "platform": "jiuyangongshe",
+      "title": "2025上海全球投资促进大会暨“投资上海”活动周",
+      "event_date": "2025-03-25",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_81e838101b9d4d77aab4ddc7a5fcce5c_6a1081a229674cf2b61f695c6c0675ef_20250326",
+      "platform": "jiuyangongshe",
+      "title": "第四届中国国际氢能及燃料电池产业展览会",
+      "event_date": "2025-03-26",
+      "content": "2025年3月26日-28日在北京国家会议中心共同举办“第四届中国国际氢能及燃料电池产业展览会”",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_fe59669dd387425da09a7b14041633fe_9547075cddf34506811215c981819f9a_20250326",
+      "platform": "jiuyangongshe",
+      "title": "第十五届中国国际清洁能源博览会",
+      "event_date": "2025-03-26",
+      "content": "第十五届中国国际清洁能源博览会(CEEC2025)将于3月26日至28日举办",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_a2138909da3a4148b7d2f6fae5e9c2d6_e1397c8b028d46fc9c5310f6d1fbb5b8_20250326",
+      "platform": "jiuyangongshe",
+      "title": "2025年（第六届）中国固态电池技术创新与产业化研讨会",
+      "event_date": "2025-03-26",
+      "content": "2025年（第六届）中国固态电池技术创新与产业化研讨会：3月26日至28日在湖北武汉举行，由锂电前沿主办，深圳华清新材料科技有限公司承办，会议将围绕固态电池的基础研究、关键材料、关键技术、关键装备及其标准等全产业领域展开探讨。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "固态电池"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_552ea00f8a6842b98365e935ae258caa_f81a16b8b31947cf8a902f115f251661_20250326",
+      "platform": "jiuyangongshe",
+      "title": "SEMICON China 2025",
+      "event_date": "2025-03-26",
+      "content": "SEMICON China 2025即将于3月26日至28日在上海新国际博览中心盛大开幕。作为中国半导体行业内极具影响力且内容丰富的盛会之一,本届展会吸引了来自全球行业内数以千计的新产品、新技术、新解决方案和新服务在此汇集。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "半导体"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_fed8496d031d442688e4249130642b21_3d364c996763416ebdb735db9ddcb2eb_20250326",
+      "platform": "jiuyangongshe",
+      "title": "智元供应商大会",
+      "event_date": "2025-03-26",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "人形机器人"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_90d6668e84c048a7bbc97c3246f0fe59_c640a49643214e6fb82cd439f9da83fd_20250326",
+      "platform": "jiuyangongshe",
+      "title": "2025年安全委委员大会暨燃气安全交流研讨会",
+      "event_date": "2025-03-26",
+      "content": "2025年安全委委员大会暨燃气安全交流研讨会将于3月26-28日举办(主办单位:中国城市燃气协会安全管理工作委员会协办单位:威星智能)",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_489bfa9306c64a5991926f7b8bc20e04_e50cd6ad6c424b9485c02b7ab3bb5172_20250326",
+      "platform": "jiuyangongshe",
+      "title": "2025中国(上海)机器视觉展览会",
+      "event_date": "2025-03-26",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_a991849b72504e14aafd7a51e3f202df_cf8e227bdaf04575b11c782baa77a692_20250326",
+      "platform": "jiuyangongshe",
+      "title": "2025年万亿AI智能眼镜产业趋势峰会",
+      "event_date": "2025-03-26",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "AI眼镜"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_f5adae9ff8384e33b1605cf606ec4175_785243f72776402bb283b54d2a59bc76_20250326",
+      "platform": "jiuyangongshe",
+      "title": "小米MIJIA智能音频眼镜2开启众筹",
+      "event_date": "2025-03-26",
+      "content": "小米MIJIA智能音频眼镜2，其配备“5mm 纤细镜腿”、拥有约12小时续航，新品将于3月26日10:00开启众筹，建议零售价1199元、众筹价999元。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_90c30edc053141c087c385312652349f_624faba42cfa4f699069e9af85354b92_20250326",
+      "platform": "jiuyangongshe",
+      "title": "第二十六届 ITES 深圳国际工业展",
+      "event_date": "2025-03-26",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_8569fff0289b46eca8e4072d65718de1_57dd93929fa547e78eabd3ddad1bd57f_20250326",
+      "platform": "jiuyangongshe",
+      "title": "海兰云应用场景发布会",
+      "event_date": "2025-03-26",
+      "content": "智算海洋·数链未来--海南自贸港(陵水)创新创心路演活(第一期)暨“Deepseek+海底智算中心”应用场景发布会将于3月26日举行。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_88792c0d291a4a4d9a57d5f4697d4391_15a662fed0354970862dad785eea00cd_20250326",
+      "platform": "jiuyangongshe",
+      "title": "第25届中国国际石油石化技术装备展",
+      "event_date": "2025-03-26",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_66405d12021a470dae3d13067f8c2b73_c1e9615bb31d45338e0f6757613a4bb9_20250327",
+      "platform": "jiuyangongshe",
+      "title": "2025中关村论坛年会",
+      "event_date": "2025-03-27",
+      "content": "2025中关村论坛年会将于3月27日至31日在北京举办",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_d1c2c0c749974772970a1d13760bd344_58a1ab261003462c9bb3331a35992e41_20250327",
+      "platform": "jiuyangongshe",
+      "title": "2025年房地产市场形势报告会暨全国一级资质房地产开发企业座谈会",
+      "event_date": "2025-03-27",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "房地产"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_5a41a93b1cc045f1a80601f227857f49_d1ca28b1d3c348058e5375cb6e65e1ed_20250327",
+      "platform": "jiuyangongshe",
+      "title": "2025高速公路信息化大会",
+      "event_date": "2025-03-27",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_d9a0b7522a8141de950b26d8d6e41738_9155ea42e5c143d386ff036ca350fe95_20250327",
+      "platform": "jiuyangongshe",
+      "title": "2025商用车产业发展会议",
+      "event_date": "2025-03-27",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_642079786ea649c08aace7bc05ffe9fe_7bf9d9acac1749d9878b10228594508e_20250327",
+      "platform": "jiuyangongshe",
+      "title": "2025年深海技术成果在海南转化落地专项实施研讨会",
+      "event_date": "2025-03-27",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "深海科技"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_6dca4569eea044c792599ad0332affe6_befefd1d309e4dc8a2c262995a1cf671_20250327",
+      "platform": "jiuyangongshe",
+      "title": "商务部举行新闻发布会介绍近期商务领域重点工作有关情况",
+      "event_date": "2025-03-27",
+      "content": "商务部定于2025年3月27日(星期四)下午3时举行新闻发布会新闻发言人介绍近期商务领域重点工作有关情况。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_3f72c2fdc2774998ad18a1fa59ab27b5_06e7496c0bc149be9aa486854ff29220_20250327",
+      "platform": "jiuyangongshe",
+      "title": "新奥股份拟私有化新奥能源",
+      "event_date": "2025-03-27",
+      "content": "新奥股份拟以新能香港作为要约人，在先决条件达成后，向计划股东提出私有化新奥能源的方案，并向新奥能源购股权持有人提出购股权要约。公司股票将于2025年3月27日开市起复牌。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_33916ad33039425499e9bdbcc649f5c3_6bd2793190244369bdf47c2c3487f5ad_20250327",
+      "platform": "jiuyangongshe",
+      "title": "DeepSeek Moment金融行业AI未来科技峰会",
+      "event_date": "2025-03-27",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_57869e1803054dde877d20188d702202_c8428b46a7764c498bfafdff0930f723_20250327",
+      "platform": "jiuyangongshe",
+      "title": "国新办将举行新闻发布会，介绍第五届中国国际消费品博览会有关情况",
+      "event_date": "2025-03-27",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "消费"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_a57c77056db0475abff21fd45b4f14ea_9c1221144edf41d38901ccfb7821b15f_20250327",
+      "platform": "jiuyangongshe",
+      "title": "国际集成电路展览会暨研讨会",
+      "event_date": "2025-03-27",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_ccca010d8c7d454699014089cf1af3fc_74f24c5e7c47496db75083ee9a987692_20250328",
+      "platform": "jiuyangongshe",
+      "title": "中国具身智能大会",
+      "event_date": "2025-03-28",
+      "content": "由中国人工智能学会主办、CAAI 具身智能专业委员会（筹）承办的中国具身智能大会定于2025年3月28-30日在北京市举行。",
+      "category": "投资事件",
+      "importance": 2,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "机器人"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_68be21aa96704c44882ec38052019418_5149575f8c9a47768fb741fd2e5b340e_20250328",
+      "platform": "jiuyangongshe",
+      "title": "中国汽车百人会论坛(2025)",
+      "event_date": "2025-03-28",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_b13689a724954ea1be1d345e7f5397cb_14069ee6722242ea8f305fae64e6f900_20250328",
+      "platform": "jiuyangongshe",
+      "title": "2025年第十七届中国整合生物样本学大会",
+      "event_date": "2025-03-28",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_ed9ec9d3a6e448579f44a8b0a76de8df_ef2d709dcfd947cf9cbf01c58a3d7f9f_20250328",
+      "platform": "jiuyangongshe",
+      "title": "中国北方国际自行车电动车展览会",
+      "event_date": "2025-03-28",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_062a7b232977492caf59798c8e2dec5d_42f98a7f74544c38afef9bda32f411c8_20250328",
+      "platform": "jiuyangongshe",
+      "title": "天融信将携手华为发布重量级新品",
+      "event_date": "2025-03-28",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_0d69239c22264516a6876a5dba0d135e_2f1f390ffda84253939e87c90f5df870_20250328",
+      "platform": "jiuyangongshe",
+      "title": "2025星图低空云发展大会",
+      "event_date": "2025-03-28",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_a91f57212e574589be39fe78dd349800_3718c1eb0bbd44aab249a542d61fd56c_20250328",
+      "platform": "jiuyangongshe",
+      "title": "中科海钠钠离子电池商用车解决方案全球首发",
+      "event_date": "2025-03-28",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "钠电池"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_099536d2f2044d7ca7a9d9779fae0239_98a050b28c914777844a886ee545dc02_20250328",
+      "platform": "jiuyangongshe",
+      "title": "汉邦高科拟购买驿路微行51%股权",
+      "event_date": "2025-03-28",
+      "content": "汉邦高科拟向深圳高灯发行股份购买其持有的驿路微行51%股权。同时，公司拟向实际控制人李柠全资控股公司智耘科技发行股份募集配套资金。驿路微行主要深耕智慧交通领域，聚焦ETC发行服务和ETC增值业务，其业务及产品可应用于智慧城市建设，为公司安防业务融合新领域及后续业务拓展提供支持。公司股票将于2025年3月28日开市起复牌。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_etrhz4erl0_b7818bae03c6430c9eafd233a5bd736b_20250329",
+      "platform": "jiuyangongshe",
+      "title": "SBC合成生物学产业博览会",
+      "event_date": "2025-03-29",
+      "content": "国内首个万人参与的合成生物学领域峰会，特此发起合成生物/生物医药园区风采展示活动，旨在汇聚全国规模最大、极具影响力的前二十强合成生物产业园区，搭建一个由政策引领、产业园区与企业面对面交流及宣传最新园区产业政策、商业投资、技术发展、园区运营管理支持的平台，共同探讨行业的最新动态、技术突破和合作机遇。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_192ca51b697c4fc1b0111ad38c41c3c8_45a9904a2e704d1986e70369bb1f1d78_20250330",
+      "platform": "jiuyangongshe",
+      "title": "盛通教育-中鸣人工智能教育平台将上线",
+      "event_date": "2025-03-30",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "人工智能"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_a4d9a8254d49406a8ff4c3793e6341ff_0488d373a7e442e291e8e8c1fdd121c1_20250331",
+      "platform": "jiuyangongshe",
+      "title": "特斯拉预计在3月完成量产前的最后一次大更新(新的灵巧手有望发布)（估）",
+      "event_date": "2025-03-31",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "人形机器人"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_a04251ac53ef40d0b9500d9cbed4bc56_386e07a7279a40778699d2636e0eb70b_20250331",
+      "platform": "jiuyangongshe",
+      "title": "宇树科技预计在3月中下旬发布首款灵巧手产品，预计为腱绳方案（估）",
+      "event_date": "2025-03-31",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "人形机器人"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_1ef32112689e4dec9797085f5122a8b1_efe79b2fe5c348689e145a108b168ba9_20250331",
+      "platform": "jiuyangongshe",
+      "title": "四川首台商用人形机器人预计3月起进行部分量产（估）",
+      "event_date": "2025-03-31",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "人形机器人"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_5035c4ae1e3343309b0eadc30ea377b5_803f5f59d70646cda3377236e748919e_20250331",
+      "platform": "jiuyangongshe",
+      "title": "第三届深圳国际传感器与应用技术展览会",
+      "event_date": "2025-03-31",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "jygs_33169576cf40413fab3104426f1e430b_019ba594be7b4019b1141dc50c2905a6_20250331",
+      "platform": "jiuyangongshe",
+      "title": "雷神A1智能眼镜将在乌镇发布",
+      "event_date": "2025-03-31",
+      "content": "",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "AI眼镜"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_6c7c514618584ffabf2151d57a549c1e_ebece96263104d8e89eeb74ca2b22c5b_20250331",
+      "platform": "jiuyangongshe",
+      "title": "海源复材公司控制权拟发生变更",
+      "event_date": "2025-03-31",
+      "content": "海源复材控股股东江西赛维电力集团有限公司拟将其持有的上市公司3717.50万股股份转让给新余金紫欣企业管理中心（有限合伙），转让价格为每股9.42元，合计3.5亿元。若转让完成，新余金紫欣将成为公司控股股东，刘洪超、丁立中、刘浩将成为公司共同实际控制人。公司股票将于2025年3月31日（星期一）开市起复牌交易。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    },
+    {
+      "id": "jygs_085d2a75565042cdb7922850329c9860_9a095e74088749f2806308786b1db3e6_20250331",
+      "platform": "jiuyangongshe",
+      "title": "华大九天拟收购芯和半导体100%股份",
+      "event_date": "2025-03-31",
+      "content": "华大九天拟发行股份及支付现金购买芯和半导体100%股份并募集配套资金暨关联交易事项。标的公司历经多年发展，已经成为国内领先的EDA企业，能够提供覆盖芯片设计、封装、系统到云的全链路电子系统设计仿真平台与解决方案，自主研发多款EDA产品，对标国外EDA厂商，核心技术和产品已经得到商业客户的广泛认可，并实现一定业务规模。股票将于3月31日开市起复牌。",
+      "category": "投资事件",
+      "importance": 1,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [
+        "复牌"
+      ],
+      "concepts": []
+    }
+  ]
+}

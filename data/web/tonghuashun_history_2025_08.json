@@ -1,0 +1,1876 @@
+{
+  "platform": "tonghuashun",
+  "platform_name": "同花顺",
+  "data_type": "HISTORICAL",
+  "year": 2025,
+  "month": 8,
+  "total_events": 105,
+  "events": [
+    {
+      "id": "ths_20250801_0_8c58b422",
+      "platform": "tonghuashun",
+      "title": "《化妆品安全风险监测与评价管理办法》自2025年8月1日起施行",
+      "event_date": "2025-08-01",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885406",
+          "name": "食品安全"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250801_1_18c3971a",
+      "platform": "tonghuashun",
+      "title": "2025年第二十二届ChinaJoy将于8月1日至4日在上海举办",
+      "event_date": "2025-08-01",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885603",
+          "name": "网络游戏"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250801_2_485eafd6",
+      "platform": "tonghuashun",
+      "title": "市场监管总局（国家标准委）批准发布《智能床》（GB/T 452312025）国家标准，该标准自2025年8月1日起实施",
+      "event_date": "2025-08-01",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885478",
+          "name": "智能家居"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250801_3_8feb42dc",
+      "platform": "tonghuashun",
+      "title": "美国总统特朗普宣布50%进口铜关税将于8月1日生效",
+      "event_date": "2025-08-01",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885973",
+          "name": "金属铜"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250801_4_0591045c",
+      "platform": "tonghuashun",
+      "title": "2025年8月1日起，中药饮片保质期标注将强制执行",
+      "event_date": "2025-08-01",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885539",
+          "name": "医疗器械概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250801_5_037c9f44",
+      "platform": "tonghuashun",
+      "title": "美国“对等关税”开始实施，50%进口铜关税生效。",
+      "event_date": "2025-08-01",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885973",
+          "name": "金属铜"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250801_6_ab961d39",
+      "platform": "tonghuashun",
+      "title": "香港《稳定币条例》将于8月1日生效",
+      "event_date": "2025-08-01",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885966",
+          "name": "跨境支付(CIPS)"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250801_7_543c3b46",
+      "platform": "tonghuashun",
+      "title": "玖龙纸业多个生产基地发布涨价函，宣布将在8月1日起上调瓦楞纸、再生牛卡纸30元/吨",
+      "event_date": "2025-08-01",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885410",
+          "name": "固废处理"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250801_8_e6ded965",
+      "platform": "tonghuashun",
+      "title": "《政务数据共享条例》自2025年8月1日起施行",
+      "event_date": "2025-08-01",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885362",
+          "name": "云计算"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250801_9_546f1acf",
+      "platform": "tonghuashun",
+      "title": "《期货公司居间人管理办法》自2025年8月1日起施行",
+      "event_date": "2025-08-01",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885570",
+          "name": "期货概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250801_10_70191a35",
+      "platform": "tonghuashun",
+      "title": "智己汽车超级增程发布会将于8月1日举办",
+      "event_date": "2025-08-01",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885431",
+          "name": "新能源汽车"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250801_11_037c9f44",
+      "platform": "tonghuashun",
+      "title": "美国“对等关税”开始实施，50%进口铜关税生效。",
+      "event_date": "2025-08-01",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885973",
+          "name": "金属铜"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250801_12_12190497",
+      "platform": "tonghuashun",
+      "title": "大模型一体机性能标准框架研讨会将于8月1日召开",
+      "event_date": "2025-08-01",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885728",
+          "name": "人工智能"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250801_13_b814eec9",
+      "platform": "tonghuashun",
+      "title": "国家发改委定于8月1日召开国家发展改革委新闻发布会，解读当前经济形势和经济工作",
+      "event_date": "2025-08-01",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885431",
+          "name": "新能源汽车"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250802_0_694c1783",
+      "platform": "tonghuashun",
+      "title": "《中国奇谭》首部喜剧动画电影《浪浪山小妖怪》定档8月2日公映",
+      "event_date": "2025-08-02",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885418",
+          "name": "文化传媒概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250803_0_6558e8d4",
+      "platform": "tonghuashun",
+      "title": "“欧佩克+”将在8月3日举行的会议上考虑9月再增加约54.8万桶的日产量",
+      "event_date": "2025-08-03",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885430",
+          "name": "天然气"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250803_1_6558e8d4",
+      "platform": "tonghuashun",
+      "title": "“欧佩克+”将在8月3日举行的会议上考虑9月再增加约54.8万桶的日产量",
+      "event_date": "2025-08-03",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885430",
+          "name": "天然气"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250804_0_d5356478",
+      "platform": "tonghuashun",
+      "title": "第10届亚太催化大会（APCAT-10）将于8月4日至7日在新加坡举行",
+      "event_date": "2025-08-04",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885551",
+          "name": "氟化工概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250804_1_fdb5921e",
+      "platform": "tonghuashun",
+      "title": "香港交易所官网发文称，香港证券市场下调最低上落价位的第一阶段将于8月4日生效",
+      "event_date": "2025-08-04",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885620",
+          "name": "参股券商"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250804_2_049a996b",
+      "platform": "tonghuashun",
+      "title": "第二届合成生物技术与智能生物制造学术交流会将于8月4日至6日举办",
+      "event_date": "2025-08-04",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885402",
+          "name": "智能医疗"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250804_3_73e59f36",
+      "platform": "tonghuashun",
+      "title": "港交所：优化新股市场定价及公开市场规定的改革方案将于8月4日正式生效",
+      "event_date": "2025-08-04",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885620",
+          "name": "参股券商"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250805_0_15231df6",
+      "platform": "tonghuashun",
+      "title": "第26届电子封装技术国际会议将于8月5日至7日在上海举行",
+      "event_date": "2025-08-05",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885908",
+          "name": "第三代半导体"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250805_1_b7a22413",
+      "platform": "tonghuashun",
+      "title": "2025IEEE集成电路物理和故障分析国际研讨会将于8月5日至8日在马来西亚举办",
+      "event_date": "2025-08-05",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885756",
+          "name": "芯片概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250805_2_652db08c",
+      "platform": "tonghuashun",
+      "title": "美国总统特朗普接受CNBC财经频道“Squawk Box”的现场采访，就经济、就业、美联储、关税等问题发表讲话。",
+      "event_date": "2025-08-05",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885806",
+          "name": "华为概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250805_3_45dc1546",
+      "platform": "tonghuashun",
+      "title": "上汽全新MG4纯电智趣大两厢预售发布会将于8月5日举办，为全球首款搭载半固态电池的量产电动车。",
+      "event_date": "2025-08-05",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885431",
+          "name": "新能源汽车"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250806_0_925d79c8",
+      "platform": "tonghuashun",
+      "title": "2025中国硅基负极材料技术与应用大会将于8月6日至8日举办",
+      "event_date": "2025-08-06",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885710",
+          "name": "锂电池概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250806_1_0645a307",
+      "platform": "tonghuashun",
+      "title": "2025（第三届）再生铝产业高质量发展大会将于8月6日至8日召开",
+      "event_date": "2025-08-06",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885563",
+          "name": "节能环保"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250806_2_00a50ad7",
+      "platform": "tonghuashun",
+      "title": "大疆首款扫地机器人将于8月6日20时正式发布",
+      "event_date": "2025-08-06",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885517",
+          "name": "机器人概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250806_3_c5cd9cb1",
+      "platform": "tonghuashun",
+      "title": "傅利叶将于8月6日发布GRx系列第三代产品GR-3，主打交互陪伴的医用康养机器人",
+      "event_date": "2025-08-06",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885402",
+          "name": "智能医疗"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250807_0_52533ab7",
+      "platform": "tonghuashun",
+      "title": "全球首个RWA注册登记平台将于8月7日上线",
+      "event_date": "2025-08-07",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "886017",
+          "name": "Web3.0"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250807_1_86987bac",
+      "platform": "tonghuashun",
+      "title": "国新办将于8月7日举行国务院政策例行吹风会，介绍逐步推行免费学前教育政策有关情况",
+      "event_date": "2025-08-07",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885586",
+          "name": "职业教育"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250807_2_655b2e93",
+      "platform": "tonghuashun",
+      "title": "2025亚洲最大开放计算技术大会将于8月7日举办",
+      "event_date": "2025-08-07",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885362",
+          "name": "云计算"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250807_3_ad7498a9",
+      "platform": "tonghuashun",
+      "title": "国新办将于8月7日就“推动电影高质量发展 丰富人民精神生活”举行中外记者见面会",
+      "event_date": "2025-08-07",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885418",
+          "name": "文化传媒概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250808_0_1aebd873",
+      "platform": "tonghuashun",
+      "title": "中证指数公司：中证1000指数样本临时调整，8月8日收市后生效",
+      "event_date": "2025-08-08",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885543",
+          "name": "家用电器"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250808_1_7cce816a",
+      "platform": "tonghuashun",
+      "title": "小红书宣布将打造全球首个开放世界冒险岛活动“RED LAND”，并于8月8日至10日落地上海杨浦复兴岛",
+      "event_date": "2025-08-08",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885603",
+          "name": "网络游戏"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250808_2_fece0509",
+      "platform": "tonghuashun",
+      "title": "财政部、税务总：自8月8日起，对在该日期之后（含当日）新发行的国债、地方政府债券、金融债券的利息收入，恢复征收增值税",
+      "event_date": "2025-08-08",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885620",
+          "name": "参股券商"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250808_3_b661c030",
+      "platform": "tonghuashun",
+      "title": "贵州茅台酒（五星商标上市70周年纪念）新品将于8月8日上市",
+      "event_date": "2025-08-08",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885525",
+          "name": "白酒概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250810_0_b1073448",
+      "platform": "tonghuashun",
+      "title": "河北省五人制足球超级联赛即“河北五超”将于8月10日开幕",
+      "event_date": "2025-08-10",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885615",
+          "name": "体育产业"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250811_0_c0faf363",
+      "platform": "tonghuashun",
+      "title": "恒生港股通创新药指数宣布修订编制方案，明确剔除CXO公司，修订规则将于8月11日生效",
+      "event_date": "2025-08-11",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885856",
+          "name": "仿制药一致性评价"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250811_1_243b879c",
+      "platform": "tonghuashun",
+      "title": "2025（第二届）中国固态电池技术产业发展大会将于8月11日至13日在杭州举办",
+      "event_date": "2025-08-11",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885775",
+          "name": "燃料电池"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250812_0_a40510ac",
+      "platform": "tonghuashun",
+      "title": "2025年开放存储峰会将于8月12日至8月28日举行",
+      "event_date": "2025-08-12",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885921",
+          "name": "储能"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250812_1_ae42a054",
+      "platform": "tonghuashun",
+      "title": "华为将于8月12日在2025金融AI推理应用落地与发展论坛上，发布AI推理领域的突破性技术成果",
+      "event_date": "2025-08-12",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885806",
+          "name": "华为概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250813_0_748e6f50",
+      "platform": "tonghuashun",
+      "title": "2025中国LNG及乙烷行业发展峰会将于8月13日至15日举办",
+      "event_date": "2025-08-13",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885430",
+          "name": "天然气"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250813_1_ad7ac1ca",
+      "platform": "tonghuashun",
+      "title": "海南省新闻办8月13日召开新闻发布会，事关海南自贸港促进民营经济发展",
+      "event_date": "2025-08-13",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885894",
+          "name": "海南自贸区"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250813_2_fbc6dfd8",
+      "platform": "tonghuashun",
+      "title": "2025中国具身智能机器人产业大会暨展览会将于8月13日至15日举办",
+      "event_date": "2025-08-13",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885517",
+          "name": "机器人概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250813_3_a095e176",
+      "platform": "tonghuashun",
+      "title": "国新办8月12日将就个人消费贷款贴息政策和服务业经营主体贷款贴息政策有关情况举行新闻发布会。",
+      "event_date": "2025-08-13",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885431",
+          "name": "新能源汽车"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250813_4_40e9e671",
+      "platform": "tonghuashun",
+      "title": "腾讯控股将于8月13日公布2025年第二季业绩",
+      "event_date": "2025-08-13",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885874",
+          "name": "云游戏"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250814_0_10d1f1ee",
+      "platform": "tonghuashun",
+      "title": "商务部：自8月14日起 进口经营者在进口原产于加拿大和日本的卤化丁基橡胶时应向中国海关提供相应的保证金",
+      "event_date": "2025-08-14",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "ths_20250814_1_6ad2dcc5",
+      "platform": "tonghuashun",
+      "title": "2025世界人形机器人运动会将于8月14日至17日举办",
+      "event_date": "2025-08-14",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885517",
+          "name": "机器人概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250814_2_b9f90841",
+      "platform": "tonghuashun",
+      "title": "国新办将于8月14日举行新闻发布会，介绍“十四五”时期数字中国建设发展成就",
+      "event_date": "2025-08-14",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885760",
+          "name": "装配式建筑"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250814_3_3f60609f",
+      "platform": "tonghuashun",
+      "title": "HTC VIVE将于8月14日举办发布会，推出首款智能眼镜",
+      "event_date": "2025-08-14",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885454",
+          "name": "智能穿戴"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250815_0_9a329c83",
+      "platform": "tonghuashun",
+      "title": "2025世界人形机器人运动会将于8月15日至17日举办",
+      "event_date": "2025-08-15",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885517",
+          "name": "机器人概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250815_1_46e6a124",
+      "platform": "tonghuashun",
+      "title": "国家认监委制定了《强制性产品认证实施规则 移动电源、锂离子电池和电池组（试行）》，自8月15日起实施",
+      "event_date": "2025-08-15",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885710",
+          "name": "锂电池概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250815_2_b548485a",
+      "platform": "tonghuashun",
+      "title": "2025华为深圳政企&恒扬数据新品推介会暨展车体验活动将于8月15日举办",
+      "event_date": "2025-08-15",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885806",
+          "name": "华为概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250815_3_46597bf5",
+      "platform": "tonghuashun",
+      "title": "深圳鸿蒙生态伙伴论坛将于8月15日举办",
+      "event_date": "2025-08-15",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885923",
+          "name": "鸿蒙概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250815_4_7d515415",
+      "platform": "tonghuashun",
+      "title": "深交所将于8月15日发布深证AAA国企信用债、深证AAA民企信用债指数",
+      "event_date": "2025-08-15",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885740",
+          "name": "化债概念(AMC概念)"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250815_5_33b5e5b3",
+      "platform": "tonghuashun",
+      "title": "美国总统特朗普与俄罗斯总统普京将于8月15日在美国阿拉斯加州举行会谈，讨论乌克兰危机",
+      "event_date": "2025-08-15",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885995",
+          "name": "粮食概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250817_0_ba17b905",
+      "platform": "tonghuashun",
+      "title": "全球文旅RWA发展峰会将于8月17日举办",
+      "event_date": "2025-08-17",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885497",
+          "name": "旅游概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250818_0_13dbb46f",
+      "platform": "tonghuashun",
+      "title": "AI For Health高峰论坛将于8月18日至20日召开",
+      "event_date": "2025-08-18",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885402",
+          "name": "智能医疗"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250818_1_f10fe100",
+      "platform": "tonghuashun",
+      "title": "2025全球智慧教育大会将于8月18日至20日在北京召开",
+      "event_date": "2025-08-18",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885480",
+          "name": "在线教育"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250818_2_4dadf730",
+      "platform": "tonghuashun",
+      "title": "智元机器人：智元全系列产品将于8月18日在智元商城和京东商城开售",
+      "event_date": "2025-08-18",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885517",
+          "name": "机器人概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250818_3_d9feaf69",
+      "platform": "tonghuashun",
+      "title": "中共中央政治局委员、外交部长、中印边界问题中方特别代表王毅将于8月18日至20日应邀访问印度并举行中印边界问题特别代表第24次会晤",
+      "event_date": "2025-08-18",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885572",
+          "name": "水利"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250818_4_303dfc88",
+      "platform": "tonghuashun",
+      "title": "美国特朗普政府宣布扩大对钢铁和铝进口征收50%关税的范围，扩大的关税清单将于8月18日正式生效",
+      "event_date": "2025-08-18",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "ths_20250819_0_64eeb728",
+      "platform": "tonghuashun",
+      "title": "广汽集团宣布将于8月19日正式发布其全新增程技术“星源增程”",
+      "event_date": "2025-08-19",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885431",
+          "name": "新能源汽车"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250819_1_1d8e5898",
+      "platform": "tonghuashun",
+      "title": "北京量子产业生态创新发布会将于8月19日举行",
+      "event_date": "2025-08-19",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885730",
+          "name": "量子科技"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250819_2_87dcad26",
+      "platform": "tonghuashun",
+      "title": "国新办将于8月19日举行“高质量完成‘十四五’规划”系列主题新闻发布会，介绍“十四五”时期体育强国建设成就",
+      "event_date": "2025-08-19",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885615",
+          "name": "体育产业"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250819_3_2e750d77",
+      "platform": "tonghuashun",
+      "title": "第二十四届全国植物基因组学大会将于8月19日至22日在西藏自治区林芝市召开",
+      "event_date": "2025-08-19",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885877",
+          "name": "转基因"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250819_4_a2b0887a",
+      "platform": "tonghuashun",
+      "title": "多家光伏企业接到通知，将参加8月19日相关部门组织的光伏企业座谈会",
+      "event_date": "2025-08-19",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885531",
+          "name": "光伏概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250819_5_544f4c42",
+      "platform": "tonghuashun",
+      "title": "2025中国(郑州)国际期货论坛将于8月19日至20日在河南郑州举办",
+      "event_date": "2025-08-19",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885570",
+          "name": "期货概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250820_0_f5283aa8",
+      "platform": "tonghuashun",
+      "title": "2025年WWEC世界教育者大会将于8月20日至22日在上海举办",
+      "event_date": "2025-08-20",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885480",
+          "name": "在线教育"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250820_1_6dc9c6ed",
+      "platform": "tonghuashun",
+      "title": "理想汽车：VLA司机大模型8月20日随理想8交付",
+      "event_date": "2025-08-20",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885431",
+          "name": "新能源汽车"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250820_2_71c4ffac",
+      "platform": "tonghuashun",
+      "title": "2025年中国半导体生态发展大会暨产学研博览会将于8月20日至22日举办",
+      "event_date": "2025-08-20",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "ths_20250820_3_2637aa96",
+      "platform": "tonghuashun",
+      "title": "谷歌将于8月20日举办发布会，推出新的Pixel品牌硬件",
+      "event_date": "2025-08-20",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885800",
+          "name": "消费电子概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250820_4_20692fd1",
+      "platform": "tonghuashun",
+      "title": "2025可信数据空间推进大会将于8月20日至21日举办",
+      "event_date": "2025-08-20",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885942",
+          "name": "数据安全"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250820_5_99b03415",
+      "platform": "tonghuashun",
+      "title": "2025第十四届中国煤焦钢产业大会将于8月20日至22日在青岛召开",
+      "event_date": "2025-08-20",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885398",
+          "name": "煤化工概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250820_6_edd008a3",
+      "platform": "tonghuashun",
+      "title": "国新办将于8月20日举行新闻发布会，介绍阅兵准备工作有关情况",
+      "event_date": "2025-08-20",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885700",
+          "name": "军工"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250821_0_dfb9517c",
+      "platform": "tonghuashun",
+      "title": "《海南自由贸易港跨境资产管理试点业务实施细则》自8月21日起生效",
+      "event_date": "2025-08-21",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885894",
+          "name": "海南自贸区"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250821_1_4afb1379",
+      "platform": "tonghuashun",
+      "title": "2025中国电解铝大会将于8月21日至23日在云南昆明召开",
+      "event_date": "2025-08-21",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885552",
+          "name": "小金属概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250821_2_b00a20dd",
+      "platform": "tonghuashun",
+      "title": "智元机器人8月21日将召开首届合作伙伴大会",
+      "event_date": "2025-08-21",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885517",
+          "name": "机器人概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250822_0_50ad2af8",
+      "platform": "tonghuashun",
+      "title": "第33届广州博览会将于8月22日至24日在广州举行",
+      "event_date": "2025-08-22",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885517",
+          "name": "机器人概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250822_1_cabf2dc0",
+      "platform": "tonghuashun",
+      "title": "恒指公司将于8月22日宣布2025年第二季度之恒生指数系列检讨结果",
+      "event_date": "2025-08-22",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885525",
+          "name": "白酒概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250822_2_289e2568",
+      "platform": "tonghuashun",
+      "title": "杰克逊霍尔全球央行年会将于8月22日至24日举行",
+      "event_date": "2025-08-22",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885570",
+          "name": "期货概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250822_3_912bf627",
+      "platform": "tonghuashun",
+      "title": "2025中国算力大会将于8月22日至24日在山西大同举行",
+      "event_date": "2025-08-22",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885957",
+          "name": "东数西算(算力)"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250822_4_d02a2477",
+      "platform": "tonghuashun",
+      "title": "华为兆瓦超充高质量发展峰会将于8月22日举行，将发布百兆瓦级重卡超充站",
+      "event_date": "2025-08-22",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885431",
+          "name": "新能源汽车"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250822_5_41f7a1ff",
+      "platform": "tonghuashun",
+      "title": "美联储主席鲍威尔在杰克逊霍尔全球央行年会上发表讲话。",
+      "event_date": "2025-08-22",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885840",
+          "name": "人民币贬值受益"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250822_6_1889aa72",
+      "platform": "tonghuashun",
+      "title": "国泰海通定于8月22日完成合并后法人切换，原海通客户及业务后迁移合并",
+      "event_date": "2025-08-22",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885620",
+          "name": "参股券商"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250825_0_7bfb8394",
+      "platform": "tonghuashun",
+      "title": "RoboRAVE国际教育机器人大会将于8月25日至26日举办",
+      "event_date": "2025-08-25",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885517",
+          "name": "机器人概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250825_1_c96f5017",
+      "platform": "tonghuashun",
+      "title": "老铺黄金：将于2025年8月25日进行产品提价调整",
+      "event_date": "2025-08-25",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885530",
+          "name": "黄金概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250825_2_4e115a06",
+      "platform": "tonghuashun",
+      "title": "中国恒大：将于8月25日上午9时起取消股份上市地位",
+      "event_date": "2025-08-25",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885699",
+          "name": "ST板块"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250825_3_e6cc72d0",
+      "platform": "tonghuashun",
+      "title": "华为：8月25日14:30，将举行智界及问界秋季新品发布会",
+      "event_date": "2025-08-25",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885431",
+          "name": "新能源汽车"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250826_0_8de9870d",
+      "platform": "tonghuashun",
+      "title": "国新办8月26日举行新闻发布会，介绍第二十五届中国国际投资贸易洽谈会有关情况",
+      "event_date": "2025-08-26",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885494",
+          "name": "一带一路"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250826_1_836d2e98",
+      "platform": "tonghuashun",
+      "title": "“川超”计划于2025年9月20日开幕，将一直持续到2026年7月结束。",
+      "event_date": "2025-08-26",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885615",
+          "name": "体育产业"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250826_2_5866ad52",
+      "platform": "tonghuashun",
+      "title": "2025中国操作系统产业大会将于8月26日举行，将发布新一代中国操作系统银河麒麟V11",
+      "event_date": "2025-08-26",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885844",
+          "name": "国产操作系统"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250827_0_43396f8b",
+      "platform": "tonghuashun",
+      "title": "英伟达将于8月27日美股盘后发布2026财年第二季度财报",
+      "event_date": "2025-08-27",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "886048",
+          "name": "英伟达概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250827_1_4202ded2",
+      "platform": "tonghuashun",
+      "title": "美团将于8月27日公布其第二季度业绩",
+      "event_date": "2025-08-27",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "ths_20250827_2_71b747f1",
+      "platform": "tonghuashun",
+      "title": "交通运输部将于8月27日举行2025年8月例行新闻发布会",
+      "event_date": "2025-08-27",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885705",
+          "name": "乡村振兴"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250827_3_2b10bd4d",
+      "platform": "tonghuashun",
+      "title": "第十五届中国东北亚博览会将于8月27日至31日在吉林省长春市举办",
+      "event_date": "2025-08-27",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885431",
+          "name": "新能源汽车"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250827_4_af36fc67",
+      "platform": "tonghuashun",
+      "title": "2025势银绿氢产业大会将于8月27日至28日举办",
+      "event_date": "2025-08-27",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885823",
+          "name": "氢能源"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250827_5_00602d13",
+      "platform": "tonghuashun",
+      "title": "商务部将于8月27日举行上海合作组织经贸合作专题吹风会",
+      "event_date": "2025-08-27",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885494",
+          "name": "一带一路"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250827_6_6a912479",
+      "platform": "tonghuashun",
+      "title": "华为将于8月27日发布新品AI SSD",
+      "event_date": "2025-08-27",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "886042",
+          "name": "存储芯片"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250827_7_5650026d",
+      "platform": "tonghuashun",
+      "title": "中国贸促会定于8月27日召开8月例行新闻发布会",
+      "event_date": "2025-08-27",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885642",
+          "name": "跨境电商"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250829_0_523a1ffc",
+      "platform": "tonghuashun",
+      "title": "农业农村部8月29日就2025年中国农民丰收节总体安排和筹办情况举行新闻发布会",
+      "event_date": "2025-08-29",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885705",
+          "name": "乡村振兴"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250829_1_c87776e8",
+      "platform": "tonghuashun",
+      "title": "第三届出海AI营销生产力峰会将于8月29日举办",
+      "event_date": "2025-08-29",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885728",
+          "name": "人工智能"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250829_2_f2dc8b02",
+      "platform": "tonghuashun",
+      "title": "第二十八届成都国际车展将于8月29日至9月7日举行",
+      "event_date": "2025-08-29",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885431",
+          "name": "新能源汽车"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250829_3_9a7263d9",
+      "platform": "tonghuashun",
+      "title": "国家发改委8月份新闻发布会将于8月29日召开",
+      "event_date": "2025-08-29",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885573",
+          "name": "猪肉"
+        }
+      ]
+    }
+  ]
+}

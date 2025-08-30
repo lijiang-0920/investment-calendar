@@ -1,0 +1,392 @@
+{
+  "platform": "tonghuashun",
+  "platform_name": "同花顺",
+  "data_type": "HISTORICAL",
+  "year": 2025,
+  "month": 2,
+  "total_events": 21,
+  "events": [
+    {
+      "id": "ths_20250201_0_64754ad8",
+      "platform": "tonghuashun",
+      "title": "《水下数据中心技术要求》行业标准正式实施",
+      "event_date": "2025-02-01",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885887",
+          "name": "数据中心"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250201_1_c17a1f59",
+      "platform": "tonghuashun",
+      "title": "《煤炭矿区总体规划管理规定》开始施行",
+      "event_date": "2025-02-01",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885914",
+          "name": "煤炭概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250203_0_fc70849b",
+      "platform": "tonghuashun",
+      "title": "Meta将公布2024年全年业绩\t",
+      "event_date": "2025-02-03",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885800",
+          "name": "消费电子概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250204_0_fed707bb",
+      "platform": "tonghuashun",
+      "title": "阿联酋人工智能大会\t",
+      "event_date": "2025-02-04",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885728",
+          "name": "人工智能"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250207_0_d87a1681",
+      "platform": "tonghuashun",
+      "title": "第九届亚冬会将在哈尔滨举办\t",
+      "event_date": "2025-02-07",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885825",
+          "name": "冰雪产业"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250207_1_0adeecf7",
+      "platform": "tonghuashun",
+      "title": "英伟达将于3月17-21日举办GTC AI大会",
+      "event_date": "2025-02-07",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885728",
+          "name": "人工智能"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250208_0_26b9a36b",
+      "platform": "tonghuashun",
+      "title": "新版《食品安全国家标准 食品添加剂使用标准》实施",
+      "event_date": "2025-02-08",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885406",
+          "name": "食品安全"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250209_0_b7d42492",
+      "platform": "tonghuashun",
+      "title": "LEAP 2025在沙特举办",
+      "event_date": "2025-02-09",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885728",
+          "name": "人工智能"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250210_0_4b13e589",
+      "platform": "tonghuashun",
+      "title": "国务院关税税则委员会：对原产于美国的部分进口商品加征10%或15%的关税",
+      "event_date": "2025-02-10",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885764",
+          "name": "自由贸易港"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250210_1_64147715",
+      "platform": "tonghuashun",
+      "title": "比亚迪召开智能化战略发布会",
+      "event_date": "2025-02-10",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885736",
+          "name": "无人驾驶"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250210_2_6b2d1522",
+      "platform": "tonghuashun",
+      "title": "法国人工智能峰会\t",
+      "event_date": "2025-02-10",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885728",
+          "name": "人工智能"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250211_0_1bcd6e56",
+      "platform": "tonghuashun",
+      "title": "特斯拉上海储能超级工厂举行投产仪式",
+      "event_date": "2025-02-11",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885467",
+          "name": "特斯拉概念"
+        },
+        {
+          "code": "885921",
+          "name": "储能"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250213_0_77e4d1b3",
+      "platform": "tonghuashun",
+      "title": "《海南自由贸易港农作物种子进口和从境外引进畜禽遗传资源》施行",
+      "event_date": "2025-02-13",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885812",
+          "name": "农业种植"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250215_0_ec48df60",
+      "platform": "tonghuashun",
+      "title": "《国务院关于规范中介机构为公司公开发行股票提供服务的规定》发布",
+      "event_date": "2025-02-15",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885620",
+          "name": "参股券商"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250215_1_359dbfbd",
+      "platform": "tonghuashun",
+      "title": "中国全固态电池产学研协同创新平台年会暨第二届中国全固态电池创新发展高峰论坛",
+      "event_date": "2025-02-15",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885710",
+          "name": "锂电池概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250218_0_e7fd3bee",
+      "platform": "tonghuashun",
+      "title": "华为手机：2月18日将在马来西亚吉隆坡举行产品发布会",
+      "event_date": "2025-02-18",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885806",
+          "name": "华为概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250219_0_173fb714",
+      "platform": "tonghuashun",
+      "title": "工业互联网大会将在江苏苏州举行\t",
+      "event_date": "2025-02-19",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885783",
+          "name": "工业互联网"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250219_1_3a69179c",
+      "platform": "tonghuashun",
+      "title": "英伟达将公布2024年业绩\t",
+      "event_date": "2025-02-19",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885728",
+          "name": "人工智能"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250219_2_1e19b513",
+      "platform": "tonghuashun",
+      "title": "暴雪《守望先锋》国服官宣回归",
+      "event_date": "2025-02-19",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885457",
+          "name": "手机游戏"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250225_0_105d933f",
+      "platform": "tonghuashun",
+      "title": "苹果2025年股东大会举行",
+      "event_date": "2025-02-25",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885376",
+          "name": "苹果概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250228_0_b4f93239",
+      "platform": "tonghuashun",
+      "title": "《广州市低空经济发展条例》正式发布",
+      "event_date": "2025-02-28",
+      "category": "市场事件",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885564",
+          "name": "无人机"
+        }
+      ]
+    }
+  ]
+}
