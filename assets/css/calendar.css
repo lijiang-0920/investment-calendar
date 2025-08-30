@@ -1,0 +1,215 @@
+/* 日历样式 */
+.calendar-container {
+  background-color: var(--card-color);
+  border-radius: var(--border-radius-lg);
+  box-shadow: var(--shadow-sm);
+  overflow: hidden;
+  margin-bottom: 2rem;
+}
+
+.calendar-controls {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+#current-month-year {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  min-width: 200px;
+  text-align: center;
+}
+
+.calendar-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+}
+
+.calendar-header {
+  display: contents;
+}
+
+.calendar-day-header {
+  background-color: var(--surface-color);
+  padding: 1rem;
+  text-align: center;
+  font-weight: 600;
+  color: var(--text-secondary);
+  border-bottom: 1px solid var(--border-color);
+}
+
+.calendar-day {
+  min-height: 120px;
+  border-right: 1px solid var(--border-color);
+  border-bottom: 1px solid var(--border-color);
+  padding: 0.5rem;
+  position: relative;
+  cursor: pointer;
+  transition: var(--transition);
+}
+
+.calendar-day:hover {
+  background-color: var(--surface-color);
+}
+
+.calendar-day:nth-child(7n) {
+  border-right: none;
+}
+
+.calendar-day.other-month {
+  color: var(--text-muted);
+  background-color: var(--surface-color);
+}
+
+.calendar-day.today {
+  background-color: rgba(37, 99, 235, 0.1);
+}
+
+.calendar-day.selected {
+  background-color: rgba(37, 99, 235, 0.2);
+}
+
+.day-number {
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  font-size: 0.875rem;
+}
+
+.calendar-day.today .day-number {
+  background-color: var(--primary-color);
+  color: white;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.75rem;
+}
+
+.day-events {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  max-height: 80px;
+  overflow: hidden;
+}
+
+.calendar-event {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-size: 0.75rem;
+  line-height: 1.2;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: var(--transition);
+}
+
+.calendar-event:hover {
+  transform: scale(1.02);
+}
+
+.calendar-event.new {
+  background-color: var(--warning-color);
+}
+
+.calendar-event.important {
+  background-color: var(--danger-color);
+}
+
+.calendar-event.normal {
+  background-color: var(--info-color);
+}
+
+.events-overflow {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  text-align: center;
+  margin-top: 2px;
+}
+
+.calendar-legend {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  padding: 1rem;
+  background-color: var(--surface-color);
+  border-top: 1px solid var(--border-color);
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+}
+
+.legend-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+}
+
+.legend-dot.new {
+  background-color: var(--warning-color);
+}
+
+.legend-dot.important {
+  background-color: var(--danger-color);
+}
+
+.legend-dot.normal {
+  background-color: var(--info-color);
+}
+
+/* 日历响应式 */
+@media (max-width: 768px) {
+  .calendar-controls {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .calendar-day {
+    min-height: 80px;
+    padding: 0.25rem;
+  }
+  
+  .day-events {
+    max-height: 50px;
+  }
+  
+  .calendar-event {
+    font-size: 0.625rem;
+    padding: 1px 4px;
+  }
+  
+  .calendar-legend {
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .calendar-day {
+    min-height: 60px;
+  }
+  
+  .calendar-day-header {
+    padding: 0.5rem 0.25rem;
+    font-size: 0.75rem;
+  }
+  
+  .day-number {
+    font-size: 0.75rem;
+  }
+  
+  .calendar-event {
+    font-size: 0.5rem;
+  }
+}
