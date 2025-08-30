@@ -344,7 +344,6 @@ jobs:
                     
                 except Exception as e:
                     print(f'❌ 变更报告转换失败: {e}')
-
         def main():
             print("🔄 开始数据转换...")
             
@@ -456,7 +455,56 @@ jobs:
         else
           echo "ℹ️ 没有需要提交的变更"
         fi
-        
+    
+    - name: Create metadata reader script
+      run: |
+        cat > read_metadata.py << 'EOF'
+        import json
+        import os
+
+        def read_metadata():
+            if os.path.exists('data/web/metadata.json'):
+                try:
+                    with open('data/web/metadata.json', 'r', encoding='utf-8') as f:
+                        metadata = json.load(f)
+                    print('  - 总事件数: ' + str(metadata.get('total_events', 0)))
+                    print('  - 活跃平台: ' + str(len(metadata.get('platforms', {}))))
+                    print('  - 历史文件: ' + str(metadata.get('historical_files', 0)))
+                    print('  - 最后更新: ' + metadata.get('last_updated', '未知'))
+                except Exception as e:
+                    print('  - 无法读取元数据: ' + str(e))
+            else:
+                print('  - 元数据文件不存在')
+
+        if __name__ == '__main__':
+            read_metadata()
+        EOF
+    
+    - name: Create historical index reader script
+      run: |
+        cat > read_historical.py << 'EOF'
+        import json
+        import os
+
+        def read_historical_index():
+            if os.path.exists('data/web/historical_index.json'):
+                try:
+                    with open('data/web/historical_index.json', 'r', encoding='utf-8') as f:
+                        index = json.load(f)
+                    periods = index.get('available_periods', [])
+                    print('  - 可用时期: ' + str(len(periods)) + ' 个')
+                    if periods:
+                        print('  - 时间范围: ' + periods[0] + ' 至 ' + periods[-1])
+                        recent = periods[-3:] if len(periods) >= 3 else periods
+                        print('  - 最新时期: ' + str(recent))
+                except Exception as e:
+                    print('  - 无法读取历史索引: ' + str(e))
+            else:
+                print('  - 历史索引文件不存在')
+
+        if __name__ == '__main__':
+            read_historical_index()
+        EOF
     
     - name: Deployment summary
       run: |
@@ -473,40 +521,11 @@ jobs:
         echo "  - 历史数据: $history_count 个历史文件"
         echo "  - 网站地址: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
         
-        if [ -f "data/web/metadata.json" ]; then
-          echo "📈 数据统计:"
-          python3 << 'EOF'
-import json
-try:
-    with open('data/web/metadata.json', 'r') as f:
-        metadata = json.load(f)
-    print('  - 总事件数: ' + str(metadata.get('total_events', 0)))
-    print('  - 活跃平台: ' + str(len(metadata.get('platforms', {}))))
-    print('  - 历史文件: ' + str(metadata.get('historical_files', 0)))
-    print('  - 最后更新: ' + metadata.get('last_updated', '未知'))
-except Exception as e:
-    print('  - 无法读取元数据: ' + str(e))
-EOF
-        fi
+        echo "📈 数据统计:"
+        python3 read_metadata.py
         
-        if [ -f "data/web/historical_index.json" ]; then
-          echo "📅 历史数据索引:"
-          python3 << 'EOF'
-import json
-try:
-    with open('data/web/historical_index.json', 'r') as f:
-        index = json.load(f)
-    periods = index.get('available_periods', [])
-    print('  - 可用时期: ' + str(len(periods)) + ' 个')
-    if periods:
-        print('  - 时间范围: ' + periods[0] + ' 至 ' + periods[-1])
-        recent = periods[-3:] if len(periods) >= 3 else periods
-        print('  - 最新时期: ' + str(recent))
-except Exception as e:
-    print('  - 无法读取历史索引: ' + str(e))
-EOF
-        fi
+        echo "📅 历史数据索引:"
+        python3 read_historical.py
         
         echo ""
         echo "🌐 访问网站查看数据更新结果！"
-
