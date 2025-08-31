@@ -303,31 +303,30 @@ class FutureDataCollector:
             
     def _collect_jiuyan_future_dynamic(self, start_date: str, end_date: str) -> List[StandardizedEvent]:
         """采集韭研公社未来数据 - 修复版"""
-        total_events = 0
+        all_events = []  # 改为事件列表
         
-        # 按月循环采集
+        # 按月采集到end_date
         start_dt = datetime.strptime(start_date, '%Y-%m-%d')
         end_dt = datetime.strptime(end_date, '%Y-%m-%d')
         
-        current_dt = start_dt.replace(day=1)  # 从月初开始，避免日期溢出
+        current_dt = start_dt.replace(day=1)  # 从月初开始，避免日期问题
         
         while current_dt <= end_dt:
             year, month = current_dt.year, current_dt.month
             print(f"   📅 采集 {year}年{month}月...")
             
             try:
-                events = self._get_jiuyan_month_data_safe(year, month, start_date, end_date)
-                
+                events = self._get_jiuyan_month_data(year, month, start_date, end_date, is_future=True)
                 if events:
+                    all_events.extend(events)  # 添加到总列表
                     print(f"      ✅ {year}年{month}月: {len(events)} 个事件")
-                    total_events += len(events)
                 else:
                     print(f"      ⚠️ {year}年{month}月: 无数据")
-                
+                    
                 time.sleep(0.5)
                 
             except Exception as e:
-                print(f"      ❌ {year}年{month}月 采集失败: {e}")
+                print(f"      ❌ {year}年{month}月采集失败: {e}")
             
             # 安全地移动到下个月
             try:
@@ -335,11 +334,13 @@ class FutureDataCollector:
                     current_dt = current_dt.replace(year=current_dt.year + 1, month=1)
                 else:
                     current_dt = current_dt.replace(month=current_dt.month + 1)
-            except Exception as e:
+            except ValueError as e:
                 print(f"      ❌ 日期计算错误: {e}")
                 break
         
-        return total_events
+        print(f"   📊 韭研公社总计: {len(all_events)} 个事件")
+        return all_events  # 返回事件列表，不是数量
+
     
     
     def _collect_tonghuashun_future_dynamic(self, start_date: str, end_date: str) -> List[StandardizedEvent]:
