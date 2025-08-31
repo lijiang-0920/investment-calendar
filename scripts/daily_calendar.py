@@ -300,33 +300,47 @@ class FutureDataCollector:
         except Exception as e:
             print(f"财联社API请求失败: {e}")
             return []
-    
+            
     def _collect_jiuyan_future_dynamic(self, start_date: str, end_date: str) -> List[StandardizedEvent]:
-        """采集韭研公社未来数据"""
-        all_events = []
+        """采集韭研公社未来数据 - 修复版"""
+        total_events = 0
         
-        # 按月采集到end_date
+        # 按月循环采集
         start_dt = datetime.strptime(start_date, '%Y-%m-%d')
         end_dt = datetime.strptime(end_date, '%Y-%m-%d')
         
-        current_dt = start_dt
+        current_dt = start_dt.replace(day=1)  # 从月初开始，避免日期溢出
+        
         while current_dt <= end_dt:
             year, month = current_dt.year, current_dt.month
+            print(f"   📅 采集 {year}年{month}月...")
             
             try:
-                events = self._get_jiuyan_month_data(year, month, start_date, end_date, is_future=True)
-                all_events.extend(events)
+                events = self._get_jiuyan_month_data_safe(year, month, start_date, end_date)
+                
+                if events:
+                    print(f"      ✅ {year}年{month}月: {len(events)} 个事件")
+                    total_events += len(events)
+                else:
+                    print(f"      ⚠️ {year}年{month}月: 无数据")
+                
                 time.sleep(0.5)
+                
             except Exception as e:
-                print(f"韭研公社{year}年{month}月数据采集失败: {e}")
+                print(f"      ❌ {year}年{month}月 采集失败: {e}")
             
-            # 移动到下个月
-            if current_dt.month == 12:
-                current_dt = current_dt.replace(year=current_dt.year + 1, month=1)
-            else:
-                current_dt = current_dt.replace(month=current_dt.month + 1)
+            # 安全地移动到下个月
+            try:
+                if current_dt.month == 12:
+                    current_dt = current_dt.replace(year=current_dt.year + 1, month=1)
+                else:
+                    current_dt = current_dt.replace(month=current_dt.month + 1)
+            except Exception as e:
+                print(f"      ❌ 日期计算错误: {e}")
+                break
         
-        return all_events
+        return total_events
+    
     
     def _collect_tonghuashun_future_dynamic(self, start_date: str, end_date: str) -> List[StandardizedEvent]:
         """采集同花顺未来数据"""
@@ -512,8 +526,8 @@ class FutureDataCollector:
         return None
     
     # 韭研公社辅助方法
-    def _get_jiuyan_month_data(self, year: int, month: int, start_date: str, end_date: str, is_future: bool = False) -> List[StandardizedEvent]:
-        """获取韭研公社月度数据"""
+    def _get_jiuyan_month_data_safe(self, year: int, month: int, start_date: str, end_date: str) -> List[StandardizedEvent]:
+        """获取韭研公社月度数据 - 安全版本"""
         date_param = f"{year}-{month:02d}"
         
         headers = {
@@ -541,31 +555,49 @@ class FutureDataCollector:
                 for day_data in month_data.get('data', []):
                     date = day_data.get('date')
                     
-                    # 过滤日期范围
-                    if not date or date < start_date or date > end_date:
+                    # 安全的日期验证
+                    if not date:
                         continue
                     
+                    try:
+                        # 验证日期格式和有效性
+                        parsed_date = datetime.strptime(date, '%Y-%m-%d')
+                        
+                        # 检查日期是否在有效范围内
+                        if date < start_date or date > end_date:
+                            continue
+                            
+                    except ValueError as e:
+                        print(f"        ⚠️ 无效日期格式: {date}, 错误: {e}")
+                        continue
+                    
+                    # 处理该日的事件
                     for item in day_data.get('list', []):
-                        timeline = item.get('timeline', {})
-                        event = StandardizedEvent(
-                            platform="jiuyangongshe",
-                            event_id=f"jygs_{item.get('article_id', '')}_{timeline.get('timeline_id', '')}_{date.replace('-', '')}",
-                            original_id=item.get('article_id', ''),
-                            event_date=date,
-                            title=item.get('title', ''),
-                            content=item.get('content', ''),
-                            importance=max(1, min(5, 7 - timeline.get('grade', 6))),
-                            country='中国',
-                            themes=[theme.get('name', '') for theme in timeline.get('theme_list', [])],
-                            raw_data=item
-                        )
-                        events.append(event)
+                        try:
+                            timeline = item.get('timeline', {})
+                            event = StandardizedEvent(
+                                platform="jiuyangongshe",
+                                event_id=f"jygs_{item.get('article_id', '')}_{timeline.get('timeline_id', '')}_{date.replace('-', '')}",
+                                original_id=item.get('article_id', ''),
+                                event_date=date,
+                                title=item.get('title', ''),
+                                content=item.get('content', ''),
+                                importance=max(1, min(5, 7 - timeline.get('grade', 6))),
+                                country='中国',
+                                themes=[theme.get('name', '') for theme in timeline.get('theme_list', [])],
+                                raw_data=item
+                            )
+                            events.append(event)
+                        except Exception as e:
+                            print(f"        ❌ 事件处理失败: {e}")
+                            continue
                 
                 return events
             else:
+                print(f"        ❌ API请求失败: {response.status_code}")
                 return []
         except Exception as e:
-            print(f"韭研公社API请求失败: {e}")
+            print(f"        ❌ 韭研公社API请求异常: {e}")
             return []
     
     # 同花顺辅助方法
