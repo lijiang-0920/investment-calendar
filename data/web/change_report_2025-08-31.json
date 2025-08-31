@@ -1,8 +1,8 @@
 {
-  "detection_time": "2025-08-31T02:13:48.358523",
+  "detection_time": "2025-08-31T02:19:01.241514",
   "summary": {
     "total_new": 0,
-    "total_updated": 15,
+    "total_updated": 9,
     "total_cancelled": 0
   },
   "platforms": {
@@ -30,7 +30,7 @@
     "investing": {
       "name": "英为财情",
       "new_events": 0,
-      "updated_events": 15,
+      "updated_events": 9,
       "cancelled_events": 0,
       "sample_new_titles": []
     },
