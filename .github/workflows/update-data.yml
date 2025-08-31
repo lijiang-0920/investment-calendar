@@ -2,8 +2,8 @@ name: Daily Investment Calendar Update
 
 on:
   schedule:
-    # 每天北京时间 6:00 (UTC 22:00) 执行
-    - cron: '0 22 * * *'
+    # 每天北京时间 6:00 (UTC 10:00) 执行
+    - cron: '0 2 * * *'
   workflow_dispatch: # 允许手动触发
 
 permissions:
