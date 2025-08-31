@@ -340,34 +340,45 @@ class FutureDataCollector:
         
         print(f"   📊 韭研公社总计: {len(all_events)} 个事件")
         return all_events  # 返回事件列表，不是数量
-
-    
     
     def _collect_tonghuashun_future_dynamic(self, start_date: str, end_date: str) -> List[StandardizedEvent]:
-        """采集同花顺未来数据"""
+        """采集同花顺未来数据 - 修复版"""
         all_events = []
         
         # 按月采集到end_date
         start_dt = datetime.strptime(start_date, '%Y-%m-%d')
         end_dt = datetime.strptime(end_date, '%Y-%m-%d')
         
-        current_dt = start_dt
+        current_dt = start_dt.replace(day=1)  # 从月初开始
+        
         while current_dt <= end_dt:
             year, month = current_dt.year, current_dt.month
+            print(f"   📅 采集 {year}年{month}月...")
             
             try:
                 events = self._get_tonghuashun_month_data(year, month, start_date, end_date, is_future=True)
-                all_events.extend(events)
+                if events:
+                    all_events.extend(events)
+                    print(f"      ✅ {year}年{month}月: {len(events)} 个事件")
+                else:
+                    print(f"      ⚠️ {year}年{month}月: 无数据")
+                    
                 time.sleep(0.5)
+                
             except Exception as e:
-                print(f"同花顺{year}年{month}月数据采集失败: {e}")
+                print(f"      ❌ {year}年{month}月采集失败: {e}")
             
-            # 移动到下个月
-            if current_dt.month == 12:
-                current_dt = current_dt.replace(year=current_dt.year + 1, month=1)
-            else:
-                current_dt = current_dt.replace(month=current_dt.month + 1)
+            # 安全地移动到下个月
+            try:
+                if current_dt.month == 12:
+                    current_dt = current_dt.replace(year=current_dt.year + 1, month=1)
+                else:
+                    current_dt = current_dt.replace(month=current_dt.month + 1)
+            except ValueError as e:
+                print(f"      ❌ 日期计算错误: {e}")
+                break
         
+        print(f"   📊 同花顺总计: {len(all_events)} 个事件")
         return all_events
 
     def _collect_investing_future_dynamic(self, start_date: str, end_date: str) -> List[StandardizedEvent]:
@@ -527,8 +538,8 @@ class FutureDataCollector:
         return None
     
     # 韭研公社辅助方法
-    def _get_jiuyan_month_data_safe(self, year: int, month: int, start_date: str, end_date: str) -> List[StandardizedEvent]:
-        """获取韭研公社月度数据 - 安全版本"""
+    def _get_jiuyan_month_data(self, year: int, month: int, start_date: str, end_date: str, is_future: bool = False) -> List[StandardizedEvent]:
+        """获取韭研公社月度数据"""
         date_param = f"{year}-{month:02d}"
         
         headers = {
@@ -556,23 +567,17 @@ class FutureDataCollector:
                 for day_data in month_data.get('data', []):
                     date = day_data.get('date')
                     
-                    # 安全的日期验证
-                    if not date:
+                    # 过滤日期范围
+                    if not date or date < start_date or date > end_date:
                         continue
                     
+                    # 验证日期有效性
                     try:
-                        # 验证日期格式和有效性
-                        parsed_date = datetime.strptime(date, '%Y-%m-%d')
-                        
-                        # 检查日期是否在有效范围内
-                        if date < start_date or date > end_date:
-                            continue
-                            
-                    except ValueError as e:
-                        print(f"        ⚠️ 无效日期格式: {date}, 错误: {e}")
+                        datetime.strptime(date, '%Y-%m-%d')
+                    except ValueError:
+                        print(f"        ⚠️ 无效日期: {date}")
                         continue
                     
-                    # 处理该日的事件
                     for item in day_data.get('list', []):
                         try:
                             timeline = item.get('timeline', {})
@@ -595,13 +600,11 @@ class FutureDataCollector:
                 
                 return events
             else:
-                print(f"        ❌ API请求失败: {response.status_code}")
                 return []
         except Exception as e:
-            print(f"        ❌ 韭研公社API请求异常: {e}")
+            print(f"韭研公社API请求失败: {e}")
             return []
     
-    # 同花顺辅助方法
     def _get_tonghuashun_month_data(self, year: int, month: int, start_date: str, end_date: str, is_future: bool = False) -> List[StandardizedEvent]:
         """获取同花顺月度数据"""
         date_param = f"{year}{month:02d}"
@@ -635,27 +638,38 @@ class FutureDataCollector:
                     if not date or date < start_date or date > end_date:
                         continue
                     
+                    # 验证日期有效性
+                    try:
+                        datetime.strptime(date, '%Y-%m-%d')
+                    except ValueError:
+                        print(f"        ⚠️ 无效日期: {date}")
+                        continue
+                    
                     day_events = day_data.get('events', [])
                     concepts = day_data.get('concept', [])
                     
                     for i, event_data in enumerate(day_events):
                         if isinstance(event_data, list) and len(event_data) > 0:
-                            title = event_data[0] if event_data[0] else ""
-                            title_hash = hashlib.md5(title.encode('utf-8')).hexdigest()[:8]
-                            concept_info = concepts[i] if i < len(concepts) else []
-                            
-                            event = StandardizedEvent(
-                                platform="tonghuashun",
-                                event_id=f"ths_{date.replace('-', '')}_{i}_{title_hash}",
-                                original_id=f"{date}_{i}",
-                                event_date=date,
-                                title=title,
-                                importance=3,
-                                country='中国',
-                                concepts=[{"code": c.get("code"), "name": c.get("name")} for c in concept_info] if concept_info else [],
-                                raw_data={"event": event_data, "concept": concept_info}
-                            )
-                            events.append(event)
+                            try:
+                                title = event_data[0] if event_data[0] else ""
+                                title_hash = hashlib.md5(title.encode('utf-8')).hexdigest()[:8]
+                                concept_info = concepts[i] if i < len(concepts) else []
+                                
+                                event = StandardizedEvent(
+                                    platform="tonghuashun",
+                                    event_id=f"ths_{date.replace('-', '')}_{i}_{title_hash}",
+                                    original_id=f"{date}_{i}",
+                                    event_date=date,
+                                    title=title,
+                                    importance=3,
+                                    country='中国',
+                                    concepts=[{"code": c.get("code"), "name": c.get("name")} for c in concept_info] if concept_info else [],
+                                    raw_data={"event": event_data, "concept": concept_info}
+                                )
+                                events.append(event)
+                            except Exception as e:
+                                print(f"        ❌ 事件处理失败: {e}")
+                                continue
                 
                 return events
             else:
