@@ -428,6 +428,46 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+        
+    - name: Commit and push changes
+      run: |
+        echo "📝 准备提交更改..."
+        
+        echo "📊 Current目录内容:"
+        ls -la data/active/current/ || echo "Current目录不存在"
+        
+        echo "📊 Previous目录内容:"
+        ls -la data/active/previous/ || echo "Previous目录不存在"
+        
+        # 添加current数据文件
+        git add data/active/current/*.txt 2>/dev/null || echo "无current数据文件"
+        
+        # 🔑 关键修复：添加previous数据文件
+        git add data/active/previous/*.txt 2>/dev/null || echo "无previous数据文件"
+        
+        # 添加web数据
+        git add data/web/ || echo "无web数据"
+        
+        # 添加元数据文件
+        git add data/active/current/metadata.txt 2>/dev/null || echo "无元数据文件"
+        
+        if [ -n "$(git status --porcelain)" ]; then
+          echo "📊 发现以下变更:"
+          git status --porcelain | head -20
+          
+          total_changes=$(git status --porcelain | wc -l)
+          if [ $total_changes -gt 20 ]; then
+            echo "... 还有 $((total_changes - 20)) 个变更文件"
+          fi
+          
+          git commit -m "📊 Daily data update - $(date +'%Y-%m-%d %H:%M:%S')"
+          git push
+          echo "✅ 变更已提交并推送"
+        else
+          echo "ℹ️ 没有需要提交的变更"
+        fi
+    
+    
     
     - name: Commit and push changes
       run: |
