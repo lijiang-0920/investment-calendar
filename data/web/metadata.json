@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-31T02:31:31.330987",
+  "last_updated": "2025-08-31T02:47:45.074266",
   "total_events": 1419,
   "platforms": {
     "cls": {
@@ -22,7 +22,5 @@
       "name": "东方财富",
       "event_count": 579
     }
-  },
-  "has_historical_data": true,
-  "historical_files": 34
+  }
 }
