@@ -4,7 +4,7 @@
   "data_type": "HISTORICAL",
   "year": 2025,
   "month": 8,
-  "total_events": 418,
+  "total_events": 416,
   "events": [
     {
       "id": "inv__20250801043000",
@@ -6161,34 +6161,6 @@
       "content": "实际值: 3.5% | 预测值: 2.2% | 前值: 2.2%",
       "importance": 2,
       "country": "美国",
-      "data_status": "ARCHIVED",
-      "stocks": [],
-      "themes": [],
-      "concepts": []
-    },
-    {
-      "id": "inv__20250830010000",
-      "platform": "investing",
-      "title": "美国当周贝克休斯石油钻井总数(口)",
-      "event_date": "2025-08-30",
-      "event_time": "01:00",
-      "content": "实际值: 412 | 预测值: 408 | 前值: 411",
-      "importance": 2,
-      "country": "美国",
-      "data_status": "ARCHIVED",
-      "stocks": [],
-      "themes": [],
-      "concepts": []
-    },
-    {
-      "id": "inv__20250830033000",
-      "platform": "investing",
-      "title": "美国商品期货交易委员会投机净仓位-英镑",
-      "event_date": "2025-08-30",
-      "event_time": "03:30",
-      "content": "实际值: -31.4K | 前值: -25.2K",
-      "importance": 2,
-      "country": "英国",
       "data_status": "ARCHIVED",
       "stocks": [],
       "themes": [],

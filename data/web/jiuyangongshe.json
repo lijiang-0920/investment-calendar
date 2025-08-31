@@ -3,7 +3,7 @@
   "platform_name": "韭研公社",
   "data_type": "ACTIVE",
   "total_events": 45,
-  "last_updated": "2025-08-31T02:05:10.173925",
+  "last_updated": "2025-08-31T02:13:48.367262",
   "events": [
     {
       "id": "jygs_6a0376b38cc147bf96dd72a2f10195b9_d86b302f99f84411946bfa7ee30cc074_20250831",
@@ -340,7 +340,7 @@
       "content": "人民网济南8月28日电 （乔姝）海洋经济作为全球经济增长的“蓝色引擎”，其可持续发展关乎人类共同未来。8月28日，山东省政府新闻办召开的新闻发布会上公布，经国务院批准，2025海洋合作发展论坛将于9月7日至9日在青岛西海岸新区举办，该论坛由山东省人民政府与自然资源部共同主办。",
       "importance": 1,
       "country": "中国",
-      "is_new": true,
+      "is_new": false,
       "discovery_date": "2025-08-31",
       "data_status": "ACTIVE",
       "stocks": [],

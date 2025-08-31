@@ -4,7 +4,7 @@
   "data_type": "HISTORICAL",
   "year": 2025,
   "month": 8,
-  "total_events": 97,
+  "total_events": 96,
   "events": [
     {
       "id": "jygs_bd2310e306a843fe99446891001b0dc1_1b0188c0719e42dea351571739a88d16_20250801",
@@ -1437,21 +1437,6 @@
       "data_status": "ARCHIVED",
       "stocks": [],
       "themes": [],
-      "concepts": []
-    },
-    {
-      "id": "jygs_f61d789f4cd34dfa82e999767cfee7e1_1b47bfd78285481e8101a3b9377d5c0f_20250830",
-      "platform": "jiuyangongshe",
-      "title": "2025鸿蒙生态大会",
-      "event_date": "2025-08-30",
-      "content": "",
-      "importance": 1,
-      "country": "中国",
-      "data_status": "ARCHIVED",
-      "stocks": [],
-      "themes": [
-        "鸿蒙"
-      ],
       "concepts": []
     }
   ]

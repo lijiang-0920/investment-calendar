@@ -1,8 +1,8 @@
 {
-  "detection_time": "2025-08-31T02:05:10.164998",
+  "detection_time": "2025-08-31T02:13:48.358523",
   "summary": {
-    "total_new": 14,
-    "total_updated": 16,
+    "total_new": 0,
+    "total_updated": 15,
     "total_cancelled": 0
   },
   "platforms": {
@@ -13,12 +13,10 @@
       "sample_new_titles": []
     },
     "jiuyangongshe": {
-      "new_events": 1,
+      "new_events": 0,
       "updated_events": 0,
       "cancelled_events": 0,
-      "sample_new_titles": [
-        "2025海洋合作发展论坛将于9月7日在青岛启幕"
-      ]
+      "sample_new_titles": []
     },
     "tonghuashun": {
       "new_events": 0,
@@ -28,91 +26,16 @@
     },
     "investing": {
       "new_events": 0,
-      "updated_events": 16,
+      "updated_events": 15,
       "cancelled_events": 0,
       "sample_new_titles": []
     },
     "eastmoney": {
-      "new_events": 13,
+      "new_events": 0,
       "updated_events": 0,
       "cancelled_events": 0,
-      "sample_new_titles": [
-        "中国重工停复牌",
-        "东珠生态停复牌",
-        "中芯国际停复牌"
-      ]
+      "sample_new_titles": []
     }
   },
-  "top_new_events": [
-    {
-      "platform": "eastmoney",
-      "date": "2025-08-31",
-      "title": "中国重工停复牌",
-      "importance": 2,
-      "country": "中国"
-    },
-    {
-      "platform": "eastmoney",
-      "date": "2025-08-31",
-      "title": "东珠生态停复牌",
-      "importance": 2,
-      "country": "中国"
-    },
-    {
-      "platform": "eastmoney",
-      "date": "2025-08-31",
-      "title": "中芯国际停复牌",
-      "importance": 2,
-      "country": "中国"
-    },
-    {
-      "platform": "eastmoney",
-      "date": "2025-08-31",
-      "title": "*ST天茂停复牌",
-      "importance": 2,
-      "country": "中国"
-    },
-    {
-      "platform": "eastmoney",
-      "date": "2025-08-31",
-      "title": "华虹公司停复牌",
-      "importance": 2,
-      "country": "中国"
-    },
-    {
-      "platform": "eastmoney",
-      "date": "2025-08-31",
-      "title": "申科股份停复牌",
-      "importance": 2,
-      "country": "中国"
-    },
-    {
-      "platform": "eastmoney",
-      "date": "2025-08-31",
-      "title": "晶升股份停复牌",
-      "importance": 2,
-      "country": "中国"
-    },
-    {
-      "platform": "eastmoney",
-      "date": "2025-08-31",
-      "title": "东芯股份停复牌",
-      "importance": 2,
-      "country": "中国"
-    },
-    {
-      "platform": "eastmoney",
-      "date": "2025-08-31",
-      "title": "芯原股份停复牌",
-      "importance": 2,
-      "country": "中国"
-    },
-    {
-      "platform": "eastmoney",
-      "date": "2025-08-31",
-      "title": "*ST广道停复牌",
-      "importance": 2,
-      "country": "中国"
-    }
-  ]
+  "top_new_events": []
 }
