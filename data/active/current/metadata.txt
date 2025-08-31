@@ -1,6 +1,6 @@
 {
   "collection_type": "ACTIVE",
-  "collection_time": "2025-08-30T22:07:41.393543",
+  "collection_time": "2025-08-31T02:05:10.264495",
   "platforms": {
     "cls": {
       "event_count": 85,
@@ -12,7 +12,7 @@
     "jiuyangongshe": {
       "event_count": 45,
       "date_range": {
-        "start": "2025-08-30",
+        "start": "2025-08-31",
         "end": "2025-12-28"
       }
     },
@@ -24,21 +24,21 @@
       }
     },
     "investing": {
-      "event_count": 683,
+      "event_count": 662,
       "date_range": {
-        "start": "2025-08-30",
+        "start": "2025-08-31",
         "end": "2025-12-19"
       }
     },
     "eastmoney": {
-      "event_count": 586,
+      "event_count": 579,
       "date_range": {
         "start": "2025-08-27",
         "end": "2025-12-31"
       }
     }
   },
-  "total_events": 1447,
+  "total_events": 1419,
   "date_range": {
     "start": "2025-08-27",
     "end": "2025-12-31"

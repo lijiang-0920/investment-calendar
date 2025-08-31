@@ -4,7 +4,7 @@
   "data_type": "HISTORICAL",
   "year": 2025,
   "month": 8,
-  "total_events": 452,
+  "total_events": 470,
   "events": [
     {
       "id": "em_tfpxx_20250804_688585",
@@ -6406,6 +6406,294 @@
       "country": "中国",
       "data_status": "ARCHIVED",
       "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "em_tfpxx_688478_20250830_0",
+      "platform": "eastmoney",
+      "title": "晶升股份停复牌",
+      "event_date": "2025-08-30",
+      "content": "股票代码: 688478, 股票名称: 晶升股份",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [
+        "688478"
+      ],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "em_tfpxx_603359_20250830_1",
+      "platform": "eastmoney",
+      "title": "东珠生态停复牌",
+      "event_date": "2025-08-30",
+      "content": "股票代码: 603359, 股票名称: 东珠生态",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [
+        "603359"
+      ],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "em_tfpxx_300280_20250830_2",
+      "platform": "eastmoney",
+      "title": "*ST紫天停复牌",
+      "event_date": "2025-08-30",
+      "content": "股票代码: 300280, 股票名称: *ST紫天",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [
+        "300280"
+      ],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "em_tfpxx_000627_20250830_3",
+      "platform": "eastmoney",
+      "title": "*ST天茂停复牌",
+      "event_date": "2025-08-30",
+      "content": "股票代码: 000627, 股票名称: *ST天茂",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [
+        "000627"
+      ],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "em_tfpxx_688347_20250830_4",
+      "platform": "eastmoney",
+      "title": "华虹公司停复牌",
+      "event_date": "2025-08-30",
+      "content": "股票代码: 688347, 股票名称: 华虹公司",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [
+        "688347"
+      ],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "em_tfpxx_688981_20250830_5",
+      "platform": "eastmoney",
+      "title": "中芯国际停复牌",
+      "event_date": "2025-08-30",
+      "content": "股票代码: 688981, 股票名称: 中芯国际",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [
+        "688981"
+      ],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "em_tfpxx_002633_20250830_6",
+      "platform": "eastmoney",
+      "title": "申科股份停复牌",
+      "event_date": "2025-08-30",
+      "content": "股票代码: 002633, 股票名称: 申科股份",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [
+        "002633"
+      ],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "em_tfpxx_688110_20250830_7",
+      "platform": "eastmoney",
+      "title": "东芯股份停复牌",
+      "event_date": "2025-08-30",
+      "content": "股票代码: 688110, 股票名称: 东芯股份",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [
+        "688110"
+      ],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "em_tfpxx_688521_20250830_8",
+      "platform": "eastmoney",
+      "title": "芯原股份停复牌",
+      "event_date": "2025-08-30",
+      "content": "股票代码: 688521, 股票名称: 芯原股份",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [
+        "688521"
+      ],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "em_tfpxx_839680_20250830_9",
+      "platform": "eastmoney",
+      "title": "*ST广道停复牌",
+      "event_date": "2025-08-30",
+      "content": "股票代码: 839680, 股票名称: *ST广道",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [
+        "839680"
+      ],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "em_tfpxx_601989_20250830_10",
+      "platform": "eastmoney",
+      "title": "中国重工停复牌",
+      "event_date": "2025-08-30",
+      "content": "股票代码: 601989, 股票名称: 中国重工",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [
+        "601989"
+      ],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "em_tfpxx_301040_20250830_11",
+      "platform": "eastmoney",
+      "title": "中环海陆停复牌",
+      "event_date": "2025-08-30",
+      "content": "股票代码: 301040, 股票名称: 中环海陆",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [
+        "301040"
+      ],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "em_tfpxx_603213_20250830_12",
+      "platform": "eastmoney",
+      "title": "镇洋发展停复牌",
+      "event_date": "2025-08-30",
+      "content": "股票代码: 603213, 股票名称: 镇洋发展",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [
+        "603213"
+      ],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "em_hsgg_000517_20250830_0",
+      "platform": "eastmoney",
+      "title": "荣安地产发布公告",
+      "event_date": "2025-08-30",
+      "content": "股票代码: 000517, 股票名称: 荣安地产",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [
+        "000517"
+      ],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "em_hsgg_000410_20250830_1",
+      "platform": "eastmoney",
+      "title": "沈阳机床发布公告",
+      "event_date": "2025-08-30",
+      "content": "股票代码: 000410, 股票名称: 沈阳机床",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [
+        "000410"
+      ],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "em_hsgg_000100_20250830_2",
+      "platform": "eastmoney",
+      "title": "TCL科技发布公告",
+      "event_date": "2025-08-30",
+      "content": "股票代码: 000100, 股票名称: TCL科技",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [
+        "000100"
+      ],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "em_hsgg_000561_20250830_3",
+      "platform": "eastmoney",
+      "title": "烽火电子发布公告",
+      "event_date": "2025-08-30",
+      "content": "股票代码: 000561, 股票名称: 烽火电子",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [
+        "000561"
+      ],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "em_hsgg_002129_20250830_4",
+      "platform": "eastmoney",
+      "title": "TCL中环发布公告",
+      "event_date": "2025-08-30",
+      "content": "股票代码: 002129, 股票名称: TCL中环",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "data_status": "ARCHIVED",
+      "stocks": [
+        "002129"
+      ],
       "themes": [],
       "concepts": []
     }
