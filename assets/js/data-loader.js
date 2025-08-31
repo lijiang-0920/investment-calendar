@@ -1,4 +1,4 @@
-// 数据加载器 - 简化版
+// 数据加载器 - 清理版
 class DataLoader {
     constructor() {
         this.cache = new Map();
@@ -35,17 +35,20 @@ class DataLoader {
         }
     }
 
-    // 简化：直接加载当前数据，不依赖索引
+    // 直接加载所有平台数据
     async loadAllCurrentData() {
         const platforms = ['cls', 'jiuyangongshe', 'tonghuashun', 'investing', 'eastmoney'];
         const results = {};
+        
+        console.log('开始加载平台数据...');
         
         for (const platform of platforms) {
             try {
                 const data = await this.loadJSON(`data/web/${platform}.json`);
                 results[platform] = data;
+                console.log(`✅ ${platform}: ${data.total_events || 0} 个事件`);
             } catch (error) {
-                console.error(`Failed to load ${platform} data:`, error);
+                console.error(`❌ 加载 ${platform} 失败:`, error);
                 results[platform] = { events: [], total_events: 0 };
             }
         }
@@ -104,27 +107,29 @@ class DataLoader {
         });
     }
 
-    // 获取新增事件 - 修复版
+    // 获取新增事件 - 增强调试版
     getNewEvents(currentData) {
+        console.log('🔍 开始查找新增事件...');
         const newEvents = [];
 
         for (const [platform, data] of Object.entries(currentData)) {
             if (data.events) {
-                const platformNewEvents = data.events.filter(event => {
-                    // 兼容不同的数据类型
-                    return event.is_new === true || event.is_new === "true" || event.is_new === 1;
-                });
-                newEvents.push(...platformNewEvents);
+                console.log(`检查 ${platform}:`, data.events.length, '个事件');
                 
-                // 调试输出
+                const platformNewEvents = data.events.filter(event => {
+                    const isNew = event.is_new === true || event.is_new === "true" || event.is_new === 1;
+                    if (isNew) {
+                        console.log(`  🆕 发现新增事件: ${event.title} (is_new: ${event.is_new}, 类型: ${typeof event.is_new})`);
+                    }
+                    return isNew;
+                });
+                
+                newEvents.push(...platformNewEvents);
                 console.log(`${platform} 新增事件: ${platformNewEvents.length} 个`);
-                if (platformNewEvents.length > 0) {
-                    console.log(`${platform} 新增事件示例:`, platformNewEvents[0]);
-                }
             }
         }
 
-        console.log(`总新增事件: ${newEvents.length} 个`);
+        console.log(`🆕 总新增事件: ${newEvents.length} 个`);
         return newEvents.sort((a, b) => {
             return new Date(b.discovery_date || 0) - new Date(a.discovery_date || 0);
         });
@@ -163,82 +168,6 @@ class DataLoader {
         }
 
         return Array.from(categories).sort();
-    }
-
-    // 按日期分组事件
-    groupEventsByDate(events) {
-        const grouped = {};
-
-        events.forEach(event => {
-            const date = event.event_date;
-            if (!grouped[date]) {
-                grouped[date] = [];
-            }
-            grouped[date].push(event);
-        });
-
-        Object.keys(grouped).forEach(date => {
-            grouped[date].sort((a, b) => {
-                return (a.event_time || '00:00:00').localeCompare(b.event_time || '00:00:00');
-            });
-        });
-
-        return grouped;
-    }
-
-    // 获取日期范围内的事件
-    getEventsByDateRange(currentData, startDate, endDate) {
-        const events = [];
-
-        for (const [platform, data] of Object.entries(currentData)) {
-            if (data.events) {
-                const rangeEvents = data.events.filter(event => 
-                    event.event_date && event.event_date >= startDate && event.event_date <= endDate
-                );
-                events.push(...rangeEvents);
-            }
-        }
-
-        return events.sort((a, b) => {
-            if (a.event_date !== b.event_date) {
-                return a.event_date.localeCompare(b.event_date);
-            }
-            return (a.event_time || '00:00:00').localeCompare(b.event_time || '00:00:00');
-        });
-    }
-
-    // 搜索事件
-    searchEvents(currentData, query) {
-        if (!query || query.length < 2) {
-            return [];
-        }
-
-        const searchQuery = query.toLowerCase();
-        const results = [];
-
-        for (const [platform, data] of Object.entries(currentData)) {
-            if (data.events) {
-                const matchedEvents = data.events.filter(event => {
-                    return (
-                        event.title?.toLowerCase().includes(searchQuery) ||
-                        event.content?.toLowerCase().includes(searchQuery) ||
-                        event.category?.toLowerCase().includes(searchQuery) ||
-                        event.country?.toLowerCase().includes(searchQuery) ||
-                        (event.stocks && event.stocks.some(stock => 
-                            stock.toLowerCase().includes(searchQuery)
-                        )) ||
-                        (event.themes && event.themes.some(theme => 
-                            theme.toLowerCase().includes(searchQuery)
-                        ))
-                    );
-                });
-                results.push(...matchedEvents);
-            }
-        }
-
-        return results.sort((a, b) => {
-            return (b.importance || 0) - (a.importance || 0);
-        });
     }
 
     // 格式化方法
