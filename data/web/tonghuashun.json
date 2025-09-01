@@ -3,7 +3,7 @@
   "platform_name": "同花顺",
   "data_type": "ACTIVE",
   "total_events": 93,
-  "last_updated": "2025-09-01T02:37:43.050668",
+  "last_updated": "2025-09-01T03:18:42.613641",
   "events": [
     {
       "id": "ths_20250901_0_fa42f761",
@@ -145,7 +145,7 @@
       "event_date": "2025-09-01",
       "importance": 3,
       "country": "中国",
-      "is_new": true,
+      "is_new": false,
       "discovery_date": "2025-09-01",
       "data_status": "ACTIVE",
       "stocks": [],
