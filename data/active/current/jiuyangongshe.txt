@@ -1,101 +1,11 @@
 {
   "platform": "jiuyangongshe",
-  "total_events": 45,
+  "total_events": 71,
   "data_status": "ACTIVE",
   "date_type": "FUTURE",
-  "last_updated": "2025-08-31T02:47:44.857840",
+  "last_updated": "2025-09-01T02:37:43.042113",
   "immutable": false,
   "events": [
-    {
-      "platform": "jiuyangongshe",
-      "event_id": "jygs_6a0376b38cc147bf96dd72a2f10195b9_d86b302f99f84411946bfa7ee30cc074_20250831",
-      "original_id": "6a0376b38cc147bf96dd72a2f10195b9",
-      "event_date": "2025-08-31",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "上海合作组织天津峰会",
-      "content": "上海合作组织天津峰会将于8月31日至9月1日举行",
-      "category": null,
-      "importance": 1,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-08-31",
-      "raw_data": {
-        "article_id": "6a0376b38cc147bf96dd72a2f10195b9",
-        "user_id": "1",
-        "title": "上海合作组织天津峰会",
-        "content": "上海合作组织天津峰会将于8月31日至9月1日举行",
-        "like_count": 3,
-        "comment_count": 0,
-        "forward_count": 1,
-        "is_like": 0,
-        "is_step": 0,
-        "user": {
-          "user_id": "1",
-          "nickname": "韭菜团子"
-        },
-        "timeline": {
-          "article_id": "6a0376b38cc147bf96dd72a2f10195b9",
-          "timeline_id": "d86b302f99f84411946bfa7ee30cc074",
-          "date": "2025-08-31",
-          "grade": 6,
-          "source": "2",
-          "create_time": "2025-07-15 20:43:56",
-          "theme_list": []
-        }
-      },
-      "created_at": "2025-08-31T02:47:08.197435"
-    },
-    {
-      "platform": "jiuyangongshe",
-      "event_id": "jygs_7109102f647e46859bdd9836fea1261d_a59e02b521754790aa764bee21151898_20250831",
-      "original_id": "7109102f647e46859bdd9836fea1261d",
-      "event_date": "2025-08-31",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "云鲸将发布新一代扫拖机器人",
-      "content": "云鲸将于8月31日发布新一代扫拖机器人。",
-      "category": null,
-      "importance": 1,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-08-31",
-      "raw_data": {
-        "article_id": "7109102f647e46859bdd9836fea1261d",
-        "user_id": "1",
-        "title": "云鲸将发布新一代扫拖机器人",
-        "content": "云鲸将于8月31日发布新一代扫拖机器人。",
-        "like_count": 0,
-        "comment_count": 0,
-        "forward_count": 2,
-        "is_like": 0,
-        "is_step": 0,
-        "user": {
-          "user_id": "1",
-          "nickname": "韭菜团子"
-        },
-        "timeline": {
-          "article_id": "7109102f647e46859bdd9836fea1261d",
-          "timeline_id": "a59e02b521754790aa764bee21151898",
-          "date": "2025-08-31",
-          "grade": 6,
-          "source": "2",
-          "create_time": "2025-07-31 23:21:53",
-          "theme_list": []
-        }
-      },
-      "created_at": "2025-08-31T02:47:08.197468"
-    },
     {
       "platform": "jiuyangongshe",
       "event_id": "jygs_78ffb2c5907248328960fbfdc4fcf20c_e0adb326c97f48088047afcbbf524839_20250901",
@@ -114,15 +24,15 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "78ffb2c5907248328960fbfdc4fcf20c",
         "user_id": "1",
         "title": "最高法规定雇佣关系必须缴纳员工社保",
         "content": "最高法规定9月1日起雇佣关系必须缴纳员工社保。",
-        "like_count": 0,
+        "like_count": 1,
         "comment_count": 0,
-        "forward_count": 7,
+        "forward_count": 8,
         "is_like": 0,
         "is_step": 0,
         "user": {
@@ -139,7 +49,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-08-31T02:47:10.243421"
+      "created_at": "2025-09-01T02:37:10.775238"
     },
     {
       "platform": "jiuyangongshe",
@@ -159,7 +69,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "bcfd19351d134132b7d19b1b24b97e33",
         "user_id": "1",
@@ -184,7 +94,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-08-31T02:47:10.243451"
+      "created_at": "2025-09-01T02:37:10.775267"
     },
     {
       "platform": "jiuyangongshe",
@@ -204,7 +114,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "ec81fb335d044dddb36b7aac367174d0",
         "user_id": "1",
@@ -229,7 +139,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-08-31T02:47:10.243461"
+      "created_at": "2025-09-01T02:37:10.775277"
     },
     {
       "platform": "jiuyangongshe",
@@ -251,7 +161,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "4d5673967e4c4f26a059055812e2013a",
         "user_id": "1",
@@ -281,7 +191,7 @@
           ]
         }
       },
-      "created_at": "2025-08-31T02:47:10.243474"
+      "created_at": "2025-09-01T02:37:10.775284"
     },
     {
       "platform": "jiuyangongshe",
@@ -301,7 +211,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "25594e09040749ccbfa9902386f1662f",
         "user_id": "1",
@@ -326,7 +236,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-08-31T02:47:10.243481"
+      "created_at": "2025-09-01T02:37:10.775291"
     },
     {
       "platform": "jiuyangongshe",
@@ -346,7 +256,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "bdf5e78c764a4457b14d38638322da22",
         "user_id": "1",
@@ -371,7 +281,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-08-31T02:47:10.243489"
+      "created_at": "2025-09-01T02:37:10.775298"
     },
     {
       "platform": "jiuyangongshe",
@@ -393,7 +303,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "21b18adf0eb6487a8278b83d8dc6cfa4",
         "user_id": "1",
@@ -423,7 +333,156 @@
           ]
         }
       },
-      "created_at": "2025-08-31T02:47:10.243496"
+      "created_at": "2025-09-01T02:37:10.775305"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_72249f1f7a6e466fbefcf06edf41f8c1_568ad4730727444cae98a7156605cbae_20250901",
+      "original_id": "72249f1f7a6e466fbefcf06edf41f8c1",
+      "event_date": "2025-09-01",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "华虹公司拟发行股份及支付现金方式购买华力微97.5%股权",
+      "content": "公司拟以发行股份及支付现金的方式向上海华虹（集团）有限公司、上海集成电路产业投资基金股份有限公司、国家集成电路产业投资基金二期股份有限公司、上海国投先导集成电路私募投资基金合伙企业（有限合伙）等4名上海华力微电子有限公司股东购买其持有的华力微97.4988%股权并募集配套资金。公司股票将于2025年9月1日开市起复牌。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [
+        "复牌"
+      ],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-01",
+      "raw_data": {
+        "article_id": "72249f1f7a6e466fbefcf06edf41f8c1",
+        "user_id": "1",
+        "title": "华虹公司拟发行股份及支付现金方式购买华力微97.5%股权",
+        "content": "公司拟以发行股份及支付现金的方式向上海华虹（集团）有限公司、上海集成电路产业投资基金股份有限公司、国家集成电路产业投资基金二期股份有限公司、上海国投先导集成电路私募投资基金合伙企业（有限合伙）等4名上海华力微电子有限公司股东购买其持有的华力微97.4988%股权并募集配套资金。公司股票将于2025年9月1日开市起复牌。",
+        "like_count": 1,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "72249f1f7a6e466fbefcf06edf41f8c1",
+          "timeline_id": "568ad4730727444cae98a7156605cbae",
+          "date": "2025-09-01",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-31 15:46:52",
+          "theme_list": [
+            {
+              "timeline_theme_id": "8b08fab7282e4514a0d87c95f5eea703",
+              "name": "复牌"
+            }
+          ]
+        }
+      },
+      "created_at": "2025-09-01T02:37:10.775313"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_ca6dbb3311fd41188123eeb79d1b6cd3_81618acc5c1348ec82de86621fda4889_20250901",
+      "original_id": "ca6dbb3311fd41188123eeb79d1b6cd3",
+      "event_date": "2025-09-01",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025第二十三届中国国际装备制造业博览会",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-01",
+      "raw_data": {
+        "article_id": "ca6dbb3311fd41188123eeb79d1b6cd3",
+        "user_id": "1",
+        "title": "2025第二十三届中国国际装备制造业博览会",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "ca6dbb3311fd41188123eeb79d1b6cd3",
+          "timeline_id": "81618acc5c1348ec82de86621fda4889",
+          "date": "2025-09-01",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-31 18:44:59",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-09-01T02:37:10.775321"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_a619a9ecad164af3a5a0e83bd7f549a5_e21a2bf03c6445c7858f70d449e1f3fb_20250901",
+      "original_id": "a619a9ecad164af3a5a0e83bd7f549a5",
+      "event_date": "2025-09-01",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "Rokid Glasses开启预售",
+      "content": "Rokid Glasses即将于2025年9月1日10:00全渠道开启预售9月15日起现货发售。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [
+        "AI眼镜"
+      ],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-01",
+      "raw_data": {
+        "article_id": "a619a9ecad164af3a5a0e83bd7f549a5",
+        "user_id": "1",
+        "title": "Rokid Glasses开启预售",
+        "content": "Rokid Glasses即将于2025年9月1日10:00全渠道开启预售9月15日起现货发售。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "a619a9ecad164af3a5a0e83bd7f549a5",
+          "timeline_id": "e21a2bf03c6445c7858f70d449e1f3fb",
+          "date": "2025-09-01",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-31 18:45:38",
+          "theme_list": [
+            {
+              "timeline_theme_id": "0322898dfa5c4d92b08dcd1ef29e8859",
+              "name": "AI眼镜"
+            }
+          ]
+        }
+      },
+      "created_at": "2025-09-01T02:37:10.775329"
     },
     {
       "platform": "jiuyangongshe",
@@ -443,7 +502,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "9e34d547ac9c41ac9f8604087c69816b",
         "user_id": "1",
@@ -468,7 +527,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-08-31T02:47:10.243519"
+      "created_at": "2025-09-01T02:37:10.775353"
     },
     {
       "platform": "jiuyangongshe",
@@ -490,7 +549,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "d915c76d69ad447491ec5ef2ba771920",
         "user_id": "1",
@@ -520,7 +579,7 @@
           ]
         }
       },
-      "created_at": "2025-08-31T02:47:10.243538"
+      "created_at": "2025-09-01T02:37:10.775371"
     },
     {
       "platform": "jiuyangongshe",
@@ -540,7 +599,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "9aa7f9d7aa8e4516946063d4368fb1a5",
         "user_id": "1",
@@ -565,7 +624,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-08-31T02:47:10.243546"
+      "created_at": "2025-09-01T02:37:10.775380"
     },
     {
       "platform": "jiuyangongshe",
@@ -585,7 +644,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "f354ff995e5744c7b2e4b75dad7b3808",
         "user_id": "1",
@@ -610,7 +669,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-08-31T02:47:10.243563"
+      "created_at": "2025-09-01T02:37:10.775396"
     },
     {
       "platform": "jiuyangongshe",
@@ -630,7 +689,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "2c32fa796e704884ab049143a4d6dd92",
         "user_id": "1",
@@ -638,7 +697,7 @@
         "content": "2025年中国钨钼产业发展论坛将于9月4-5日在苏州举行。",
         "like_count": 0,
         "comment_count": 0,
-        "forward_count": 0,
+        "forward_count": 1,
         "is_like": 0,
         "is_step": 0,
         "user": {
@@ -655,7 +714,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-08-31T02:47:10.243571"
+      "created_at": "2025-09-01T02:37:10.775404"
     },
     {
       "platform": "jiuyangongshe",
@@ -677,7 +736,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "da317f34d57b4855bcd6763c5887990d",
         "user_id": "1",
@@ -707,7 +766,7 @@
           ]
         }
       },
-      "created_at": "2025-08-31T02:47:10.243578"
+      "created_at": "2025-09-01T02:37:10.775411"
     },
     {
       "platform": "jiuyangongshe",
@@ -727,7 +786,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "8d16c42b2c8f4d8eb28d108a3df7286d",
         "user_id": "1",
@@ -752,17 +811,17 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-08-31T02:47:10.243586"
+      "created_at": "2025-09-01T02:37:10.775418"
     },
     {
       "platform": "jiuyangongshe",
-      "event_id": "jygs_10uhs5qk5t3_3b82f5d99a8e41499b107e979b54e5bc_20250904",
-      "original_id": "10uhs5qk5t3",
+      "event_id": "jygs_897ac5a06cf94a3eb35d9177b6c7fecc_753c4f7423f646eb852d1b385593b2a1_20250904",
+      "original_id": "897ac5a06cf94a3eb35d9177b6c7fecc",
       "event_date": "2025-09-04",
       "event_time": null,
       "event_datetime": null,
-      "title": "华为mate XTs发布",
-      "content": "余承东官宣9/4日发布XTs，抢占市场先机",
+      "title": "华为将举办华为Mate XTs非凡大师及全场景新品发布会",
+      "content": "华为官宣将于9月4日举办华为Mate XTs非凡大师及全场景新品发布会，将发布新款华为三折叠屏手机。",
       "category": null,
       "importance": 1,
       "country": "中国",
@@ -771,33 +830,33 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-08-31",
+      "is_new": true,
+      "discovery_date": "2025-09-01",
       "raw_data": {
-        "article_id": "10uhs5qk5t3",
-        "user_id": "3658212e1fd443b593c8756c7305af1f",
-        "title": "华为mate XTs发布",
-        "content": "余承东官宣9/4日发布XTs，抢占市场先机",
+        "article_id": "897ac5a06cf94a3eb35d9177b6c7fecc",
+        "user_id": "1",
+        "title": "华为将举办华为Mate XTs非凡大师及全场景新品发布会",
+        "content": "华为官宣将于9月4日举办华为Mate XTs非凡大师及全场景新品发布会，将发布新款华为三折叠屏手机。",
         "like_count": 0,
         "comment_count": 0,
-        "forward_count": 0,
+        "forward_count": 1,
         "is_like": 0,
         "is_step": 0,
         "user": {
-          "user_id": "3658212e1fd443b593c8756c7305af1f",
-          "nickname": "干就一个字来干"
+          "user_id": "1",
+          "nickname": "韭菜团子"
         },
         "timeline": {
-          "article_id": "10uhs5qk5t3",
-          "timeline_id": "3b82f5d99a8e41499b107e979b54e5bc",
+          "article_id": "897ac5a06cf94a3eb35d9177b6c7fecc",
+          "timeline_id": "753c4f7423f646eb852d1b385593b2a1",
           "date": "2025-09-04",
           "grade": 6,
-          "source": "1",
-          "create_time": "2025-08-27 15:28:25",
+          "source": "2",
+          "create_time": "2025-08-31 18:46:24",
           "theme_list": []
         }
       },
-      "created_at": "2025-08-31T02:47:10.243593"
+      "created_at": "2025-09-01T02:37:10.775425"
     },
     {
       "platform": "jiuyangongshe",
@@ -819,7 +878,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "52d89f51e4444792b58506f6e80aba76",
         "user_id": "1",
@@ -849,7 +908,7 @@
           ]
         }
       },
-      "created_at": "2025-08-31T02:47:10.243612"
+      "created_at": "2025-09-01T02:37:10.775440"
     },
     {
       "platform": "jiuyangongshe",
@@ -869,7 +928,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "b5227df63a484f76982190dd5a728421",
         "user_id": "1",
@@ -894,7 +953,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-08-31T02:47:10.243623"
+      "created_at": "2025-09-01T02:37:10.775447"
     },
     {
       "platform": "jiuyangongshe",
@@ -914,7 +973,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "ec7aae6cbdb54f5391dde88dca30ab1f",
         "user_id": "1",
@@ -939,7 +998,97 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-08-31T02:47:10.243631"
+      "created_at": "2025-09-01T02:37:10.775454"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_9629aa630afa423ca0de907e2a2a755d_d46679a34eaa42ee988b509d9d519a0c_20250905",
+      "original_id": "9629aa630afa423ca0de907e2a2a755d",
+      "event_date": "2025-09-05",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025世界智能产业博览会",
+      "content": "2025世界智能产业博览会将于9月5-8日举行。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-01",
+      "raw_data": {
+        "article_id": "9629aa630afa423ca0de907e2a2a755d",
+        "user_id": "1",
+        "title": "2025世界智能产业博览会",
+        "content": "2025世界智能产业博览会将于9月5-8日举行。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "9629aa630afa423ca0de907e2a2a755d",
+          "timeline_id": "d46679a34eaa42ee988b509d9d519a0c",
+          "date": "2025-09-05",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-31 18:47:44",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-09-01T02:37:10.775462"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_cc80023c4ba442628117f7bb91a84137_a6fc36591f3e4aaea79472c6e71e487c_20250905",
+      "original_id": "cc80023c4ba442628117f7bb91a84137",
+      "event_date": "2025-09-05",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "《窗外是蓝星》全国上映",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-01",
+      "raw_data": {
+        "article_id": "cc80023c4ba442628117f7bb91a84137",
+        "user_id": "1",
+        "title": "《窗外是蓝星》全国上映",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "cc80023c4ba442628117f7bb91a84137",
+          "timeline_id": "a6fc36591f3e4aaea79472c6e71e487c",
+          "date": "2025-09-05",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-31 18:48:11",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-09-01T02:37:10.775469"
     },
     {
       "platform": "jiuyangongshe",
@@ -961,7 +1110,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "44f7b304b3054dceb0a2150eb34c52d2",
         "user_id": "1",
@@ -991,7 +1140,7 @@
           ]
         }
       },
-      "created_at": "2025-08-31T02:47:10.243672"
+      "created_at": "2025-09-01T02:37:10.775484"
     },
     {
       "platform": "jiuyangongshe",
@@ -1011,13 +1160,13 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "10upm8ag8mm",
         "user_id": "eeeb3a852b5c4a99b6dea21c22f08bde",
         "title": "2025海洋合作发展论坛将于9月7日在青岛启幕",
         "content": "人民网济南8月28日电 （乔姝）海洋经济作为全球经济增长的“蓝色引擎”，其可持续发展关乎人类共同未来。8月28日，山东省政府新闻办召开的新闻发布会上公布，经国务院批准，2025海洋合作发展论坛将于9月7日至9日在青岛西海岸新区举办，该论坛由山东省人民政府与自然资源部共同主办。",
-        "like_count": 0,
+        "like_count": 1,
         "comment_count": 0,
         "forward_count": 0,
         "is_like": 0,
@@ -1036,7 +1185,52 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-08-31T02:47:10.243693"
+      "created_at": "2025-09-01T02:37:10.775498"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_76f6c7e4938d40b9b5c9efac2fac63bb_122c7904965443659c8dd91767f6252a_20250907",
+      "original_id": "76f6c7e4938d40b9b5c9efac2fac63bb",
+      "event_date": "2025-09-07",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "湖南省足球联赛揭幕战",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-01",
+      "raw_data": {
+        "article_id": "76f6c7e4938d40b9b5c9efac2fac63bb",
+        "user_id": "1",
+        "title": "湖南省足球联赛揭幕战",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "76f6c7e4938d40b9b5c9efac2fac63bb",
+          "timeline_id": "122c7904965443659c8dd91767f6252a",
+          "date": "2025-09-07",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-31 18:48:56",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-09-01T02:37:10.775505"
     },
     {
       "platform": "jiuyangongshe",
@@ -1056,7 +1250,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "f20797b18a4248c49f221afc4395bd7c",
         "user_id": "1",
@@ -1064,7 +1258,7 @@
         "content": "中国有色金属工业协会以“技术创新协同绿色转型、行业自律助力和谐发展”为主题，定于2025年9月10-12日在内蒙古自治区包头市召开“2025年中国硅业大会”。",
         "like_count": 0,
         "comment_count": 0,
-        "forward_count": 0,
+        "forward_count": 1,
         "is_like": 0,
         "is_step": 0,
         "user": {
@@ -1081,7 +1275,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-08-31T02:47:10.243709"
+      "created_at": "2025-09-01T02:37:10.775520"
     },
     {
       "platform": "jiuyangongshe",
@@ -1101,7 +1295,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "2db359f236fb491abf1f8c2c98ef2c8f",
         "user_id": "1",
@@ -1126,7 +1320,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-08-31T02:47:10.243717"
+      "created_at": "2025-09-01T02:37:10.775527"
     },
     {
       "platform": "jiuyangongshe",
@@ -1146,7 +1340,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "1h9np5wvxe8",
         "user_id": "00525773fe47467cac470afac1e73909",
@@ -1171,7 +1365,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-08-31T02:47:10.243725"
+      "created_at": "2025-09-01T02:37:10.775534"
     },
     {
       "platform": "jiuyangongshe",
@@ -1194,7 +1388,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "fbc82778df0c476d8d7fb24ea83da0bd",
         "user_id": "1",
@@ -1228,7 +1422,52 @@
           ]
         }
       },
-      "created_at": "2025-08-31T02:47:10.243732"
+      "created_at": "2025-09-01T02:37:10.775541"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_80e23d646e0d4e06b626b6a0947ee4c8_034e21f789d74fdf89e16d9ed7a0cb73_20250910",
+      "original_id": "80e23d646e0d4e06b626b6a0947ee4c8",
+      "event_date": "2025-09-10",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025 Inclusion·外滩大会",
+      "content": "2025 Inclusion·外滩大会将于9月10-13日举行，主题为“塑创新增长”。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-01",
+      "raw_data": {
+        "article_id": "80e23d646e0d4e06b626b6a0947ee4c8",
+        "user_id": "1",
+        "title": "2025 Inclusion·外滩大会",
+        "content": "2025 Inclusion·外滩大会将于9月10-13日举行，主题为“塑创新增长”。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "80e23d646e0d4e06b626b6a0947ee4c8",
+          "timeline_id": "034e21f789d74fdf89e16d9ed7a0cb73",
+          "date": "2025-09-10",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-31 18:49:33",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-09-01T02:37:10.775548"
     },
     {
       "platform": "jiuyangongshe",
@@ -1248,7 +1487,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "4e9c55ca12d7493f8e35d596f9c2bc3e",
         "user_id": "1",
@@ -1273,7 +1512,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-08-31T02:47:10.243747"
+      "created_at": "2025-09-01T02:37:10.775562"
     },
     {
       "platform": "jiuyangongshe",
@@ -1293,7 +1532,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "67418d6f9fbb4807a23e647fa0fce377",
         "user_id": "1",
@@ -1318,7 +1557,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-08-31T02:47:10.243755"
+      "created_at": "2025-09-01T02:37:10.775569"
     },
     {
       "platform": "jiuyangongshe",
@@ -1338,7 +1577,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "d77c924898534f24be47ab318619ce2f",
         "user_id": "1",
@@ -1363,7 +1602,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-08-31T02:47:10.243770"
+      "created_at": "2025-09-01T02:37:10.775584"
     },
     {
       "platform": "jiuyangongshe",
@@ -1383,7 +1622,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "88857e127c7043a7953fc083bc7b7a8b",
         "user_id": "1",
@@ -1408,7 +1647,52 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-08-31T02:47:10.243778"
+      "created_at": "2025-09-01T02:37:10.775591"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_47c91a3eb65a40449635670639144b23_7ec5b0b5a43e4a718b10533f7f37d07e_20250916",
+      "original_id": "47c91a3eb65a40449635670639144b23",
+      "event_date": "2025-09-16",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025腾讯全球数字生态大会",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-01",
+      "raw_data": {
+        "article_id": "47c91a3eb65a40449635670639144b23",
+        "user_id": "1",
+        "title": "2025腾讯全球数字生态大会",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "47c91a3eb65a40449635670639144b23",
+          "timeline_id": "7ec5b0b5a43e4a718b10533f7f37d07e",
+          "date": "2025-09-16",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-31 18:51:00",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-09-01T02:37:10.775597"
     },
     {
       "platform": "jiuyangongshe",
@@ -1428,7 +1712,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "93bd3d89ef514a09bb6eebc34f93110e",
         "user_id": "1",
@@ -1453,7 +1737,59 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-08-31T02:47:10.243795"
+      "created_at": "2025-09-01T02:37:10.775611"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_c289873ea41e4ffdbe19bfc9a7b54841_223a5362a50a4d31b343f071403dbf88_20250917",
+      "original_id": "c289873ea41e4ffdbe19bfc9a7b54841",
+      "event_date": "2025-09-17",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "Meta Connect大会",
+      "content": "Meta Connect大会将于9月17日举行，Meta首款量产的AR眼镜将发布。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [
+        "AI眼镜"
+      ],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-01",
+      "raw_data": {
+        "article_id": "c289873ea41e4ffdbe19bfc9a7b54841",
+        "user_id": "1",
+        "title": "Meta Connect大会",
+        "content": "Meta Connect大会将于9月17日举行，Meta首款量产的AR眼镜将发布。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "c289873ea41e4ffdbe19bfc9a7b54841",
+          "timeline_id": "223a5362a50a4d31b343f071403dbf88",
+          "date": "2025-09-17",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-31 18:50:17",
+          "theme_list": [
+            {
+              "timeline_theme_id": "0322898dfa5c4d92b08dcd1ef29e8859",
+              "name": "AI眼镜"
+            }
+          ]
+        }
+      },
+      "created_at": "2025-09-01T02:37:10.775618"
     },
     {
       "platform": "jiuyangongshe",
@@ -1473,7 +1809,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "jbqcqabdgy",
         "user_id": "00525773fe47467cac470afac1e73909",
@@ -1498,7 +1834,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-08-31T02:47:10.243812"
+      "created_at": "2025-09-01T02:37:10.775632"
     },
     {
       "platform": "jiuyangongshe",
@@ -1518,7 +1854,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "58d5f99214b941eab8e75c7669f9cb70",
         "user_id": "1",
@@ -1543,7 +1879,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-08-31T02:47:10.243820"
+      "created_at": "2025-09-01T02:37:10.775639"
     },
     {
       "platform": "jiuyangongshe",
@@ -1563,13 +1899,13 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "3579b2a1b29644299d211d5f83695d6e",
         "user_id": "1",
         "title": "华为全联接大会",
         "content": "华为全联接大会2025将于9月18日-20日在上海举行。",
-        "like_count": 2,
+        "like_count": 3,
         "comment_count": 0,
         "forward_count": 1,
         "is_like": 0,
@@ -1588,7 +1924,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-08-31T02:47:10.243827"
+      "created_at": "2025-09-01T02:37:10.775645"
     },
     {
       "platform": "jiuyangongshe",
@@ -1608,7 +1944,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "c2c04f1ecb804330971724af6ccaaa3d",
         "user_id": "1",
@@ -1633,7 +1969,59 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-08-31T02:47:10.243834"
+      "created_at": "2025-09-01T02:37:10.775652"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_82b1053b54c1417cb7783b9e407888d4_839393385b1346a09e93f34dc8ecf54f_20250918",
+      "original_id": "82b1053b54c1417cb7783b9e407888d4",
+      "event_date": "2025-09-18",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "第四届智慧医疗与康复大会暨第七届脑机接口论坛",
+      "content": "第四届智慧医疗与康复大会暨第七届脑机接口论坛将于9月18日至20日在上海召开。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [
+        "脑机接口"
+      ],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-01",
+      "raw_data": {
+        "article_id": "82b1053b54c1417cb7783b9e407888d4",
+        "user_id": "1",
+        "title": "第四届智慧医疗与康复大会暨第七届脑机接口论坛",
+        "content": "第四届智慧医疗与康复大会暨第七届脑机接口论坛将于9月18日至20日在上海召开。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "82b1053b54c1417cb7783b9e407888d4",
+          "timeline_id": "839393385b1346a09e93f34dc8ecf54f",
+          "date": "2025-09-18",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-31 18:51:36",
+          "theme_list": [
+            {
+              "timeline_theme_id": "1206f8611b76449ba609ffde40f64a9c",
+              "name": "脑机接口"
+            }
+          ]
+        }
+      },
+      "created_at": "2025-09-01T02:37:10.775659"
     },
     {
       "platform": "jiuyangongshe",
@@ -1653,7 +2041,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "1h8lelz3qzv",
         "user_id": "6c42499113454e18854fe372c264fe61",
@@ -1678,7 +2066,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-08-31T02:47:10.243850"
+      "created_at": "2025-09-01T02:37:10.775673"
     },
     {
       "platform": "jiuyangongshe",
@@ -1698,7 +2086,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "b171a1b98caa42bfa684956e82399102",
         "user_id": "1",
@@ -1706,7 +2094,7 @@
         "content": "华为宣布将于9月19日在巴黎举办全球新品发布会。",
         "like_count": 0,
         "comment_count": 0,
-        "forward_count": 0,
+        "forward_count": 1,
         "is_like": 0,
         "is_step": 0,
         "user": {
@@ -1723,7 +2111,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-08-31T02:47:10.243858"
+      "created_at": "2025-09-01T02:37:10.775680"
     },
     {
       "platform": "jiuyangongshe",
@@ -1743,7 +2131,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "40b3978695bb48eb8f242e78be101f07",
         "user_id": "1",
@@ -1768,7 +2156,277 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-08-31T02:47:10.243873"
+      "created_at": "2025-09-01T02:37:10.775695"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_de29add0606443539218ed86929e7114_5b6cb0a36f5b4f3aafa6d4cfb8d5281d_20250920",
+      "original_id": "de29add0606443539218ed86929e7114",
+      "event_date": "2025-09-20",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025浦江创新论坛(第十八届)年会",
+      "content": "2025浦江创新论坛(第十八届)年会将于年9月20日至22日在上海举办。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-01",
+      "raw_data": {
+        "article_id": "de29add0606443539218ed86929e7114",
+        "user_id": "1",
+        "title": "2025浦江创新论坛(第十八届)年会",
+        "content": "2025浦江创新论坛(第十八届)年会将于年9月20日至22日在上海举办。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "de29add0606443539218ed86929e7114",
+          "timeline_id": "5b6cb0a36f5b4f3aafa6d4cfb8d5281d",
+          "date": "2025-09-20",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-31 18:53:15",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-09-01T02:37:10.775702"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_b70e8dc986e64476a97597bb97f50c6b_2daf99f0beec4a5793e26e029d7d65cb_20250921",
+      "original_id": "b70e8dc986e64476a97597bb97f50c6b",
+      "event_date": "2025-09-21",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "第27届IEEE多媒体信号处理国际研讨会",
+      "content": "9月21-23日，第27届IEEE多媒体信号处理国际研讨会(IEEEMMSP 2025)将在北京举行。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-01",
+      "raw_data": {
+        "article_id": "b70e8dc986e64476a97597bb97f50c6b",
+        "user_id": "1",
+        "title": "第27届IEEE多媒体信号处理国际研讨会",
+        "content": "9月21-23日，第27届IEEE多媒体信号处理国际研讨会(IEEEMMSP 2025)将在北京举行。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "b70e8dc986e64476a97597bb97f50c6b",
+          "timeline_id": "2daf99f0beec4a5793e26e029d7d65cb",
+          "date": "2025-09-21",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-31 18:53:41",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-09-01T02:37:10.775716"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_55a1f9ce583b429d885675dd9541855e_d62f3bdbb6fc4f70989d72b3db8291e8_20250923",
+      "original_id": "55a1f9ce583b429d885675dd9541855e",
+      "event_date": "2025-09-23",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "尚界H5正式上市",
+      "content": "上汽与华为合作打造品牌“尚界”的首款车型尚界H5正式开启预订，将于9月23日正式上市。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-01",
+      "raw_data": {
+        "article_id": "55a1f9ce583b429d885675dd9541855e",
+        "user_id": "1",
+        "title": "尚界H5正式上市",
+        "content": "上汽与华为合作打造品牌“尚界”的首款车型尚界H5正式开启预订，将于9月23日正式上市。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "55a1f9ce583b429d885675dd9541855e",
+          "timeline_id": "d62f3bdbb6fc4f70989d72b3db8291e8",
+          "date": "2025-09-23",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-31 18:54:29",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-09-01T02:37:10.775730"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_c2e14eedc17147f987cccdf52a3ad95a_ddff093d14ab419cabfeb14a5b0fdde7_20250923",
+      "original_id": "c2e14eedc17147f987cccdf52a3ad95a",
+      "event_date": "2025-09-23",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025中国电力企业数智化大会暨数智赋能电力行业高质量发展论坛",
+      "content": "2025中国电力企业数智化大会暨数智赋能电力行业高质量发展论坛将于9月23日至25日召开。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-01",
+      "raw_data": {
+        "article_id": "c2e14eedc17147f987cccdf52a3ad95a",
+        "user_id": "1",
+        "title": "2025中国电力企业数智化大会暨数智赋能电力行业高质量发展论坛",
+        "content": "2025中国电力企业数智化大会暨数智赋能电力行业高质量发展论坛将于9月23日至25日召开。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "c2e14eedc17147f987cccdf52a3ad95a",
+          "timeline_id": "ddff093d14ab419cabfeb14a5b0fdde7",
+          "date": "2025-09-23",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-31 18:54:53",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-09-01T02:37:10.775738"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_d8d8016bbff9489a9b47426057423f23_b53fd8994581418bbdd691e1827c8724_20250923",
+      "original_id": "d8d8016bbff9489a9b47426057423f23",
+      "event_date": "2025-09-23",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025欧亚经济论坛",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-01",
+      "raw_data": {
+        "article_id": "d8d8016bbff9489a9b47426057423f23",
+        "user_id": "1",
+        "title": "2025欧亚经济论坛",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "d8d8016bbff9489a9b47426057423f23",
+          "timeline_id": "b53fd8994581418bbdd691e1827c8724",
+          "date": "2025-09-23",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-31 18:55:16",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-09-01T02:37:10.775745"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_810f70840aa942f5ac53e71581f8b81a_a976f6b1322f4e19b82a3004a7abe695_20250923",
+      "original_id": "810f70840aa942f5ac53e71581f8b81a",
+      "event_date": "2025-09-23",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025亚洲药物设计大会",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-01",
+      "raw_data": {
+        "article_id": "810f70840aa942f5ac53e71581f8b81a",
+        "user_id": "1",
+        "title": "2025亚洲药物设计大会",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "810f70840aa942f5ac53e71581f8b81a",
+          "timeline_id": "a976f6b1322f4e19b82a3004a7abe695",
+          "date": "2025-09-23",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-31 18:56:54",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-09-01T02:37:10.775751"
     },
     {
       "platform": "jiuyangongshe",
@@ -1788,7 +2446,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "10tpmr15cfm",
         "user_id": "00525773fe47467cac470afac1e73909",
@@ -1796,7 +2454,7 @@
         "content": "PCIM Asia 国际电力元件、可再生能源管理展览会是一场在亚洲领先的电力电子国际展览会及研讨会。PCIM Asia 作为一个涵盖组件、驱动控制、散热管理及终端智能系统的全方位展示平台，向业界人士呈现一条完整的产业价值链。来自电力电子、电动交通、国家电网、轨道交通、新能源发电（光伏、风能）等领域的买家齐聚一堂，参与这场年度电力电子盛会!",
         "like_count": 0,
         "comment_count": 0,
-        "forward_count": 0,
+        "forward_count": 1,
         "is_like": 0,
         "is_step": 0,
         "user": {
@@ -1813,7 +2471,575 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-08-31T02:47:10.243888"
+      "created_at": "2025-09-01T02:37:10.775765"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_0ff0326c642b4fe89123513d11dd18a7_e8e424d565474bbea4686f29171cce3d_20250924",
+      "original_id": "0ff0326c642b4fe89123513d11dd18a7",
+      "event_date": "2025-09-24",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025杭州·云栖大会",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-01",
+      "raw_data": {
+        "article_id": "0ff0326c642b4fe89123513d11dd18a7",
+        "user_id": "1",
+        "title": "2025杭州·云栖大会",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "0ff0326c642b4fe89123513d11dd18a7",
+          "timeline_id": "e8e424d565474bbea4686f29171cce3d",
+          "date": "2025-09-24",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-31 18:57:21",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-09-01T02:37:10.775772"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_5af5839806fa4ebe8e99024a62b884f1_19dd8dac46d54c18a2f38f92b8069136_20250925",
+      "original_id": "5af5839806fa4ebe8e99024a62b884f1",
+      "event_date": "2025-09-25",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "第四届全球数字贸易博览会",
+      "content": "第四届全球数字贸易博览会是以“数字贸易 商通全球”为主题的国家级专业展会，将于9月25-29日在杭州举办。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-01",
+      "raw_data": {
+        "article_id": "5af5839806fa4ebe8e99024a62b884f1",
+        "user_id": "1",
+        "title": "第四届全球数字贸易博览会",
+        "content": "第四届全球数字贸易博览会是以“数字贸易 商通全球”为主题的国家级专业展会，将于9月25-29日在杭州举办。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "5af5839806fa4ebe8e99024a62b884f1",
+          "timeline_id": "19dd8dac46d54c18a2f38f92b8069136",
+          "date": "2025-09-25",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-31 18:57:45",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-09-01T02:37:10.775786"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_25af646195e1460293c4baba17d7de8c_67fb98da2556498ab06bf9f2dca173ed_20250925",
+      "original_id": "25af646195e1460293c4baba17d7de8c",
+      "event_date": "2025-09-25",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025中国生物制造科技创新论坛",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-01",
+      "raw_data": {
+        "article_id": "25af646195e1460293c4baba17d7de8c",
+        "user_id": "1",
+        "title": "2025中国生物制造科技创新论坛",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "25af646195e1460293c4baba17d7de8c",
+          "timeline_id": "67fb98da2556498ab06bf9f2dca173ed",
+          "date": "2025-09-25",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-31 18:58:13",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-09-01T02:37:10.775793"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_4a1d967a8d92480995bfdae2705dff33_c55043ff7d7045c583c6eb5901cd7683_20250926",
+      "original_id": "4a1d967a8d92480995bfdae2705dff33",
+      "event_date": "2025-09-26",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "第十七届中国国际种业博览会暨第二十二届全国种子信息交流与产品交易会",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [
+        "农业农村"
+      ],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-01",
+      "raw_data": {
+        "article_id": "4a1d967a8d92480995bfdae2705dff33",
+        "user_id": "1",
+        "title": "第十七届中国国际种业博览会暨第二十二届全国种子信息交流与产品交易会",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "4a1d967a8d92480995bfdae2705dff33",
+          "timeline_id": "c55043ff7d7045c583c6eb5901cd7683",
+          "date": "2025-09-26",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-31 18:59:04",
+          "theme_list": [
+            {
+              "timeline_theme_id": "a621126bd8c94aa99b739b90a404e8fc",
+              "name": "农业农村"
+            }
+          ]
+        }
+      },
+      "created_at": "2025-09-01T02:37:10.775806"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_9f8e43e43f974bf3b4adb0a1bd94d646_cfeda951a59047a6a2f94d9d490af1ec_20250927",
+      "original_id": "9f8e43e43f974bf3b4adb0a1bd94d646",
+      "event_date": "2025-09-27",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "开源鸿蒙技术大会",
+      "content": "开源鸿蒙技术大会2025将于9月27日在长沙举行。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [
+        "鸿蒙"
+      ],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-01",
+      "raw_data": {
+        "article_id": "9f8e43e43f974bf3b4adb0a1bd94d646",
+        "user_id": "1",
+        "title": "开源鸿蒙技术大会",
+        "content": "开源鸿蒙技术大会2025将于9月27日在长沙举行。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "9f8e43e43f974bf3b4adb0a1bd94d646",
+          "timeline_id": "cfeda951a59047a6a2f94d9d490af1ec",
+          "date": "2025-09-27",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-31 18:59:32",
+          "theme_list": [
+            {
+              "timeline_theme_id": "73305189127d40b387c565e92505e39c",
+              "name": "鸿蒙"
+            }
+          ]
+        }
+      },
+      "created_at": "2025-09-01T02:37:10.775821"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_653bfaa447e744ac82cc8b561ccc434b_9cb8b4ce552e422eaf9a10b9a3f9cfd1_20250927",
+      "original_id": "653bfaa447e744ac82cc8b561ccc434b",
+      "event_date": "2025-09-27",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025网易未来大会",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-01",
+      "raw_data": {
+        "article_id": "653bfaa447e744ac82cc8b561ccc434b",
+        "user_id": "1",
+        "title": "2025网易未来大会",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "653bfaa447e744ac82cc8b561ccc434b",
+          "timeline_id": "9cb8b4ce552e422eaf9a10b9a3f9cfd1",
+          "date": "2025-09-27",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-31 18:59:49",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-09-01T02:37:10.775828"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_eed29eab0c8148b79d488b0b7657269d_02c2e6e9b481482fad8d81190ccb124a_20250927",
+      "original_id": "eed29eab0c8148b79d488b0b7657269d",
+      "event_date": "2025-09-27",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "第七届世界新能源汽车大会",
+      "content": "第七届世界新能源汽车大会(WNEVC 2025)将于2025年9月27-29日在海南海口举办。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [
+        "新能源汽车"
+      ],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-01",
+      "raw_data": {
+        "article_id": "eed29eab0c8148b79d488b0b7657269d",
+        "user_id": "1",
+        "title": "第七届世界新能源汽车大会",
+        "content": "第七届世界新能源汽车大会(WNEVC 2025)将于2025年9月27-29日在海南海口举办。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "eed29eab0c8148b79d488b0b7657269d",
+          "timeline_id": "02c2e6e9b481482fad8d81190ccb124a",
+          "date": "2025-09-27",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-31 19:00:23",
+          "theme_list": [
+            {
+              "timeline_theme_id": "36b4228e5b024825a1f8cbb0617ec8fc",
+              "name": "新能源汽车"
+            }
+          ]
+        }
+      },
+      "created_at": "2025-09-01T02:37:10.775834"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_2afc3876789846e0a2ce8d96e2409c7f_21d1c6e470614334b02355889bad2e3c_20250927",
+      "original_id": "2afc3876789846e0a2ce8d96e2409c7f",
+      "event_date": "2025-09-27",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "第四届全球数字贸易博览会-空天信息国际产业对接会",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-01",
+      "raw_data": {
+        "article_id": "2afc3876789846e0a2ce8d96e2409c7f",
+        "user_id": "1",
+        "title": "第四届全球数字贸易博览会-空天信息国际产业对接会",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "2afc3876789846e0a2ce8d96e2409c7f",
+          "timeline_id": "21d1c6e470614334b02355889bad2e3c",
+          "date": "2025-09-27",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-31 19:00:41",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-09-01T02:37:10.775841"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_c13078aca3ef4f0ebdb561b911cb2342_f95db4ac874b4c74a1d56858592bd9cc_20250929",
+      "original_id": "c13078aca3ef4f0ebdb561b911cb2342",
+      "event_date": "2025-09-29",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "第二届北京数字人才发展大会",
+      "content": "第二届北京数字人才发展大会将于9月29日至30日举办。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-01",
+      "raw_data": {
+        "article_id": "c13078aca3ef4f0ebdb561b911cb2342",
+        "user_id": "1",
+        "title": "第二届北京数字人才发展大会",
+        "content": "第二届北京数字人才发展大会将于9月29日至30日举办。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "c13078aca3ef4f0ebdb561b911cb2342",
+          "timeline_id": "f95db4ac874b4c74a1d56858592bd9cc",
+          "date": "2025-09-29",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-31 19:01:02",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-09-01T02:37:10.775855"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_a95d7d17f5c04101b22d05c9e1929497_57ce5f4fb78e4c90bd122d58d18988b0_20250929",
+      "original_id": "a95d7d17f5c04101b22d05c9e1929497",
+      "event_date": "2025-09-29",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "全球智能汽车产业大会",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-01",
+      "raw_data": {
+        "article_id": "a95d7d17f5c04101b22d05c9e1929497",
+        "user_id": "1",
+        "title": "全球智能汽车产业大会",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "a95d7d17f5c04101b22d05c9e1929497",
+          "timeline_id": "57ce5f4fb78e4c90bd122d58d18988b0",
+          "date": "2025-09-29",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-31 19:01:23",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-09-01T02:37:10.775861"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_b89ab0ad20c94d2fa063f44ba16cb6e6_f7617195bd5444f885f6f2bdc45bc00c_20250929",
+      "original_id": "b89ab0ad20c94d2fa063f44ba16cb6e6",
+      "event_date": "2025-09-29",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "辽宁省航空产业发展大会",
+      "content": "辽宁省航空产业发展大会将于9月29日至10月1日在沈阳举办。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-01",
+      "raw_data": {
+        "article_id": "b89ab0ad20c94d2fa063f44ba16cb6e6",
+        "user_id": "1",
+        "title": "辽宁省航空产业发展大会",
+        "content": "辽宁省航空产业发展大会将于9月29日至10月1日在沈阳举办。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "b89ab0ad20c94d2fa063f44ba16cb6e6",
+          "timeline_id": "f7617195bd5444f885f6f2bdc45bc00c",
+          "date": "2025-09-29",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-31 19:01:45",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-09-01T02:37:10.775868"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_37966828b6fc4c53ab0bee8e0bda4532_22a4115ba1fe4bc38de50da188df63cf_20250930",
+      "original_id": "37966828b6fc4c53ab0bee8e0bda4532",
+      "event_date": "2025-09-30",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "第二届培育钻石研讨会",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [
+        "培育钻石"
+      ],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-01",
+      "raw_data": {
+        "article_id": "37966828b6fc4c53ab0bee8e0bda4532",
+        "user_id": "1",
+        "title": "第二届培育钻石研讨会",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "37966828b6fc4c53ab0bee8e0bda4532",
+          "timeline_id": "22a4115ba1fe4bc38de50da188df63cf",
+          "date": "2025-09-30",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-08-31 19:02:04",
+          "theme_list": [
+            {
+              "timeline_theme_id": "5b84bbcc62b14cc8986c3e235e3deb37",
+              "name": "培育钻石"
+            }
+          ]
+        }
+      },
+      "created_at": "2025-09-01T02:37:10.775881"
     },
     {
       "platform": "jiuyangongshe",
@@ -1833,7 +3059,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "f3f4626b8e044b8dbf838ceada5ab2e4",
         "user_id": "1",
@@ -1858,7 +3084,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-08-31T02:47:12.198821"
+      "created_at": "2025-09-01T02:37:12.699651"
     },
     {
       "platform": "jiuyangongshe",
@@ -1880,7 +3106,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "0f054980a968431c94d5686cd894b41c",
         "user_id": "1",
@@ -1910,7 +3136,7 @@
           ]
         }
       },
-      "created_at": "2025-08-31T02:47:12.198853"
+      "created_at": "2025-09-01T02:37:12.699682"
     },
     {
       "platform": "jiuyangongshe",
@@ -1930,7 +3156,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "4e2wfmzg1nt",
         "user_id": "c8cdb5523f5b48c6b1012644d365d7d5",
@@ -1955,7 +3181,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-08-31T02:47:12.198883"
+      "created_at": "2025-09-01T02:37:12.699714"
     },
     {
       "platform": "jiuyangongshe",
@@ -1977,7 +3203,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "213e834215414c4aa7bdbd705f26039e",
         "user_id": "1",
@@ -2007,7 +3233,7 @@
           ]
         }
       },
-      "created_at": "2025-08-31T02:47:12.198906"
+      "created_at": "2025-09-01T02:37:12.699739"
     },
     {
       "platform": "jiuyangongshe",
@@ -2027,7 +3253,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "1zqkku3eug3",
         "user_id": "6c42499113454e18854fe372c264fe61",
@@ -2052,7 +3278,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-08-31T02:47:14.041011"
+      "created_at": "2025-09-01T02:37:14.431021"
     },
     {
       "platform": "jiuyangongshe",
@@ -2074,7 +3300,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-08-31",
+      "discovery_date": "2025-09-01",
       "raw_data": {
         "article_id": "47badf532b0340d697a22e11a8a090a4",
         "user_id": "1",
@@ -2104,7 +3330,7 @@
           ]
         }
       },
-      "created_at": "2025-08-31T02:47:15.708846"
+      "created_at": "2025-09-01T02:37:15.862585"
     }
   ]
 }

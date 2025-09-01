@@ -1,0 +1,126 @@
+{
+  "detection_time": "2025-09-01T02:37:43.033071",
+  "summary": {
+    "total_new": 57,
+    "total_updated": 20,
+    "total_cancelled": 2
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "jiuyangongshe": {
+      "new_events": 29,
+      "updated_events": 0,
+      "cancelled_events": 1,
+      "sample_new_titles": [
+        "华虹公司拟发行股份及支付现金方式购买华力微97.5%股权",
+        "2025第二十三届中国国际装备制造业博览会",
+        "Rokid Glasses开启预售"
+      ]
+    },
+    "tonghuashun": {
+      "new_events": 1,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "深圳市医疗保障局、深圳市财政局联合印发《关于完善我市儿童参加基本医疗保险有关事项的通知》，将符合条件"
+      ]
+    },
+    "investing": {
+      "new_events": 3,
+      "updated_events": 20,
+      "cancelled_events": 1,
+      "sample_new_titles": [
+        "印度尼西亚贸易帐(卢比)  (七月)",
+        "日本外汇储备(美元)  (八月)",
+        "中国央行贷款市场报价利率(LPR)  (九月)"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 24,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "东珠生态停复牌",
+        "申科股份停复牌",
+        "中国重工停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-12",
+      "title": "美国：密歇根大学消费者信心指数：初值(报告期:2025年09月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-16",
+      "title": "巴西：失业率(报告期:2025年07月)",
+      "importance": 4,
+      "country": "巴西"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-20",
+      "title": "中国：贷款市场报价利率(LPR):5年:月(报告期:2025年11月)",
+      "importance": 4,
+      "country": "中国"
+    },
+    {
+      "platform": "tonghuashun",
+      "date": "2025-09-01",
+      "title": "深圳市医疗保障局、深圳市财政局联合印发《关于完善我市儿童参加基本医疗保险有关事项的通知》，将符合条件的非深户籍学龄前儿童纳入深圳市居民医保范围，自9月1日起实施",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "investing",
+      "date": "2025-09-22",
+      "title": "中国央行贷款市场报价利率(LPR)  (九月)",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-01",
+      "title": "东港股份发布公告",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-01",
+      "title": "小熊电器发布公告",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-01",
+      "title": "德尔股份发布公告",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-01",
+      "title": "润泽科技发布公告",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-01",
+      "title": "金马游乐发布公告",
+      "importance": 3,
+      "country": "中国"
+    }
+  ]
+}
