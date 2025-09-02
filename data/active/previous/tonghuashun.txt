@@ -1,1096 +1,11 @@
 {
   "platform": "tonghuashun",
-  "total_events": 93,
+  "total_events": 66,
   "data_status": "ACTIVE",
   "date_type": "FUTURE",
-  "last_updated": "2025-09-01T03:18:08.336890",
+  "last_updated": "2025-09-02T02:53:02.929277",
   "immutable": false,
   "events": [
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20250901_0_fa42f761",
-      "original_id": "2025-09-01_0",
-      "event_date": "2025-09-01",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "财政部、中国人民银行、金融监管总局印发《个人消费贷款财政贴息政策实施方案》，2025年9月1日至2026年8月31日期间，居民个人使用贷款经办机构发放的个人消费贷款（不含信用卡业务）中实际用于消费，且贷款经办机构可通过贷款发放账户等识别借款人相关消费交易信息的部分，可按规定享受贴息政策",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [
-        {
-          "code": "885431",
-          "name": "新能源汽车"
-        }
-      ],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-01",
-      "raw_data": {
-        "event": [
-          "财政部、中国人民银行、金融监管总局印发《个人消费贷款财政贴息政策实施方案》，2025年9月1日至2026年8月31日期间，居民个人使用贷款经办机构发放的个人消费贷款（不含信用卡业务）中实际用于消费，且贷款经办机构可通过贷款发放账户等识别借款人相关消费交易信息的部分，可按规定享受贴息政策",
-          "",
-          "",
-          ""
-        ],
-        "concept": [
-          {
-            "code": "885431",
-            "name": "新能源汽车",
-            "py": "xnyqj"
-          }
-        ]
-      },
-      "created_at": "2025-09-01T02:37:17.831529"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20250901_1_4614912a",
-      "original_id": "2025-09-01_1",
-      "event_date": "2025-09-01",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "第二十三届中国国际装备制造业博览会将于9月1日至4日举办",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [
-        {
-          "code": "885517",
-          "name": "机器人概念"
-        }
-      ],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-01",
-      "raw_data": {
-        "event": [
-          "第二十三届中国国际装备制造业博览会将于9月1日至4日举办",
-          "",
-          "",
-          ""
-        ],
-        "concept": [
-          {
-            "code": "885517",
-            "name": "机器人概念",
-            "py": "jqrgn"
-          }
-        ]
-      },
-      "created_at": "2025-09-01T02:37:17.831554"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20250901_2_a79d9f10",
-      "original_id": "2025-09-01_2",
-      "event_date": "2025-09-01",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "沪苏浙皖共同发布《关于促进长三角科技创新协同发展的决定》，自9月1日起施行",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [
-        {
-          "code": "885832",
-          "name": "长三角一体化"
-        }
-      ],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-01",
-      "raw_data": {
-        "event": [
-          "沪苏浙皖共同发布《关于促进长三角科技创新协同发展的决定》，自9月1日起施行",
-          "",
-          "",
-          ""
-        ],
-        "concept": [
-          {
-            "code": "885832",
-            "name": "长三角一体化",
-            "py": "zsjyth"
-          }
-        ]
-      },
-      "created_at": "2025-09-01T02:37:17.831565"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20250901_3_845c4275",
-      "original_id": "2025-09-01_3",
-      "event_date": "2025-09-01",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "国家网信办等四部门印发《人工智能生成合成内容标识办法》，自2025年9月1日起施行",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [
-        {
-          "code": "885728",
-          "name": "人工智能"
-        }
-      ],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-01",
-      "raw_data": {
-        "event": [
-          "国家网信办等四部门印发《人工智能生成合成内容标识办法》，自2025年9月1日起施行",
-          "",
-          "",
-          ""
-        ],
-        "concept": [
-          {
-            "code": "885728",
-            "name": "人工智能",
-            "py": "rgzn"
-          }
-        ]
-      },
-      "created_at": "2025-09-01T02:37:17.831574"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20250901_4_d5a364aa",
-      "original_id": "2025-09-01_4",
-      "event_date": "2025-09-01",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "《上海市粮食安全保障条例》将于2025年9月1日起施行",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [
-        {
-          "code": "885995",
-          "name": "粮食概念"
-        }
-      ],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-01",
-      "raw_data": {
-        "event": [
-          "《上海市粮食安全保障条例》将于2025年9月1日起施行",
-          "",
-          "",
-          ""
-        ],
-        "concept": [
-          {
-            "code": "885995",
-            "name": "粮食概念",
-            "py": "lygn"
-          }
-        ]
-      },
-      "created_at": "2025-09-01T02:37:17.831583"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20250901_5_680016ca",
-      "original_id": "2025-09-01_5",
-      "event_date": "2025-09-01",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "财政部：自2025年9月1日起，吉林省实施境外旅客购物离境退税政策",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [
-        {
-          "code": "885497",
-          "name": "旅游概念"
-        }
-      ],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-01",
-      "raw_data": {
-        "event": [
-          "财政部：自2025年9月1日起，吉林省实施境外旅客购物离境退税政策",
-          "",
-          "",
-          ""
-        ],
-        "concept": [
-          {
-            "code": "885497",
-            "name": "旅游概念",
-            "py": "lygn"
-          }
-        ]
-      },
-      "created_at": "2025-09-01T02:37:17.831592"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20250901_6_53c67270",
-      "original_id": "2025-09-01_6",
-      "event_date": "2025-09-01",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "市场监管总局（国家标准委）批准发布《家居产品适老化设计指南》（GB/T 452722025）国家标准，将于2025年9月1日正式实施",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [
-        {
-          "code": "885478",
-          "name": "智能家居"
-        }
-      ],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-01",
-      "raw_data": {
-        "event": [
-          "市场监管总局（国家标准委）批准发布《家居产品适老化设计指南》（GB/T 452722025）国家标准，将于2025年9月1日正式实施",
-          "",
-          "",
-          ""
-        ],
-        "concept": [
-          {
-            "code": "885478",
-            "name": "智能家居",
-            "py": "znjj"
-          }
-        ]
-      },
-      "created_at": "2025-09-01T02:37:17.831601"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20250901_7_ea307eab",
-      "original_id": "2025-09-01_7",
-      "event_date": "2025-09-01",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "深圳市医疗保障局、深圳市财政局联合印发《关于完善我市儿童参加基本医疗保险有关事项的通知》，将符合条件的非深户籍学龄前儿童纳入深圳市居民医保范围，自9月1日起实施",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [
-        {
-          "code": "881144",
-          "name": "医疗器械"
-        }
-      ],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-01",
-      "raw_data": {
-        "event": [
-          "深圳市医疗保障局、深圳市财政局联合印发《关于完善我市儿童参加基本医疗保险有关事项的通知》，将符合条件的非深户籍学龄前儿童纳入深圳市居民医保范围，自9月1日起实施",
-          "",
-          "",
-          ""
-        ],
-        "concept": [
-          {
-            "code": "881144",
-            "name": "医疗器械",
-            "py": "ylqx"
-          }
-        ]
-      },
-      "created_at": "2025-09-01T02:37:17.831610"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20250901_8_7219cdeb",
-      "original_id": "2025-09-01_8",
-      "event_date": "2025-09-01",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "《固定资产投资项目节能审查和碳排放评价办法》自9月1日起施行",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-01",
-      "raw_data": {
-        "event": [
-          "《固定资产投资项目节能审查和碳排放评价办法》自9月1日起施行",
-          "",
-          "",
-          ""
-        ],
-        "concept": []
-      },
-      "created_at": "2025-09-01T02:37:17.831618"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20250901_9_d5a364aa",
-      "original_id": "2025-09-01_9",
-      "event_date": "2025-09-01",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "《上海市粮食安全保障条例》将于2025年9月1日起施行",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [
-        {
-          "code": "885995",
-          "name": "粮食概念"
-        }
-      ],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-01",
-      "raw_data": {
-        "event": [
-          "《上海市粮食安全保障条例》将于2025年9月1日起施行",
-          "",
-          "",
-          ""
-        ],
-        "concept": [
-          {
-            "code": "885995",
-            "name": "粮食概念",
-            "py": "lygn"
-          }
-        ]
-      },
-      "created_at": "2025-09-01T02:37:17.831626"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20250901_10_a79d9f10",
-      "original_id": "2025-09-01_10",
-      "event_date": "2025-09-01",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "沪苏浙皖共同发布《关于促进长三角科技创新协同发展的决定》，自9月1日起施行",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [
-        {
-          "code": "885832",
-          "name": "长三角一体化"
-        }
-      ],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-01",
-      "raw_data": {
-        "event": [
-          "沪苏浙皖共同发布《关于促进长三角科技创新协同发展的决定》，自9月1日起施行",
-          "",
-          "",
-          ""
-        ],
-        "concept": [
-          {
-            "code": "885832",
-            "name": "长三角一体化",
-            "py": "zsjyth"
-          }
-        ]
-      },
-      "created_at": "2025-09-01T02:37:17.831634"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20250901_11_53c67270",
-      "original_id": "2025-09-01_11",
-      "event_date": "2025-09-01",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "市场监管总局（国家标准委）批准发布《家居产品适老化设计指南》（GB/T 452722025）国家标准，将于2025年9月1日正式实施",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [
-        {
-          "code": "885522",
-          "name": "养老概念"
-        }
-      ],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-01",
-      "raw_data": {
-        "event": [
-          "市场监管总局（国家标准委）批准发布《家居产品适老化设计指南》（GB/T 452722025）国家标准，将于2025年9月1日正式实施",
-          "",
-          "",
-          ""
-        ],
-        "concept": [
-          {
-            "code": "885522",
-            "name": "养老概念",
-            "py": "ylgn"
-          }
-        ]
-      },
-      "created_at": "2025-09-01T02:37:17.831642"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20250901_12_845c4275",
-      "original_id": "2025-09-01_12",
-      "event_date": "2025-09-01",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "国家网信办等四部门印发《人工智能生成合成内容标识办法》，自2025年9月1日起施行",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [
-        {
-          "code": "885728",
-          "name": "人工智能"
-        }
-      ],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-01",
-      "raw_data": {
-        "event": [
-          "国家网信办等四部门印发《人工智能生成合成内容标识办法》，自2025年9月1日起施行",
-          "",
-          "",
-          ""
-        ],
-        "concept": [
-          {
-            "code": "885728",
-            "name": "人工智能",
-            "py": "rgzn"
-          }
-        ]
-      },
-      "created_at": "2025-09-01T02:37:17.831650"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20250901_13_8b2b58b2",
-      "original_id": "2025-09-01_13",
-      "event_date": "2025-09-01",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "中证指数修订上证基准做市公司债指数，9月1日实施",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [
-        {
-          "code": "885620",
-          "name": "参股券商"
-        }
-      ],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-01",
-      "raw_data": {
-        "event": [
-          "中证指数修订上证基准做市公司债指数，9月1日实施",
-          "",
-          "",
-          ""
-        ],
-        "concept": [
-          {
-            "code": "885620",
-            "name": "参股券商",
-            "py": "sgxs"
-          }
-        ]
-      },
-      "created_at": "2025-09-01T02:37:17.831658"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20250901_14_4614912a",
-      "original_id": "2025-09-01_14",
-      "event_date": "2025-09-01",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "第二十三届中国国际装备制造业博览会将于9月1日至4日举办",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [
-        {
-          "code": "885517",
-          "name": "机器人概念"
-        }
-      ],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-01",
-      "raw_data": {
-        "event": [
-          "第二十三届中国国际装备制造业博览会将于9月1日至4日举办",
-          "",
-          "",
-          ""
-        ],
-        "concept": [
-          {
-            "code": "885517",
-            "name": "机器人概念",
-            "py": "jqrgn"
-          }
-        ]
-      },
-      "created_at": "2025-09-01T02:37:17.831666"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20250901_15_fa42f761",
-      "original_id": "2025-09-01_15",
-      "event_date": "2025-09-01",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "财政部、中国人民银行、金融监管总局印发《个人消费贷款财政贴息政策实施方案》，2025年9月1日至2026年8月31日期间，居民个人使用贷款经办机构发放的个人消费贷款（不含信用卡业务）中实际用于消费，且贷款经办机构可通过贷款发放账户等识别借款人相关消费交易信息的部分，可按规定享受贴息政策",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [
-        {
-          "code": "885431",
-          "name": "新能源汽车"
-        }
-      ],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-01",
-      "raw_data": {
-        "event": [
-          "财政部、中国人民银行、金融监管总局印发《个人消费贷款财政贴息政策实施方案》，2025年9月1日至2026年8月31日期间，居民个人使用贷款经办机构发放的个人消费贷款（不含信用卡业务）中实际用于消费，且贷款经办机构可通过贷款发放账户等识别借款人相关消费交易信息的部分，可按规定享受贴息政策",
-          "",
-          "",
-          ""
-        ],
-        "concept": [
-          {
-            "code": "885431",
-            "name": "新能源汽车",
-            "py": "xnyqj"
-          }
-        ]
-      },
-      "created_at": "2025-09-01T02:37:17.831675"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20250901_16_7219cdeb",
-      "original_id": "2025-09-01_16",
-      "event_date": "2025-09-01",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "《固定资产投资项目节能审查和碳排放评价办法》自9月1日起施行",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-01",
-      "raw_data": {
-        "event": [
-          "《固定资产投资项目节能审查和碳排放评价办法》自9月1日起施行",
-          "",
-          "",
-          ""
-        ],
-        "concept": []
-      },
-      "created_at": "2025-09-01T02:37:17.831682"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20250901_17_089c655f",
-      "original_id": "2025-09-01_17",
-      "event_date": "2025-09-01",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "国家发展改革委修订印发《固定资产投资项目节能审查和碳排放评价办法》，自2025年9月1日起施行",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [
-        {
-          "code": "885919",
-          "name": "碳中和"
-        }
-      ],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-01",
-      "raw_data": {
-        "event": [
-          "国家发展改革委修订印发《固定资产投资项目节能审查和碳排放评价办法》，自2025年9月1日起施行",
-          "",
-          "",
-          ""
-        ],
-        "concept": [
-          {
-            "code": "885919",
-            "name": "碳中和",
-            "py": "tzh"
-          }
-        ]
-      },
-      "created_at": "2025-09-01T02:37:17.831691"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20250901_18_089c655f",
-      "original_id": "2025-09-01_18",
-      "event_date": "2025-09-01",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "国家发展改革委修订印发《固定资产投资项目节能审查和碳排放评价办法》，自2025年9月1日起施行",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [
-        {
-          "code": "885919",
-          "name": "碳中和"
-        }
-      ],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-01",
-      "raw_data": {
-        "event": [
-          "国家发展改革委修订印发《固定资产投资项目节能审查和碳排放评价办法》，自2025年9月1日起施行",
-          "",
-          "",
-          ""
-        ],
-        "concept": [
-          {
-            "code": "885919",
-            "name": "碳中和",
-            "py": "tzh"
-          }
-        ]
-      },
-      "created_at": "2025-09-01T02:37:17.831698"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20250901_19_278bc99f",
-      "original_id": "2025-09-01_19",
-      "event_date": "2025-09-01",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "新版强制性国家标准《电动自行车安全技术规范》将于9月1日起实施",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [
-        {
-          "code": "885974",
-          "name": "两轮车"
-        }
-      ],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-01",
-      "raw_data": {
-        "event": [
-          "新版强制性国家标准《电动自行车安全技术规范》将于9月1日起实施",
-          "",
-          "",
-          ""
-        ],
-        "concept": [
-          {
-            "code": "885974",
-            "name": "两轮车",
-            "py": "llj"
-          }
-        ]
-      },
-      "created_at": "2025-09-01T02:37:17.831706"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20250901_20_278bc99f",
-      "original_id": "2025-09-01_20",
-      "event_date": "2025-09-01",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "新版强制性国家标准《电动自行车安全技术规范》将于9月1日起实施",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [
-        {
-          "code": "885974",
-          "name": "两轮车"
-        }
-      ],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-01",
-      "raw_data": {
-        "event": [
-          "新版强制性国家标准《电动自行车安全技术规范》将于9月1日起实施",
-          "",
-          "",
-          ""
-        ],
-        "concept": [
-          {
-            "code": "885974",
-            "name": "两轮车",
-            "py": "llj"
-          }
-        ]
-      },
-      "created_at": "2025-09-01T02:37:17.831714"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20250901_21_595e87bd",
-      "original_id": "2025-09-01_21",
-      "event_date": "2025-09-01",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "中国机械工业联合会将于9月1日至7日组团赴白俄罗斯进行产业考察对接",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [
-        {
-          "code": "885427",
-          "name": "高端装备"
-        }
-      ],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-01",
-      "raw_data": {
-        "event": [
-          "中国机械工业联合会将于9月1日至7日组团赴白俄罗斯进行产业考察对接",
-          "",
-          "",
-          ""
-        ],
-        "concept": [
-          {
-            "code": "885427",
-            "name": "高端装备",
-            "py": "gdzb"
-          }
-        ]
-      },
-      "created_at": "2025-09-01T02:37:17.831723"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20250901_22_595e87bd",
-      "original_id": "2025-09-01_22",
-      "event_date": "2025-09-01",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "中国机械工业联合会将于9月1日至7日组团赴白俄罗斯进行产业考察对接",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [
-        {
-          "code": "885427",
-          "name": "高端装备"
-        }
-      ],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-01",
-      "raw_data": {
-        "event": [
-          "中国机械工业联合会将于9月1日至7日组团赴白俄罗斯进行产业考察对接",
-          "",
-          "",
-          ""
-        ],
-        "concept": [
-          {
-            "code": "885427",
-            "name": "高端装备",
-            "py": "gdzb"
-          }
-        ]
-      },
-      "created_at": "2025-09-01T02:37:17.831730"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20250901_23_034d62b1",
-      "original_id": "2025-09-01_23",
-      "event_date": "2025-09-01",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "2025年9月1日至2026年8月31日期间，消费者在重点领域消费可享受个人消费贷款财政贴息政策",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [
-        {
-          "code": "885431",
-          "name": "新能源汽车"
-        }
-      ],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-01",
-      "raw_data": {
-        "event": [
-          "2025年9月1日至2026年8月31日期间，消费者在重点领域消费可享受个人消费贷款财政贴息政策",
-          "",
-          "",
-          ""
-        ],
-        "concept": [
-          {
-            "code": "885431",
-            "name": "新能源汽车",
-            "py": "xnyqj"
-          }
-        ]
-      },
-      "created_at": "2025-09-01T02:37:17.831738"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20250901_24_034d62b1",
-      "original_id": "2025-09-01_24",
-      "event_date": "2025-09-01",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "2025年9月1日至2026年8月31日期间，消费者在重点领域消费可享受个人消费贷款财政贴息政策",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [
-        {
-          "code": "885431",
-          "name": "新能源汽车"
-        }
-      ],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-01",
-      "raw_data": {
-        "event": [
-          "2025年9月1日至2026年8月31日期间，消费者在重点领域消费可享受个人消费贷款财政贴息政策",
-          "",
-          "",
-          ""
-        ],
-        "concept": [
-          {
-            "code": "885431",
-            "name": "新能源汽车",
-            "py": "xnyqj"
-          }
-        ]
-      },
-      "created_at": "2025-09-01T02:37:17.831746"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20250901_25_680016ca",
-      "original_id": "2025-09-01_25",
-      "event_date": "2025-09-01",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "财政部：自2025年9月1日起，吉林省实施境外旅客购物离境退税政策",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [
-        {
-          "code": "885497",
-          "name": "旅游概念"
-        }
-      ],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-01",
-      "raw_data": {
-        "event": [
-          "财政部：自2025年9月1日起，吉林省实施境外旅客购物离境退税政策",
-          "",
-          "",
-          ""
-        ],
-        "concept": [
-          {
-            "code": "885497",
-            "name": "旅游概念",
-            "py": "lygn"
-          }
-        ]
-      },
-      "created_at": "2025-09-01T02:37:17.831754"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20250901_26_8b2b58b2",
-      "original_id": "2025-09-01_26",
-      "event_date": "2025-09-01",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "中证指数修订上证基准做市公司债指数，9月1日实施",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [
-        {
-          "code": "885620",
-          "name": "参股券商"
-        }
-      ],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-01",
-      "raw_data": {
-        "event": [
-          "中证指数修订上证基准做市公司债指数，9月1日实施",
-          "",
-          "",
-          ""
-        ],
-        "concept": [
-          {
-            "code": "885620",
-            "name": "参股券商",
-            "py": "sgxs"
-          }
-        ]
-      },
-      "created_at": "2025-09-01T02:37:17.831762"
-    },
     {
       "platform": "tonghuashun",
       "event_id": "ths_20250903_0_50c16051",
@@ -1130,7 +45,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.831787"
+      "created_at": "2025-09-01T03:18:18.654226"
     },
     {
       "platform": "tonghuashun",
@@ -1171,7 +86,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.831798"
+      "created_at": "2025-09-01T03:18:18.654237"
     },
     {
       "platform": "tonghuashun",
@@ -1212,7 +127,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.831806"
+      "created_at": "2025-09-01T03:18:18.654282"
     },
     {
       "platform": "tonghuashun",
@@ -1253,7 +168,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.831847"
+      "created_at": "2025-09-01T03:18:18.654292"
     },
     {
       "platform": "tonghuashun",
@@ -1294,7 +209,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.831870"
+      "created_at": "2025-09-01T03:18:18.654315"
     },
     {
       "platform": "tonghuashun",
@@ -1335,7 +250,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.831880"
+      "created_at": "2025-09-01T03:18:18.654324"
     },
     {
       "platform": "tonghuashun",
@@ -1376,7 +291,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.831889"
+      "created_at": "2025-09-01T03:18:18.654333"
     },
     {
       "platform": "tonghuashun",
@@ -1417,7 +332,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.831897"
+      "created_at": "2025-09-01T03:18:18.654342"
     },
     {
       "platform": "tonghuashun",
@@ -1458,7 +373,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.831916"
+      "created_at": "2025-09-01T03:18:18.654361"
     },
     {
       "platform": "tonghuashun",
@@ -1499,7 +414,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.831925"
+      "created_at": "2025-09-01T03:18:18.654371"
     },
     {
       "platform": "tonghuashun",
@@ -1540,7 +455,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.831934"
+      "created_at": "2025-09-01T03:18:18.654380"
     },
     {
       "platform": "tonghuashun",
@@ -1581,7 +496,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.831942"
+      "created_at": "2025-09-01T03:18:18.654389"
     },
     {
       "platform": "tonghuashun",
@@ -1622,7 +537,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.831962"
+      "created_at": "2025-09-01T03:18:18.654408"
     },
     {
       "platform": "tonghuashun",
@@ -1663,7 +578,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.831971"
+      "created_at": "2025-09-01T03:18:18.654419"
     },
     {
       "platform": "tonghuashun",
@@ -1704,7 +619,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.831989"
+      "created_at": "2025-09-01T03:18:18.654438"
     },
     {
       "platform": "tonghuashun",
@@ -1745,7 +660,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.831998"
+      "created_at": "2025-09-01T03:18:18.654447"
     },
     {
       "platform": "tonghuashun",
@@ -1786,7 +701,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832006"
+      "created_at": "2025-09-01T03:18:18.654457"
     },
     {
       "platform": "tonghuashun",
@@ -1827,7 +742,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832015"
+      "created_at": "2025-09-01T03:18:18.654469"
     },
     {
       "platform": "tonghuashun",
@@ -1868,7 +783,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832023"
+      "created_at": "2025-09-01T03:18:18.654477"
     },
     {
       "platform": "tonghuashun",
@@ -1909,7 +824,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832031"
+      "created_at": "2025-09-01T03:18:18.654486"
     },
     {
       "platform": "tonghuashun",
@@ -1950,7 +865,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832049"
+      "created_at": "2025-09-01T03:18:18.654503"
     },
     {
       "platform": "tonghuashun",
@@ -1991,7 +906,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832057"
+      "created_at": "2025-09-01T03:18:18.654512"
     },
     {
       "platform": "tonghuashun",
@@ -2032,7 +947,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832065"
+      "created_at": "2025-09-01T03:18:18.654521"
     },
     {
       "platform": "tonghuashun",
@@ -2073,7 +988,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832073"
+      "created_at": "2025-09-01T03:18:18.654529"
     },
     {
       "platform": "tonghuashun",
@@ -2114,7 +1029,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832091"
+      "created_at": "2025-09-01T03:18:18.654546"
     },
     {
       "platform": "tonghuashun",
@@ -2155,7 +1070,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832099"
+      "created_at": "2025-09-01T03:18:18.654555"
     },
     {
       "platform": "tonghuashun",
@@ -2196,7 +1111,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832117"
+      "created_at": "2025-09-01T03:18:18.654572"
     },
     {
       "platform": "tonghuashun",
@@ -2237,7 +1152,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832126"
+      "created_at": "2025-09-01T03:18:18.654581"
     },
     {
       "platform": "tonghuashun",
@@ -2278,7 +1193,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832142"
+      "created_at": "2025-09-01T03:18:18.654598"
     },
     {
       "platform": "tonghuashun",
@@ -2319,7 +1234,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832151"
+      "created_at": "2025-09-01T03:18:18.654607"
     },
     {
       "platform": "tonghuashun",
@@ -2360,7 +1275,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832168"
+      "created_at": "2025-09-01T03:18:18.654624"
     },
     {
       "platform": "tonghuashun",
@@ -2401,7 +1316,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832177"
+      "created_at": "2025-09-01T03:18:18.654632"
     },
     {
       "platform": "tonghuashun",
@@ -2442,7 +1357,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832185"
+      "created_at": "2025-09-01T03:18:18.654641"
     },
     {
       "platform": "tonghuashun",
@@ -2483,7 +1398,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832193"
+      "created_at": "2025-09-01T03:18:18.654650"
     },
     {
       "platform": "tonghuashun",
@@ -2524,7 +1439,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832201"
+      "created_at": "2025-09-01T03:18:18.654658"
     },
     {
       "platform": "tonghuashun",
@@ -2565,7 +1480,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832208"
+      "created_at": "2025-09-01T03:18:18.654666"
     },
     {
       "platform": "tonghuashun",
@@ -2606,7 +1521,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832231"
+      "created_at": "2025-09-01T03:18:18.654674"
     },
     {
       "platform": "tonghuashun",
@@ -2647,7 +1562,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832242"
+      "created_at": "2025-09-01T03:18:18.654682"
     },
     {
       "platform": "tonghuashun",
@@ -2688,7 +1603,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832250"
+      "created_at": "2025-09-01T03:18:18.654690"
     },
     {
       "platform": "tonghuashun",
@@ -2729,7 +1644,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832258"
+      "created_at": "2025-09-01T03:18:18.654699"
     },
     {
       "platform": "tonghuashun",
@@ -2770,7 +1685,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832267"
+      "created_at": "2025-09-01T03:18:18.654707"
     },
     {
       "platform": "tonghuashun",
@@ -2811,7 +1726,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832275"
+      "created_at": "2025-09-01T03:18:18.654716"
     },
     {
       "platform": "tonghuashun",
@@ -2852,7 +1767,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832283"
+      "created_at": "2025-09-01T03:18:18.654725"
     },
     {
       "platform": "tonghuashun",
@@ -2893,7 +1808,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832291"
+      "created_at": "2025-09-01T03:18:18.654733"
     },
     {
       "platform": "tonghuashun",
@@ -2934,7 +1849,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832312"
+      "created_at": "2025-09-01T03:18:18.654751"
     },
     {
       "platform": "tonghuashun",
@@ -2975,7 +1890,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832321"
+      "created_at": "2025-09-01T03:18:18.654760"
     },
     {
       "platform": "tonghuashun",
@@ -3016,7 +1931,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832338"
+      "created_at": "2025-09-01T03:18:18.654777"
     },
     {
       "platform": "tonghuashun",
@@ -3057,7 +1972,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832347"
+      "created_at": "2025-09-01T03:18:18.654786"
     },
     {
       "platform": "tonghuashun",
@@ -3098,7 +2013,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832355"
+      "created_at": "2025-09-01T03:18:18.654795"
     },
     {
       "platform": "tonghuashun",
@@ -3139,7 +2054,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832363"
+      "created_at": "2025-09-01T03:18:18.654803"
     },
     {
       "platform": "tonghuashun",
@@ -3180,7 +2095,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832380"
+      "created_at": "2025-09-01T03:18:18.654820"
     },
     {
       "platform": "tonghuashun",
@@ -3221,7 +2136,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832389"
+      "created_at": "2025-09-01T03:18:18.654846"
     },
     {
       "platform": "tonghuashun",
@@ -3262,7 +2177,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832406"
+      "created_at": "2025-09-01T03:18:18.654867"
     },
     {
       "platform": "tonghuashun",
@@ -3303,7 +2218,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832414"
+      "created_at": "2025-09-01T03:18:18.654876"
     },
     {
       "platform": "tonghuashun",
@@ -3344,7 +2259,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832430"
+      "created_at": "2025-09-01T03:18:18.654893"
     },
     {
       "platform": "tonghuashun",
@@ -3385,7 +2300,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832439"
+      "created_at": "2025-09-01T03:18:18.654902"
     },
     {
       "platform": "tonghuashun",
@@ -3426,7 +2341,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832447"
+      "created_at": "2025-09-01T03:18:18.654911"
     },
     {
       "platform": "tonghuashun",
@@ -3467,7 +2382,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832455"
+      "created_at": "2025-09-01T03:18:18.654919"
     },
     {
       "platform": "tonghuashun",
@@ -3508,7 +2423,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832471"
+      "created_at": "2025-09-01T03:18:18.654936"
     },
     {
       "platform": "tonghuashun",
@@ -3549,7 +2464,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832479"
+      "created_at": "2025-09-01T03:18:18.654945"
     },
     {
       "platform": "tonghuashun",
@@ -3590,7 +2505,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832487"
+      "created_at": "2025-09-01T03:18:18.654954"
     },
     {
       "platform": "tonghuashun",
@@ -3631,7 +2546,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832495"
+      "created_at": "2025-09-01T03:18:18.654962"
     },
     {
       "platform": "tonghuashun",
@@ -3672,7 +2587,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832503"
+      "created_at": "2025-09-01T03:18:18.654970"
     },
     {
       "platform": "tonghuashun",
@@ -3713,7 +2628,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832511"
+      "created_at": "2025-09-01T03:18:18.654979"
     },
     {
       "platform": "tonghuashun",
@@ -3754,7 +2669,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832527"
+      "created_at": "2025-09-01T03:18:18.654996"
     },
     {
       "platform": "tonghuashun",
@@ -3795,7 +2710,7 @@
           }
         ]
       },
-      "created_at": "2025-09-01T02:37:17.832536"
+      "created_at": "2025-09-01T03:18:18.655005"
     }
   ]
 }

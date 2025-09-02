@@ -1,0 +1,126 @@
+{
+  "detection_time": "2025-09-02T02:53:36.921595",
+  "summary": {
+    "total_new": 42,
+    "total_updated": 20,
+    "total_cancelled": 1
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 3,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "蔚来将于周二盘前（9月2日）公布财报",
+        "今日有4058亿元7天期逆回购到期",
+        "抗战胜利80周年纪念活动新闻中心将于9月2日上午举办第三场记者见面会"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 1,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "抗战胜利80周年纪念活动新闻中心将于9月2日上午举办第三场记者见面会"
+      ]
+    },
+    "investing": {
+      "new_events": 14,
+      "updated_events": 20,
+      "cancelled_events": 1,
+      "sample_new_titles": [
+        "泰国外汇储备(美元)",
+        "澳大利亚TD-MI通胀指数月率(%) (月度环比)  (八月)",
+        "乳制品拍卖"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 24,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "晶升股份停复牌",
+        "旷达科技停复牌",
+        "*ST紫天停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-09-02",
+      "title": "蔚来将于周二盘前（9月2日）公布财报",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-09-02",
+      "title": "抗战胜利80周年纪念活动新闻中心将于9月2日上午举办第三场记者见面会",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-20",
+      "title": "中国：贷款市场报价利率(LPR):1年:月(报告期:2025年11月)",
+      "importance": 4,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-20",
+      "title": "中国香港：CPI:综合类(报告期:2025年10月)",
+      "importance": 4,
+      "country": "中国香港"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-20",
+      "title": "中国香港：CPI:综合类:当月同比(报告期:2025年10月)",
+      "importance": 4,
+      "country": "中国香港"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-20",
+      "title": "美国：堪萨斯联储制造业指数：季调(报告期:2025年11月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-20",
+      "title": "美国：堪萨斯联储制造业指数：产出：季调(报告期:2025年11月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-21",
+      "title": "韩国：PPI：同比(报告期:2025年10月)",
+      "importance": 4,
+      "country": "韩国"
+    },
+    {
+      "platform": "tonghuashun",
+      "date": "2025-09-02",
+      "title": "抗战胜利80周年纪念活动新闻中心将于9月2日上午举办第三场记者见面会",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-02",
+      "title": "广电计量发布公告",
+      "importance": 3,
+      "country": "中国"
+    }
+  ]
+}
