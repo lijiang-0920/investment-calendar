@@ -2,28 +2,9 @@
   "platform": "tonghuashun",
   "platform_name": "同花顺",
   "data_type": "ACTIVE",
-  "total_events": 66,
-  "last_updated": "2025-09-02T03:03:46.385589",
+  "total_events": 33,
+  "last_updated": "2025-09-03T02:52:35.465383",
   "events": [
-    {
-      "id": "ths_20250902_0_4507a82d",
-      "platform": "tonghuashun",
-      "title": "抗战胜利80周年纪念活动新闻中心将于9月2日上午举办第三场记者见面会",
-      "event_date": "2025-09-02",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885700",
-          "name": "军工"
-        }
-      ]
-    },
     {
       "id": "ths_20250903_0_50c16051",
       "platform": "tonghuashun",
@@ -32,7 +13,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -44,52 +25,14 @@
       ]
     },
     {
-      "id": "ths_20250903_1_50c16051",
-      "platform": "tonghuashun",
-      "title": "9月3日，北京天安门广场将举行纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会，包括检阅部队",
-      "event_date": "2025-09-03",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885700",
-          "name": "军工"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250903_2_7d9a9a7f",
+      "id": "ths_20250903_1_7d9a9a7f",
       "platform": "tonghuashun",
       "title": "第十届东方经济论坛将于9月3日至6日举行",
       "event_date": "2025-09-03",
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885431",
-          "name": "新能源汽车"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250903_3_7d9a9a7f",
-      "platform": "tonghuashun",
-      "title": "第十届东方经济论坛将于9月3日至6日举行",
-      "event_date": "2025-09-03",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -108,7 +51,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -120,52 +63,14 @@
       ]
     },
     {
-      "id": "ths_20250904_1_e474282a",
-      "platform": "tonghuashun",
-      "title": "华为官宣将于9月4日举办华为Mate XTs 非凡大师及全场景新品发布会，将发布新款华为三折叠屏手机",
-      "event_date": "2025-09-04",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885800",
-          "name": "消费电子概念"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250904_2_c8625048",
+      "id": "ths_20250904_1_c8625048",
       "platform": "tonghuashun",
       "title": "2025（第十五届）航空工业大会暨（第四届）航空产业质量基础设施建设大会将于9月4日至5日召开",
       "event_date": "2025-09-04",
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885566",
-          "name": "大飞机"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250904_3_c8625048",
-      "platform": "tonghuashun",
-      "title": "2025（第十五届）航空工业大会暨（第四届）航空产业质量基础设施建设大会将于9月4日至5日召开",
-      "event_date": "2025-09-04",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -177,33 +82,14 @@
       ]
     },
     {
-      "id": "ths_20250905_0_a85c4dcf",
-      "platform": "tonghuashun",
-      "title": "2025低空经济发展大会将于9月5日至7日在芜湖举办",
-      "event_date": "2025-09-05",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "886067",
-          "name": "低空经济"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250905_1_a34bd593",
+      "id": "ths_20250905_0_a34bd593",
       "platform": "tonghuashun",
       "title": "2025年四川“三大球”城市联赛（足球项目）暨“巴蜀雄起杯”四川省业余足球联赛总决赛时间为9月5日至9月27日",
       "event_date": "2025-09-05",
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -215,33 +101,14 @@
       ]
     },
     {
-      "id": "ths_20250905_2_a34bd593",
-      "platform": "tonghuashun",
-      "title": "2025年四川“三大球”城市联赛（足球项目）暨“巴蜀雄起杯”四川省业余足球联赛总决赛时间为9月5日至9月27日",
-      "event_date": "2025-09-05",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885580",
-          "name": "足球概念"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250905_3_a85c4dcf",
+      "id": "ths_20250905_1_a85c4dcf",
       "platform": "tonghuashun",
       "title": "2025低空经济发展大会将于9月5日至7日在芜湖举办",
       "event_date": "2025-09-05",
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -260,26 +127,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885845",
-          "name": "生物疫苗"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250906_1_f2f1e573",
-      "platform": "tonghuashun",
-      "title": "2025世界肺癌大会将于9月6日至9日在西班牙举办",
-      "event_date": "2025-09-06",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -298,7 +146,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -310,21 +158,21 @@
       ]
     },
     {
-      "id": "ths_20250908_1_f342f247",
+      "id": "ths_20250908_1_98e321f4",
       "platform": "tonghuashun",
-      "title": "恒生港股通创新药精选指数的编算方法调整，成份股变动将于9月8日（星期一）实施",
+      "title": "恒生指数有限公司宣布2025年第二季度之恒生指数系列检讨结果，成份股变动将于9月8日(星期 一)生效",
       "event_date": "2025-09-08",
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
       "concepts": [
         {
-          "code": "886015",
-          "name": "创新药"
+          "code": "885835",
+          "name": "参股银行"
         }
       ]
     },
@@ -336,7 +184,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -344,63 +192,6 @@
         {
           "code": "885939",
           "name": "海峡两岸"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250908_3_98e321f4",
-      "platform": "tonghuashun",
-      "title": "恒生指数有限公司宣布2025年第二季度之恒生指数系列检讨结果，成份股变动将于9月8日(星期 一)生效",
-      "event_date": "2025-09-08",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885835",
-          "name": "参股银行"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250908_4_833d765e",
-      "platform": "tonghuashun",
-      "title": "第二十五届中国国际投资贸易洽谈会将于9月8日至11日举办",
-      "event_date": "2025-09-08",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885939",
-          "name": "海峡两岸"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250908_5_98e321f4",
-      "platform": "tonghuashun",
-      "title": "恒生指数有限公司宣布2025年第二季度之恒生指数系列检讨结果，成份股变动将于9月8日(星期 一)生效",
-      "event_date": "2025-09-08",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885835",
-          "name": "参股银行"
         }
       ]
     },
@@ -412,7 +203,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -431,45 +222,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885376",
-          "name": "苹果概念"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250910_2_baacce83",
-      "platform": "tonghuashun",
-      "title": "2025年服贸会将于9月10日至14日举办",
-      "event_date": "2025-09-10",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885728",
-          "name": "人工智能"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250910_3_b0cd6d9f",
-      "platform": "tonghuashun",
-      "title": "2025苹果秋季新品发布会将于9月10日举办",
-      "event_date": "2025-09-10",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -488,26 +241,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885418",
-          "name": "文化传媒概念"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250912_1_dafc90f8",
-      "platform": "tonghuashun",
-      "title": "2025中国文化旅游产业博览会将于9月12日至14日举办",
-      "event_date": "2025-09-12",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -526,26 +260,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885921",
-          "name": "储能"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250916_1_94c292e4",
-      "platform": "tonghuashun",
-      "title": "2025世界储能大会将于9月16日至18日在福建省宁德市召开",
-      "event_date": "2025-09-16",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -564,7 +279,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -576,52 +291,14 @@
       ]
     },
     {
-      "id": "ths_20250917_1_21800bad",
-      "platform": "tonghuashun",
-      "title": "Meta Connect 2025将于9月17日至18日举办",
-      "event_date": "2025-09-17",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885934",
-          "name": "元宇宙"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250918_0_c949313b",
-      "platform": "tonghuashun",
-      "title": "美联储FOMC公布利率决议和经济预期摘要。",
-      "event_date": "2025-09-18",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885840",
-          "name": "人民币贬值受益"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250918_1_8085c9ea",
+      "id": "ths_20250918_0_8085c9ea",
       "platform": "tonghuashun",
       "title": "美联储主席鲍威尔召开货币政策新闻发布会",
       "event_date": "2025-09-18",
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -629,6 +306,25 @@
         {
           "code": "885530",
           "name": "黄金概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250918_1_c949313b",
+      "platform": "tonghuashun",
+      "title": "美联储FOMC公布利率决议和经济预期摘要。",
+      "event_date": "2025-09-18",
+      "importance": 3,
+      "country": "中国",
+      "is_new": false,
+      "discovery_date": "2025-09-03",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885620",
+          "name": "参股券商"
         }
       ]
     },
@@ -640,7 +336,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -652,52 +348,14 @@
       ]
     },
     {
-      "id": "ths_20250918_3_8085c9ea",
-      "platform": "tonghuashun",
-      "title": "美联储主席鲍威尔召开货币政策新闻发布会",
-      "event_date": "2025-09-18",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885530",
-          "name": "黄金概念"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250918_4_c949313b",
-      "platform": "tonghuashun",
-      "title": "美联储FOMC公布利率决议和经济预期摘要。",
-      "event_date": "2025-09-18",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885620",
-          "name": "参股券商"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250918_5_4180143c",
+      "id": "ths_20250918_3_4180143c",
       "platform": "tonghuashun",
       "title": "美联储FOMC公布利率决议和经济预期摘要",
       "event_date": "2025-09-18",
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -709,52 +367,14 @@
       ]
     },
     {
-      "id": "ths_20250918_6_2d9ae846",
-      "platform": "tonghuashun",
-      "title": "第四届智慧医疗与康复大会暨第七届脑机接口论坛将于9月18日至20日在上海召开",
-      "event_date": "2025-09-18",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "886047",
-          "name": "脑机接口"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250918_7_4180143c",
-      "platform": "tonghuashun",
-      "title": "美联储FOMC公布利率决议和经济预期摘要",
-      "event_date": "2025-09-18",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885756",
-          "name": "芯片概念"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250918_8_c560c36f",
+      "id": "ths_20250918_4_c560c36f",
       "platform": "tonghuashun",
       "title": "第十届华为全联接大会将于9月18日至20日在上海举办",
       "event_date": "2025-09-18",
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -766,14 +386,14 @@
       ]
     },
     {
-      "id": "ths_20250918_9_d19db959",
+      "id": "ths_20250918_5_d19db959",
       "platform": "tonghuashun",
       "title": "2025第十届中国国际氢能车船及加氢站设备展览会将于9月18日举办",
       "event_date": "2025-09-18",
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -785,52 +405,14 @@
       ]
     },
     {
-      "id": "ths_20250918_10_d19db959",
-      "platform": "tonghuashun",
-      "title": "2025第十届中国国际氢能车船及加氢站设备展览会将于9月18日举办",
-      "event_date": "2025-09-18",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885823",
-          "name": "氢能源"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250918_11_72ae71b9",
+      "id": "ths_20250918_6_72ae71b9",
       "platform": "tonghuashun",
       "title": "美联储主席鲍威尔召开货币政策新闻发布会。[同传]",
       "event_date": "2025-09-18",
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885840",
-          "name": "人民币贬值受益"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250918_12_72ae71b9",
-      "platform": "tonghuashun",
-      "title": "美联储主席鲍威尔召开货币政策新闻发布会。[同传]",
-      "event_date": "2025-09-18",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -838,25 +420,6 @@
         {
           "code": "885620",
           "name": "参股券商"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250918_13_c560c36f",
-      "platform": "tonghuashun",
-      "title": "第十届华为全联接大会将于9月18日至20日在上海举办",
-      "event_date": "2025-09-18",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885806",
-          "name": "华为概念"
         }
       ]
     },
@@ -868,26 +431,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885730",
-          "name": "量子科技"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250920_1_50daf778",
-      "platform": "tonghuashun",
-      "title": "2025浦江创新论坛（第十八届）年会将于年9月20日至22日在上海举办",
-      "event_date": "2025-09-20",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -906,7 +450,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -918,52 +462,14 @@
       ]
     },
     {
-      "id": "ths_20250923_1_4fa85c3e",
-      "platform": "tonghuashun",
-      "title": "全新问界M7将于9月23日在深圳正式发布，将首搭“舱内激光视觉”技术",
-      "event_date": "2025-09-23",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885431",
-          "name": "新能源汽车"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250923_2_4b455a40",
+      "id": "ths_20250923_1_4b455a40",
       "platform": "tonghuashun",
       "title": "2025中国电力企业数智化大会暨数智赋能电力行业高质量发展论坛将于9月23日至25日召开",
       "event_date": "2025-09-23",
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885311",
-          "name": "智能电网"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250923_3_4b455a40",
-      "platform": "tonghuashun",
-      "title": "2025中国电力企业数智化大会暨数智赋能电力行业高质量发展论坛将于9月23日至25日召开",
-      "event_date": "2025-09-23",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -982,26 +488,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885728",
-          "name": "人工智能"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250924_1_28527de1",
-      "platform": "tonghuashun",
-      "title": "2025云栖大会将于9月24日至26日举办",
-      "event_date": "2025-09-24",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -1020,26 +507,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885845",
-          "name": "生物疫苗"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250925_1_a6bdd65e",
-      "platform": "tonghuashun",
-      "title": "2025中国生物制造科技创新论坛将于9月25日至26日举行",
-      "event_date": "2025-09-25",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -1058,7 +526,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -1077,7 +545,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -1089,71 +557,14 @@
       ]
     },
     {
-      "id": "ths_20250927_2_30c8cfb1",
-      "platform": "tonghuashun",
-      "title": "2025网易未来大会将于9月27日在杭州举行",
-      "event_date": "2025-09-27",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885728",
-          "name": "人工智能"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250927_3_05fe0baa",
-      "platform": "tonghuashun",
-      "title": "第十七届央国企CIO及数科公司高管峰会将于9月27日在北京召开",
-      "event_date": "2025-09-27",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885728",
-          "name": "人工智能"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250929_0_1e54223b",
-      "platform": "tonghuashun",
-      "title": "辽宁省航空产业发展大会将于9月29日至10月1日在沈阳举办",
-      "event_date": "2025-09-29",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885566",
-          "name": "大飞机"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250929_1_d3400c1f",
+      "id": "ths_20250929_0_d3400c1f",
       "platform": "tonghuashun",
       "title": "韩国9月29日起对中国团队游客实行临时免签政策",
       "event_date": "2025-09-29",
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -1165,14 +576,14 @@
       ]
     },
     {
-      "id": "ths_20250929_2_6a9cb9d3",
+      "id": "ths_20250929_1_6a9cb9d3",
       "platform": "tonghuashun",
       "title": "第二届北京数字人才发展大会将于9月29日至30日举办",
       "event_date": "2025-09-29",
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -1184,52 +595,14 @@
       ]
     },
     {
-      "id": "ths_20250929_3_d3400c1f",
-      "platform": "tonghuashun",
-      "title": "韩国9月29日起对中国团队游客实行临时免签政策",
-      "event_date": "2025-09-29",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885497",
-          "name": "旅游概念"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250929_4_6a9cb9d3",
-      "platform": "tonghuashun",
-      "title": "第二届北京数字人才发展大会将于9月29日至30日举办",
-      "event_date": "2025-09-29",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885418",
-          "name": "文化传媒概念"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250929_5_1e54223b",
+      "id": "ths_20250929_2_1e54223b",
       "platform": "tonghuashun",
       "title": "辽宁省航空产业发展大会将于9月29日至10月1日在沈阳举办",
       "event_date": "2025-09-29",
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -1248,7 +621,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],

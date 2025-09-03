@@ -1,0 +1,127 @@
+{
+  "detection_time": "2025-09-03T02:52:35.450674",
+  "summary": {
+    "total_new": 50,
+    "total_updated": 28,
+    "total_cancelled": 3
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 6,
+      "updated_events": 0,
+      "cancelled_events": 1,
+      "sample_new_titles": [
+        "第十三届半导体设备与核心部件及材料展（CSEAC 2025）将于9月4日至6日在无锡举行",
+        "2025年中国钨钼产业发展论坛将于9月4日至5日在江苏举办",
+        "今日有4161亿元7天期逆回购到期"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 2,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "东芯股份核查工作已完成",
+        "镇洋发展筹划浙江沪杭甬换股吸收合并公司事项"
+      ]
+    },
+    "tonghuashun": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "investing": {
+      "new_events": 16,
+      "updated_events": 28,
+      "cancelled_events": 2,
+      "sample_new_titles": [
+        "美国总统特朗普(Donald Trump)讲话",
+        "韩国外汇储备(美元)  (八月)",
+        "美国国内市场车辆销量  (八月)"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 26,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "东珠生态停复牌",
+        "中国重工停复牌",
+        "晶升股份停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-09-04",
+      "title": "第十三届半导体设备与核心部件及材料展（CSEAC 2025）将于9月4日至6日在无锡举行",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-09-04",
+      "title": "2025年中国钨钼产业发展论坛将于9月4日至5日在江苏举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-09-05",
+      "title": "中国重工：公司A股股票将于9月5日终止上市",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-09-05",
+      "title": "2025全球工业互联网大会将于9月5日至8日在辽宁沈阳举行",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-15",
+      "title": "英国：Rightmove房价指数：同比(报告期:2025年09月)",
+      "importance": 4,
+      "country": "英国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-15",
+      "title": "英国：Rightmove房价指数：环比(报告期:2025年09月)",
+      "importance": 4,
+      "country": "英国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-16",
+      "title": "加拿大：新屋开工(报告期:2025年08月)",
+      "importance": 4,
+      "country": "加拿大"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-18",
+      "title": "俄罗斯：PPI：同比(报告期:2025年08月)",
+      "importance": 4,
+      "country": "俄罗斯"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-18",
+      "title": "瑞士：贸易帐(报告期:2025年08月)",
+      "importance": 4,
+      "country": "瑞士"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-19",
+      "title": "马来西亚：对外贸易：贸易差额(报告期:2025年08月)",
+      "importance": 4,
+      "country": "马来西亚"
+    }
+  ]
+}
