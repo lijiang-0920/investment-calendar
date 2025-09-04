@@ -1,0 +1,128 @@
+{
+  "detection_time": "2025-09-04T02:53:28.881161",
+  "summary": {
+    "total_new": 81,
+    "total_updated": 28,
+    "total_cancelled": 17
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 5,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "香港交易所：9月5日收市后人民币与港元及人民币与美元的兑换扣减率将维持2.6%",
+        "IFA柏林国际电子消费品展览会将于9月5日至9日在德国举办。",
+        "阿里云AI Agent开发者大会将于9月5日举办"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 1,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 4,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "2025年中国钨钼产业发展论坛将于9月4日至5日在江苏举办",
+        "第十三届半导体设备与核心部件及材料展（CSEAC 2025）将于9月4日至6日在无锡举行",
+        "中国重工：公司A股股票将于9月5日终止上市"
+      ]
+    },
+    "investing": {
+      "new_events": 37,
+      "updated_events": 28,
+      "cancelled_events": 4,
+      "sample_new_titles": [
+        "中国外汇储备(美元)  (八月)",
+        "西班牙7年期国债拍卖",
+        "美国国内市场车辆销量  (八月)"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 35,
+      "updated_events": 0,
+      "cancelled_events": 12,
+      "sample_new_titles": [
+        "晶升股份停复牌",
+        "旷达科技停复牌",
+        "中芯国际停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-09-05",
+      "title": "香港交易所：9月5日收市后人民币与港元及人民币与美元的兑换扣减率将维持2.6%",
+      "importance": 5,
+      "country": "中国香港"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-09-05",
+      "title": "IFA柏林国际电子消费品展览会将于9月5日至9日在德国举办。",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-09-05",
+      "title": "阿里云AI Agent开发者大会将于9月5日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-09-05",
+      "title": "2025世界智能产业博览会将于9月5日至8日在重庆举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-09-05",
+      "title": "阿里云AI Agent开发者大会将于9月5日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-04",
+      "title": "美国：货物进口金额：当月值(报告期:2025年07月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-04",
+      "title": "美国：对外贸易差额(报告期:2025年07月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-04",
+      "title": "美国：货物出口金额：当月值(报告期:2025年07月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-05",
+      "title": "中国澳门：M2(报告期:2025年07月)",
+      "importance": 4,
+      "country": "中国澳门"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-23",
+      "title": "美国：M2：季调(报告期:2025年08月)",
+      "importance": 4,
+      "country": "美国"
+    }
+  ]
+}

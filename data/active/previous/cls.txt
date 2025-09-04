@@ -1,164 +1,11 @@
 {
   "platform": "cls",
-  "total_events": 64,
+  "total_events": 66,
   "data_status": "ACTIVE",
   "date_type": "FUTURE",
-  "last_updated": "2025-09-03T02:51:59.268261",
+  "last_updated": "2025-09-04T02:52:52.599074",
   "immutable": false,
   "events": [
-    {
-      "platform": "cls",
-      "event_id": "cls_311068_20250903_2",
-      "original_id": "311068",
-      "event_date": "2025-09-03",
-      "event_time": "00:00:00",
-      "event_datetime": "2025-09-03 00:00:00",
-      "title": "9月3日，北京天安门广场将举行纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会，包括检阅部队",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
-      "raw_data": {
-        "id": 311068,
-        "calendar_time": "2025-09-03 00:00:00",
-        "data_id": 18791,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "9月3日，北京天安门广场将举行纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会，包括检阅部队",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "9月3日，北京天安门广场将举行纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会，包括检阅部队"
-      },
-      "created_at": "2025-09-02T03:03:11.899918"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_312395_20250903_2",
-      "original_id": "312395",
-      "event_date": "2025-09-03",
-      "event_time": "00:00:00",
-      "event_datetime": "2025-09-03 00:00:00",
-      "title": "第十届东方经济论坛将于9月3日至6日举行",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "俄罗斯",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
-      "raw_data": {
-        "id": 312395,
-        "calendar_time": "2025-09-03 00:00:00",
-        "data_id": 18868,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "第十届东方经济论坛将于9月3日至6日举行",
-          "country": "俄罗斯",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "第十届东方经济论坛将于9月3日至6日举行"
-      },
-      "created_at": "2025-09-02T03:03:11.899929"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_316364_20250903_2",
-      "original_id": "316364",
-      "event_date": "2025-09-03",
-      "event_time": "09:20:00",
-      "event_datetime": "2025-09-03 09:20:00",
-      "title": "今日有3799亿元7天期逆回购到期",
-      "content": null,
-      "category": "事件公告",
-      "importance": 2,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-02",
-      "raw_data": {
-        "id": 316364,
-        "calendar_time": "2025-09-03 09:20:00",
-        "data_id": 18658,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "今日有3799亿元7天期逆回购到期",
-          "country": "中国",
-          "country_icon": "",
-          "star": 2
-        },
-        "holiday": null,
-        "title": "今日有3799亿元7天期逆回购到期"
-      },
-      "created_at": "2025-09-02T03:03:11.899940"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_308876_20250903_1",
-      "original_id": "308876",
-      "event_date": "2025-09-03",
-      "event_time": "22:00:00",
-      "event_datetime": "2025-09-03 22:00:00",
-      "title": "美国7月JOLTs职位空缺(万人)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 3,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-02",
-      "raw_data": {
-        "id": 308876,
-        "calendar_time": "2025-09-03 22:00:00",
-        "data_id": 53317,
-        "type": 1,
-        "economic": {
-          "title": "美国7月JOLTs职位空缺(万人)",
-          "country": "美国",
-          "country_icon": "",
-          "star": 3,
-          "indicator_id": 202,
-          "front": "743.7",
-          "fix": "--",
-          "consensus": "--",
-          "actual": "--",
-          "unit": "万人",
-          "flag": "--",
-          "interpret": "",
-          "interpret_img": []
-        },
-        "event": null,
-        "holiday": null,
-        "title": "美国7月JOLTs职位空缺(万人)"
-      },
-      "created_at": "2025-09-02T03:03:11.899950"
-    },
     {
       "platform": "cls",
       "event_id": "cls_311724_20250904_2",
@@ -177,7 +24,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 311724,
         "calendar_time": "2025-09-04 00:00:00",
@@ -193,7 +40,7 @@
         "holiday": null,
         "title": "2025（第十五届）航空工业大会暨（第四届）航空产业质量基础设施建设大会将于9月4日至5日召开"
       },
-      "created_at": "2025-09-02T03:03:11.899961"
+      "created_at": "2025-09-03T02:52:01.041353"
     },
     {
       "platform": "cls",
@@ -213,7 +60,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 315442,
         "calendar_time": "2025-09-04 00:00:00",
@@ -229,7 +76,79 @@
         "holiday": null,
         "title": "华为官宣将于9月4日举办华为Mate XTs 非凡大师及全场景新品发布会，将发布新款华为三折叠屏手机"
       },
-      "created_at": "2025-09-02T03:03:11.899971"
+      "created_at": "2025-09-03T02:52:01.041364"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_318918_20250904_2",
+      "original_id": "318918",
+      "event_date": "2025-09-04",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-09-04 00:00:00",
+      "title": "第十三届半导体设备与核心部件及材料展（CSEAC 2025）将于9月4日至6日在无锡举行",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "id": 318918,
+        "calendar_time": "2025-09-04 00:00:00",
+        "data_id": 19047,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "第十三届半导体设备与核心部件及材料展（CSEAC 2025）将于9月4日至6日在无锡举行",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "第十三届半导体设备与核心部件及材料展（CSEAC 2025）将于9月4日至6日在无锡举行"
+      },
+      "created_at": "2025-09-03T02:52:01.041374"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_318919_20250904_2",
+      "original_id": "318919",
+      "event_date": "2025-09-04",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-09-04 00:00:00",
+      "title": "2025年中国钨钼产业发展论坛将于9月4日至5日在江苏举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "id": 318919,
+        "calendar_time": "2025-09-04 00:00:00",
+        "data_id": 19048,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "2025年中国钨钼产业发展论坛将于9月4日至5日在江苏举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "2025年中国钨钼产业发展论坛将于9月4日至5日在江苏举办"
+      },
+      "created_at": "2025-09-03T02:52:01.041385"
     },
     {
       "platform": "cls",
@@ -249,7 +168,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 309115,
         "calendar_time": "2025-09-04 02:00:00",
@@ -265,7 +184,43 @@
         "holiday": null,
         "title": "美联储公布经济状况褐皮书"
       },
-      "created_at": "2025-09-02T03:03:11.899982"
+      "created_at": "2025-09-03T02:52:01.041395"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_317297_20250904_2",
+      "original_id": "317297",
+      "event_date": "2025-09-04",
+      "event_time": "09:20:00",
+      "event_datetime": "2025-09-04 09:20:00",
+      "title": "今日有4161亿元7天期逆回购到期",
+      "content": null,
+      "category": "事件公告",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "id": 317297,
+        "calendar_time": "2025-09-04 09:20:00",
+        "data_id": 18988,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "今日有4161亿元7天期逆回购到期",
+          "country": "中国",
+          "country_icon": "",
+          "star": 2
+        },
+        "holiday": null,
+        "title": "今日有4161亿元7天期逆回购到期"
+      },
+      "created_at": "2025-09-03T02:52:01.041405"
     },
     {
       "platform": "cls",
@@ -285,7 +240,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 309108,
         "calendar_time": "2025-09-04 20:15:00",
@@ -310,7 +265,7 @@
         "holiday": null,
         "title": "美国8月ADP就业人数(万人)"
       },
-      "created_at": "2025-09-02T03:03:11.899991"
+      "created_at": "2025-09-03T02:52:01.041415"
     },
     {
       "platform": "cls",
@@ -330,7 +285,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 309095,
         "calendar_time": "2025-09-04 20:30:00",
@@ -355,7 +310,7 @@
         "holiday": null,
         "title": "美国至8月30日当周初请失业金人数(万人)"
       },
-      "created_at": "2025-09-02T03:03:11.900001"
+      "created_at": "2025-09-03T02:52:01.041425"
     },
     {
       "platform": "cls",
@@ -375,7 +330,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 309384,
         "calendar_time": "2025-09-05 00:00:00",
@@ -400,7 +355,7 @@
         "holiday": null,
         "title": "美国至8月29日当周EIA原油库存(万桶)"
       },
-      "created_at": "2025-09-02T03:03:11.900011"
+      "created_at": "2025-09-03T02:52:01.041436"
     },
     {
       "platform": "cls",
@@ -420,7 +375,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 311725,
         "calendar_time": "2025-09-05 00:00:00",
@@ -436,7 +391,115 @@
         "holiday": null,
         "title": "2025低空经济发展大会将于9月5日至7日在芜湖举办"
       },
-      "created_at": "2025-09-02T03:03:11.900021"
+      "created_at": "2025-09-03T02:52:01.041446"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_318920_20250905_2",
+      "original_id": "318920",
+      "event_date": "2025-09-05",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-09-05 00:00:00",
+      "title": "中国重工：公司A股股票将于9月5日终止上市",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "id": 318920,
+        "calendar_time": "2025-09-05 00:00:00",
+        "data_id": 19049,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "中国重工：公司A股股票将于9月5日终止上市",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "中国重工：公司A股股票将于9月5日终止上市"
+      },
+      "created_at": "2025-09-03T02:52:01.041456"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_318921_20250905_2",
+      "original_id": "318921",
+      "event_date": "2025-09-05",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-09-05 00:00:00",
+      "title": "2025全球工业互联网大会将于9月5日至8日在辽宁沈阳举行",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "id": 318921,
+        "calendar_time": "2025-09-05 00:00:00",
+        "data_id": 19050,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "2025全球工业互联网大会将于9月5日至8日在辽宁沈阳举行",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "2025全球工业互联网大会将于9月5日至8日在辽宁沈阳举行"
+      },
+      "created_at": "2025-09-03T02:52:01.041466"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_318184_20250905_2",
+      "original_id": "318184",
+      "event_date": "2025-09-05",
+      "event_time": "09:20:00",
+      "event_datetime": "2025-09-05 09:20:00",
+      "title": "今日有7829亿元7天期逆回购到期",
+      "content": null,
+      "category": "事件公告",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-03",
+      "raw_data": {
+        "id": 318184,
+        "calendar_time": "2025-09-05 09:20:00",
+        "data_id": 19013,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "今日有7829亿元7天期逆回购到期",
+          "country": "中国",
+          "country_icon": "",
+          "star": 2
+        },
+        "holiday": null,
+        "title": "今日有7829亿元7天期逆回购到期"
+      },
+      "created_at": "2025-09-03T02:52:01.041476"
     },
     {
       "platform": "cls",
@@ -456,7 +519,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 309367,
         "calendar_time": "2025-09-05 20:30:00",
@@ -481,7 +544,7 @@
         "holiday": null,
         "title": "美国8月失业率"
       },
-      "created_at": "2025-09-02T03:03:11.900031"
+      "created_at": "2025-09-03T02:52:01.041486"
     },
     {
       "platform": "cls",
@@ -501,7 +564,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 312396,
         "calendar_time": "2025-09-06 00:00:00",
@@ -517,7 +580,7 @@
         "holiday": null,
         "title": "2025世界肺癌大会将于9月6日至9日在西班牙举办"
       },
-      "created_at": "2025-09-02T03:03:11.900042"
+      "created_at": "2025-09-03T02:52:01.041497"
     },
     {
       "platform": "cls",
@@ -537,7 +600,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 312397,
         "calendar_time": "2025-09-08 00:00:00",
@@ -553,7 +616,7 @@
         "holiday": null,
         "title": "恒生港股通创新药精选指数的编算方法调整，成份股变动将于9月8日（星期一）实施"
       },
-      "created_at": "2025-09-02T03:03:11.900056"
+      "created_at": "2025-09-03T02:52:01.041507"
     },
     {
       "platform": "cls",
@@ -573,7 +636,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 312398,
         "calendar_time": "2025-09-08 00:00:00",
@@ -589,7 +652,7 @@
         "holiday": null,
         "title": "恒生指数有限公司宣布2025年第二季度之恒生指数系列检讨结果，成份股变动将于9月8日(星期 一)生效"
       },
-      "created_at": "2025-09-02T03:03:11.900066"
+      "created_at": "2025-09-03T02:52:01.041517"
     },
     {
       "platform": "cls",
@@ -609,7 +672,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 312399,
         "calendar_time": "2025-09-08 00:00:00",
@@ -625,7 +688,7 @@
         "holiday": null,
         "title": "第二十五届中国国际投资贸易洽谈会将于9月8日至11日举办"
       },
-      "created_at": "2025-09-02T03:03:11.900076"
+      "created_at": "2025-09-03T02:52:01.041527"
     },
     {
       "platform": "cls",
@@ -645,7 +708,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 310133,
         "calendar_time": "2025-09-08 07:50:00",
@@ -670,7 +733,7 @@
         "holiday": null,
         "title": "日本7月贸易帐(亿日元)"
       },
-      "created_at": "2025-09-02T03:03:11.900086"
+      "created_at": "2025-09-03T02:52:01.041537"
     },
     {
       "platform": "cls",
@@ -690,7 +753,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 310164,
         "calendar_time": "2025-09-09 18:00:00",
@@ -715,7 +778,7 @@
         "holiday": null,
         "title": "美国8月NFIB小型企业信心指数"
       },
-      "created_at": "2025-09-02T03:03:11.900096"
+      "created_at": "2025-09-03T02:52:01.041547"
     },
     {
       "platform": "cls",
@@ -735,7 +798,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 312394,
         "calendar_time": "2025-09-10 00:00:00",
@@ -751,7 +814,7 @@
         "holiday": null,
         "title": "上期所：胶版印刷纸期货自9月10日起上市交易"
       },
-      "created_at": "2025-09-02T03:03:11.900106"
+      "created_at": "2025-09-03T02:52:01.041557"
     },
     {
       "platform": "cls",
@@ -771,7 +834,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 313792,
         "calendar_time": "2025-09-10 00:00:00",
@@ -787,7 +850,7 @@
         "holiday": null,
         "title": "2025苹果秋季新品发布会将于9月10日举办"
       },
-      "created_at": "2025-09-02T03:03:11.900116"
+      "created_at": "2025-09-03T02:52:01.041568"
     },
     {
       "platform": "cls",
@@ -807,7 +870,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 313793,
         "calendar_time": "2025-09-10 00:00:00",
@@ -823,7 +886,7 @@
         "holiday": null,
         "title": "2025年服贸会将于9月10日至14日举办"
       },
-      "created_at": "2025-09-02T03:03:11.900126"
+      "created_at": "2025-09-03T02:52:01.041578"
     },
     {
       "platform": "cls",
@@ -843,7 +906,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 310257,
         "calendar_time": "2025-09-10 22:30:00",
@@ -868,7 +931,7 @@
         "holiday": null,
         "title": "美国至9月5日当周EIA原油库存(万桶)"
       },
-      "created_at": "2025-09-02T03:03:11.900137"
+      "created_at": "2025-09-03T02:52:01.041588"
     },
     {
       "platform": "cls",
@@ -888,7 +951,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 310544,
         "calendar_time": "2025-09-11 20:30:00",
@@ -913,7 +976,7 @@
         "holiday": null,
         "title": "美国至9月6日当周初请失业金人数(万人)"
       },
-      "created_at": "2025-09-02T03:03:11.900147"
+      "created_at": "2025-09-03T02:52:01.041598"
     },
     {
       "platform": "cls",
@@ -933,7 +996,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 310545,
         "calendar_time": "2025-09-11 20:30:00",
@@ -958,7 +1021,7 @@
         "holiday": null,
         "title": "美国8月季调后CPI月率"
       },
-      "created_at": "2025-09-02T03:03:11.900157"
+      "created_at": "2025-09-03T02:52:01.041608"
     },
     {
       "platform": "cls",
@@ -978,7 +1041,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 313794,
         "calendar_time": "2025-09-12 00:00:00",
@@ -994,7 +1057,7 @@
         "holiday": null,
         "title": "2025中国文化旅游产业博览会将于9月12日至14日举办"
       },
-      "created_at": "2025-09-02T03:03:11.900168"
+      "created_at": "2025-09-03T02:52:01.041619"
     },
     {
       "platform": "cls",
@@ -1014,7 +1077,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 310816,
         "calendar_time": "2025-09-12 14:00:00",
@@ -1039,7 +1102,7 @@
         "holiday": null,
         "title": "德国8月CPI月率终值"
       },
-      "created_at": "2025-09-02T03:03:11.900178"
+      "created_at": "2025-09-03T02:52:01.041628"
     },
     {
       "platform": "cls",
@@ -1059,7 +1122,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 311567,
         "calendar_time": "2025-09-15 17:00:00",
@@ -1084,7 +1147,7 @@
         "holiday": null,
         "title": "欧元区7月季调后贸易帐(亿欧元)"
       },
-      "created_at": "2025-09-02T03:03:11.900188"
+      "created_at": "2025-09-03T02:52:01.041638"
     },
     {
       "platform": "cls",
@@ -1104,7 +1167,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 311622,
         "calendar_time": "2025-09-16 00:00:00",
@@ -1120,7 +1183,7 @@
         "holiday": null,
         "title": "2025腾讯全球数字生态大会"
       },
-      "created_at": "2025-09-02T03:03:11.900199"
+      "created_at": "2025-09-03T02:52:01.041649"
     },
     {
       "platform": "cls",
@@ -1140,7 +1203,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 311726,
         "calendar_time": "2025-09-16 00:00:00",
@@ -1156,7 +1219,7 @@
         "holiday": null,
         "title": "2025世界储能大会将于9月16日至18日在福建省宁德市召开"
       },
-      "created_at": "2025-09-02T03:03:11.900209"
+      "created_at": "2025-09-03T02:52:01.041659"
     },
     {
       "platform": "cls",
@@ -1176,7 +1239,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 311609,
         "calendar_time": "2025-09-16 20:30:00",
@@ -1201,7 +1264,7 @@
         "holiday": null,
         "title": "美国8月零售销售月率"
       },
-      "created_at": "2025-09-02T03:03:11.900219"
+      "created_at": "2025-09-03T02:52:01.041669"
     },
     {
       "platform": "cls",
@@ -1221,7 +1284,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 313791,
         "calendar_time": "2025-09-17 00:00:00",
@@ -1237,7 +1300,7 @@
         "holiday": null,
         "title": "Meta Connect 2025将于9月17日至18日举办"
       },
-      "created_at": "2025-09-02T03:03:11.900229"
+      "created_at": "2025-09-03T02:52:01.041679"
     },
     {
       "platform": "cls",
@@ -1257,7 +1320,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 311692,
         "calendar_time": "2025-09-17 22:30:00",
@@ -1282,7 +1345,7 @@
         "holiday": null,
         "title": "美国至9月12日当周EIA原油库存(万桶)"
       },
-      "created_at": "2025-09-02T03:03:11.900239"
+      "created_at": "2025-09-03T02:52:01.041689"
     },
     {
       "platform": "cls",
@@ -1302,7 +1365,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 313795,
         "calendar_time": "2025-09-18 00:00:00",
@@ -1318,7 +1381,7 @@
         "holiday": null,
         "title": "第十届华为全联接大会将于9月18日至20日在上海举办"
       },
-      "created_at": "2025-09-02T03:03:11.900249"
+      "created_at": "2025-09-03T02:52:01.041700"
     },
     {
       "platform": "cls",
@@ -1338,7 +1401,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 313796,
         "calendar_time": "2025-09-18 00:00:00",
@@ -1354,7 +1417,7 @@
         "holiday": null,
         "title": "2025第十届中国国际氢能车船及加氢站设备展览会将于9月18日举办"
       },
-      "created_at": "2025-09-02T03:03:11.900259"
+      "created_at": "2025-09-03T02:52:01.041710"
     },
     {
       "platform": "cls",
@@ -1374,7 +1437,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 313797,
         "calendar_time": "2025-09-18 00:00:00",
@@ -1390,7 +1453,7 @@
         "holiday": null,
         "title": "第四届智慧医疗与康复大会暨第七届脑机接口论坛将于9月18日至20日在上海召开"
       },
-      "created_at": "2025-09-02T03:03:11.900269"
+      "created_at": "2025-09-03T02:52:01.041720"
     },
     {
       "platform": "cls",
@@ -1410,7 +1473,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 312038,
         "calendar_time": "2025-09-18 02:00:00",
@@ -1426,7 +1489,7 @@
         "holiday": null,
         "title": "美联储FOMC公布利率决议和经济预期摘要"
       },
-      "created_at": "2025-09-02T03:03:11.900279"
+      "created_at": "2025-09-03T02:52:01.041730"
     },
     {
       "platform": "cls",
@@ -1446,7 +1509,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 312034,
         "calendar_time": "2025-09-18 02:30:00",
@@ -1462,7 +1525,7 @@
         "holiday": null,
         "title": "美联储主席鲍威尔召开货币政策新闻发布会"
       },
-      "created_at": "2025-09-02T03:03:11.900289"
+      "created_at": "2025-09-03T02:52:01.041740"
     },
     {
       "platform": "cls",
@@ -1482,7 +1545,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 312003,
         "calendar_time": "2025-09-18 20:30:00",
@@ -1507,7 +1570,7 @@
         "holiday": null,
         "title": "美国至9月13日当周初请失业金人数(万人)"
       },
-      "created_at": "2025-09-02T03:03:11.900300"
+      "created_at": "2025-09-03T02:52:01.041750"
     },
     {
       "platform": "cls",
@@ -1527,7 +1590,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 315453,
         "calendar_time": "2025-09-19 00:00:00",
@@ -1543,7 +1606,7 @@
         "holiday": null,
         "title": "华为将于9月19日在法国巴黎举办主题为“Ride the Wind”创新产品发布会"
       },
-      "created_at": "2025-09-02T03:03:11.900311"
+      "created_at": "2025-09-03T02:52:01.041760"
     },
     {
       "platform": "cls",
@@ -1563,7 +1626,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 312386,
         "calendar_time": "2025-09-19 11:00:00",
@@ -1579,7 +1642,7 @@
         "holiday": null,
         "title": "日本央行公布利率决议"
       },
-      "created_at": "2025-09-02T03:03:11.900320"
+      "created_at": "2025-09-03T02:52:01.041770"
     },
     {
       "platform": "cls",
@@ -1599,7 +1662,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 312360,
         "calendar_time": "2025-09-19 14:00:00",
@@ -1624,7 +1687,7 @@
         "holiday": null,
         "title": "德国8月PPI月率"
       },
-      "created_at": "2025-09-02T03:03:11.900330"
+      "created_at": "2025-09-03T02:52:01.041780"
     },
     {
       "platform": "cls",
@@ -1644,7 +1707,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 312393,
         "calendar_time": "2025-09-20 00:00:00",
@@ -1660,7 +1723,7 @@
         "holiday": null,
         "title": "“川超”拟9月20日开赛"
       },
-      "created_at": "2025-09-02T03:03:11.900341"
+      "created_at": "2025-09-03T02:52:01.041791"
     },
     {
       "platform": "cls",
@@ -1680,7 +1743,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 313798,
         "calendar_time": "2025-09-20 00:00:00",
@@ -1696,7 +1759,7 @@
         "holiday": null,
         "title": "2025浦江创新论坛（第十八届）年会将于年9月20日至22日在上海举办"
       },
-      "created_at": "2025-09-02T03:03:11.900351"
+      "created_at": "2025-09-03T02:52:01.041801"
     },
     {
       "platform": "cls",
@@ -1716,7 +1779,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 313637,
         "calendar_time": "2025-09-22 09:00:00",
@@ -1741,7 +1804,7 @@
         "holiday": null,
         "title": "中国至9月22日五年期贷款市场报价利率"
       },
-      "created_at": "2025-09-02T03:03:11.900362"
+      "created_at": "2025-09-03T02:52:01.041811"
     },
     {
       "platform": "cls",
@@ -1761,7 +1824,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 313638,
         "calendar_time": "2025-09-22 09:00:00",
@@ -1786,7 +1849,7 @@
         "holiday": null,
         "title": "中国至9月22日一年期贷款市场报价利率"
       },
-      "created_at": "2025-09-02T03:03:11.900372"
+      "created_at": "2025-09-03T02:52:01.041822"
     },
     {
       "platform": "cls",
@@ -1806,7 +1869,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 313694,
         "calendar_time": "2025-09-23 00:00:00",
@@ -1822,7 +1885,7 @@
         "holiday": null,
         "title": "2025欧亚经济论坛在西安举办。"
       },
-      "created_at": "2025-09-02T03:03:11.900382"
+      "created_at": "2025-09-03T02:52:01.041832"
     },
     {
       "platform": "cls",
@@ -1842,7 +1905,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 313799,
         "calendar_time": "2025-09-23 00:00:00",
@@ -1858,7 +1921,7 @@
         "holiday": null,
         "title": "2025中国电力企业数智化大会暨数智赋能电力行业高质量发展论坛将于9月23日至25日召开"
       },
-      "created_at": "2025-09-02T03:03:11.900392"
+      "created_at": "2025-09-03T02:52:01.041842"
     },
     {
       "platform": "cls",
@@ -1878,7 +1941,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 315454,
         "calendar_time": "2025-09-23 00:00:00",
@@ -1894,7 +1957,7 @@
         "holiday": null,
         "title": "全新问界M7将于9月23日在深圳正式发布，将首搭“舱内激光视觉”技术"
       },
-      "created_at": "2025-09-02T03:03:11.900403"
+      "created_at": "2025-09-03T02:52:01.041853"
     },
     {
       "platform": "cls",
@@ -1914,7 +1977,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 313678,
         "calendar_time": "2025-09-23 22:00:00",
@@ -1939,7 +2002,7 @@
         "holiday": null,
         "title": "美国8月成屋销售总数年化(万户)"
       },
-      "created_at": "2025-09-02T03:03:11.900413"
+      "created_at": "2025-09-03T02:52:01.041863"
     },
     {
       "platform": "cls",
@@ -1959,7 +2022,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 313800,
         "calendar_time": "2025-09-24 00:00:00",
@@ -1975,7 +2038,7 @@
         "holiday": null,
         "title": "2025云栖大会将于9月24日至26日举办"
       },
-      "created_at": "2025-09-02T03:03:11.900423"
+      "created_at": "2025-09-03T02:52:01.041887"
     },
     {
       "platform": "cls",
@@ -1995,7 +2058,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 313787,
         "calendar_time": "2025-09-24 18:30:00",
@@ -2011,7 +2074,7 @@
         "holiday": null,
         "title": "俄罗斯央行公布货币政策会议纪要"
       },
-      "created_at": "2025-09-02T03:03:11.900433"
+      "created_at": "2025-09-03T02:52:01.041898"
     },
     {
       "platform": "cls",
@@ -2031,7 +2094,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 313758,
         "calendar_time": "2025-09-24 22:30:00",
@@ -2056,7 +2119,7 @@
         "holiday": null,
         "title": "美国至9月19日当周EIA原油库存(万桶)"
       },
-      "created_at": "2025-09-02T03:03:11.900442"
+      "created_at": "2025-09-03T02:52:01.041908"
     },
     {
       "platform": "cls",
@@ -2076,7 +2139,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 313802,
         "calendar_time": "2025-09-25 00:00:00",
@@ -2092,7 +2155,7 @@
         "holiday": null,
         "title": "2025中国生物制造科技创新论坛将于9月25日至26日举行"
       },
-      "created_at": "2025-09-02T03:03:11.900453"
+      "created_at": "2025-09-03T02:52:01.041918"
     },
     {
       "platform": "cls",
@@ -2112,7 +2175,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 314553,
         "calendar_time": "2025-09-25 07:50:00",
@@ -2128,7 +2191,7 @@
         "holiday": null,
         "title": "日本央行公布7月货币政策会议纪要"
       },
-      "created_at": "2025-09-02T03:03:11.900462"
+      "created_at": "2025-09-03T02:52:01.041929"
     },
     {
       "platform": "cls",
@@ -2148,7 +2211,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 314534,
         "calendar_time": "2025-09-25 20:30:00",
@@ -2173,7 +2236,7 @@
         "holiday": null,
         "title": "美国至9月20日当周初请失业金人数(万人)"
       },
-      "created_at": "2025-09-02T03:03:11.900473"
+      "created_at": "2025-09-03T02:52:01.041940"
     },
     {
       "platform": "cls",
@@ -2193,7 +2256,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 315382,
         "calendar_time": "2025-09-26 20:30:00",
@@ -2218,7 +2281,7 @@
         "holiday": null,
         "title": "美国8月核心PCE物价指数年率"
       },
-      "created_at": "2025-09-02T03:03:11.900483"
+      "created_at": "2025-09-03T02:52:01.041950"
     },
     {
       "platform": "cls",
@@ -2238,7 +2301,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 315365,
         "calendar_time": "2025-09-26 22:00:00",
@@ -2263,7 +2326,7 @@
         "holiday": null,
         "title": "美国9月密歇根大学消费者信心指数终值"
       },
-      "created_at": "2025-09-02T03:03:11.900492"
+      "created_at": "2025-09-03T02:52:01.041960"
     },
     {
       "platform": "cls",
@@ -2283,7 +2346,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 315446,
         "calendar_time": "2025-09-27 00:00:00",
@@ -2299,7 +2362,7 @@
         "holiday": null,
         "title": "2025网易未来大会将于9月27日在杭州举行"
       },
-      "created_at": "2025-09-02T03:03:11.900502"
+      "created_at": "2025-09-03T02:52:01.041970"
     },
     {
       "platform": "cls",
@@ -2319,7 +2382,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 315447,
         "calendar_time": "2025-09-27 00:00:00",
@@ -2335,7 +2398,7 @@
         "holiday": null,
         "title": "第十七届央国企CIO及数科公司高管峰会将于9月27日在北京召开"
       },
-      "created_at": "2025-09-02T03:03:11.900512"
+      "created_at": "2025-09-03T02:52:01.041980"
     },
     {
       "platform": "cls",
@@ -2355,7 +2418,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 315448,
         "calendar_time": "2025-09-29 00:00:00",
@@ -2371,7 +2434,7 @@
         "holiday": null,
         "title": "第二届北京数字人才发展大会将于9月29日至30日举办"
       },
-      "created_at": "2025-09-02T03:03:11.900523"
+      "created_at": "2025-09-03T02:52:01.041990"
     },
     {
       "platform": "cls",
@@ -2391,7 +2454,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 315449,
         "calendar_time": "2025-09-29 00:00:00",
@@ -2407,7 +2470,7 @@
         "holiday": null,
         "title": "韩国9月29日起对中国团队游客实行临时免签政策"
       },
-      "created_at": "2025-09-02T03:03:11.900533"
+      "created_at": "2025-09-03T02:52:01.042001"
     },
     {
       "platform": "cls",
@@ -2427,7 +2490,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 315450,
         "calendar_time": "2025-09-29 00:00:00",
@@ -2443,7 +2506,7 @@
         "holiday": null,
         "title": "辽宁省航空产业发展大会将于9月29日至10月1日在沈阳举办"
       },
-      "created_at": "2025-09-02T03:03:11.900543"
+      "created_at": "2025-09-03T02:52:01.042011"
     },
     {
       "platform": "cls",
@@ -2463,7 +2526,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 315451,
         "calendar_time": "2025-09-29 00:00:00",
@@ -2479,7 +2542,7 @@
         "holiday": null,
         "title": "全球智能汽车产业大会（GIV2024）将于9月29日在合肥召开"
       },
-      "created_at": "2025-09-02T03:03:11.900553"
+      "created_at": "2025-09-03T02:52:01.042021"
     },
     {
       "platform": "cls",
@@ -2499,7 +2562,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-02",
+      "discovery_date": "2025-09-03",
       "raw_data": {
         "id": 315452,
         "calendar_time": "2025-09-30 00:00:00",
@@ -2515,7 +2578,7 @@
         "holiday": null,
         "title": "第二届培育钻石研讨会将于9月30日在迪拜举行"
       },
-      "created_at": "2025-09-02T03:03:11.900577"
+      "created_at": "2025-09-03T02:52:01.042031"
     }
   ]
 }
