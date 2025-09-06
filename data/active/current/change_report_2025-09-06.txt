@@ -1,0 +1,123 @@
+{
+  "detection_time": "2025-09-06T02:51:36.709452",
+  "summary": {
+    "total_new": 66,
+    "total_updated": 24,
+    "total_cancelled": 6
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 2,
+      "sample_new_titles": []
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 2,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "国新办将于9月8日就中国东盟经贸合作情况暨第22届中国东盟博览会、中国东盟商务与投资峰会有关情况举行",
+        "中证指数将于9月11日正式发布中证A500相对成长指数等4条指数"
+      ]
+    },
+    "investing": {
+      "new_events": 17,
+      "updated_events": 24,
+      "cancelled_events": 4,
+      "sample_new_titles": [
+        "澳大利亚西太平洋/墨尔本消费者信心指数月率(%)",
+        "巴西汽车销售月率(%) (月度环比)  (八月)",
+        "美国EIA汽油库存变动(桶)"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 47,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "中芯国际停复牌",
+        "晶升股份停复牌",
+        "*ST天茂停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-10",
+      "title": "美国：EIA俄克拉荷马州库欣原油库存:当周值(报告期:2025年09月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-10",
+      "title": "美国：EIA原油库存:变动值(报告期:2025年09月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-10",
+      "title": "美国：DOE燃料乙醇总库存:当周值(报告期:2025年09月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-10",
+      "title": "美国：DOE汽油引申需求:当周值(报告期:2025年09月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-10",
+      "title": "美国：DOE原油引申需求:当周值(报告期:2025年09月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-10",
+      "title": "美国：DOE蒸馏油引申需求:当周值(报告期:2025年09月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-10",
+      "title": "美国：EIA汽油库存:变动值(报告期:2025年09月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-10",
+      "title": "美国：DOE燃料乙醇总产量:当周值(报告期:2025年09月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-10",
+      "title": "美国：EIA精炼油库存:变动值(报告期:2025年09月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-11",
+      "title": "美国:当周首次申请失业金人数:季调(报告期:2025年09月)",
+      "importance": 4,
+      "country": "美国"
+    }
+  ]
+}

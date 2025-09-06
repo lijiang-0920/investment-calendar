@@ -2,142 +2,9 @@
   "platform": "tonghuashun",
   "platform_name": "同花顺",
   "data_type": "ACTIVE",
-  "total_events": 34,
-  "last_updated": "2025-09-05T02:56:19.597212",
+  "total_events": 29,
+  "last_updated": "2025-09-06T02:51:36.721993",
   "events": [
-    {
-      "id": "ths_20250905_0_68583d69",
-      "platform": "tonghuashun",
-      "title": "中国重工：公司A股股票将于9月5日终止上市",
-      "event_date": "2025-09-05",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-05",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885700",
-          "name": "军工"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250905_1_a34bd593",
-      "platform": "tonghuashun",
-      "title": "2025年四川“三大球”城市联赛（足球项目）暨“巴蜀雄起杯”四川省业余足球联赛总决赛时间为9月5日至9月27日",
-      "event_date": "2025-09-05",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-05",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885580",
-          "name": "足球概念"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250905_2_5afb2b17",
-      "platform": "tonghuashun",
-      "title": "2025世界智能产业博览会将于9月5日至8日在重庆举办",
-      "event_date": "2025-09-05",
-      "importance": 3,
-      "country": "中国",
-      "is_new": true,
-      "discovery_date": "2025-09-05",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885517",
-          "name": "机器人概念"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250905_3_a85c4dcf",
-      "platform": "tonghuashun",
-      "title": "2025低空经济发展大会将于9月5日至7日在芜湖举办",
-      "event_date": "2025-09-05",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-05",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "886067",
-          "name": "低空经济"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250905_4_3cbe9936",
-      "platform": "tonghuashun",
-      "title": "2025全球工业互联网大会将于9月5日至8日在辽宁沈阳举行",
-      "event_date": "2025-09-05",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-05",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885783",
-          "name": "工业互联网"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250905_5_0acfa008",
-      "platform": "tonghuashun",
-      "title": "阿里云AI Agent开发者大会将于9月5日举办",
-      "event_date": "2025-09-05",
-      "importance": 3,
-      "country": "中国",
-      "is_new": true,
-      "discovery_date": "2025-09-05",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885728",
-          "name": "人工智能"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250905_6_0b40ef26",
-      "platform": "tonghuashun",
-      "title": "IFA柏林国际电子消费品展览会将于9月5日至9日在德国举办。",
-      "event_date": "2025-09-05",
-      "importance": 3,
-      "country": "中国",
-      "is_new": true,
-      "discovery_date": "2025-09-05",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885564",
-          "name": "无人机"
-        }
-      ]
-    },
     {
       "id": "ths_20250906_0_f2f1e573",
       "platform": "tonghuashun",
@@ -146,7 +13,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -165,7 +32,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -184,7 +51,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -203,7 +70,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -215,6 +82,25 @@
       ]
     },
     {
+      "id": "ths_20250908_3_6dd0ef5d",
+      "platform": "tonghuashun",
+      "title": "国新办将于9月8日就中国东盟经贸合作情况暨第22届中国东盟博览会、中国东盟商务与投资峰会有关情况举行新闻发布会",
+      "event_date": "2025-09-08",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-06",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885642",
+          "name": "跨境电商"
+        }
+      ]
+    },
+    {
       "id": "ths_20250910_0_baacce83",
       "platform": "tonghuashun",
       "title": "2025年服贸会将于9月10日至14日举办",
@@ -222,7 +108,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -241,7 +127,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -253,6 +139,25 @@
       ]
     },
     {
+      "id": "ths_20250911_0_6e4c9dd7",
+      "platform": "tonghuashun",
+      "title": "中证指数将于9月11日正式发布中证A500相对成长指数等4条指数",
+      "event_date": "2025-09-11",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-06",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885431",
+          "name": "新能源汽车"
+        }
+      ]
+    },
+    {
       "id": "ths_20250912_0_dafc90f8",
       "platform": "tonghuashun",
       "title": "2025中国文化旅游产业博览会将于9月12日至14日举办",
@@ -260,7 +165,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -279,7 +184,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -298,7 +203,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -317,7 +222,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -336,7 +241,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -355,7 +260,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -374,7 +279,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -393,7 +298,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -412,7 +317,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -431,7 +336,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -450,7 +355,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -469,7 +374,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -488,7 +393,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -507,7 +412,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -526,7 +431,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -545,7 +450,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -564,7 +469,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -583,7 +488,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -602,7 +507,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -621,7 +526,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -640,7 +545,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
