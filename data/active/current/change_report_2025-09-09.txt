@@ -1,0 +1,132 @@
+{
+  "detection_time": "2025-09-09T02:58:51.628149",
+  "summary": {
+    "total_new": 637,
+    "total_updated": 22,
+    "total_cancelled": 3
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 14,
+      "updated_events": 1,
+      "cancelled_events": 1,
+      "sample_new_titles": [
+        "今日有2291亿元7天期逆回购到期",
+        "中国8月PPI年率",
+        "中国8月CPI年率"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 14,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "中芯国际拟发行股份购买中芯北方49%股权",
+        "国新办将举行新闻发布会，介绍“十四五”时期大力推进新型工业化",
+        "2025开放数据中心大会"
+      ]
+    },
+    "tonghuashun": {
+      "new_events": 25,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "国务院新闻办公室将于9月9日下午3时举行国务院政策例行吹风会，介绍《关于释放体育消费潜力进一步推进体",
+        "中证指数：9月10日正式发布中证A500成长指数和中证A500价值指数",
+        "中国汽车工程学会将于9月10日至11日在北京召开《固态电池材料评测用模具电池装配方法》等10项固态电"
+      ]
+    },
+    "investing": {
+      "new_events": 23,
+      "updated_events": 21,
+      "cancelled_events": 2,
+      "sample_new_titles": [
+        "泰国外汇储备(美元)",
+        "英国央行FPC委员Sarah Breeden讲话",
+        "泰国消费者信心指数  (八月)"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 561,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "港股通(沪)、港股通(深) - 新年前夕半日市",
+        "港股 - 元旦前夕(13:00收市)",
+        "港股 - 圣诞节后第一个周日"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-09-10",
+      "title": "国务院新闻办公室定于9月10日举行新闻发布会，介绍“十四五”时期自然资源工作高质量发展成就",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-09-18",
+      "title": "第六届广州军民两用物资装备展览会将于9月18日至20日在广州广交会展馆举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-09-18",
+      "title": "第十届国际氢能与燃料电池设备技术展览会将于9月18日至20日在北京举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-09-18",
+      "title": "国际数字能源展将于9月18日至21日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-09-19",
+      "title": "富时罗素对富时中国50等指数的季度审核变更，将于9月19日收盘后生效",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-09-19",
+      "title": "2025全国低空经济产教融合发展大会（天津）将于9月19日至21日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-09-19",
+      "title": "2025虚拟电厂创新发展大会将于9月19日举行",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-09-19",
+      "title": "第三届西安国际养老产业博览会将于9月19日至21日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-09-20",
+      "title": "2025世界制造业大会将于将于9月20日至23日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-09-22",
+      "title": "2025年国际半导体高管峰会中国峰会（I.S.E.S. China）将于9月22日至23日在上海举办",
+      "importance": 5,
+      "country": "中国"
+    }
+  ]
+}
