@@ -1,0 +1,130 @@
+{
+  "detection_time": "2025-09-10T02:52:50.103294",
+  "summary": {
+    "total_new": 72,
+    "total_updated": 25,
+    "total_cancelled": 0
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 9,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "阿里巴巴将于9月10日在杭州西溪园区举行业务发布会",
+        "第十四届中国页岩油气发展大会将于9月11日至12日举办",
+        "今日有2126亿元7天期逆回购到期"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 1,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "东珠生态拟购买凯睿星通89.49%股份"
+      ]
+    },
+    "tonghuashun": {
+      "new_events": 3,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "阿里巴巴将于9月10日在杭州西溪园区举行业务发布会",
+        "国务院新闻办公室定于9月10日举行新闻发布会，介绍“十四五”时期自然资源工作高质量发展成就",
+        "第二届上海国际光影节将于9月19日至10月18日举办"
+      ]
+    },
+    "investing": {
+      "new_events": 22,
+      "updated_events": 25,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "泰国工业生产指数年率 (同比)  (八月)",
+        "澳洲联储利率决议  (九月)",
+        "日本新屋开工年率(%) (同比)  (八月)"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 37,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "*ST天茂停复牌",
+        "向日葵停复牌",
+        "澳洋健康停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-09-10",
+      "title": "阿里巴巴将于9月10日在杭州西溪园区举行业务发布会",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-09-11",
+      "title": "国新办将于9月11日举行新闻发布会，介绍第四届全球数字贸易博览会有关情况",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-09-11",
+      "title": "国新办将于9月11日举行国务院政策例行吹风会，介绍全国部分地区实施要素市场化配置综合改革试点有关情况。",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-09-19",
+      "title": "第二届上海国际光影节将于9月19日至10月18日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-09-26",
+      "title": "2025无人机创新应用大会将于9月26日至27日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-09-11",
+      "title": "第十四届中国页岩油气发展大会将于9月11日至12日举办",
+      "importance": 4,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-10-02",
+      "title": "瑞士：消费者物价指数月率(报告期:2025年09月)",
+      "importance": 4,
+      "country": "瑞士"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-26",
+      "title": "美国：个人总收入：季调(报告期:2025年10月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-26",
+      "title": "美国：核心PCE物价指数：当月同比(报告期:2025年10月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-09-29",
+      "title": "美国8月成屋签约销售指数月率",
+      "importance": 3,
+      "country": "美国"
+    }
+  ]
+}
