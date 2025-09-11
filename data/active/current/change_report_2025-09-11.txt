@@ -1,0 +1,128 @@
+{
+  "detection_time": "2025-09-11T02:58:05.836789",
+  "summary": {
+    "total_new": 83,
+    "total_updated": 28,
+    "total_cancelled": 2
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 6,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "第三届深圳国际智慧养老产业博览会将于9月12日至14日举行",
+        "2025广东国际旅游产业博览会将于9月12日至14日举行",
+        "国家统计局公布70个大中城市住宅销售价格月度报告"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 4,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "国新办将于9月11日举行国务院政策例行吹风会，介绍全国部分地区实施要素市场化配置综合改革试点有关情况",
+        "国新办将于9月11日举行新闻发布会，介绍第四届全球数字贸易博览会有关情况",
+        "农业农村部畜牧兽医局会同国家发展和改革委员会价格司拟于9月16日在北京召开生猪产能调控企业座谈会"
+      ]
+    },
+    "investing": {
+      "new_events": 37,
+      "updated_events": 28,
+      "cancelled_events": 2,
+      "sample_new_titles": [
+        "新加坡失业率(%)  (第二季度)",
+        "中国实际外商直接投资年率(%)  (八月)",
+        "德国12个月期Bubill国债拍卖"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 36,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "*ST天茂停复牌",
+        "抚顺特钢停复牌",
+        "澳洋健康停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-09-12",
+      "title": "第三届深圳国际智慧养老产业博览会将于9月12日至14日举行",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-09-12",
+      "title": "2025广东国际旅游产业博览会将于9月12日至14日举行",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-09-15",
+      "title": "国家统计局公布70个大中城市住宅销售价格月度报告",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-09-15",
+      "title": "国新办就国民经济运行情况举行新闻发布会",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-09-16",
+      "title": "农业农村部畜牧兽医局会同国家发展和改革委员会价格司拟于9月16日在北京召开生猪产能调控企业座谈会",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-10-07",
+      "title": "英国：Halifax：英国房价指数：季调：环比(报告期:2025年09月)",
+      "importance": 4,
+      "country": "英国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-10-07",
+      "title": "英国：Halifax：英国房价指数：季调：同比(报告期:2025年09月)",
+      "importance": 4,
+      "country": "英国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-10-08",
+      "title": "日本：经常项目差额(报告期:2025年08月)",
+      "importance": 4,
+      "country": "日本"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-07",
+      "title": "英国：Halifax：英国房价指数：季调：同比(报告期:2025年10月)",
+      "importance": 4,
+      "country": "英国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-07",
+      "title": "英国：Halifax：英国房价指数：季调：环比(报告期:2025年10月)",
+      "importance": 4,
+      "country": "英国"
+    }
+  ]
+}
