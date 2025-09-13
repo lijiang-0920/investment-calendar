@@ -1,0 +1,126 @@
+{
+  "detection_time": "2025-09-13T02:43:13.760671",
+  "summary": {
+    "total_new": 40,
+    "total_updated": 19,
+    "total_cancelled": 1
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 1,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "寒武纪：将于9月18日举行2025年半年度业绩说明会"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 3,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "巨星传奇和宇树科技共同打造的“巨星狗”将在9月13日上海旅游节开幕式花车巡游首次公开亮相",
+        "第三届粤港澳大湾区发展工商大会将于9月15日至16日在广州举办",
+        "国新办定于9月15日就2025年8月份国民经济运行情况举行新闻发布会"
+      ]
+    },
+    "investing": {
+      "new_events": 16,
+      "updated_events": 19,
+      "cancelled_events": 1,
+      "sample_new_titles": [
+        "英国DCLG房价指数年率 (同比)",
+        "服务业表现指数",
+        "德国央行执委Sabine Mauderer讲话"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 20,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "*ST天茂停复牌",
+        "澳洋健康停复牌",
+        "向日葵停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-09-18",
+      "title": "寒武纪：将于9月18日举行2025年半年度业绩说明会",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-10-09",
+      "title": "中国台湾：进口总额：同比：美元(报告期:2025年09月)",
+      "importance": 4,
+      "country": "中国台湾"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-27",
+      "title": "中国：工业企业:利润总额:累计同比(报告期:2025年10月)",
+      "importance": 4,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-27",
+      "title": "土耳其：出口金额(报告期:2025年10月)",
+      "importance": 4,
+      "country": "土耳其"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-28",
+      "title": "菲律宾：进口额：同比(报告期:2025年10月)",
+      "importance": 4,
+      "country": "菲律宾"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-28",
+      "title": "日本：失业率(报告期:2025年10月)",
+      "importance": 4,
+      "country": "日本"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-28",
+      "title": "日本：失业率：季调(报告期:2025年10月)",
+      "importance": 4,
+      "country": "日本"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-28",
+      "title": "中国：人民币汇率(报告期:2025年11月)",
+      "importance": 4,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-28",
+      "title": "加拿大：GDP：同比(报告期:2025年09月)",
+      "importance": 4,
+      "country": "加拿大"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-30",
+      "title": "中国：制造业PMI(报告期:2025年11月)",
+      "importance": 4,
+      "country": "中国"
+    }
+  ]
+}
