@@ -1,0 +1,125 @@
+{
+  "detection_time": "2025-09-15T03:04:53.763597",
+  "summary": {
+    "total_new": 517,
+    "total_updated": 6,
+    "total_cancelled": 1
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 4,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "美联储将于9月16日和17日召开货币政策会议",
+        "中国船舶：完成换股吸收合并中国重工，新增股份9月16日上市",
+        "今日有2470亿元7天期逆回购到期"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 1,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "美国降息"
+      ]
+    },
+    "tonghuashun": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "investing": {
+      "new_events": 2,
+      "updated_events": 6,
+      "cancelled_events": 1,
+      "sample_new_titles": [
+        "韩国贸易帐(韩元)  (八月)",
+        "新加坡失业率(%)  (第二季度)"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 510,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "*ST天茂停复牌",
+        "澳洋健康停复牌",
+        "向日葵停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-09-16",
+      "title": "美联储将于9月16日和17日召开货币政策会议",
+      "importance": 5,
+      "country": "美国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-09-16",
+      "title": "中国船舶：完成换股吸收合并中国重工，新增股份9月16日上市",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-09-16",
+      "title": "国新办将于9月16日就科技支撑生态文明建设及第五届世界生物圈保护区大会有关情况举行发布会",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-15",
+      "title": "英国：Rightmove房价指数：同比(报告期:2025年09月)",
+      "importance": 4,
+      "country": "英国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-15",
+      "title": "英国：Rightmove房价指数：环比(报告期:2025年09月)",
+      "importance": 4,
+      "country": "英国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-15",
+      "title": "中国：工业增加值:累计同比(报告期:2025年08月)",
+      "importance": 4,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-15",
+      "title": "中国：工业增加值:当月同比(报告期:2025年08月)",
+      "importance": 4,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-15",
+      "title": "中国：工业增加值:环比:季调(报告期:2025年08月)",
+      "importance": 4,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-15",
+      "title": "中国：产量:天然气:累计值(报告期:2025年08月)",
+      "importance": 4,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-15",
+      "title": "中国：产量:生铁:累计值(报告期:2025年08月)",
+      "importance": 4,
+      "country": "中国"
+    }
+  ]
+}
