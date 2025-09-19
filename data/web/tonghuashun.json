@@ -2,237 +2,9 @@
   "platform": "tonghuashun",
   "platform_name": "同花顺",
   "data_type": "ACTIVE",
-  "total_events": 35,
-  "last_updated": "2025-09-18T02:54:40.896630",
+  "total_events": 25,
+  "last_updated": "2025-09-19T02:58:10.608792",
   "events": [
-    {
-      "id": "ths_20250918_0_8085c9ea",
-      "platform": "tonghuashun",
-      "title": "美联储主席鲍威尔召开货币政策新闻发布会",
-      "event_date": "2025-09-18",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-18",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885530",
-          "name": "黄金概念"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250918_1_0e5e4906",
-      "platform": "tonghuashun",
-      "title": "第六届广州军民两用物资装备展览会将于9月18日至20日在广州广交会展馆举办",
-      "event_date": "2025-09-18",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-18",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885700",
-          "name": "军工"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250918_2_d5234e78",
-      "platform": "tonghuashun",
-      "title": "国际数字能源展将于9月18日至21日举办",
-      "event_date": "2025-09-18",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-18",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885311",
-          "name": "智能电网"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250918_3_c949313b",
-      "platform": "tonghuashun",
-      "title": "美联储FOMC公布利率决议和经济预期摘要。",
-      "event_date": "2025-09-18",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-18",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885620",
-          "name": "参股券商"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250918_4_2d9ae846",
-      "platform": "tonghuashun",
-      "title": "第四届智慧医疗与康复大会暨第七届脑机接口论坛将于9月18日至20日在上海召开",
-      "event_date": "2025-09-18",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-18",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "886047",
-          "name": "脑机接口"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250918_5_13cc8d56",
-      "platform": "tonghuashun",
-      "title": "《天津市基本医疗保险医用耗材目录（2025年）》将于9月18日正式执行",
-      "event_date": "2025-09-18",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-18",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885539",
-          "name": "医疗器械概念"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250918_6_4180143c",
-      "platform": "tonghuashun",
-      "title": "美联储FOMC公布利率决议和经济预期摘要",
-      "event_date": "2025-09-18",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-18",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885756",
-          "name": "芯片概念"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250918_7_c560c36f",
-      "platform": "tonghuashun",
-      "title": "第十届华为全联接大会将于9月18日至20日在上海举办",
-      "event_date": "2025-09-18",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-18",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885806",
-          "name": "华为概念"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250918_8_d19db959",
-      "platform": "tonghuashun",
-      "title": "2025第十届中国国际氢能车船及加氢站设备展览会将于9月18日举办",
-      "event_date": "2025-09-18",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-18",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885823",
-          "name": "氢能源"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250918_9_72ae71b9",
-      "platform": "tonghuashun",
-      "title": "美联储主席鲍威尔召开货币政策新闻发布会。[同传]",
-      "event_date": "2025-09-18",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-18",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885620",
-          "name": "参股券商"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250918_10_dace4320",
-      "platform": "tonghuashun",
-      "title": "第十届国际氢能与燃料电池设备技术展览会将于9月18日至20日在北京举办",
-      "event_date": "2025-09-18",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-18",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885775",
-          "name": "燃料电池"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250918_11_01a386f6",
-      "platform": "tonghuashun",
-      "title": "商务部定于9月18日举行新闻发布会，介绍近期商务领域重点工作有关情况",
-      "event_date": "2025-09-18",
-      "importance": 3,
-      "country": "中国",
-      "is_new": true,
-      "discovery_date": "2025-09-18",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885642",
-          "name": "跨境电商"
-        }
-      ]
-    },
     {
       "id": "ths_20250919_0_3ae9f94f",
       "platform": "tonghuashun",
@@ -241,7 +13,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -260,7 +32,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -279,7 +51,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -291,14 +63,33 @@
       ]
     },
     {
-      "id": "ths_20250919_3_5cd76914",
+      "id": "ths_20250919_3_407632da",
+      "platform": "tonghuashun",
+      "title": "第四届长春航空展将于9月19日至23日在长春举办",
+      "event_date": "2025-09-19",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-19",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885700",
+          "name": "军工"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250919_4_5cd76914",
       "platform": "tonghuashun",
       "title": "2025全国低空经济产教融合发展大会（天津）将于9月19日至21日举办",
       "event_date": "2025-09-19",
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -310,14 +101,14 @@
       ]
     },
     {
-      "id": "ths_20250919_4_5d6b56a9",
+      "id": "ths_20250919_5_5d6b56a9",
       "platform": "tonghuashun",
       "title": "富时罗素对富时中国50等指数的季度审核变更，将于9月19日收盘后生效",
       "event_date": "2025-09-19",
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -329,6 +120,25 @@
       ]
     },
     {
+      "id": "ths_20250919_6_f31400e9",
+      "platform": "tonghuashun",
+      "title": "华为将于9月19日在法国巴黎举办主题为“Ride the Wind”创新产品发布会",
+      "event_date": "2025-09-19",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-19",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885454",
+          "name": "智能穿戴"
+        }
+      ]
+    },
+    {
       "id": "ths_20250920_0_50daf778",
       "platform": "tonghuashun",
       "title": "2025浦江创新论坛（第十八届）年会将于年9月20日至22日在上海举办",
@@ -336,7 +146,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -355,7 +165,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -374,7 +184,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -393,7 +203,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -412,7 +222,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -431,7 +241,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -450,7 +260,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -469,7 +279,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -488,7 +298,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -507,7 +317,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -526,7 +336,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -545,7 +355,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -564,7 +374,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -583,7 +393,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -602,7 +412,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -621,7 +431,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -640,7 +450,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -659,7 +469,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-19",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
