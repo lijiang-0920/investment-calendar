@@ -1,0 +1,126 @@
+{
+  "detection_time": "2025-09-20T02:51:42.442131",
+  "summary": {
+    "total_new": 76,
+    "total_updated": 23,
+    "total_cancelled": 2
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 1,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "中国央行、金融监管总局、证监会、外汇局负责人将于9月22日召开新闻发布会，介绍“十四五”时期金融业发"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 4,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "第五届世界生物圈保护区大会将于9月22日至25日在杭州举办",
+        "中国央行、金融监管总局、证监会、外汇局负责人将于9月22日召开新闻发布会，介绍“十四五”时期金融业发",
+        "联发科：新一代天玑旗舰芯片天玑9500将于9月22日下午2点正式发布"
+      ]
+    },
+    "investing": {
+      "new_events": 40,
+      "updated_events": 23,
+      "cancelled_events": 2,
+      "sample_new_titles": [
+        "中国央行贷款市场报价利率(LPR)  (九月)",
+        "中国央行贷款市场报价利率(LPR)",
+        "德国央行执委Sabine Mauderer讲话"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 31,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "绝味食品停复牌",
+        "创意信息停复牌",
+        "银河磁体停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-09-22",
+      "title": "中国央行、金融监管总局、证监会、外汇局负责人将于9月22日召开新闻发布会，介绍“十四五”时期金融业发展成就",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-10",
+      "title": "巴西：CPI：同比(报告期:2025年11月)",
+      "importance": 4,
+      "country": "巴西"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-10",
+      "title": "美国：核心CPI：当月同比(报告期:2025年11月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-10",
+      "title": "美国：CPI：当月同比(报告期:2025年11月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-10",
+      "title": "美国：核心CPI：季调：当月同比(报告期:2025年11月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-10",
+      "title": "美国：核心CPI(报告期:2025年11月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-10",
+      "title": "美国：CPI：季调：环比(报告期:2025年11月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-10",
+      "title": "美国：核心CPI：季调：环比(报告期:2025年11月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-10",
+      "title": "加拿大：央行公布利率决议(报告期:2025年12月)",
+      "importance": 4,
+      "country": "加拿大"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-11",
+      "title": "美国:联邦基金利率目标:上限(报告期:2025年12月)",
+      "importance": 4,
+      "country": "美国"
+    }
+  ]
+}

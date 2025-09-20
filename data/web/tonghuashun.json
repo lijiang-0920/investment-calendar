@@ -2,142 +2,9 @@
   "platform": "tonghuashun",
   "platform_name": "同花顺",
   "data_type": "ACTIVE",
-  "total_events": 25,
-  "last_updated": "2025-09-19T02:58:10.608792",
+  "total_events": 22,
+  "last_updated": "2025-09-20T02:51:42.454377",
   "events": [
-    {
-      "id": "ths_20250919_0_3ae9f94f",
-      "platform": "tonghuashun",
-      "title": "第二届上海国际光影节将于9月19日至10月18日举办",
-      "event_date": "2025-09-19",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-19",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885418",
-          "name": "文化传媒概念"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250919_1_c83feddc",
-      "platform": "tonghuashun",
-      "title": "第三届西安国际养老产业博览会将于9月19日至21日举办",
-      "event_date": "2025-09-19",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-19",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885522",
-          "name": "养老概念"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250919_2_0686db39",
-      "platform": "tonghuashun",
-      "title": "2025虚拟电厂创新发展大会将于9月19日举行",
-      "event_date": "2025-09-19",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-19",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "886004",
-          "name": "虚拟电厂"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250919_3_407632da",
-      "platform": "tonghuashun",
-      "title": "第四届长春航空展将于9月19日至23日在长春举办",
-      "event_date": "2025-09-19",
-      "importance": 3,
-      "country": "中国",
-      "is_new": true,
-      "discovery_date": "2025-09-19",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885700",
-          "name": "军工"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250919_4_5cd76914",
-      "platform": "tonghuashun",
-      "title": "2025全国低空经济产教融合发展大会（天津）将于9月19日至21日举办",
-      "event_date": "2025-09-19",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-19",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "886067",
-          "name": "低空经济"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250919_5_5d6b56a9",
-      "platform": "tonghuashun",
-      "title": "富时罗素对富时中国50等指数的季度审核变更，将于9月19日收盘后生效",
-      "event_date": "2025-09-19",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-19",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885756",
-          "name": "芯片概念"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250919_6_f31400e9",
-      "platform": "tonghuashun",
-      "title": "华为将于9月19日在法国巴黎举办主题为“Ride the Wind”创新产品发布会",
-      "event_date": "2025-09-19",
-      "importance": 3,
-      "country": "中国",
-      "is_new": true,
-      "discovery_date": "2025-09-19",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885454",
-          "name": "智能穿戴"
-        }
-      ]
-    },
     {
       "id": "ths_20250920_0_50daf778",
       "platform": "tonghuashun",
@@ -146,7 +13,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-19",
+      "discovery_date": "2025-09-20",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -165,7 +32,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-19",
+      "discovery_date": "2025-09-20",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -177,14 +44,52 @@
       ]
     },
     {
-      "id": "ths_20250922_0_08a2987e",
+      "id": "ths_20250922_0_6f38eddb",
+      "platform": "tonghuashun",
+      "title": "第五届世界生物圈保护区大会将于9月22日至25日在杭州举办",
+      "event_date": "2025-09-22",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-20",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885901",
+          "name": "可降解塑料"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250922_1_11206594",
+      "platform": "tonghuashun",
+      "title": "中国央行、金融监管总局、证监会、外汇局负责人将于9月22日召开新闻发布会，介绍“十四五”时期金融业发展成就",
+      "event_date": "2025-09-22",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-20",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885620",
+          "name": "参股券商"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250922_2_08a2987e",
       "platform": "tonghuashun",
       "title": "2025年国际半导体高管峰会中国峰会（I.S.E.S. China）将于9月22日至23日在上海举办",
       "event_date": "2025-09-22",
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-19",
+      "discovery_date": "2025-09-20",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -196,6 +101,44 @@
       ]
     },
     {
+      "id": "ths_20250922_3_ef92f75c",
+      "platform": "tonghuashun",
+      "title": "联发科：新一代天玑旗舰芯片天玑9500将于9月22日下午2点正式发布",
+      "event_date": "2025-09-22",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-20",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885756",
+          "name": "芯片概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250922_4_2622a77b",
+      "platform": "tonghuashun",
+      "title": "中证指数有限公司决定调整CSI-SSE交易所大型发行人CDX组合与CSI-SSE交易所民企CDX组合，于9月22日生效",
+      "event_date": "2025-09-22",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-20",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885741",
+          "name": "中字头股票"
+        }
+      ]
+    },
+    {
       "id": "ths_20250923_0_4fa85c3e",
       "platform": "tonghuashun",
       "title": "全新问界M7将于9月23日在深圳正式发布，将首搭“舱内激光视觉”技术",
@@ -203,7 +146,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-19",
+      "discovery_date": "2025-09-20",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -222,7 +165,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-19",
+      "discovery_date": "2025-09-20",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -241,7 +184,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-19",
+      "discovery_date": "2025-09-20",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -260,7 +203,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-19",
+      "discovery_date": "2025-09-20",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -279,7 +222,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-19",
+      "discovery_date": "2025-09-20",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -298,7 +241,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-19",
+      "discovery_date": "2025-09-20",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -317,7 +260,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-19",
+      "discovery_date": "2025-09-20",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -336,7 +279,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-19",
+      "discovery_date": "2025-09-20",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -355,7 +298,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-19",
+      "discovery_date": "2025-09-20",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -374,7 +317,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-19",
+      "discovery_date": "2025-09-20",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -393,7 +336,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-19",
+      "discovery_date": "2025-09-20",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -412,7 +355,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-19",
+      "discovery_date": "2025-09-20",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -431,7 +374,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-19",
+      "discovery_date": "2025-09-20",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -450,7 +393,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-19",
+      "discovery_date": "2025-09-20",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -469,7 +412,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-19",
+      "discovery_date": "2025-09-20",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
