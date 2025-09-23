@@ -1,63 +1,11 @@
 {
   "platform": "jiuyangongshe",
-  "total_events": 38,
+  "total_events": 37,
   "data_status": "ACTIVE",
   "date_type": "FUTURE",
-  "last_updated": "2025-09-22T03:03:58.550335",
+  "last_updated": "2025-09-23T02:54:52.407073",
   "immutable": false,
   "events": [
-    {
-      "platform": "jiuyangongshe",
-      "event_id": "jygs_4e936f57d5804d74b1b8211beee11f20_bbc19f79795e46db9dfb84a8aa20a045_20250922",
-      "original_id": "4e936f57d5804d74b1b8211beee11f20",
-      "event_date": "2025-09-22",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "2025年国际半导体高管峰会中国峰会",
-      "content": "2025年国际半导体高管峰会中国峰会(1S.E.S.China)将于9月22日至23日在上海举办。",
-      "category": null,
-      "importance": 1,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [
-        "半导体"
-      ],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-21",
-      "raw_data": {
-        "article_id": "4e936f57d5804d74b1b8211beee11f20",
-        "user_id": "1",
-        "title": "2025年国际半导体高管峰会中国峰会",
-        "content": "2025年国际半导体高管峰会中国峰会(1S.E.S.China)将于9月22日至23日在上海举办。",
-        "like_count": 2,
-        "comment_count": 0,
-        "forward_count": 0,
-        "is_like": 0,
-        "is_step": 0,
-        "user": {
-          "user_id": "1",
-          "nickname": "韭菜团子"
-        },
-        "timeline": {
-          "article_id": "4e936f57d5804d74b1b8211beee11f20",
-          "timeline_id": "bbc19f79795e46db9dfb84a8aa20a045",
-          "date": "2025-09-22",
-          "grade": 6,
-          "source": "2",
-          "create_time": "2025-09-08 23:43:06",
-          "theme_list": [
-            {
-              "timeline_theme_id": "8a4e7ad3f35f431389e2d7dd4511bb98",
-              "name": "半导体"
-            }
-          ]
-        }
-      },
-      "created_at": "2025-09-21T03:04:24.660183"
-    },
     {
       "platform": "jiuyangongshe",
       "event_id": "jygs_55a1f9ce583b429d885675dd9541855e_d62f3bdbb6fc4f70989d72b3db8291e8_20250923",
@@ -76,7 +24,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "55a1f9ce583b429d885675dd9541855e",
         "user_id": "1",
@@ -101,7 +49,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-21T03:04:24.660204"
+      "created_at": "2025-09-22T03:04:02.087479"
     },
     {
       "platform": "jiuyangongshe",
@@ -121,7 +69,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "c2e14eedc17147f987cccdf52a3ad95a",
         "user_id": "1",
@@ -129,7 +77,7 @@
         "content": "2025中国电力企业数智化大会暨数智赋能电力行业高质量发展论坛将于9月23日至25日召开。",
         "like_count": 2,
         "comment_count": 0,
-        "forward_count": 0,
+        "forward_count": 1,
         "is_like": 0,
         "is_step": 0,
         "user": {
@@ -146,7 +94,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-21T03:04:24.660213"
+      "created_at": "2025-09-22T03:04:02.087491"
     },
     {
       "platform": "jiuyangongshe",
@@ -166,7 +114,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "d8d8016bbff9489a9b47426057423f23",
         "user_id": "1",
@@ -191,7 +139,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-21T03:04:24.660221"
+      "created_at": "2025-09-22T03:04:02.087501"
     },
     {
       "platform": "jiuyangongshe",
@@ -211,7 +159,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "810f70840aa942f5ac53e71581f8b81a",
         "user_id": "1",
@@ -236,7 +184,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-21T03:04:24.660228"
+      "created_at": "2025-09-22T03:04:02.087511"
     },
     {
       "platform": "jiuyangongshe",
@@ -258,13 +206,13 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "40ecd57aeaa945629e5bc692a3a5f151",
         "user_id": "1",
         "title": "2025势银固态电池产业大会",
         "content": "",
-        "like_count": 0,
+        "like_count": 1,
         "comment_count": 0,
         "forward_count": 0,
         "is_like": 0,
@@ -288,7 +236,7 @@
           ]
         }
       },
-      "created_at": "2025-09-21T03:04:24.660236"
+      "created_at": "2025-09-22T03:04:02.087521"
     },
     {
       "platform": "jiuyangongshe",
@@ -308,7 +256,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "jdfw1ayakg",
         "user_id": "35ebebdd181540c3b934bbad86a2bb88",
@@ -333,7 +281,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-21T03:04:24.660243"
+      "created_at": "2025-09-22T03:04:02.087531"
     },
     {
       "platform": "jiuyangongshe",
@@ -353,7 +301,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "10tpmr15cfm",
         "user_id": "00525773fe47467cac470afac1e73909",
@@ -378,7 +326,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-21T03:04:24.660261"
+      "created_at": "2025-09-22T03:04:02.087551"
     },
     {
       "platform": "jiuyangongshe",
@@ -398,7 +346,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "0ff0326c642b4fe89123513d11dd18a7",
         "user_id": "1",
@@ -423,7 +371,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-21T03:04:24.660269"
+      "created_at": "2025-09-22T03:04:02.087559"
     },
     {
       "platform": "jiuyangongshe",
@@ -443,7 +391,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "b4bfb4bf5f714dbbacb7611f4b42aa8b",
         "user_id": "1",
@@ -468,7 +416,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-21T03:04:24.660276"
+      "created_at": "2025-09-22T03:04:02.087567"
     },
     {
       "platform": "jiuyangongshe",
@@ -488,7 +436,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "a1d0fc26395445a5bdb2c78128faa603",
         "user_id": "1",
@@ -513,7 +461,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-21T03:04:24.660282"
+      "created_at": "2025-09-22T03:04:02.087574"
     },
     {
       "platform": "jiuyangongshe",
@@ -533,7 +481,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "6a58ab6cafca481ba735052108147659",
         "user_id": "1",
@@ -558,7 +506,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-21T03:04:24.660289"
+      "created_at": "2025-09-22T03:04:02.087582"
     },
     {
       "platform": "jiuyangongshe",
@@ -578,7 +526,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "5af5839806fa4ebe8e99024a62b884f1",
         "user_id": "1",
@@ -603,7 +551,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-21T03:04:24.660305"
+      "created_at": "2025-09-22T03:04:02.087599"
     },
     {
       "platform": "jiuyangongshe",
@@ -623,13 +571,13 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "25af646195e1460293c4baba17d7de8c",
         "user_id": "1",
         "title": "2025中国生物制造科技创新论坛",
         "content": "",
-        "like_count": 0,
+        "like_count": 1,
         "comment_count": 0,
         "forward_count": 0,
         "is_like": 0,
@@ -648,7 +596,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-21T03:04:24.660313"
+      "created_at": "2025-09-22T03:04:02.087607"
     },
     {
       "platform": "jiuyangongshe",
@@ -670,7 +618,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "4a1d967a8d92480995bfdae2705dff33",
         "user_id": "1",
@@ -700,7 +648,7 @@
           ]
         }
       },
-      "created_at": "2025-09-21T03:04:24.660328"
+      "created_at": "2025-09-22T03:04:02.087623"
     },
     {
       "platform": "jiuyangongshe",
@@ -722,7 +670,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "514c3db72f7f4cdf8e3fe792f31bca24",
         "user_id": "1",
@@ -752,7 +700,7 @@
           ]
         }
       },
-      "created_at": "2025-09-21T03:04:24.660335"
+      "created_at": "2025-09-22T03:04:02.087631"
     },
     {
       "platform": "jiuyangongshe",
@@ -774,7 +722,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "9f8e43e43f974bf3b4adb0a1bd94d646",
         "user_id": "1",
@@ -804,7 +752,7 @@
           ]
         }
       },
-      "created_at": "2025-09-21T03:04:24.660350"
+      "created_at": "2025-09-22T03:04:02.087647"
     },
     {
       "platform": "jiuyangongshe",
@@ -824,13 +772,13 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "653bfaa447e744ac82cc8b561ccc434b",
         "user_id": "1",
         "title": "2025网易未来大会",
         "content": "",
-        "like_count": 0,
+        "like_count": 1,
         "comment_count": 0,
         "forward_count": 0,
         "is_like": 0,
@@ -849,7 +797,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-21T03:04:24.660357"
+      "created_at": "2025-09-22T03:04:02.087654"
     },
     {
       "platform": "jiuyangongshe",
@@ -871,7 +819,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "eed29eab0c8148b79d488b0b7657269d",
         "user_id": "1",
@@ -901,7 +849,7 @@
           ]
         }
       },
-      "created_at": "2025-09-21T03:04:24.660364"
+      "created_at": "2025-09-22T03:04:02.087662"
     },
     {
       "platform": "jiuyangongshe",
@@ -921,7 +869,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "2afc3876789846e0a2ce8d96e2409c7f",
         "user_id": "1",
@@ -946,7 +894,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-21T03:04:24.660371"
+      "created_at": "2025-09-22T03:04:02.087669"
     },
     {
       "platform": "jiuyangongshe",
@@ -966,7 +914,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "c13078aca3ef4f0ebdb561b911cb2342",
         "user_id": "1",
@@ -991,7 +939,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-21T03:04:24.660386"
+      "created_at": "2025-09-22T03:04:02.087685"
     },
     {
       "platform": "jiuyangongshe",
@@ -1011,7 +959,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "a95d7d17f5c04101b22d05c9e1929497",
         "user_id": "1",
@@ -1036,7 +984,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-21T03:04:24.660393"
+      "created_at": "2025-09-22T03:04:02.087693"
     },
     {
       "platform": "jiuyangongshe",
@@ -1056,7 +1004,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "b89ab0ad20c94d2fa063f44ba16cb6e6",
         "user_id": "1",
@@ -1081,7 +1029,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-21T03:04:24.660400"
+      "created_at": "2025-09-22T03:04:02.087700"
     },
     {
       "platform": "jiuyangongshe",
@@ -1101,7 +1049,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "895c7d697cb34c30a0fc5b32a866d766",
         "user_id": "1",
@@ -1126,7 +1074,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-21T03:04:24.660406"
+      "created_at": "2025-09-22T03:04:02.087707"
     },
     {
       "platform": "jiuyangongshe",
@@ -1148,7 +1096,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "37966828b6fc4c53ab0bee8e0bda4532",
         "user_id": "1",
@@ -1178,7 +1126,7 @@
           ]
         }
       },
-      "created_at": "2025-09-21T03:04:24.660421"
+      "created_at": "2025-09-22T03:04:02.087722"
     },
     {
       "platform": "jiuyangongshe",
@@ -1198,7 +1146,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "f3f4626b8e044b8dbf838ceada5ab2e4",
         "user_id": "1",
@@ -1223,7 +1171,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-21T03:04:26.405426"
+      "created_at": "2025-09-22T03:04:03.954464"
     },
     {
       "platform": "jiuyangongshe",
@@ -1245,7 +1193,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "0f054980a968431c94d5686cd894b41c",
         "user_id": "1",
@@ -1275,7 +1223,7 @@
           ]
         }
       },
-      "created_at": "2025-09-21T03:04:26.405456"
+      "created_at": "2025-09-22T03:04:03.954489"
     },
     {
       "platform": "jiuyangongshe",
@@ -1297,7 +1245,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "1cb6a7c2231a436f80e220588d17150d",
         "user_id": "1",
@@ -1327,7 +1275,7 @@
           ]
         }
       },
-      "created_at": "2025-09-21T03:04:26.405486"
+      "created_at": "2025-09-22T03:04:03.954513"
     },
     {
       "platform": "jiuyangongshe",
@@ -1347,7 +1295,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "31d6b5d7d4844bf2a732a5edecb915a2",
         "user_id": "1",
@@ -1372,7 +1320,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-21T03:04:26.405510"
+      "created_at": "2025-09-22T03:04:03.954533"
     },
     {
       "platform": "jiuyangongshe",
@@ -1394,7 +1342,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "238968dbd8974b8e99dfdeefa37eebda",
         "user_id": "1",
@@ -1424,7 +1372,7 @@
           ]
         }
       },
-      "created_at": "2025-09-21T03:04:26.405531"
+      "created_at": "2025-09-22T03:04:03.954554"
     },
     {
       "platform": "jiuyangongshe",
@@ -1444,7 +1392,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "0a0f7f8278d14a1c8f257a4397a29c5e",
         "user_id": "1",
@@ -1469,7 +1417,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-21T03:04:26.405552"
+      "created_at": "2025-09-22T03:04:03.954570"
     },
     {
       "platform": "jiuyangongshe",
@@ -1489,7 +1437,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "5654e6925d9c4d5a8414155b17f2e349",
         "user_id": "1",
@@ -1514,7 +1462,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-21T03:04:26.405561"
+      "created_at": "2025-09-22T03:04:03.954578"
     },
     {
       "platform": "jiuyangongshe",
@@ -1534,7 +1482,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "4e2wfmzg1nt",
         "user_id": "c8cdb5523f5b48c6b1012644d365d7d5",
@@ -1559,7 +1507,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-21T03:04:26.405580"
+      "created_at": "2025-09-22T03:04:03.954594"
     },
     {
       "platform": "jiuyangongshe",
@@ -1581,7 +1529,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "213e834215414c4aa7bdbd705f26039e",
         "user_id": "1",
@@ -1611,7 +1559,7 @@
           ]
         }
       },
-      "created_at": "2025-09-21T03:04:26.405599"
+      "created_at": "2025-09-22T03:04:03.954609"
     },
     {
       "platform": "jiuyangongshe",
@@ -1631,7 +1579,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "536975e453c64654b4fb074667bcf70c",
         "user_id": "1",
@@ -1656,7 +1604,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-21T03:04:26.405608"
+      "created_at": "2025-09-22T03:04:03.954617"
     },
     {
       "platform": "jiuyangongshe",
@@ -1676,7 +1624,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "45ab46f4b1ba40d3bd9ee5b39296e234",
         "user_id": "1",
@@ -1701,7 +1649,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-21T03:04:26.405616"
+      "created_at": "2025-09-22T03:04:03.954624"
     },
     {
       "platform": "jiuyangongshe",
@@ -1721,7 +1669,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "1zqkku3eug3",
         "user_id": "6c42499113454e18854fe372c264fe61",
@@ -1746,7 +1694,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-21T03:04:28.130681"
+      "created_at": "2025-09-22T03:04:05.668719"
     },
     {
       "platform": "jiuyangongshe",
@@ -1768,7 +1716,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "47badf532b0340d697a22e11a8a090a4",
         "user_id": "1",
@@ -1798,7 +1746,7 @@
           ]
         }
       },
-      "created_at": "2025-09-21T03:04:29.815949"
+      "created_at": "2025-09-22T03:04:07.441156"
     }
   ]
 }

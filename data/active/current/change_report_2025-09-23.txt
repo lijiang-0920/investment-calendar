@@ -1,0 +1,132 @@
+{
+  "detection_time": "2025-09-23T02:55:26.912777",
+  "summary": {
+    "total_new": 95,
+    "total_updated": 15,
+    "total_cancelled": 20
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 5,
+      "updated_events": 0,
+      "cancelled_events": 2,
+      "sample_new_titles": [
+        "铁路国庆中秋假期运输自9月29日开始，至10月10日结束，为期12天",
+        "Meta：雷朋智能眼镜将于9月30日起开始发售",
+        "自10月1日起，民航境内航线旅客运输服务将统一使用电子行程单，不再提供纸质行程单"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 19,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "2025年和而泰第二届研发科技周",
+        "北京微电子国际研讨会暨IC WORLD大会",
+        "2025年(第二十三届)中国国际铜业论坛"
+      ]
+    },
+    "tonghuashun": {
+      "new_events": 24,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "华为与上汽合作的首款车型尚界H5将于9月23日正式发布",
+        "鸿蒙智行秋季新品发布会将于9月23日19:00举办，届时将发布问界及尚界新品",
+        "第七届高比能固态电池关键材料技术大会将于9月23日至24日在苏州举办"
+      ]
+    },
+    "investing": {
+      "new_events": 14,
+      "updated_events": 15,
+      "cancelled_events": 3,
+      "sample_new_titles": [
+        "泰国外汇储备(美元)",
+        "巴西央行焦点市场报告",
+        "印度外债(美元)  (第二季度)"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 33,
+      "updated_events": 0,
+      "cancelled_events": 15,
+      "sample_new_titles": [
+        "冠中生态停复牌",
+        "银河磁体停复牌",
+        "*ST天茂停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-09-29",
+      "title": "铁路国庆中秋假期运输自9月29日开始，至10月10日结束，为期12天",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-09-30",
+      "title": "Meta：雷朋智能眼镜将于9月30日起开始发售",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-01",
+      "title": "自10月1日起，民航境内航线旅客运输服务将统一使用电子行程单，不再提供纸质行程单",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-21",
+      "title": "三星计划在10月21日至22日在线上发布首款XR头显Project Moohan ，届时将公开其产品规格和功能",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-21",
+      "title": "Meta：运动AI智能眼镜Oakley Meta Vanguard将正式发售",
+      "importance": 5,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-24",
+      "title": "美国：M2：季调(报告期:2025年08月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-24",
+      "title": "美国：M1：季调(报告期:2025年08月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-25",
+      "title": "美国:四周移动平均首次申请失业金人数:季调(报告期:2025年09月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-25",
+      "title": "美国:当周首次申请失业金人数:季调(报告期:2025年09月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-26",
+      "title": "中国：库存:块矿:46港(报告期:2025年09月)",
+      "importance": 4,
+      "country": "中国"
+    }
+  ]
+}

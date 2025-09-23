@@ -2,104 +2,9 @@
   "platform": "tonghuashun",
   "platform_name": "同花顺",
   "data_type": "ACTIVE",
-  "total_events": 19,
-  "last_updated": "2025-09-22T03:04:29.883418",
+  "total_events": 38,
+  "last_updated": "2025-09-23T02:55:26.929295",
   "events": [
-    {
-      "id": "ths_20250922_0_6f38eddb",
-      "platform": "tonghuashun",
-      "title": "第五届世界生物圈保护区大会将于9月22日至25日在杭州举办",
-      "event_date": "2025-09-22",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-22",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885901",
-          "name": "可降解塑料"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250922_1_11206594",
-      "platform": "tonghuashun",
-      "title": "中国央行、金融监管总局、证监会、外汇局负责人将于9月22日召开新闻发布会，介绍“十四五”时期金融业发展成就",
-      "event_date": "2025-09-22",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-22",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885620",
-          "name": "参股券商"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250922_2_08a2987e",
-      "platform": "tonghuashun",
-      "title": "2025年国际半导体高管峰会中国峰会（I.S.E.S. China）将于9月22日至23日在上海举办",
-      "event_date": "2025-09-22",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-22",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885756",
-          "name": "芯片概念"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250922_3_ef92f75c",
-      "platform": "tonghuashun",
-      "title": "联发科：新一代天玑旗舰芯片天玑9500将于9月22日下午2点正式发布",
-      "event_date": "2025-09-22",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-22",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885756",
-          "name": "芯片概念"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250922_4_2622a77b",
-      "platform": "tonghuashun",
-      "title": "中证指数有限公司决定调整CSI-SSE交易所大型发行人CDX组合与CSI-SSE交易所民企CDX组合，于9月22日生效",
-      "event_date": "2025-09-22",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-22",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885741",
-          "name": "中字头股票"
-        }
-      ]
-    },
     {
       "id": "ths_20250923_0_4fa85c3e",
       "platform": "tonghuashun",
@@ -108,7 +13,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-22",
+      "discovery_date": "2025-09-23",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -120,14 +25,52 @@
       ]
     },
     {
-      "id": "ths_20250923_1_4b455a40",
+      "id": "ths_20250923_1_59d23aa2",
+      "platform": "tonghuashun",
+      "title": "华为与上汽合作的首款车型尚界H5将于9月23日正式发布",
+      "event_date": "2025-09-23",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-23",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885431",
+          "name": "新能源汽车"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250923_2_88cee9ca",
+      "platform": "tonghuashun",
+      "title": "鸿蒙智行秋季新品发布会将于9月23日19:00举办，届时将发布问界及尚界新品",
+      "event_date": "2025-09-23",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-23",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885431",
+          "name": "新能源汽车"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250923_3_4b455a40",
       "platform": "tonghuashun",
       "title": "2025中国电力企业数智化大会暨数智赋能电力行业高质量发展论坛将于9月23日至25日召开",
       "event_date": "2025-09-23",
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-22",
+      "discovery_date": "2025-09-23",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -139,6 +82,44 @@
       ]
     },
     {
+      "id": "ths_20250923_4_47ce2a1f",
+      "platform": "tonghuashun",
+      "title": "第七届高比能固态电池关键材料技术大会将于9月23日至24日在苏州举办",
+      "event_date": "2025-09-23",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-23",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885710",
+          "name": "锂电池概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250923_5_a29f4218",
+      "platform": "tonghuashun",
+      "title": "2025北京文化论坛将于9月23日至24日举办",
+      "event_date": "2025-09-23",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-23",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885418",
+          "name": "文化传媒概念"
+        }
+      ]
+    },
+    {
       "id": "ths_20250924_0_28527de1",
       "platform": "tonghuashun",
       "title": "2025云栖大会将于9月24日至26日举办",
@@ -146,7 +127,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-22",
+      "discovery_date": "2025-09-23",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -158,14 +139,128 @@
       ]
     },
     {
-      "id": "ths_20250925_0_a6bdd65e",
+      "id": "ths_20250924_1_d561a109",
+      "platform": "tonghuashun",
+      "title": "2025年高通骁龙峰会中国站将于9月24日至25日在北京举行",
+      "event_date": "2025-09-24",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-23",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885756",
+          "name": "芯片概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250924_2_4b6e2d50",
+      "platform": "tonghuashun",
+      "title": "2025年中国国际信息通信展将于9月24日至26在北京举办",
+      "event_date": "2025-09-24",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-23",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885757",
+          "name": "区块链"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250924_3_c75a9139",
+      "platform": "tonghuashun",
+      "title": "国家统计局将于9月24日公布9月中旬流通领域重要生产资料市场价格变动情况",
+      "event_date": "2025-09-24",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-23",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885398",
+          "name": "煤化工概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250924_4_95a5dda8",
+      "platform": "tonghuashun",
+      "title": "美光科技将于9月24日发布2025财年第四季度财报",
+      "event_date": "2025-09-24",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-23",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885756",
+          "name": "芯片概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250924_5_5c949414",
+      "platform": "tonghuashun",
+      "title": "2025上海海思创新大会将于9月24日至25日举办",
+      "event_date": "2025-09-24",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-23",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885806",
+          "name": "华为概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250925_0_7c30ad49",
+      "platform": "tonghuashun",
+      "title": "2025京东全球科技探索者大会将于9月25日举办",
+      "event_date": "2025-09-25",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-23",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885770",
+          "name": "智能物流"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250925_1_a6bdd65e",
       "platform": "tonghuashun",
       "title": "2025中国生物制造科技创新论坛将于9月25日至26日举行",
       "event_date": "2025-09-25",
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-22",
+      "discovery_date": "2025-09-23",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -177,14 +272,109 @@
       ]
     },
     {
-      "id": "ths_20250926_0_97a90afc",
+      "id": "ths_20250925_2_bba19e91",
       "platform": "tonghuashun",
-      "title": "2025无人机创新应用大会将于9月26日至27日举办",
+      "title": "小米董事长兼CEO雷军：9月25日晚7点将举办第6次年度演讲，聊聊小米玄戒芯片和小米汽车背后的故事",
+      "event_date": "2025-09-25",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-23",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885756",
+          "name": "芯片概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250925_3_b062f302",
+      "platform": "tonghuashun",
+      "title": "2025世界设计之都大会定于9月25日至9月28日在上海举办",
+      "event_date": "2025-09-25",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-23",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885431",
+          "name": "新能源汽车"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250925_4_4b2e9798",
+      "platform": "tonghuashun",
+      "title": "小米17系列将于9月25日晚7点正式发布，共推出三款机型：小米17、小米17 Pro、小米17 Pro Max",
+      "event_date": "2025-09-25",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-23",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885785",
+          "name": "小米概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250926_0_767ff06a",
+      "platform": "tonghuashun",
+      "title": "2025人工智能计算大会将于9月26日举办",
       "event_date": "2025-09-26",
       "importance": 3,
       "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-22",
+      "is_new": true,
+      "discovery_date": "2025-09-23",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885728",
+          "name": "人工智能"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250926_1_fac3eabb",
+      "platform": "tonghuashun",
+      "title": "第十七届中国国际种业博览会暨第二十二届全国种子信息交流与产品交易会将于9月26日至28日举办",
+      "event_date": "2025-09-26",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-23",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885877",
+          "name": "转基因"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250926_2_c16a6262",
+      "platform": "tonghuashun",
+      "title": "2025无人机创新应用大会将于9月26日至27日在湖南株洲举办",
+      "event_date": "2025-09-26",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-23",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -196,6 +386,63 @@
       ]
     },
     {
+      "id": "ths_20250926_3_97a90afc",
+      "platform": "tonghuashun",
+      "title": "2025无人机创新应用大会将于9月26日至27日举办",
+      "event_date": "2025-09-26",
+      "importance": 3,
+      "country": "中国",
+      "is_new": false,
+      "discovery_date": "2025-09-23",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885564",
+          "name": "无人机"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250926_4_5b4a0284",
+      "platform": "tonghuashun",
+      "title": "HarmonyOS Connect伙伴峰会暨鸿蒙智选2025年秋季新品发布会将于9月26日举办",
+      "event_date": "2025-09-26",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-23",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885923",
+          "name": "鸿蒙概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250926_5_987bc179",
+      "platform": "tonghuashun",
+      "title": "新形态五座SUV理想i6将于9月26日正式发布",
+      "event_date": "2025-09-26",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-23",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885431",
+          "name": "新能源汽车"
+        }
+      ]
+    },
+    {
       "id": "ths_20250927_0_30c8cfb1",
       "platform": "tonghuashun",
       "title": "2025网易未来大会将于9月27日在杭州举行",
@@ -203,7 +450,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-22",
+      "discovery_date": "2025-09-23",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -215,14 +462,33 @@
       ]
     },
     {
-      "id": "ths_20250927_1_05fe0baa",
+      "id": "ths_20250927_1_343bf0d8",
+      "platform": "tonghuashun",
+      "title": "国家统计局将于9月27日发布工业经济效益月度报告",
+      "event_date": "2025-09-27",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-23",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885930",
+          "name": "工业母机"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250927_2_05fe0baa",
       "platform": "tonghuashun",
       "title": "第十七届央国企CIO及数科公司高管峰会将于9月27日在北京召开",
       "event_date": "2025-09-27",
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-22",
+      "discovery_date": "2025-09-23",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -230,6 +496,25 @@
         {
           "code": "885728",
           "name": "人工智能"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250927_3_d05c5a44",
+      "platform": "tonghuashun",
+      "title": "开源鸿蒙开发者大会2025将于9月27日举办",
+      "event_date": "2025-09-27",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-23",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885923",
+          "name": "鸿蒙概念"
         }
       ]
     },
@@ -241,7 +526,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-22",
+      "discovery_date": "2025-09-23",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -260,7 +545,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-22",
+      "discovery_date": "2025-09-23",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -279,7 +564,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-22",
+      "discovery_date": "2025-09-23",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -291,6 +576,25 @@
       ]
     },
     {
+      "id": "ths_20250929_3_11fc22fb",
+      "platform": "tonghuashun",
+      "title": "铁路国庆中秋假期运输自9月29日开始，至10月10日结束，为期12天",
+      "event_date": "2025-09-29",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-23",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885562",
+          "name": "高铁"
+        }
+      ]
+    },
+    {
       "id": "ths_20250930_0_743a1dc3",
       "platform": "tonghuashun",
       "title": "第二届培育钻石研讨会将于9月30日在迪拜举行",
@@ -298,7 +602,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-22",
+      "discovery_date": "2025-09-23",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -310,6 +614,44 @@
       ]
     },
     {
+      "id": "ths_20250930_1_15f252e6",
+      "platform": "tonghuashun",
+      "title": "Meta：雷朋智能眼镜将于9月30日起开始发售",
+      "event_date": "2025-09-30",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-23",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885454",
+          "name": "智能穿戴"
+        }
+      ]
+    },
+    {
+      "id": "ths_20251001_0_d2b6772f",
+      "platform": "tonghuashun",
+      "title": "自10月1日起，民航境内航线旅客运输服务将统一使用电子行程单，不再提供纸质行程单",
+      "event_date": "2025-10-01",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-23",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885333",
+          "name": "移动支付"
+        }
+      ]
+    },
+    {
       "id": "ths_20251009_0_7421d7b8",
       "platform": "tonghuashun",
       "title": "北交所：10月9日起将为存量股票启用新证券代码",
@@ -317,7 +659,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-22",
+      "discovery_date": "2025-09-23",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -336,7 +678,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-22",
+      "discovery_date": "2025-09-23",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -348,14 +690,33 @@
       ]
     },
     {
-      "id": "ths_20251021_0_d9a8270b",
+      "id": "ths_20251021_0_d793b6c4",
+      "platform": "tonghuashun",
+      "title": "Meta：运动AI智能眼镜Oakley Meta Vanguard将正式发售",
+      "event_date": "2025-10-21",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-23",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885454",
+          "name": "智能穿戴"
+        }
+      ]
+    },
+    {
+      "id": "ths_20251021_1_d9a8270b",
       "platform": "tonghuashun",
       "title": "美联储将于10月21日举办“支付创新”会议，会议上将讨论稳定币、人工智能和代币化",
       "event_date": "2025-10-21",
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-22",
+      "discovery_date": "2025-09-23",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
