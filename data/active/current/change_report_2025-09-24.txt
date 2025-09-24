@@ -1,0 +1,122 @@
+{
+  "detection_time": "2025-09-24T02:56:55.215589",
+  "summary": {
+    "total_new": 62,
+    "total_updated": 29,
+    "total_cancelled": 1
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 1,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "商务部定于9月25日下午3时举行新闻发布会，介绍近期商务领域重点工作有关情况"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "investing": {
+      "new_events": 18,
+      "updated_events": 29,
+      "cancelled_events": 1,
+      "sample_new_titles": [
+        "Fed Goolsbee Speaks",
+        "美国总统特朗普(Donald Trump)讲话",
+        "美国初请失业金人数四周均值"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 43,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "银河磁体停复牌",
+        "冠中生态停复牌",
+        "*ST天茂停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-09-25",
+      "title": "商务部定于9月25日下午3时举行新闻发布会，介绍近期商务领域重点工作有关情况",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-25",
+      "title": "美国：成屋销售：环比折年率(报告期:2025年08月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-25",
+      "title": "美国：成屋销售折年数(报告期:2025年08月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-09-25",
+      "title": "美国：未决房屋销售月率(报告期:2025年08月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-10-10",
+      "title": "泰国：外汇储备(报告期:2025年09月)",
+      "importance": 4,
+      "country": "泰国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-10",
+      "title": "巴西：CPI：同比(报告期:2025年11月)",
+      "importance": 4,
+      "country": "巴西"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-10",
+      "title": "美国：核心CPI：当月同比(报告期:2025年11月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-10",
+      "title": "美国：CPI：当月同比(报告期:2025年11月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-10",
+      "title": "美国：核心CPI：季调：当月同比(报告期:2025年11月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-10",
+      "title": "美国：核心CPI(报告期:2025年11月)",
+      "importance": 4,
+      "country": "美国"
+    }
+  ]
+}
