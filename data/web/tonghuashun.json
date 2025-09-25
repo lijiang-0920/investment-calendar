@@ -2,123 +2,9 @@
   "platform": "tonghuashun",
   "platform_name": "同花顺",
   "data_type": "ACTIVE",
-  "total_events": 32,
-  "last_updated": "2025-09-24T02:56:55.229853",
+  "total_events": 28,
+  "last_updated": "2025-09-25T02:59:10.738126",
   "events": [
-    {
-      "id": "ths_20250924_0_28527de1",
-      "platform": "tonghuashun",
-      "title": "2025云栖大会将于9月24日至26日举办",
-      "event_date": "2025-09-24",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-24",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885728",
-          "name": "人工智能"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250924_1_d561a109",
-      "platform": "tonghuashun",
-      "title": "2025年高通骁龙峰会中国站将于9月24日至25日在北京举行",
-      "event_date": "2025-09-24",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-24",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885756",
-          "name": "芯片概念"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250924_2_4b6e2d50",
-      "platform": "tonghuashun",
-      "title": "2025年中国国际信息通信展将于9月24日至26在北京举办",
-      "event_date": "2025-09-24",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-24",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885757",
-          "name": "区块链"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250924_3_c75a9139",
-      "platform": "tonghuashun",
-      "title": "国家统计局将于9月24日公布9月中旬流通领域重要生产资料市场价格变动情况",
-      "event_date": "2025-09-24",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-24",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885398",
-          "name": "煤化工概念"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250924_4_95a5dda8",
-      "platform": "tonghuashun",
-      "title": "美光科技将于9月24日发布2025财年第四季度财报",
-      "event_date": "2025-09-24",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-24",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885756",
-          "name": "芯片概念"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250924_5_5c949414",
-      "platform": "tonghuashun",
-      "title": "2025上海海思创新大会将于9月24日至25日举办",
-      "event_date": "2025-09-24",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-24",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885806",
-          "name": "华为概念"
-        }
-      ]
-    },
     {
       "id": "ths_20250925_0_7c30ad49",
       "platform": "tonghuashun",
@@ -127,7 +13,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-24",
+      "discovery_date": "2025-09-25",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -146,7 +32,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-24",
+      "discovery_date": "2025-09-25",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -165,7 +51,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-24",
+      "discovery_date": "2025-09-25",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -184,7 +70,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-24",
+      "discovery_date": "2025-09-25",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -196,14 +82,33 @@
       ]
     },
     {
-      "id": "ths_20250925_4_4b2e9798",
+      "id": "ths_20250925_4_7e935d5a",
+      "platform": "tonghuashun",
+      "title": "商务部定于9月25日下午3时举行新闻发布会，介绍近期商务领域重点工作有关情况",
+      "event_date": "2025-09-25",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-25",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885642",
+          "name": "跨境电商"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250925_5_4b2e9798",
       "platform": "tonghuashun",
       "title": "小米17系列将于9月25日晚7点正式发布，共推出三款机型：小米17、小米17 Pro、小米17 Pro Max",
       "event_date": "2025-09-25",
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-24",
+      "discovery_date": "2025-09-25",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -222,7 +127,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-24",
+      "discovery_date": "2025-09-25",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -241,7 +146,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-24",
+      "discovery_date": "2025-09-25",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -260,7 +165,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-24",
+      "discovery_date": "2025-09-25",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -279,7 +184,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-24",
+      "discovery_date": "2025-09-25",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -298,7 +203,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-24",
+      "discovery_date": "2025-09-25",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -317,7 +222,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-24",
+      "discovery_date": "2025-09-25",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -336,7 +241,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-24",
+      "discovery_date": "2025-09-25",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -355,7 +260,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-24",
+      "discovery_date": "2025-09-25",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -374,7 +279,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-24",
+      "discovery_date": "2025-09-25",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -393,7 +298,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-24",
+      "discovery_date": "2025-09-25",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -412,7 +317,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-24",
+      "discovery_date": "2025-09-25",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -431,7 +336,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-24",
+      "discovery_date": "2025-09-25",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -450,7 +355,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-24",
+      "discovery_date": "2025-09-25",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -469,7 +374,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-24",
+      "discovery_date": "2025-09-25",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -488,7 +393,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-24",
+      "discovery_date": "2025-09-25",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -507,7 +412,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-24",
+      "discovery_date": "2025-09-25",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -526,7 +431,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-24",
+      "discovery_date": "2025-09-25",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -538,6 +443,25 @@
       ]
     },
     {
+      "id": "ths_20251006_0_7a5a193c",
+      "platform": "tonghuashun",
+      "title": "OpenAI：2025年开发者大会将在10月6日旧金山举办",
+      "event_date": "2025-10-06",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-25",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885756",
+          "name": "芯片概念"
+        }
+      ]
+    },
+    {
       "id": "ths_20251009_0_7421d7b8",
       "platform": "tonghuashun",
       "title": "北交所：10月9日起将为存量股票启用新证券代码",
@@ -545,7 +469,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-24",
+      "discovery_date": "2025-09-25",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -564,7 +488,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-24",
+      "discovery_date": "2025-09-25",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -583,7 +507,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-24",
+      "discovery_date": "2025-09-25",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -602,7 +526,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-24",
+      "discovery_date": "2025-09-25",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
