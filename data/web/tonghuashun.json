@@ -3,122 +3,8 @@
   "platform_name": "同花顺",
   "data_type": "ACTIVE",
   "total_events": 28,
-  "last_updated": "2025-09-25T02:59:10.738126",
+  "last_updated": "2025-09-26T02:57:22.418530",
   "events": [
-    {
-      "id": "ths_20250925_0_7c30ad49",
-      "platform": "tonghuashun",
-      "title": "2025京东全球科技探索者大会将于9月25日举办",
-      "event_date": "2025-09-25",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-25",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885770",
-          "name": "智能物流"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250925_1_a6bdd65e",
-      "platform": "tonghuashun",
-      "title": "2025中国生物制造科技创新论坛将于9月25日至26日举行",
-      "event_date": "2025-09-25",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-25",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885845",
-          "name": "生物疫苗"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250925_2_bba19e91",
-      "platform": "tonghuashun",
-      "title": "小米董事长兼CEO雷军：9月25日晚7点将举办第6次年度演讲，聊聊小米玄戒芯片和小米汽车背后的故事",
-      "event_date": "2025-09-25",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-25",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885756",
-          "name": "芯片概念"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250925_3_b062f302",
-      "platform": "tonghuashun",
-      "title": "2025世界设计之都大会定于9月25日至9月28日在上海举办",
-      "event_date": "2025-09-25",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-25",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885431",
-          "name": "新能源汽车"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250925_4_7e935d5a",
-      "platform": "tonghuashun",
-      "title": "商务部定于9月25日下午3时举行新闻发布会，介绍近期商务领域重点工作有关情况",
-      "event_date": "2025-09-25",
-      "importance": 3,
-      "country": "中国",
-      "is_new": true,
-      "discovery_date": "2025-09-25",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885642",
-          "name": "跨境电商"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250925_5_4b2e9798",
-      "platform": "tonghuashun",
-      "title": "小米17系列将于9月25日晚7点正式发布，共推出三款机型：小米17、小米17 Pro、小米17 Pro Max",
-      "event_date": "2025-09-25",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-25",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885785",
-          "name": "小米概念"
-        }
-      ]
-    },
     {
       "id": "ths_20250926_0_767ff06a",
       "platform": "tonghuashun",
@@ -127,7 +13,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -146,7 +32,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -165,7 +51,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -184,7 +70,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -196,14 +82,33 @@
       ]
     },
     {
-      "id": "ths_20250926_4_5b4a0284",
+      "id": "ths_20250926_4_ee1ea7f5",
+      "platform": "tonghuashun",
+      "title": "摩尔线程科创板IPO将于9月26日上会",
+      "event_date": "2025-09-26",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-26",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885756",
+          "name": "芯片概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20250926_5_5b4a0284",
       "platform": "tonghuashun",
       "title": "HarmonyOS Connect伙伴峰会暨鸿蒙智选2025年秋季新品发布会将于9月26日举办",
       "event_date": "2025-09-26",
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -215,14 +120,14 @@
       ]
     },
     {
-      "id": "ths_20250926_5_987bc179",
+      "id": "ths_20250926_6_987bc179",
       "platform": "tonghuashun",
       "title": "新形态五座SUV理想i6将于9月26日正式发布",
       "event_date": "2025-09-26",
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -241,7 +146,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -260,7 +165,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -279,7 +184,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -298,7 +203,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -317,7 +222,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -336,7 +241,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -355,7 +260,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -374,7 +279,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -393,7 +298,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -412,7 +317,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -431,7 +336,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -449,8 +354,8 @@
       "event_date": "2025-10-06",
       "importance": 3,
       "country": "中国",
-      "is_new": true,
-      "discovery_date": "2025-09-25",
+      "is_new": false,
+      "discovery_date": "2025-09-26",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -469,7 +374,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -481,6 +386,44 @@
       ]
     },
     {
+      "id": "ths_20251013_0_a6a01cd6",
+      "platform": "tonghuashun",
+      "title": "第30次原子能机构聚变能会议将于10月13日至18日举办",
+      "event_date": "2025-10-13",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-26",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "886065",
+          "name": "可控核聚变"
+        }
+      ]
+    },
+    {
+      "id": "ths_20251016_0_87c4a97f",
+      "platform": "tonghuashun",
+      "title": "2025世界智能网联汽车大会将于10月16日至18日在京举办",
+      "event_date": "2025-10-16",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-26",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885662",
+          "name": "车联网(车路协同)"
+        }
+      ]
+    },
+    {
       "id": "ths_20251017_0_7bd40fd2",
       "platform": "tonghuashun",
       "title": "2025年GT世界挑战赛亚洲杯年度收官战将于10月17日至19日在北京开赛",
@@ -488,7 +431,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -507,7 +450,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -526,7 +469,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -534,6 +477,63 @@
         {
           "code": "885757",
           "name": "区块链"
+        }
+      ]
+    },
+    {
+      "id": "ths_20251022_0_0d8ea37a",
+      "platform": "tonghuashun",
+      "title": "2025年（第七届）中国固态电池技术创新与产业化研讨会将于10月22日至24日举办",
+      "event_date": "2025-10-22",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-26",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "886032",
+          "name": "固态电池"
+        }
+      ]
+    },
+    {
+      "id": "ths_20251023_0_7dd4f436",
+      "platform": "tonghuashun",
+      "title": "2025上海国际消费电子展将于10月23日举办",
+      "event_date": "2025-10-23",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-26",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885800",
+          "name": "消费电子概念"
+        }
+      ]
+    },
+    {
+      "id": "ths_20251023_1_4f9f85ed",
+      "platform": "tonghuashun",
+      "title": "2025第五届航空航天增材制造大会将于10月23日至24日在上海举办",
+      "event_date": "2025-10-23",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-26",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885566",
+          "name": "大飞机"
         }
       ]
     }
