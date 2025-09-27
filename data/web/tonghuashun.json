@@ -2,142 +2,9 @@
   "platform": "tonghuashun",
   "platform_name": "同花顺",
   "data_type": "ACTIVE",
-  "total_events": 28,
-  "last_updated": "2025-09-26T02:57:22.418530",
+  "total_events": 23,
+  "last_updated": "2025-09-27T02:51:35.429112",
   "events": [
-    {
-      "id": "ths_20250926_0_767ff06a",
-      "platform": "tonghuashun",
-      "title": "2025人工智能计算大会将于9月26日举办",
-      "event_date": "2025-09-26",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-26",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885728",
-          "name": "人工智能"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250926_1_fac3eabb",
-      "platform": "tonghuashun",
-      "title": "第十七届中国国际种业博览会暨第二十二届全国种子信息交流与产品交易会将于9月26日至28日举办",
-      "event_date": "2025-09-26",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-26",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885877",
-          "name": "转基因"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250926_2_c16a6262",
-      "platform": "tonghuashun",
-      "title": "2025无人机创新应用大会将于9月26日至27日在湖南株洲举办",
-      "event_date": "2025-09-26",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-26",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885564",
-          "name": "无人机"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250926_3_97a90afc",
-      "platform": "tonghuashun",
-      "title": "2025无人机创新应用大会将于9月26日至27日举办",
-      "event_date": "2025-09-26",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-26",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885564",
-          "name": "无人机"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250926_4_ee1ea7f5",
-      "platform": "tonghuashun",
-      "title": "摩尔线程科创板IPO将于9月26日上会",
-      "event_date": "2025-09-26",
-      "importance": 3,
-      "country": "中国",
-      "is_new": true,
-      "discovery_date": "2025-09-26",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885756",
-          "name": "芯片概念"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250926_5_5b4a0284",
-      "platform": "tonghuashun",
-      "title": "HarmonyOS Connect伙伴峰会暨鸿蒙智选2025年秋季新品发布会将于9月26日举办",
-      "event_date": "2025-09-26",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-26",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885923",
-          "name": "鸿蒙概念"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250926_6_987bc179",
-      "platform": "tonghuashun",
-      "title": "新形态五座SUV理想i6将于9月26日正式发布",
-      "event_date": "2025-09-26",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-26",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885431",
-          "name": "新能源汽车"
-        }
-      ]
-    },
     {
       "id": "ths_20250927_0_30c8cfb1",
       "platform": "tonghuashun",
@@ -146,7 +13,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-26",
+      "discovery_date": "2025-09-27",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -165,7 +32,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-26",
+      "discovery_date": "2025-09-27",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -184,7 +51,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-26",
+      "discovery_date": "2025-09-27",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -203,7 +70,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-26",
+      "discovery_date": "2025-09-27",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -222,7 +89,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-26",
+      "discovery_date": "2025-09-27",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -241,7 +108,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-26",
+      "discovery_date": "2025-09-27",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -260,7 +127,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-26",
+      "discovery_date": "2025-09-27",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -279,7 +146,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-26",
+      "discovery_date": "2025-09-27",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -298,7 +165,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-26",
+      "discovery_date": "2025-09-27",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -317,7 +184,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-26",
+      "discovery_date": "2025-09-27",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -336,7 +203,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-26",
+      "discovery_date": "2025-09-27",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -355,7 +222,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-26",
+      "discovery_date": "2025-09-27",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -374,7 +241,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-26",
+      "discovery_date": "2025-09-27",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -392,8 +259,8 @@
       "event_date": "2025-10-13",
       "importance": 3,
       "country": "中国",
-      "is_new": true,
-      "discovery_date": "2025-09-26",
+      "is_new": false,
+      "discovery_date": "2025-09-27",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -411,8 +278,8 @@
       "event_date": "2025-10-16",
       "importance": 3,
       "country": "中国",
-      "is_new": true,
-      "discovery_date": "2025-09-26",
+      "is_new": false,
+      "discovery_date": "2025-09-27",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -431,7 +298,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-26",
+      "discovery_date": "2025-09-27",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -443,6 +310,25 @@
       ]
     },
     {
+      "id": "ths_20251019_0_2b572371",
+      "platform": "tonghuashun",
+      "title": "2025世界VR产业大会将于10月19日至20日在南昌举办",
+      "event_date": "2025-10-19",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-27",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885709",
+          "name": "虚拟现实"
+        }
+      ]
+    },
+    {
       "id": "ths_20251021_0_d793b6c4",
       "platform": "tonghuashun",
       "title": "Meta：运动AI智能眼镜Oakley Meta Vanguard将正式发售",
@@ -450,7 +336,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-26",
+      "discovery_date": "2025-09-27",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -469,7 +355,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-26",
+      "discovery_date": "2025-09-27",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -487,8 +373,8 @@
       "event_date": "2025-10-22",
       "importance": 3,
       "country": "中国",
-      "is_new": true,
-      "discovery_date": "2025-09-26",
+      "is_new": false,
+      "discovery_date": "2025-09-27",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -506,8 +392,8 @@
       "event_date": "2025-10-23",
       "importance": 3,
       "country": "中国",
-      "is_new": true,
-      "discovery_date": "2025-09-26",
+      "is_new": false,
+      "discovery_date": "2025-09-27",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -525,8 +411,8 @@
       "event_date": "2025-10-23",
       "importance": 3,
       "country": "中国",
-      "is_new": true,
-      "discovery_date": "2025-09-26",
+      "is_new": false,
+      "discovery_date": "2025-09-27",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -534,6 +420,25 @@
         {
           "code": "885566",
           "name": "大飞机"
+        }
+      ]
+    },
+    {
+      "id": "ths_20251023_2_ff7665bd",
+      "platform": "tonghuashun",
+      "title": "2025（第二十七届）中国国际矿业大会将于10月23日至25日在天津举办",
+      "event_date": "2025-10-23",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-27",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": [
+        {
+          "code": "885972",
+          "name": "金属回收"
         }
       ]
     }
