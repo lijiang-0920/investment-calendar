@@ -1,0 +1,130 @@
+{
+  "detection_time": "2025-09-30T02:55:49.814205",
+  "summary": {
+    "total_new": 55,
+    "total_updated": 17,
+    "total_cancelled": 2
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 5,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "电影《志愿军：浴血和平》官宣9月30日全国上映",
+        "【中国】香港交易所，正常开市，南、北向交易关闭",
+        "【中国】沪深及北交所、国内期货交易所，休市，10月9日（星期四）起照常开市"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 1,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "恒为科技：拟购买AI应用公司数珩科技75%股份"
+      ]
+    },
+    "tonghuashun": {
+      "new_events": 6,
+      "updated_events": 0,
+      "cancelled_events": 2,
+      "sample_new_titles": [
+        "2025年版《中华人民共和国药典》自10月1日起施行",
+        "《永久基本农田保护红线管理办法》10月1日起施行",
+        "10月1日起铁路客运将全面使用电子发票"
+      ]
+    },
+    "investing": {
+      "new_events": 16,
+      "updated_events": 17,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "泰国外汇储备(美元)",
+        "美国总统特朗普(Donald Trump)讲话",
+        "Fed Goolsbee Speaks"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 27,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "亚太药业停复牌",
+        "上纬新材停复牌",
+        "帝奥微停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-09-30",
+      "title": "电影《志愿军：浴血和平》官宣9月30日全国上映",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-20",
+      "title": "中国共产党第二十届中央委员会第四次全体会议于10月20日至23日在北京召开",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-07",
+      "title": "美国：货物出口金额：当月值(报告期:2025年10月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-07",
+      "title": "美国：对外贸易差额(报告期:2025年10月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-08",
+      "title": "中国：进口金额(报告期:2025年11月)",
+      "importance": 4,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-08",
+      "title": "中国：出口金额(报告期:2025年11月)",
+      "importance": 4,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-08",
+      "title": "中国：进出口金额:当月同比(报告期:2025年11月)",
+      "importance": 4,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-08",
+      "title": "日本：经常项目差额(报告期:2025年10月)",
+      "importance": 4,
+      "country": "日本"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-09",
+      "title": "日本：M2：实值(报告期:2025年11月)",
+      "importance": 4,
+      "country": "日本"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-09",
+      "title": "德国：贸易顺差：季调(报告期:2025年10月)",
+      "importance": 4,
+      "country": "德国"
+    }
+  ]
+}

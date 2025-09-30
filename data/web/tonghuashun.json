@@ -3,135 +3,105 @@
   "platform_name": "同花顺",
   "data_type": "ACTIVE",
   "total_events": 19,
-  "last_updated": "2025-09-29T03:01:43.522585",
+  "last_updated": "2025-09-30T02:55:49.825780",
   "events": [
     {
-      "id": "ths_20250929_0_6a9cb9d3",
+      "id": "ths_20251001_0_2863b560",
       "platform": "tonghuashun",
-      "title": "第二届北京数字人才发展大会将于9月29日至30日举办",
-      "event_date": "2025-09-29",
+      "title": "2025年版《中华人民共和国药典》自10月1日起施行",
+      "event_date": "2025-10-01",
       "importance": 3,
       "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-29",
+      "is_new": true,
+      "discovery_date": "2025-09-30",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
       "concepts": []
     },
     {
-      "id": "ths_20250929_1_1e54223b",
+      "id": "ths_20251001_1_67a13286",
       "platform": "tonghuashun",
-      "title": "辽宁省航空产业发展大会将于9月29日至10月1日在沈阳举办",
-      "event_date": "2025-09-29",
+      "title": "《永久基本农田保护红线管理办法》10月1日起施行",
+      "event_date": "2025-10-01",
       "importance": 3,
       "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-29",
+      "is_new": true,
+      "discovery_date": "2025-09-30",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
-      "concepts": [
-        {
-          "code": "885566",
-          "name": "大飞机"
-        }
-      ]
+      "concepts": []
     },
     {
-      "id": "ths_20250929_2_d228bccd",
+      "id": "ths_20251001_2_b4446d27",
       "platform": "tonghuashun",
-      "title": "韩国：将从9月29日起对中国团体游客试行免签",
-      "event_date": "2025-09-29",
+      "title": "10月1日起铁路客运将全面使用电子发票",
+      "event_date": "2025-10-01",
       "importance": 3,
       "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-29",
+      "is_new": true,
+      "discovery_date": "2025-09-30",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
-      "concepts": [
-        {
-          "code": "885497",
-          "name": "旅游概念"
-        }
-      ]
+      "concepts": []
     },
     {
-      "id": "ths_20250929_3_11fc22fb",
+      "id": "ths_20251001_3_a673b61d",
       "platform": "tonghuashun",
-      "title": "铁路国庆中秋假期运输自9月29日开始，至10月10日结束，为期12天",
-      "event_date": "2025-09-29",
+      "title": "《金融基础设施监督管理办法》自10月1日起施行",
+      "event_date": "2025-10-01",
       "importance": 3,
       "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-29",
+      "is_new": true,
+      "discovery_date": "2025-09-30",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
-      "concepts": [
-        {
-          "code": "885562",
-          "name": "高铁"
-        }
-      ]
+      "concepts": []
     },
     {
-      "id": "ths_20250930_0_743a1dc3",
-      "platform": "tonghuashun",
-      "title": "第二届培育钻石研讨会将于9月30日在迪拜举行",
-      "event_date": "2025-09-30",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-29",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885937",
-          "name": "培育钻石"
-        }
-      ]
-    },
-    {
-      "id": "ths_20250930_1_15f252e6",
-      "platform": "tonghuashun",
-      "title": "Meta：雷朋智能眼镜将于9月30日起开始发售",
-      "event_date": "2025-09-30",
-      "importance": 3,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-09-29",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": [
-        {
-          "code": "885454",
-          "name": "智能穿戴"
-        }
-      ]
-    },
-    {
-      "id": "ths_20251001_0_d2b6772f",
+      "id": "ths_20251001_4_d2b6772f",
       "platform": "tonghuashun",
       "title": "自10月1日起，民航境内航线旅客运输服务将统一使用电子行程单，不再提供纸质行程单",
       "event_date": "2025-10-01",
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-29",
+      "discovery_date": "2025-09-30",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
-      "concepts": [
-        {
-          "code": "885333",
-          "name": "移动支付"
-        }
-      ]
+      "concepts": []
+    },
+    {
+      "id": "ths_20251001_5_90bd5eb0",
+      "platform": "tonghuashun",
+      "title": "《商业银行代理销售业务管理办法》自10月1日起施行",
+      "event_date": "2025-10-01",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-30",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "ths_20251001_6_53ba23bb",
+      "platform": "tonghuashun",
+      "title": "《医疗器械网络销售质量管理规范》将于10月1日起施行",
+      "event_date": "2025-10-01",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-09-30",
+      "data_status": "ACTIVE",
+      "stocks": [],
+      "themes": [],
+      "concepts": []
     },
     {
       "id": "ths_20251006_0_7a5a193c",
@@ -141,7 +111,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-29",
+      "discovery_date": "2025-09-30",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -160,16 +130,11 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-29",
+      "discovery_date": "2025-09-30",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
-      "concepts": [
-        {
-          "code": "885413",
-          "name": "创投"
-        }
-      ]
+      "concepts": []
     },
     {
       "id": "ths_20251013_0_a6a01cd6",
@@ -179,7 +144,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-29",
+      "discovery_date": "2025-09-30",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -198,7 +163,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-29",
+      "discovery_date": "2025-09-30",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -217,7 +182,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-29",
+      "discovery_date": "2025-09-30",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -236,7 +201,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-29",
+      "discovery_date": "2025-09-30",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -255,16 +220,11 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-29",
+      "discovery_date": "2025-09-30",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
-      "concepts": [
-        {
-          "code": "885454",
-          "name": "智能穿戴"
-        }
-      ]
+      "concepts": []
     },
     {
       "id": "ths_20251021_1_d9a8270b",
@@ -274,7 +234,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-29",
+      "discovery_date": "2025-09-30",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -293,7 +253,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-29",
+      "discovery_date": "2025-09-30",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -312,7 +272,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-29",
+      "discovery_date": "2025-09-30",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -331,7 +291,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-29",
+      "discovery_date": "2025-09-30",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -350,7 +310,7 @@
       "importance": 3,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-09-29",
+      "discovery_date": "2025-09-30",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
