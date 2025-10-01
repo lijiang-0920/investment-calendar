@@ -1,0 +1,124 @@
+{
+  "detection_time": "2025-10-01T03:08:31.753128",
+  "summary": {
+    "total_new": 53,
+    "total_updated": 28,
+    "total_cancelled": 3
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 7,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "《深圳经济特区促进合成生物产业创新发展若干规定》自10月1日起施行",
+        "京东：双11购物节从10月9日正式开启",
+        "香港金管局：自10月9日起推出“人民币业务资金安排”"
+      ]
+    },
+    "investing": {
+      "new_events": 11,
+      "updated_events": 28,
+      "cancelled_events": 3,
+      "sample_new_titles": [
+        "印度尼西亚贸易帐(卢比)  (八月)",
+        "美国联邦公开市场委员会委员巴尔金(Thomas Barkin)讲话",
+        "日本外汇储备(美元)  (九月)"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 35,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "上纬新材停复牌",
+        "柏诚股份停复牌",
+        "帝奥微停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-10",
+      "title": "美国：预测年度:大豆:产量(报告期:2025年12月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-10",
+      "title": "美国：预测年度:玉米:产量(报告期:2025年12月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-10",
+      "title": "美国：预测年度:棉花:产量(报告期:2025年12月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-10",
+      "title": "美国：预测年度:小麦:产量(报告期:2025年12月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-10",
+      "title": "中国：CPI:累计同比(报告期:2025年11月)",
+      "importance": 4,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-10",
+      "title": "中国：CPI:当月同比(报告期:2025年11月)",
+      "importance": 4,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-10",
+      "title": "中国：CPI:环比(报告期:2025年11月)",
+      "importance": 4,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-10",
+      "title": "中国：PPI:全部工业品:累计同比(报告期:2025年11月)",
+      "importance": 4,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-10",
+      "title": "中国：PPI:全部工业品:环比(报告期:2025年11月)",
+      "importance": 4,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-10",
+      "title": "中国：PPI:全部工业品:当月同比(报告期:2025年11月)",
+      "importance": 4,
+      "country": "中国"
+    }
+  ]
+}
