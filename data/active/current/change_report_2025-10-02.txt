@@ -1,0 +1,120 @@
+{
+  "detection_time": "2025-10-02T02:54:40.029002",
+  "summary": {
+    "total_new": 72,
+    "total_updated": 23,
+    "total_cancelled": 2
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "investing": {
+      "new_events": 41,
+      "updated_events": 23,
+      "cancelled_events": 2,
+      "sample_new_titles": [
+        "Fed Goolsbee Speaks",
+        "西班牙7年期国债拍卖",
+        "澳大利亚TD-MI通胀指数月率(%) (月度环比)  (九月)"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 31,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "*ST广道停复牌",
+        "上纬新材停复牌",
+        "柏诚股份停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-10",
+      "title": "巴西：CPI：同比(报告期:2025年11月)",
+      "importance": 4,
+      "country": "巴西"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-10",
+      "title": "美国：核心CPI：当月同比(报告期:2025年11月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-10",
+      "title": "美国：CPI：当月同比(报告期:2025年11月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-10",
+      "title": "美国：核心CPI：季调：当月同比(报告期:2025年11月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-10",
+      "title": "美国：核心CPI(报告期:2025年11月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-10",
+      "title": "美国：CPI：季调：环比(报告期:2025年11月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-10",
+      "title": "美国：核心CPI：季调：环比(报告期:2025年11月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-10",
+      "title": "加拿大：央行公布利率决议(报告期:2025年12月)",
+      "importance": 4,
+      "country": "加拿大"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-11",
+      "title": "中国：库存:电解铝:保税区(报告期:2025年12月)",
+      "importance": 4,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-11",
+      "title": "美国:联邦基金利率目标:上限(报告期:2025年12月)",
+      "importance": 4,
+      "country": "美国"
+    }
+  ]
+}
