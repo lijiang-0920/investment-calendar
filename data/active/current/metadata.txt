@@ -1,11 +1,11 @@
 {
   "collection_type": "ACTIVE",
-  "collection_time": "2025-10-05T03:04:29.936922",
+  "collection_time": "2025-10-06T02:58:54.454882",
   "platforms": {
     "cls": {
-      "event_count": 44,
+      "event_count": 43,
       "date_range": {
-        "start": "2025-10-05",
+        "start": "2025-10-06",
         "end": "2025-10-31"
       }
     },
@@ -24,7 +24,7 @@
       }
     },
     "investing": {
-      "event_count": 575,
+      "event_count": 576,
       "date_range": {
         "start": "2025-10-06",
         "end": "2025-12-24"
