@@ -1,0 +1,120 @@
+{
+  "detection_time": "2025-10-07T02:55:07.719025",
+  "summary": {
+    "total_new": 28,
+    "total_updated": 17,
+    "total_cancelled": 2
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "investing": {
+      "new_events": 12,
+      "updated_events": 17,
+      "cancelled_events": 2,
+      "sample_new_titles": [
+        "中国外汇储备(美元)  (九月)",
+        "泰国外汇储备(美元)",
+        "德国新车登记数月率 (同比)  (九月)"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 16,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "*ST广道停复牌",
+        "上纬新材停复牌",
+        "智光电气停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-17",
+      "title": "欧盟：核心CPI：环比(报告期:2025年11月)",
+      "importance": 4,
+      "country": "欧盟"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-17",
+      "title": "美国：零售商库存：季调(报告期:2025年10月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "investing",
+      "date": "2025-10-07",
+      "title": "中国外汇储备(美元)  (九月)",
+      "importance": 2,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-10-07",
+      "title": "*ST广道停复牌",
+      "importance": 2,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-10-07",
+      "title": "上纬新材停复牌",
+      "importance": 2,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-10-07",
+      "title": "智光电气停复牌",
+      "importance": 2,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-10-07",
+      "title": "亚太药业停复牌",
+      "importance": 2,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-10-07",
+      "title": "华天科技停复牌",
+      "importance": 2,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-10-07",
+      "title": "沈阳化工停复牌",
+      "importance": 2,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-10-07",
+      "title": "*ST高鸿停复牌",
+      "importance": 2,
+      "country": "中国"
+    }
+  ]
+}
