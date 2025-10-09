@@ -1,0 +1,127 @@
+{
+  "detection_time": "2025-10-09T02:57:25.071212",
+  "summary": {
+    "total_new": 80,
+    "total_updated": 22,
+    "total_cancelled": 2
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 11,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "国家统计局将于10月10日公布流通领域重要生产资料市场价格变动情况",
+        "中央国债登记结算有限责任公司、全国银行间同业拆借中心将于10月10日联合推出集中债券借贷业务",
+        "第二届中国（西安）国际低空经济发展大会将于10月10日在西安举办"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 2,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "第九届智能电网与智慧城市国际会议",
+        "中国国际半导体博览会"
+      ]
+    },
+    "investing": {
+      "new_events": 33,
+      "updated_events": 22,
+      "cancelled_events": 2,
+      "sample_new_titles": [
+        "中国贸易帐 (美元)  (十月)",
+        "德国12个月期Bubill国债拍卖",
+        "印度尼西亚摩托车销售量年率(%) (同比)  (九月)"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 34,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "亚太药业停复牌",
+        "*ST高鸿停复牌",
+        "上纬新材停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-10-10",
+      "title": "国家统计局将于10月10日公布流通领域重要生产资料市场价格变动情况",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-10",
+      "title": "中央国债登记结算有限责任公司、全国银行间同业拆借中心将于10月10日联合推出集中债券借贷业务",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-10",
+      "title": "第二届中国（西安）国际低空经济发展大会将于10月10日在西安举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-10",
+      "title": "第13届中国移动全球合作伙伴大会将于10月10日至12日在广州召开",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-10",
+      "title": "2025风电产业大会将于10月10日在上海举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-10",
+      "title": "2025氢能产业大会将于10月10日在上海举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-10",
+      "title": "2025充换电产业大会将于10月10日在上海举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-10",
+      "title": "2025年世界自由区组织大会将于10月10日至12日在海口举行",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-10",
+      "title": "2025中国国际电池应用大会将于10月10日至12日在深圳举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-10",
+      "title": "2025生物制造产业大会将于10月10日至11日举办 ",
+      "importance": 5,
+      "country": "中国"
+    }
+  ]
+}
