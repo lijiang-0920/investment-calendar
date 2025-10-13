@@ -1,0 +1,128 @@
+{
+  "detection_time": "2025-10-13T03:06:48.483739",
+  "summary": {
+    "total_new": 55,
+    "total_updated": 15,
+    "total_cancelled": 3
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 9,
+      "updated_events": 0,
+      "cancelled_events": 2,
+      "sample_new_titles": [
+        "交通运输部公告，自10月14日起，对美船舶收取船舶特别港务费",
+        "美国贸易代表办公室：将于10月14日对相关中国船舶征收港口费",
+        "瑞典企业爱立信Q3财报将于10月14日正式发布"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 18,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "闻泰科技：公司对安世的控制权暂时受限",
+        "第十四届中国国际专利技术展会",
+        "GITEX GLOBAL 2025"
+      ]
+    },
+    "tonghuashun": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "investing": {
+      "new_events": 7,
+      "updated_events": 15,
+      "cancelled_events": 1,
+      "sample_new_titles": [
+        "英国贸易帐(英镑)  (九月)",
+        "中国贸易帐 (美元)  (九月)",
+        "新西兰建筑许可月率(%) (月度环比)  (九月)"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 21,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "*ST海华停复牌",
+        "亚太药业停复牌",
+        "*ST广道停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-10-14",
+      "title": "交通运输部公告，自10月14日起，对美船舶收取船舶特别港务费",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-14",
+      "title": "美国贸易代表办公室：将于10月14日对相关中国船舶征收港口费",
+      "importance": 5,
+      "country": "美国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-14",
+      "title": "瑞典企业爱立信Q3财报将于10月14日正式发布",
+      "importance": 5,
+      "country": "欧元区"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-14",
+      "title": "第十八届江苏省小动物兽医师大会及江苏省宠物诊疗行业年会将于10月14日至16日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-14",
+      "title": "2025中国汽车出海大会将于10月14日在广州举行",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-14",
+      "title": "国新室将于10月14日举行“高质量完成‘十四五’规划”系列主题新闻发布会，介绍“十四五”时期粮食流通改革发展成效",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-17",
+      "title": "华为软件（成都）生态大会将于10月17日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-14",
+      "title": "微软公司：将于10月14日起停止对Windows 10系统提供安全更新和技术支持",
+      "importance": 3,
+      "country": "美国"
+    },
+    {
+      "platform": "investing",
+      "date": "2025-10-13",
+      "title": "中国贸易帐 (美元)  (九月)",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "investing",
+      "date": "2025-11-03",
+      "title": "中国财新制造业PMI (月度环比)  (十月)",
+      "importance": 3,
+      "country": "中国"
+    }
+  ]
+}
