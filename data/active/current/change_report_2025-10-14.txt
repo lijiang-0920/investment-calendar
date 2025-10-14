@@ -1,0 +1,128 @@
+{
+  "detection_time": "2025-10-14T02:58:17.473190",
+  "summary": {
+    "total_new": 39,
+    "total_updated": 18,
+    "total_cancelled": 535
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 5,
+      "updated_events": 0,
+      "cancelled_events": 1,
+      "sample_new_titles": [
+        "第138届广交会将于10月15日至11月4日分三期在广州举办",
+        "2025第二届上海无人机系统技术展览会、2025第二届上海国际低空经济产业大会将于10月15日至17",
+        "中国玩具展&潮玩展、中国授权展、中国婴童用品展、中国幼教展（简称中国玩协四展）将于10月15日至17"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 9,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "亚太药业：控股股东将变更为星浩控股",
+        "2025中国汽车出海大会",
+        "多瑞医药：控股股东、实控人变更为王庆太、崔子浩、曹晓兵"
+      ]
+    },
+    "tonghuashun": {
+      "new_events": 5,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "瑞典企业爱立信Q3财报将于10月14日正式发布",
+        "美国贸易代表办公室：将于10月14日对相关中国船舶征收港口费",
+        "第十八届江苏省小动物兽医师大会及江苏省宠物诊疗行业年会将于10月14日至16日举办"
+      ]
+    },
+    "investing": {
+      "new_events": 20,
+      "updated_events": 18,
+      "cancelled_events": 1,
+      "sample_new_titles": [
+        "泰国外汇储备(美元)",
+        "意大利7年期BTP国债拍卖(%)",
+        "美国批发贸易销售月率(%) (月度环比)  (八月)"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 533,
+      "sample_new_titles": []
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-10-15",
+      "title": "第138届广交会将于10月15日至11月4日分三期在广州举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-15",
+      "title": "2025第二届上海无人机系统技术展览会、2025第二届上海国际低空经济产业大会将于10月15日至17日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-15",
+      "title": "中国玩具展&潮玩展、中国授权展、中国婴童用品展、中国幼教展（简称中国玩协四展）将于10月15日至17日在上海举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-15",
+      "title": "中国9月CPI年率",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "tonghuashun",
+      "date": "2025-10-14",
+      "title": "瑞典企业爱立信Q3财报将于10月14日正式发布",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "tonghuashun",
+      "date": "2025-10-14",
+      "title": "美国贸易代表办公室：将于10月14日对相关中国船舶征收港口费",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "tonghuashun",
+      "date": "2025-10-14",
+      "title": "第十八届江苏省小动物兽医师大会及江苏省宠物诊疗行业年会将于10月14日至16日举办",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "tonghuashun",
+      "date": "2025-10-14",
+      "title": "交通运输部公告，自10月14日起，对美船舶收取船舶特别港务费",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "tonghuashun",
+      "date": "2025-10-14",
+      "title": "国新室将于10月14日举行“高质量完成‘十四五’规划”系列主题新闻发布会，介绍“十四五”时期粮食流通改革发展成效",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "investing",
+      "date": "2025-11-03",
+      "title": "美国Markit制造业PMI  (十月)",
+      "importance": 3,
+      "country": "美国"
+    }
+  ]
+}
