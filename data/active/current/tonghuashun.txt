@@ -1,142 +1,19 @@
 {
   "platform": "tonghuashun",
-  "total_events": 32,
+  "total_events": 29,
   "data_status": "ACTIVE",
   "date_type": "FUTURE",
-  "last_updated": "2025-10-17T02:58:46.346800",
+  "last_updated": "2025-10-18T02:52:26.677539",
   "immutable": false,
   "events": [
     {
       "platform": "tonghuashun",
-      "event_id": "ths_20251017_0_66d8876d",
-      "original_id": "2025-10-17_0",
-      "event_date": "2025-10-17",
+      "event_id": "ths_20251019_0_83cf86de",
+      "original_id": "2025-10-19_0",
+      "event_date": "2025-10-19",
       "event_time": null,
       "event_datetime": null,
-      "title": "苹果：中国大陆用户于10月17日起可预购iPhone Air机型，10月22日起正式发售",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [
-        {
-          "code": "885376",
-          "name": "苹果概念"
-        }
-      ],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-17",
-      "raw_data": {
-        "event": [
-          "苹果：中国大陆用户于10月17日起可预购iPhone Air机型，10月22日起正式发售",
-          "",
-          "",
-          ""
-        ],
-        "concept": [
-          {
-            "code": "885376",
-            "name": "苹果概念",
-            "py": "pggn"
-          }
-        ]
-      },
-      "created_at": "2025-10-17T02:58:29.922161"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20251017_1_e9d15610",
-      "original_id": "2025-10-17_1",
-      "event_date": "2025-10-17",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "2025年欧洲肿瘤内科学会（ESMO）年会定于10月17日至10月21日在德国柏林举行",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [
-        {
-          "code": "885845",
-          "name": "生物疫苗"
-        }
-      ],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-17",
-      "raw_data": {
-        "event": [
-          "2025年欧洲肿瘤内科学会（ESMO）年会定于10月17日至10月21日在德国柏林举行",
-          "",
-          "",
-          ""
-        ],
-        "concept": [
-          {
-            "code": "885845",
-            "name": "生物疫苗",
-            "py": "swym"
-          }
-        ]
-      },
-      "created_at": "2025-10-17T02:58:29.922187"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20251017_2_0c32d6c8",
-      "original_id": "2025-10-17_2",
-      "event_date": "2025-10-17",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "华为软件（成都）生态大会将于10月17日举办",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [
-        {
-          "code": "885806",
-          "name": "华为概念"
-        }
-      ],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-17",
-      "raw_data": {
-        "event": [
-          "华为软件（成都）生态大会将于10月17日举办",
-          "",
-          "",
-          ""
-        ],
-        "concept": [
-          {
-            "code": "885806",
-            "name": "华为概念",
-            "py": "hwgn"
-          }
-        ]
-      },
-      "created_at": "2025-10-17T02:58:29.922200"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20251017_3_7bd40fd2",
-      "original_id": "2025-10-17_3",
-      "event_date": "2025-10-17",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "2025年GT世界挑战赛亚洲杯年度收官战将于10月17日至19日在北京开赛",
+      "title": "2025北外滩国际航运论坛将于10月19日至21日在上海举行",
       "content": null,
       "category": null,
       "importance": 3,
@@ -146,146 +23,23 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-17",
+      "is_new": true,
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "event": [
-          "2025年GT世界挑战赛亚洲杯年度收官战将于10月17日至19日在北京开赛",
+          "2025北外滩国际航运论坛将于10月19日至21日在上海举行",
           "",
           "",
           ""
         ],
         "concept": []
       },
-      "created_at": "2025-10-17T02:58:29.922209"
+      "created_at": "2025-10-18T02:52:07.327963"
     },
     {
       "platform": "tonghuashun",
-      "event_id": "ths_20251017_4_0e9f6328",
-      "original_id": "2025-10-17_4",
-      "event_date": "2025-10-17",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "2025中国国际数字经济博览会将于10月17日至19日举办",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [
-        {
-          "code": "885976",
-          "name": "数字经济"
-        }
-      ],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-17",
-      "raw_data": {
-        "event": [
-          "2025中国国际数字经济博览会将于10月17日至19日举办",
-          "",
-          "",
-          ""
-        ],
-        "concept": [
-          {
-            "code": "885976",
-            "name": "数字经济",
-            "py": "szjj"
-          }
-        ]
-      },
-      "created_at": "2025-10-17T02:58:29.922218"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20251017_5_5457d61f",
-      "original_id": "2025-10-17_5",
-      "event_date": "2025-10-17",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "第二十二届中国国际农产品交易会将于10月17日至19日举办",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [
-        {
-          "code": "885812",
-          "name": "农业种植"
-        }
-      ],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-17",
-      "raw_data": {
-        "event": [
-          "第二十二届中国国际农产品交易会将于10月17日至19日举办",
-          "",
-          "",
-          ""
-        ],
-        "concept": [
-          {
-            "code": "885812",
-            "name": "农业种植",
-            "py": "nyzz"
-          }
-        ]
-      },
-      "created_at": "2025-10-17T02:58:29.922227"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20251017_6_6c3a17af",
-      "original_id": "2025-10-17_6",
-      "event_date": "2025-10-17",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "2025（第三届）华为北京商业伙伴大会将于10月17日举办",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [
-        {
-          "code": "885806",
-          "name": "华为概念"
-        }
-      ],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-17",
-      "raw_data": {
-        "event": [
-          "2025（第三届）华为北京商业伙伴大会将于10月17日举办",
-          "",
-          "",
-          ""
-        ],
-        "concept": [
-          {
-            "code": "885806",
-            "name": "华为概念",
-            "py": "hwgn"
-          }
-        ]
-      },
-      "created_at": "2025-10-17T02:58:29.922236"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20251019_0_2b572371",
-      "original_id": "2025-10-19_0",
+      "event_id": "ths_20251019_1_2b572371",
+      "original_id": "2025-10-19_1",
       "event_date": "2025-10-19",
       "event_time": null,
       "event_datetime": null,
@@ -305,7 +59,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-17",
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "event": [
           "2025世界VR产业大会将于10月19日至20日在南昌举办",
@@ -321,12 +75,42 @@
           }
         ]
       },
-      "created_at": "2025-10-17T02:58:29.922261"
+      "created_at": "2025-10-18T02:52:07.327993"
     },
     {
       "platform": "tonghuashun",
-      "event_id": "ths_20251020_0_c860a993",
+      "event_id": "ths_20251020_0_a07daab6",
       "original_id": "2025-10-20_0",
+      "event_date": "2025-10-20",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "国新办就国民经济运行情况举行新闻发布会",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-18",
+      "raw_data": {
+        "event": [
+          "国新办就国民经济运行情况举行新闻发布会",
+          "",
+          "",
+          ""
+        ],
+        "concept": []
+      },
+      "created_at": "2025-10-18T02:52:07.328020"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251020_1_c860a993",
+      "original_id": "2025-10-20_1",
       "event_date": "2025-10-20",
       "event_time": null,
       "event_datetime": null,
@@ -340,8 +124,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-17",
+      "is_new": false,
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "event": [
           "2025年半导体材料产业发展（德州）大会将于10月20日至21日召开",
@@ -351,12 +135,12 @@
         ],
         "concept": []
       },
-      "created_at": "2025-10-17T02:58:29.922282"
+      "created_at": "2025-10-18T02:52:07.328031"
     },
     {
       "platform": "tonghuashun",
-      "event_id": "ths_20251020_1_5e238b1a",
-      "original_id": "2025-10-20_1",
+      "event_id": "ths_20251020_2_5e238b1a",
+      "original_id": "2025-10-20_2",
       "event_date": "2025-10-20",
       "event_time": null,
       "event_datetime": null,
@@ -370,8 +154,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-17",
+      "is_new": false,
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "event": [
           "2025一带一路国际先进材料大会将于10月20日至23日在宁波举办",
@@ -381,12 +165,42 @@
         ],
         "concept": []
       },
-      "created_at": "2025-10-17T02:58:29.922292"
+      "created_at": "2025-10-18T02:52:07.328040"
     },
     {
       "platform": "tonghuashun",
-      "event_id": "ths_20251020_2_c1d968f9",
-      "original_id": "2025-10-20_2",
+      "event_id": "ths_20251020_3_8b4f8126",
+      "original_id": "2025-10-20_3",
+      "event_date": "2025-10-20",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "国家统计局公布70个大中城市住宅销售价格月度报告",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-18",
+      "raw_data": {
+        "event": [
+          "国家统计局公布70个大中城市住宅销售价格月度报告",
+          "",
+          "",
+          ""
+        ],
+        "concept": []
+      },
+      "created_at": "2025-10-18T02:52:07.328072"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251020_4_c1d968f9",
+      "original_id": "2025-10-20_4",
       "event_date": "2025-10-20",
       "event_time": null,
       "event_datetime": null,
@@ -405,8 +219,8 @@
       ],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-17",
+      "is_new": false,
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "event": [
           "北京国际风能大会暨展览会（CWP2025）将于10月20日至22日召开",
@@ -422,12 +236,12 @@
           }
         ]
       },
-      "created_at": "2025-10-17T02:58:29.922386"
+      "created_at": "2025-10-18T02:52:07.328094"
     },
     {
       "platform": "tonghuashun",
-      "event_id": "ths_20251020_3_7285c939",
-      "original_id": "2025-10-20_3",
+      "event_id": "ths_20251020_5_7285c939",
+      "original_id": "2025-10-20_5",
       "event_date": "2025-10-20",
       "event_time": null,
       "event_datetime": null,
@@ -442,7 +256,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-17",
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "event": [
           "中国共产党第二十届中央委员会第四次全体会议于10月20日至23日在北京召开",
@@ -452,7 +266,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-10-17T02:58:29.922396"
+      "created_at": "2025-10-18T02:52:07.328104"
     },
     {
       "platform": "tonghuashun",
@@ -477,7 +291,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-17",
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "event": [
           "美联储将于10月21日举办“支付创新”会议，会议上将讨论稳定币、人工智能和代币化",
@@ -493,7 +307,7 @@
           }
         ]
       },
-      "created_at": "2025-10-17T02:58:29.922418"
+      "created_at": "2025-10-18T02:52:07.328129"
     },
     {
       "platform": "tonghuashun",
@@ -518,7 +332,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-17",
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "event": [
           "美联储将于10月21日举办“支付创新”会议，会议上将讨论稳定币、人工智能和代币化",
@@ -534,7 +348,7 @@
           }
         ]
       },
-      "created_at": "2025-10-17T02:58:29.922428"
+      "created_at": "2025-10-18T02:52:07.328139"
     },
     {
       "platform": "tonghuashun",
@@ -559,7 +373,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-17",
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "event": [
           "Meta：运动AI智能眼镜Oakley Meta Vanguard将正式发售",
@@ -575,7 +389,7 @@
           }
         ]
       },
-      "created_at": "2025-10-17T02:58:29.922436"
+      "created_at": "2025-10-18T02:52:07.328148"
     },
     {
       "platform": "tonghuashun",
@@ -600,7 +414,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-17",
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "event": [
           "三星计划在10月21日至22日在线上发布首款XR头显Project Moohan ，届时将公开其产品规格和功能",
@@ -616,7 +430,7 @@
           }
         ]
       },
-      "created_at": "2025-10-17T02:58:29.922445"
+      "created_at": "2025-10-18T02:52:07.328157"
     },
     {
       "platform": "tonghuashun",
@@ -641,7 +455,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-17",
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "event": [
           "2025年（第七届）中国固态电池技术创新与产业化研讨会将于10月22日至24日举办",
@@ -657,7 +471,7 @@
           }
         ]
       },
-      "created_at": "2025-10-17T02:58:29.922463"
+      "created_at": "2025-10-18T02:52:07.328177"
     },
     {
       "platform": "tonghuashun",
@@ -673,11 +487,16 @@
       "country": "中国",
       "city": null,
       "stocks": [],
-      "concepts": [],
+      "concepts": [
+        {
+          "code": "885783",
+          "name": "工业互联网"
+        }
+      ],
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-17",
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "event": [
           "2025中国工业AI大会（IAIC 2025）将于10月23日至24日在杭州举办",
@@ -685,9 +504,15 @@
           "",
           ""
         ],
-        "concept": []
+        "concept": [
+          {
+            "code": "885783",
+            "name": "工业互联网",
+            "py": "gyhlw"
+          }
+        ]
       },
-      "created_at": "2025-10-17T02:58:29.922482"
+      "created_at": "2025-10-18T02:52:07.328196"
     },
     {
       "platform": "tonghuashun",
@@ -712,7 +537,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-17",
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "event": [
           "2025上海国际消费电子展将于10月23日举办",
@@ -728,7 +553,7 @@
           }
         ]
       },
-      "created_at": "2025-10-17T02:58:29.922491"
+      "created_at": "2025-10-18T02:52:07.328205"
     },
     {
       "platform": "tonghuashun",
@@ -753,7 +578,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-17",
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "event": [
           "2025第五届航空航天增材制造大会将于10月23日至24日在上海举办",
@@ -769,7 +594,7 @@
           }
         ]
       },
-      "created_at": "2025-10-17T02:58:29.922500"
+      "created_at": "2025-10-18T02:52:07.328214"
     },
     {
       "platform": "tonghuashun",
@@ -789,7 +614,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-17",
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "event": [
           "2025（第二十七届）中国国际矿业大会将于10月23日至25日在天津举办",
@@ -799,7 +624,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-10-17T02:58:29.922508"
+      "created_at": "2025-10-18T02:52:07.328223"
     },
     {
       "platform": "tonghuashun",
@@ -824,7 +649,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-17",
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "event": [
           "美国劳工统计局将于美东时间10月24日上午8:30发布9月CPI报告",
@@ -840,7 +665,7 @@
           }
         ]
       },
-      "created_at": "2025-10-17T02:58:29.922526"
+      "created_at": "2025-10-18T02:52:07.328241"
     },
     {
       "platform": "tonghuashun",
@@ -859,8 +684,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-17",
+      "is_new": false,
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "event": [
           "2025世界顶尖科学家论坛将于10月24日至26日在上海举办",
@@ -870,7 +695,37 @@
         ],
         "concept": []
       },
-      "created_at": "2025-10-17T02:58:29.922535"
+      "created_at": "2025-10-18T02:52:07.328250"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251026_0_569706ac",
+      "original_id": "2025-10-26_0",
+      "event_date": "2025-10-26",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "老铺黄金将于10月26日进行产品调价",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-18",
+      "raw_data": {
+        "event": [
+          "老铺黄金将于10月26日进行产品调价",
+          "",
+          "",
+          ""
+        ],
+        "concept": []
+      },
+      "created_at": "2025-10-18T02:52:07.328267"
     },
     {
       "platform": "tonghuashun",
@@ -890,7 +745,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-17",
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "event": [
           "河南省民营企业金秋创新大会将于10月28日举行",
@@ -900,7 +755,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-10-17T02:58:29.922551"
+      "created_at": "2025-10-18T02:52:07.328285"
     },
     {
       "platform": "tonghuashun",
@@ -925,7 +780,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-17",
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "event": [
           "美联储FOMC公布利率决议",
@@ -941,7 +796,7 @@
           }
         ]
       },
-      "created_at": "2025-10-17T02:58:29.922568"
+      "created_at": "2025-10-18T02:52:07.328302"
     },
     {
       "platform": "tonghuashun",
@@ -966,7 +821,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-17",
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "event": [
           "美联储FOMC公布利率决议。",
@@ -982,7 +837,7 @@
           }
         ]
       },
-      "created_at": "2025-10-17T02:58:29.922578"
+      "created_at": "2025-10-18T02:52:07.328312"
     },
     {
       "platform": "tonghuashun",
@@ -1007,7 +862,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-17",
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "event": [
           "美联储主席鲍威尔召开货币政策新闻发布会。[同传]",
@@ -1023,7 +878,7 @@
           }
         ]
       },
-      "created_at": "2025-10-17T02:58:29.922586"
+      "created_at": "2025-10-18T02:52:07.328322"
     },
     {
       "platform": "tonghuashun",
@@ -1039,11 +894,16 @@
       "country": "中国",
       "city": null,
       "stocks": [],
-      "concepts": [],
+      "concepts": [
+        {
+          "code": "885456",
+          "name": "互联网金融"
+        }
+      ],
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-17",
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "event": [
           "亚太经合组织第三十二次领导人非正式会议（2025年APEC会议）将于10月31日至11月1日举行",
@@ -1051,9 +911,15 @@
           "",
           ""
         ],
-        "concept": []
+        "concept": [
+          {
+            "code": "885456",
+            "name": "互联网金融",
+            "py": "hlwjr"
+          }
+        ]
       },
-      "created_at": "2025-10-17T02:58:29.922605"
+      "created_at": "2025-10-18T02:52:07.328340"
     },
     {
       "platform": "tonghuashun",
@@ -1078,7 +944,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-17",
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "event": [
           "第九届智能电网与智慧城市国际会议",
@@ -1094,7 +960,7 @@
           }
         ]
       },
-      "created_at": "2025-10-17T02:58:31.273671"
+      "created_at": "2025-10-18T02:52:08.576861"
     },
     {
       "platform": "tonghuashun",
@@ -1119,7 +985,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-17",
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "event": [
           "上海国际储能技术应用展览会",
@@ -1135,7 +1001,7 @@
           }
         ]
       },
-      "created_at": "2025-10-17T02:58:31.273756"
+      "created_at": "2025-10-18T02:52:08.576914"
     },
     {
       "platform": "tonghuashun",
@@ -1160,7 +1026,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-17",
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "event": [
           "中国国际半导体博览会",
@@ -1176,7 +1042,7 @@
           }
         ]
       },
-      "created_at": "2025-10-17T02:58:31.273788"
+      "created_at": "2025-10-18T02:52:08.576944"
     },
     {
       "platform": "tonghuashun",
@@ -1201,7 +1067,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-17",
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "event": [
           "2025国际集成电路展览会暨研讨会",
@@ -1217,7 +1083,7 @@
           }
         ]
       },
-      "created_at": "2025-10-17T02:58:31.273819"
+      "created_at": "2025-10-18T02:52:08.576968"
     }
   ]
 }
