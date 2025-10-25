@@ -1,0 +1,124 @@
+{
+  "detection_time": "2025-10-25T02:59:18.135539",
+  "summary": {
+    "total_new": 24,
+    "total_updated": 39,
+    "total_cancelled": 471
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 4,
+      "updated_events": 0,
+      "cancelled_events": 6,
+      "sample_new_titles": [
+        "国务院总理李强将于10月27日至28日出席在马来西亚吉隆坡举行的第28次中国—东盟领导人会议、第28",
+        "“完善全球治理 共建人类命运共同体”蓝厅论坛将于10月27日在外交部举行，中共中央政治局委员、外交部",
+        "国家主席习近平将于10月30日至11月1日赴韩国庆州出席亚太经合组织第三十二次领导人非正式会议并对韩"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 3,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "2025金融街论坛年会将于10月27日至30日举行，“一行两局一会”主要负责人将做主题演讲",
+        "国务院总理李强将于10月27日至28日出席在马来西亚吉隆坡举行的第28次中国东盟领导人会议、第28次",
+        "国家主席习近平将于10月30日至11月1日赴韩国庆州出席亚太经合组织第三十二次领导人非正式会议并对韩"
+      ]
+    },
+    "investing": {
+      "new_events": 17,
+      "updated_events": 39,
+      "cancelled_events": 3,
+      "sample_new_titles": [
+        "英国BRC商店价格指数 (同比)",
+        "日本央行核心CPI年率(%) (同比)",
+        "美国季调后新屋销售年化月率(%) (月度环比)  (九月)"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 462,
+      "sample_new_titles": []
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-10-27",
+      "title": "国务院总理李强将于10月27日至28日出席在马来西亚吉隆坡举行的第28次中国—东盟领导人会议、第28次东盟与中日韩领导人会议、第20届东亚峰会和第五次《区域全面经济伙伴关系协定》领导人会议",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-27",
+      "title": "“完善全球治理 共建人类命运共同体”蓝厅论坛将于10月27日在外交部举行，中共中央政治局委员、外交部长王毅将出席论坛开幕式并发表讲话",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-30",
+      "title": "国家主席习近平将于10月30日至11月1日赴韩国庆州出席亚太经合组织第三十二次领导人非正式会议并对韩国进行国事访问",
+      "importance": 5,
+      "country": "韩国"
+    },
+    {
+      "platform": "tonghuashun",
+      "date": "2025-10-27",
+      "title": "2025金融街论坛年会将于10月27日至30日举行，“一行两局一会”主要负责人将做主题演讲",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "tonghuashun",
+      "date": "2025-10-27",
+      "title": "国务院总理李强将于10月27日至28日出席在马来西亚吉隆坡举行的第28次中国东盟领导人会议、第28次东盟与中日韩领导人会议、第20届东亚峰会和第五次《区域全面经济伙伴关系协定》领导人会议",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "tonghuashun",
+      "date": "2025-10-30",
+      "title": "国家主席习近平将于10月30日至11月1日赴韩国庆州出席亚太经合组织第三十二次领导人非正式会议并对韩国进行国事访问",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-30",
+      "title": "今日有2125亿元7天期逆回购到期",
+      "importance": 2,
+      "country": "中国"
+    },
+    {
+      "platform": "investing",
+      "date": "2025-10-28",
+      "title": "日本央行核心CPI年率(%) (同比)",
+      "importance": 2,
+      "country": "日本"
+    },
+    {
+      "platform": "investing",
+      "date": "2025-10-27",
+      "title": "美国季调后新屋销售年化月率(%) (月度环比)  (九月)",
+      "importance": 2,
+      "country": "美国"
+    },
+    {
+      "platform": "investing",
+      "date": "2025-11-14",
+      "title": "西班牙调和CPI年率(%) (同比)  (十月)",
+      "importance": 2,
+      "country": "西班牙"
+    }
+  ]
+}
