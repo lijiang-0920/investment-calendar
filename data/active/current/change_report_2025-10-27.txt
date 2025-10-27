@@ -1,0 +1,124 @@
+{
+  "detection_time": "2025-10-27T03:16:57.485034",
+  "summary": {
+    "total_new": 28,
+    "total_updated": 15,
+    "total_cancelled": 467
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 20,
+      "updated_events": 0,
+      "cancelled_events": 1,
+      "sample_new_titles": [
+        "2025中国海洋经济博览会将于10月28日至10月30日在深圳举办",
+        "剑桥科技：10月28日在香港联交所挂牌并开始上市交易",
+        "线型低密度聚乙烯、聚氯乙烯、聚丙烯月均价期货10月28日晚上21:00起上市交易"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 3,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "依依股份：拟购买宠物食品公司高爷家全部股权",
+        "*ST宝鹰：控股股东拟变更为世通纽",
+        "华脉科技：终止筹划控制权变更事项"
+      ]
+    },
+    "tonghuashun": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "investing": {
+      "new_events": 5,
+      "updated_events": 15,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "新西兰食品价格指数月率(%) (月度环比)  (十月)",
+        "日本GDP私人消费季率(%) (季度环比)  (第三季度)",
+        "英国Rightmove平均房屋要价指数月率(%) (同比)  (十一月)"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 466,
+      "sample_new_titles": []
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-10-28",
+      "title": "2025中国海洋经济博览会将于10月28日至10月30日在深圳举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-28",
+      "title": "剑桥科技：10月28日在香港联交所挂牌并开始上市交易",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-28",
+      "title": "线型低密度聚乙烯、聚氯乙烯、聚丙烯月均价期货10月28日晚上21:00起上市交易",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-28",
+      "title": "汽车芯片生态大会暨中国汽车芯片标准检测认证联盟2025年会将于10月28日在深圳召开",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-28",
+      "title": "2025四维图新Evolution创想大会将于10月28日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-28",
+      "title": "2025（深圳）机器视觉展暨机器视觉技术及工业应用研讨会将于10月28日至30日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-28",
+      "title": "脑机接口产业生态大会将于10月28日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-28",
+      "title": "2025电子半导体产业创新发展大会暨国际电子电路（大湾区）展览会将于10月28日至30日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-28",
+      "title": "第二十届中国国际社会公共安全博览会暨第三届世界数字城市大会将于10月28日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-28",
+      "title": "国新办将于10月28日就第八届中国国际进口博览会筹备情况举行新闻发布会",
+      "importance": 5,
+      "country": "中国"
+    }
+  ]
+}

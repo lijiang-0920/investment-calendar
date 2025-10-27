@@ -1,26 +1,26 @@
 {
-  "last_updated": "2025-10-26T03:07:02.295076",
-  "total_events": 1289,
+  "last_updated": "2025-10-27T03:16:57.704349",
+  "total_events": 837,
   "platforms": {
     "cls": {
       "name": "财联社",
-      "event_count": 52
+      "event_count": 69
     },
     "jiuyangongshe": {
       "name": "韭研公社",
-      "event_count": 43
+      "event_count": 45
     },
     "tonghuashun": {
       "name": "同花顺",
-      "event_count": 35
+      "event_count": 33
     },
     "investing": {
       "name": "英为财情",
-      "event_count": 678
+      "event_count": 690
     },
     "eastmoney": {
       "name": "东方财富",
-      "event_count": 481
+      "event_count": 0
     }
   }
 }
