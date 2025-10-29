@@ -1,0 +1,130 @@
+{
+  "detection_time": "2025-10-29T03:12:32.655404",
+  "summary": {
+    "total_new": 81,
+    "total_updated": 8,
+    "total_cancelled": 1
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 31,
+      "updated_events": 1,
+      "cancelled_events": 1,
+      "sample_new_titles": [
+        "商务部定于10月29日举行城市商业体系建设专题新闻发布会",
+        "美联储、欧洲央行、日本央行将在北京时间10月30日公布利率决议",
+        "苹果将于美东时间10月30日发布2025财年第四季度财报"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 1,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "德龙汇能：公司控股股东及实控人将发生变更"
+      ]
+    },
+    "tonghuashun": {
+      "new_events": 8,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "大湾区AI+玩具创新生态大会暨百度智能云云智思享会将于10月29日在深圳宝安举行",
+        "2025中国化工园区发展大会将于10月29日至31日在浙江省嘉兴市召开",
+        "2025四川省文化和旅游发展大会将于10月29日在绵阳召开"
+      ]
+    },
+    "investing": {
+      "new_events": 14,
+      "updated_events": 7,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "巴西央行焦点市场报告",
+        "法国6个月期BTF国债拍卖平均收益率(%)",
+        "美国8周期国库券拍卖利率(%)"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 27,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "海联讯停复牌",
+        "中元股份停复牌",
+        "共进股份停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-10-29",
+      "title": "商务部定于10月29日举行城市商业体系建设专题新闻发布会",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-30",
+      "title": "美联储、欧洲央行、日本央行将在北京时间10月30日公布利率决议",
+      "importance": 5,
+      "country": "美国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-30",
+      "title": "苹果将于美东时间10月30日发布2025财年第四季度财报",
+      "importance": 5,
+      "country": "美国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-30",
+      "title": "数字政通人和大模型2.0行业智能体发布会将于10月30日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-10-30",
+      "title": "商务部将于10月30日举行新闻发布会，介绍近期商务领域重点工作有关情况",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-01",
+      "title": "小度AI眼镜将于11月1日开启预售",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-01",
+      "title": "2025年第十一届中国智能技术与大数据会议将于11月1日至2日在上海召开",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-03",
+      "title": "第二届社会发展世界峰会将于11月3日至5日举行",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-03",
+      "title": "国际金融领袖投资峰会将于11月3至5日举行",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-04",
+      "title": "金蝶2025全球创见者大会将于11月4日举办",
+      "importance": 5,
+      "country": "中国"
+    }
+  ]
+}
