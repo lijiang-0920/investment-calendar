@@ -1,0 +1,128 @@
+{
+  "detection_time": "2025-10-31T03:07:44.263396",
+  "summary": {
+    "total_new": 87,
+    "total_updated": 33,
+    "total_cancelled": 5
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 5,
+      "updated_events": 1,
+      "cancelled_events": 2,
+      "sample_new_titles": [
+        "中国10月官方制造业PMI",
+        "今日有3373亿元7天期逆回购到期",
+        "恒生港股通金融业指数重新命名及编算方法调整，11月3日生效。"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 5,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "2025芯和半导体用户大会将于10月31日举办",
+        "第二届中国具身智能与系统大会将于10月31日至11月1日举办",
+        "第四届粤港澳大湾区服务贸易大会将于10月31日至11月2日在珠海举办"
+      ]
+    },
+    "investing": {
+      "new_events": 27,
+      "updated_events": 32,
+      "cancelled_events": 3,
+      "sample_new_titles": [
+        "印度汇丰S&P Global制造业PMI  (十月)",
+        "法国工业产出月率(%) (月度环比)  (九月)",
+        "巴西跨境资本流动"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 50,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "胜利股份停复牌",
+        "共进股份停复牌",
+        "东土科技停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-11-03",
+      "title": "今日有3373亿元7天期逆回购到期",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-03",
+      "title": "恒生港股通金融业指数重新命名及编算方法调整，11月3日生效。",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-03",
+      "title": "2025世界显示产业创新发展大会将于11月3日至4日举行",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-03",
+      "title": "2025粤港澳大湾区全球招商大会定于11月3日在广州举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-05",
+      "title": "美国：EIA原油库存:变动值(报告期:2025年10月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-05",
+      "title": "美国：DOE汽油引申需求:当周值(报告期:2025年10月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-05",
+      "title": "美国：EIA汽油库存:变动值(报告期:2025年10月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-05",
+      "title": "美国：DOE原油引申需求:当周值(报告期:2025年10月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-05",
+      "title": "美国：DOE燃料乙醇总库存:当周值(报告期:2025年10月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-05",
+      "title": "美国：EIA俄克拉荷马州库欣原油库存:当周值(报告期:2025年10月)",
+      "importance": 4,
+      "country": "美国"
+    }
+  ]
+}
