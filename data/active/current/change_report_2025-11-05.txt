@@ -1,0 +1,132 @@
+{
+  "detection_time": "2025-11-05T03:08:37.659287",
+  "summary": {
+    "total_new": 68,
+    "total_updated": 21,
+    "total_cancelled": 0
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 4,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "腾讯云：智能体开发平台应用中“图片理解”插件将于11月6日正式收费",
+        "科大讯飞将于11月6日在合肥体育中心召开线下主论坛，届时将展示其星火大模型的最新成果",
+        "小鹏X9鲲鹏超级增程技术发布会将于11月6日举办"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 15,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "2025半导体行业用金刚石材料技术大会暨宽禁带半导体材料技术研讨会",
+        "2025中国国际屋面和建筑防水技术展览会",
+        "小鹏X9鲲鹏超级增程技术发布会"
+      ]
+    },
+    "tonghuashun": {
+      "new_events": 3,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "2025小鹏科技日将于11月5日举办",
+        "2025DMP大湾区工博会机器人产业论坛将于11月5日举办",
+        "2025汽车后市场供应链生态论坛将于11月5日举办"
+      ]
+    },
+    "investing": {
+      "new_events": 22,
+      "updated_events": 21,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "美国IBD/TIPP经济乐观指数  (十一月)",
+        "OPEC沙特阿拉伯原油产量(桶)",
+        "加拿大贸易帐(加元)  (九月)"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 24,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "杭汽轮B停复牌",
+        "海联讯停复牌",
+        "*ST广道停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-11-06",
+      "title": "腾讯云：智能体开发平台应用中“图片理解”插件将于11月6日正式收费",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-06",
+      "title": "科大讯飞将于11月6日在合肥体育中心召开线下主论坛，届时将展示其星火大模型的最新成果",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-06",
+      "title": "小鹏X9鲲鹏超级增程技术发布会将于11月6日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-06",
+      "title": "特斯拉2025年度股东大会将于11月6日举行",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-20",
+      "title": "俄罗斯：PPI：同比(报告期:2025年10月)",
+      "importance": 4,
+      "country": "俄罗斯"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-18",
+      "title": "欧盟：隔夜存款利率(报告期:2025年11月)",
+      "importance": 4,
+      "country": "欧盟"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-18",
+      "title": "欧盟：边际贷款利率(报告期:2025年11月)",
+      "importance": 4,
+      "country": "欧盟"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-18",
+      "title": "欧盟：再融资利率(报告期:2025年11月)",
+      "importance": 4,
+      "country": "欧盟"
+    },
+    {
+      "platform": "tonghuashun",
+      "date": "2025-11-05",
+      "title": "2025小鹏科技日将于11月5日举办",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "tonghuashun",
+      "date": "2025-11-05",
+      "title": "2025DMP大湾区工博会机器人产业论坛将于11月5日举办",
+      "importance": 3,
+      "country": "中国"
+    }
+  ]
+}
