@@ -1,0 +1,125 @@
+{
+  "detection_time": "2025-11-09T03:10:31.590347",
+  "summary": {
+    "total_new": 420,
+    "total_updated": 21,
+    "total_cancelled": 0
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "jiuyangongshe": {
+      "new_events": 1,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "中国核能高质量发展大会"
+      ]
+    },
+    "tonghuashun": {
+      "new_events": 2,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "花旗将于11月11日至12日在深圳和11月13日至14日在上海举行第二十届花旗中国峰会",
+        "第12届中国（苏州）电池新能源产业国际高峰论坛将于11月11日至13日在江苏苏州举办"
+      ]
+    },
+    "investing": {
+      "new_events": 9,
+      "updated_events": 21,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "印度尼西亚零售销售年率(%) (同比)  (九月)",
+        "欧洲央行行长拉加德(Christine Lagarde)讲话",
+        "英国三个月RICS房价指数  (十月)"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 408,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "港股通(沪)、港股通(深) - 新年前夕半日市",
+        "港股 - 元旦前夕(13:00收市)",
+        "港股 - 圣诞节后第一个周日"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-09",
+      "title": "中国：CPI:累计同比(报告期:2025年10月)",
+      "importance": 4,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-09",
+      "title": "中国：CPI:当月同比(报告期:2025年10月)",
+      "importance": 4,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-09",
+      "title": "中国：CPI:环比(报告期:2025年10月)",
+      "importance": 4,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-09",
+      "title": "中国：PPI:全部工业品:当月同比(报告期:2025年10月)",
+      "importance": 4,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-09",
+      "title": "中国：PPI:全部工业品:环比(报告期:2025年10月)",
+      "importance": 4,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-09",
+      "title": "中国：PPI:全部工业品:累计同比(报告期:2025年10月)",
+      "importance": 4,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-10",
+      "title": "中国：M1:同比(报告期:2025年10月)",
+      "importance": 4,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-10",
+      "title": "中国：M0:同比(报告期:2025年10月)",
+      "importance": 4,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-11",
+      "title": "美国：预测年度:大豆:产量(报告期:2025年11月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-11",
+      "title": "美国：预测年度:小麦:产量(报告期:2025年11月)",
+      "importance": 4,
+      "country": "美国"
+    }
+  ]
+}
