@@ -1,0 +1,131 @@
+{
+  "detection_time": "2025-11-10T03:16:22.895002",
+  "summary": {
+    "total_new": 42,
+    "total_updated": 3,
+    "total_cancelled": 1
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 15,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "海关总署公告：基于对美方整改措施的评估结果，自11月10日起恢复CHS Inc.等3家企业大豆输华资",
+        "西班牙农业部：因禽流感暴发，自11月10日起实施家禽封锁令",
+        "欧元区11月Sentix投资者信心指数"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 3,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "英唐智控：拟购买光隆集成100%股权和奥简微电子80%股权",
+        "维信诺：合肥建曙将认购公司本次发行的4.19亿股股票",
+        "2025中国数据与存储峰会"
+      ]
+    },
+    "tonghuashun": {
+      "new_events": 2,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "海关总署公告：基于对美方整改措施的评估结果，自11月10日起恢复CHS Inc.等3家企业大豆输华资",
+        "西班牙农业部：因禽流感暴发，自11月10日起实施家禽封锁令"
+      ]
+    },
+    "investing": {
+      "new_events": 7,
+      "updated_events": 3,
+      "cancelled_events": 1,
+      "sample_new_titles": [
+        "印度尼西亚摩托车销售量年率(%) (同比)  (十月)",
+        "新西兰建筑许可月率(%) (月度环比)  (十月)",
+        "澳大利亚制造业PMI  (十一月)"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 15,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "杭汽轮B停复牌",
+        "*ST广道停复牌",
+        "胜利股份停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-11-10",
+      "title": "海关总署公告：基于对美方整改措施的评估结果，自11月10日起恢复CHS Inc.等3家企业大豆输华资质",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-10",
+      "title": "西班牙农业部：因禽流感暴发，自11月10日起实施家禽封锁令",
+      "importance": 5,
+      "country": "西班牙"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-11",
+      "title": "刘国中副总理将作为习近平主席特别代表于11月11日出席西芒杜铁矿项目投产仪式",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-11",
+      "title": "AMD将于11月11日举办年度分析师日活动",
+      "importance": 5,
+      "country": "美国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-11",
+      "title": "2025国际实验室创新发展大会将于11月11日至12日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-12",
+      "title": "国务院台湾事务办公室将于11月12日举行新闻发布会，就近期两岸热点问题回答记者提问",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-13",
+      "title": "美国至11月8日当周初请失业金人数(万人)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-14",
+      "title": "国新办就2025年10月份国民经济运行情况举行新闻发布会",
+      "importance": 4,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-14",
+      "title": "美国10月零售销售月率",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-10",
+      "title": "欧元区11月Sentix投资者信心指数",
+      "importance": 3,
+      "country": "欧元区"
+    }
+  ]
+}
