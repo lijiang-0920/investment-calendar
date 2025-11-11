@@ -1,0 +1,130 @@
+{
+  "detection_time": "2025-11-11T03:10:41.323277",
+  "summary": {
+    "total_new": 54,
+    "total_updated": 9,
+    "total_cancelled": 1
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 1,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "中证指数有限公司将于11月11日发布中证沪深港互联互通中国50指数和中证沪深港互联互通中国50红利聚"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 5,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "胜利股份：拟购买控股股东所持燃气类相关资产",
+        "凌志软件：拟购买凯美瑞德100%股权",
+        "2025世界动力电池大会"
+      ]
+    },
+    "tonghuashun": {
+      "new_events": 7,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "中证指数有限公司将于11月11日发布中证沪深港互联互通中国50指数和中证沪深港互联互通中国50红利聚",
+        "AMD将于11月11日举办年度分析师日活动",
+        "刘国中副总理将作为习近平主席特别代表于11月11日出席西芒杜铁矿项目投产仪式"
+      ]
+    },
+    "investing": {
+      "new_events": 21,
+      "updated_events": 9,
+      "cancelled_events": 1,
+      "sample_new_titles": [
+        "日本路透短观指数  (十一月)",
+        "泰国外汇储备(美元)",
+        "新西兰贸易条件指数季率(%) (季度环比)  (第三季度)"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 20,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "*ST广道停复牌",
+        "真爱美家停复牌",
+        "海联讯停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-11-11",
+      "title": "中证指数有限公司将于11月11日发布中证沪深港互联互通中国50指数和中证沪深港互联互通中国50红利聚焦指数",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-11",
+      "title": "中国：M1:同比(报告期:2025年10月)",
+      "importance": 4,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-11",
+      "title": "中国：M0:同比(报告期:2025年10月)",
+      "importance": 4,
+      "country": "中国"
+    },
+    {
+      "platform": "tonghuashun",
+      "date": "2025-11-11",
+      "title": "中证指数有限公司将于11月11日发布中证沪深港互联互通中国50指数和中证沪深港互联互通中国50红利聚焦指数",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "tonghuashun",
+      "date": "2025-11-11",
+      "title": "AMD将于11月11日举办年度分析师日活动",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "tonghuashun",
+      "date": "2025-11-11",
+      "title": "刘国中副总理将作为习近平主席特别代表于11月11日出席西芒杜铁矿项目投产仪式",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "tonghuashun",
+      "date": "2025-11-11",
+      "title": "2025国际实验室创新发展大会将于11月11日至12日举办",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "tonghuashun",
+      "date": "2025-11-12",
+      "title": "2025第四届中国核能高质量发展大会暨深圳国际核能产业创新博览会将于11月12日至14日举办",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "tonghuashun",
+      "date": "2025-11-12",
+      "title": "国务院台湾事务办公室将于11月12日举行新闻发布会，就近期两岸热点问题回答记者提问",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "tonghuashun",
+      "date": "2025-12-11",
+      "title": "美联储FOMC公布利率决议和经济预期摘要。",
+      "importance": 3,
+      "country": "中国"
+    }
+  ]
+}
