@@ -1,101 +1,11 @@
 {
   "platform": "jiuyangongshe",
-  "total_events": 39,
+  "total_events": 40,
   "data_status": "ACTIVE",
   "date_type": "FUTURE",
-  "last_updated": "2025-11-11T03:10:17.533336",
+  "last_updated": "2025-11-12T03:09:06.644383",
   "immutable": false,
   "events": [
-    {
-      "platform": "jiuyangongshe",
-      "event_id": "jygs_ed1cc7f737b94f3596ac52a5fa634543_abf7a41a6f6e4fdd9cfc39ac412d4a50_20251111",
-      "original_id": "ed1cc7f737b94f3596ac52a5fa634543",
-      "event_date": "2025-11-11",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "花旗中国峰会",
-      "content": "",
-      "category": null,
-      "importance": 1,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-11-10",
-      "raw_data": {
-        "article_id": "ed1cc7f737b94f3596ac52a5fa634543",
-        "user_id": "1",
-        "title": "花旗中国峰会",
-        "content": "",
-        "like_count": 1,
-        "comment_count": 0,
-        "forward_count": 0,
-        "is_like": 0,
-        "is_step": 0,
-        "user": {
-          "user_id": "1",
-          "nickname": "韭菜团子"
-        },
-        "timeline": {
-          "article_id": "ed1cc7f737b94f3596ac52a5fa634543",
-          "timeline_id": "abf7a41a6f6e4fdd9cfc39ac412d4a50",
-          "date": "2025-11-11",
-          "grade": 6,
-          "source": "2",
-          "create_time": "2025-10-20 23:19:33",
-          "theme_list": []
-        }
-      },
-      "created_at": "2025-11-10T03:16:07.809251"
-    },
-    {
-      "platform": "jiuyangongshe",
-      "event_id": "jygs_ed4f92cfff374702bb127f3a40e6be5b_3fc5e0f4a493401b90358eafaddd3a73_20251111",
-      "original_id": "ed4f92cfff374702bb127f3a40e6be5b",
-      "event_date": "2025-11-11",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "第十二届中国(苏州)电池新能源产业国际高峰论坛",
-      "content": "",
-      "category": null,
-      "importance": 1,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-11-10",
-      "raw_data": {
-        "article_id": "ed4f92cfff374702bb127f3a40e6be5b",
-        "user_id": "1",
-        "title": "第十二届中国(苏州)电池新能源产业国际高峰论坛",
-        "content": "",
-        "like_count": 0,
-        "comment_count": 0,
-        "forward_count": 0,
-        "is_like": 0,
-        "is_step": 0,
-        "user": {
-          "user_id": "1",
-          "nickname": "韭菜团子"
-        },
-        "timeline": {
-          "article_id": "ed4f92cfff374702bb127f3a40e6be5b",
-          "timeline_id": "3fc5e0f4a493401b90358eafaddd3a73",
-          "date": "2025-11-11",
-          "grade": 6,
-          "source": "2",
-          "create_time": "2025-11-06 21:20:00",
-          "theme_list": []
-        }
-      },
-      "created_at": "2025-11-10T03:16:07.809261"
-    },
     {
       "platform": "jiuyangongshe",
       "event_id": "jygs_2yttps9jasb_4df0555a452c46e083c781d5d83e7d8c_20251112",
@@ -114,7 +24,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "2yttps9jasb",
         "user_id": "07a2aeac7c8145948ddea3f1deb40aa9",
@@ -139,7 +49,52 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T03:16:07.809282"
+      "created_at": "2025-11-11T03:10:21.788470"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_6d0f005b6ce2413c84802f6d084f35b6_a5919e469ede4f1783b520c46736e711_20251112",
+      "original_id": "6d0f005b6ce2413c84802f6d084f35b6",
+      "event_date": "2025-11-12",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025世界动力电池大会",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "article_id": "6d0f005b6ce2413c84802f6d084f35b6",
+        "user_id": "1",
+        "title": "2025世界动力电池大会",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "6d0f005b6ce2413c84802f6d084f35b6",
+          "timeline_id": "a5919e469ede4f1783b520c46736e711",
+          "date": "2025-11-12",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-11-10 23:40:53",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-11-11T03:10:21.788482"
     },
     {
       "platform": "jiuyangongshe",
@@ -159,7 +114,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "daab1114ec8340e78bb9d61fd81fcf62",
         "user_id": "1",
@@ -184,7 +139,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T03:16:07.809331"
+      "created_at": "2025-11-11T03:10:21.788505"
     },
     {
       "platform": "jiuyangongshe",
@@ -204,7 +159,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "4182e65e52944b4b92a5eae1944c4a72",
         "user_id": "1",
@@ -229,7 +184,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T03:16:07.809343"
+      "created_at": "2025-11-11T03:10:21.788514"
     },
     {
       "platform": "jiuyangongshe",
@@ -249,13 +204,13 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "5d15f07d15e64841aabb3c4bca25c6dc",
         "user_id": "1",
         "title": "2025年6G发展大会",
         "content": "",
-        "like_count": 1,
+        "like_count": 2,
         "comment_count": 0,
         "forward_count": 0,
         "is_like": 0,
@@ -274,7 +229,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T03:16:07.809352"
+      "created_at": "2025-11-11T03:10:21.788523"
     },
     {
       "platform": "jiuyangongshe",
@@ -294,7 +249,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "4551189113be459a8effc0c0ce1cf34f",
         "user_id": "1",
@@ -319,7 +274,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T03:16:07.809361"
+      "created_at": "2025-11-11T03:10:21.788532"
     },
     {
       "platform": "jiuyangongshe",
@@ -339,7 +294,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "faf71d1371a4455c98c47f5aea3556a2",
         "user_id": "1",
@@ -364,7 +319,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T03:16:07.809462"
+      "created_at": "2025-11-11T03:10:21.788541"
     },
     {
       "platform": "jiuyangongshe",
@@ -386,7 +341,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "f1af13f0f0fc46c5bf351933aee094b3",
         "user_id": "1",
@@ -416,7 +371,7 @@
           ]
         }
       },
-      "created_at": "2025-11-10T03:16:07.809488"
+      "created_at": "2025-11-11T03:10:21.788560"
     },
     {
       "platform": "jiuyangongshe",
@@ -436,13 +391,13 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "a3342684771f4536b3533ec9e0fd8640",
         "user_id": "1",
         "title": "国际工业大麻博览会",
         "content": "",
-        "like_count": 0,
+        "like_count": 1,
         "comment_count": 0,
         "forward_count": 0,
         "is_like": 0,
@@ -461,7 +416,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T03:16:07.809498"
+      "created_at": "2025-11-11T03:10:21.788569"
     },
     {
       "platform": "jiuyangongshe",
@@ -481,7 +436,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "0276de74198044a1a479a5f587aea83d",
         "user_id": "1",
@@ -506,7 +461,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T03:16:07.809507"
+      "created_at": "2025-11-11T03:10:21.788577"
     },
     {
       "platform": "jiuyangongshe",
@@ -526,7 +481,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "5d532a247fb0475186d2647d0174e07d",
         "user_id": "1",
@@ -551,7 +506,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T03:16:07.809516"
+      "created_at": "2025-11-11T03:10:21.788586"
     },
     {
       "platform": "jiuyangongshe",
@@ -571,7 +526,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "f7d2b292a6514dcfb0f2640fc406e9b0",
         "user_id": "1",
@@ -596,7 +551,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T03:16:07.809525"
+      "created_at": "2025-11-11T03:10:21.788594"
     },
     {
       "platform": "jiuyangongshe",
@@ -616,7 +571,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "2275f6d00e344c24a37b633681a97310",
         "user_id": "1",
@@ -641,7 +596,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T03:16:07.809533"
+      "created_at": "2025-11-11T03:10:21.788603"
     },
     {
       "platform": "jiuyangongshe",
@@ -661,7 +616,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "e1d060ee6d68429d94120694c6e9de1d",
         "user_id": "1",
@@ -686,7 +641,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T03:16:07.809553"
+      "created_at": "2025-11-11T03:10:21.788622"
     },
     {
       "platform": "jiuyangongshe",
@@ -706,7 +661,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "b37463f915db45c8831020d4790b9a94",
         "user_id": "1",
@@ -731,7 +686,52 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T03:16:07.809572"
+      "created_at": "2025-11-11T03:10:21.788640"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_44f7c5e5a8b34a2a969315b43a9a1878_76ae79a289224c37be6db1b8be86bef2_20251117",
+      "original_id": "44f7c5e5a8b34a2a969315b43a9a1878",
+      "event_date": "2025-11-17",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025广州国际家电及消费电子博览会",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "article_id": "44f7c5e5a8b34a2a969315b43a9a1878",
+        "user_id": "1",
+        "title": "2025广州国际家电及消费电子博览会",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "44f7c5e5a8b34a2a969315b43a9a1878",
+          "timeline_id": "76ae79a289224c37be6db1b8be86bef2",
+          "date": "2025-11-17",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-11-10 23:41:15",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-11-11T03:10:21.788649"
     },
     {
       "platform": "jiuyangongshe",
@@ -751,7 +751,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "6a1e9af177714b4da6d4b82e32f4d253",
         "user_id": "1",
@@ -776,7 +776,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T03:16:07.809590"
+      "created_at": "2025-11-11T03:10:21.788667"
     },
     {
       "platform": "jiuyangongshe",
@@ -796,7 +796,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "jftbdtbaqs",
         "user_id": "556bdf1af6fc4af5ac4b0bd9eb08ab16",
@@ -821,7 +821,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T03:16:07.809600"
+      "created_at": "2025-11-11T03:10:21.788676"
     },
     {
       "platform": "jiuyangongshe",
@@ -841,7 +841,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "9eb7883cb7e84d73b15c1bcf9e7a67f4",
         "user_id": "1",
@@ -866,7 +866,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T03:16:07.809609"
+      "created_at": "2025-11-11T03:10:21.788684"
     },
     {
       "platform": "jiuyangongshe",
@@ -885,8 +885,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-10",
+      "is_new": false,
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "0f6870bec1e145228e39ce010215259a",
         "user_id": "1",
@@ -911,7 +911,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T03:16:07.809616"
+      "created_at": "2025-11-11T03:10:21.788693"
     },
     {
       "platform": "jiuyangongshe",
@@ -931,7 +931,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "400532afca074707a182102d00a00940",
         "user_id": "1",
@@ -956,7 +956,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T03:16:07.809630"
+      "created_at": "2025-11-11T03:10:21.788711"
     },
     {
       "platform": "jiuyangongshe",
@@ -976,7 +976,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "d27248eb159144aba24665affa0c4be2",
         "user_id": "1",
@@ -1001,7 +1001,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T03:16:07.809638"
+      "created_at": "2025-11-11T03:10:21.788803"
     },
     {
       "platform": "jiuyangongshe",
@@ -1021,7 +1021,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "d1853ca64a6e48af9de348618287e808",
         "user_id": "1",
@@ -1046,7 +1046,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T03:16:07.809652"
+      "created_at": "2025-11-11T03:10:21.788825"
     },
     {
       "platform": "jiuyangongshe",
@@ -1068,7 +1068,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "e8115b7736f64baf91c569ddfbb9069b",
         "user_id": "1",
@@ -1098,7 +1098,7 @@
           ]
         }
       },
-      "created_at": "2025-11-10T03:16:07.809666"
+      "created_at": "2025-11-11T03:10:21.788841"
     },
     {
       "platform": "jiuyangongshe",
@@ -1118,7 +1118,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "98d900b8850945f0bd75263dd0f525b1",
         "user_id": "1",
@@ -1143,7 +1143,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T03:16:07.809673"
+      "created_at": "2025-11-11T03:10:21.788848"
     },
     {
       "platform": "jiuyangongshe",
@@ -1163,7 +1163,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "75d52e34fdc54adb8f688abd7c2bbb23",
         "user_id": "1",
@@ -1188,7 +1188,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T03:16:07.809688"
+      "created_at": "2025-11-11T03:10:21.788864"
     },
     {
       "platform": "jiuyangongshe",
@@ -1208,7 +1208,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "8ec53df771284dec813ab8fcad401cf3",
         "user_id": "1",
@@ -1233,7 +1233,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T03:16:07.809695"
+      "created_at": "2025-11-11T03:10:21.788871"
     },
     {
       "platform": "jiuyangongshe",
@@ -1253,7 +1253,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "b264dfe588304692921b5d7ac9c9b985",
         "user_id": "1",
@@ -1278,7 +1278,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T03:16:07.809709"
+      "created_at": "2025-11-11T03:10:21.788886"
     },
     {
       "platform": "jiuyangongshe",
@@ -1298,7 +1298,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "5707fe3fc00e4ddab4439cf7f6cbab6e",
         "user_id": "1",
@@ -1323,7 +1323,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T03:16:07.809723"
+      "created_at": "2025-11-11T03:10:21.788902"
     },
     {
       "platform": "jiuyangongshe",
@@ -1343,7 +1343,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "39e3a7a72444420cad16ed8c2dd11e6f",
         "user_id": "1",
@@ -1368,7 +1368,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T03:16:07.809736"
+      "created_at": "2025-11-11T03:10:21.788934"
     },
     {
       "platform": "jiuyangongshe",
@@ -1388,7 +1388,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "fda01d9a8d694a3aaf3baf866031ca85",
         "user_id": "1",
@@ -1413,7 +1413,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T03:16:07.809744"
+      "created_at": "2025-11-11T03:10:21.788943"
     },
     {
       "platform": "jiuyangongshe",
@@ -1433,7 +1433,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "24fb52f6c256442aaf91486b928a7e86",
         "user_id": "1",
@@ -1458,7 +1458,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T03:16:09.727428"
+      "created_at": "2025-11-11T03:10:23.762714"
     },
     {
       "platform": "jiuyangongshe",
@@ -1478,7 +1478,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "9e3ba47b54d946babfcf7a1b7cc1dfb7",
         "user_id": "1",
@@ -1503,7 +1503,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T03:16:09.727463"
+      "created_at": "2025-11-11T03:10:23.762761"
     },
     {
       "platform": "jiuyangongshe",
@@ -1523,7 +1523,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "b33f1965cdc04b8b8a71f0cf09e62569",
         "user_id": "1",
@@ -1548,7 +1548,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T03:16:09.727483"
+      "created_at": "2025-11-11T03:10:23.762788"
     },
     {
       "platform": "jiuyangongshe",
@@ -1568,7 +1568,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "5c9a407113a94b9f85027062ae8907d0",
         "user_id": "1",
@@ -1593,7 +1593,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T03:16:09.727501"
+      "created_at": "2025-11-11T03:10:23.762812"
     },
     {
       "platform": "jiuyangongshe",
@@ -1613,7 +1613,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "4e7p0r2xq9u",
         "user_id": "986cea6de54b4fb4941d8e78ff8308e8",
@@ -1638,7 +1638,52 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T03:16:09.727518"
+      "created_at": "2025-11-11T03:10:23.762834"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_394186f7cf8243e6a37f5dc39e4d2e53_98865e3670ee40918d75fb30fb330797_20251209",
+      "original_id": "394186f7cf8243e6a37f5dc39e4d2e53",
+      "event_date": "2025-12-09",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "Carbontech 2025金刚石年会",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "article_id": "394186f7cf8243e6a37f5dc39e4d2e53",
+        "user_id": "1",
+        "title": "Carbontech 2025金刚石年会",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "394186f7cf8243e6a37f5dc39e4d2e53",
+          "timeline_id": "98865e3670ee40918d75fb30fb330797",
+          "date": "2025-12-09",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-11-10 23:41:55",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-11-11T03:10:23.762846"
     },
     {
       "platform": "jiuyangongshe",
@@ -1660,7 +1705,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "a7ee8c01bd3f497fa7d423bb2afc4c6a",
         "user_id": "1",
@@ -1690,7 +1735,7 @@
           ]
         }
       },
-      "created_at": "2025-11-10T03:16:09.727534"
+      "created_at": "2025-11-11T03:10:23.762867"
     },
     {
       "platform": "jiuyangongshe",
@@ -1710,7 +1755,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "3xrepv06t0t",
         "user_id": "a9f6fd6918814e67a2f3db44d7dde502",
@@ -1735,7 +1780,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T03:16:09.727551"
+      "created_at": "2025-11-11T03:10:23.762887"
     },
     {
       "platform": "jiuyangongshe",
@@ -1757,7 +1802,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "47badf532b0340d697a22e11a8a090a4",
         "user_id": "1",
@@ -1787,7 +1832,7 @@
           ]
         }
       },
-      "created_at": "2025-11-10T03:16:09.727566"
+      "created_at": "2025-11-11T03:10:23.762907"
     }
   ]
 }

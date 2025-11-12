@@ -1,0 +1,129 @@
+{
+  "detection_time": "2025-11-12T03:09:24.100531",
+  "summary": {
+    "total_new": 86,
+    "total_updated": 7,
+    "total_cancelled": 1
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 18,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "上海证券交易所国际投资者大会将于11月12日至13日举行",
+        "2025年中国国际煤炭贸易年会将于11月12日至14日举办",
+        "今日有655亿元7天期逆回购到期"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 2,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "真爱美家：控股股东变更为探迹远擎",
+        "2025量子科技和产业大会"
+      ]
+    },
+    "tonghuashun": {
+      "new_events": 1,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "2025年中国国际煤炭贸易年会将于11月12日至14日举办"
+      ]
+    },
+    "investing": {
+      "new_events": 15,
+      "updated_events": 7,
+      "cancelled_events": 1,
+      "sample_new_titles": [
+        "美国波士顿联储主席柯林斯(Susan Collins)讲话",
+        "中国社会融资规模(人民币十亿元)  (十月)",
+        "新西兰央行利率决议"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 50,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "杭汽轮B停复牌",
+        "*ST广道停复牌",
+        "亚星化学停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-11-12",
+      "title": "上海证券交易所国际投资者大会将于11月12日至13日举行",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-12",
+      "title": "2025年中国国际煤炭贸易年会将于11月12日至14日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-13",
+      "title": "IEA公布月度原油市场报告",
+      "importance": 5,
+      "country": "美国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-13",
+      "title": "第十届不动产证券化合作发展大会将于11月13日在上海举行",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-13",
+      "title": "第21届中国电气工业发展论坛暨第25届中国电气工业100强研究发布将于11月13日举行",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-13",
+      "title": "2025全球半导体市场峰会将于11月13日至14日在上海举行",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-13",
+      "title": "2025（第四届）新能源航空国际论坛将于11月13日至14日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-13",
+      "title": "商务部定于11月13日举行新闻发布会，介绍近期商务领域重点工作有关情况",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-12-08",
+      "title": "证监会公布《证券结算风险基金管理办法》，自2025年12月8日起施行",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-12-10",
+      "title": "2025中国铂族金属市场年会定于12月10日在三亚召开",
+      "importance": 5,
+      "country": "中国"
+    }
+  ]
+}
