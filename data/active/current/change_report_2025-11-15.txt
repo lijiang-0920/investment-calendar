@@ -1,0 +1,122 @@
+{
+  "detection_time": "2025-11-15T03:04:14.329863",
+  "summary": {
+    "total_new": 37,
+    "total_updated": 16,
+    "total_cancelled": 378
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 2,
+      "updated_events": 0,
+      "cancelled_events": 8,
+      "sample_new_titles": [
+        "国务院总理李强将于11月17日至18日出席在俄罗斯莫斯科举行的上海合作组织成员国政府首脑（总理）理事",
+        "第四次中德高级别财金对话将于11月17日在北京举行"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 2,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "第四次中德高级别财金对话将于11月17日在北京举行",
+        "国务院总理李强将于11月17日至18日出席在俄罗斯莫斯科举行的上海合作组织成员国政府首脑（总理）理事"
+      ]
+    },
+    "investing": {
+      "new_events": 33,
+      "updated_events": 16,
+      "cancelled_events": 3,
+      "sample_new_titles": [
+        "韩国贸易帐(韩元)",
+        "英国工业产出月率(%) (同比)  (第三季度)",
+        "欧盟经济预测报告"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 367,
+      "sample_new_titles": []
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-11-17",
+      "title": "国务院总理李强将于11月17日至18日出席在俄罗斯莫斯科举行的上海合作组织成员国政府首脑（总理）理事会第二十四次会议。",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-17",
+      "title": "第四次中德高级别财金对话将于11月17日在北京举行",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "tonghuashun",
+      "date": "2025-11-17",
+      "title": "第四次中德高级别财金对话将于11月17日在北京举行",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "tonghuashun",
+      "date": "2025-11-17",
+      "title": "国务院总理李强将于11月17日至18日出席在俄罗斯莫斯科举行的上海合作组织成员国政府首脑（总理）理事会第二十四次会议。",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "investing",
+      "date": "2025-11-17",
+      "title": "欧盟经济预测报告",
+      "importance": 2,
+      "country": "欧元区"
+    },
+    {
+      "platform": "investing",
+      "date": "2025-11-17",
+      "title": "加拿大新屋开工年化总数(户)",
+      "importance": 2,
+      "country": "加拿大"
+    },
+    {
+      "platform": "investing",
+      "date": "2025-11-18",
+      "title": "美国政府预算(美元)  (十月)",
+      "importance": 2,
+      "country": "美国"
+    },
+    {
+      "platform": "investing",
+      "date": "2025-11-18",
+      "title": "美国明尼阿波利斯联储主席卡什卡里(Neel Kashkari)讲话",
+      "importance": 2,
+      "country": "美国"
+    },
+    {
+      "platform": "investing",
+      "date": "2025-11-19",
+      "title": "美国TIC长期资本净流入",
+      "importance": 2,
+      "country": "美国"
+    },
+    {
+      "platform": "investing",
+      "date": "2025-11-22",
+      "title": "美国商品期货交易委员会投机净仓位-欧元",
+      "importance": 2,
+      "country": "欧元区"
+    }
+  ]
+}
