@@ -1,0 +1,131 @@
+{
+  "detection_time": "2025-11-19T03:08:51.746515",
+  "summary": {
+    "total_new": 78,
+    "total_updated": 17,
+    "total_cancelled": 1
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 13,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "中证指数有限公司将于11月19日正式发布中证2000ESG基准指数和中证2000ESG领先指数",
+        "2025量子科技和产业大会将于11月20日至22日在合肥举办",
+        "东风与华为合作的汽车品牌将于11月20日发布"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 21,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "汇源通信：鼎耘产业将成为公司控股股东",
+        "梦天家居：终止筹划资产购买和控制权变更事项",
+        "华蓝集团：控股股东拟变更为栩桐投资"
+      ]
+    },
+    "tonghuashun": {
+      "new_events": 2,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "中证指数有限公司将于11月19日正式发布中证2000ESG基准指数和中证2000ESG领先指数",
+        "2025青岛虚拟现实创新大会将于11月21日至22日举办"
+      ]
+    },
+    "investing": {
+      "new_events": 23,
+      "updated_events": 17,
+      "cancelled_events": 1,
+      "sample_new_titles": [
+        "美国TIC长期资本净流入  (九月)",
+        "澳大利亚西太平洋领先指标月率(%) (月度环比)  (十月)",
+        "美联储Logan讲话"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 19,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "*ST广道停复牌",
+        "*ST元成停复牌",
+        "杭汽轮B停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-11-19",
+      "title": "中证指数有限公司将于11月19日正式发布中证2000ESG基准指数和中证2000ESG领先指数",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-20",
+      "title": "2025量子科技和产业大会将于11月20日至22日在合肥举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-20",
+      "title": "东风与华为合作的汽车品牌将于11月20日发布",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-20",
+      "title": "《上海期货交易所不锈钢期货合约》《上海期货交易所热轧卷板期货合约》《上海期货交易所不锈钢期货业务细则》《上海期货交易所热轧卷板期货业务细则》自11月20日起实施",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-20",
+      "title": "平潭发展：将于11月20日召开2025年第一次临时股东会",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-20",
+      "title": "CDCC2025数据中心标准大会将于11月20日至21日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-20",
+      "title": "2025华为乾崑生态大会将于11月20日在广州举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-20",
+      "title": "2025量子科技和产业大会将于11月20日至22日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-20",
+      "title": "广汽集团与华为联合打造的全新品牌“启境”将于11月20日发布",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-20",
+      "title": "2025光刻胶及集成电路材料先进技术和产业应用研讨会将于11月20日至21日举办",
+      "importance": 5,
+      "country": "中国"
+    }
+  ]
+}
