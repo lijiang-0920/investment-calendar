@@ -1,0 +1,128 @@
+{
+  "detection_time": "2025-11-20T03:06:41.230175",
+  "summary": {
+    "total_new": 75,
+    "total_updated": 23,
+    "total_cancelled": 3
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 10,
+      "updated_events": 0,
+      "cancelled_events": 1,
+      "sample_new_titles": [
+        "国台办：11月20日起，扩大可签发一次有效台湾居民来往大陆通行证口岸数量至100个",
+        "国务院总理李强将于11月21日至23日出席在南非约翰内斯堡举行的二十国集团领导人第二十次峰会",
+        "恒指公司：将于11月21日宣布2025年第三季度之恒生指数系列检讨结果"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 10,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "平潭发展：将于11月20日召开2025年第一次临时股东会",
+        "东风与华为合作的汽车品牌将于11月20日发布",
+        "《上海期货交易所不锈钢期货合约》《上海期货交易所热轧卷板期货合约》《上海期货交易所不锈钢期货业务细则"
+      ]
+    },
+    "investing": {
+      "new_events": 35,
+      "updated_events": 23,
+      "cancelled_events": 2,
+      "sample_new_titles": [
+        "亚特兰大联储GDPNow经济增长预测  (第四季度)",
+        "加拿大制造业装船月率(%) (月度环比)  (十月)",
+        "美国商品期货交易委员会投机净仓位-欧元"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 20,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "*ST元成停复牌",
+        "信达证券停复牌",
+        "*ST广道停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-11-20",
+      "title": "国台办：11月20日起，扩大可签发一次有效台湾居民来往大陆通行证口岸数量至100个",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-21",
+      "title": "国务院总理李强将于11月21日至23日出席在南非约翰内斯堡举行的二十国集团领导人第二十次峰会",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-21",
+      "title": "恒指公司：将于11月21日宣布2025年第三季度之恒生指数系列检讨结果",
+      "importance": 5,
+      "country": "中国香港"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-21",
+      "title": "鸿海科技日将于11月21日至22日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-21",
+      "title": "博雷顿无驾驶室纯电动矿卡下线仪式暨新车发布会将于11月21日举行",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-21",
+      "title": "摩尔线程将于11月21日进行网上路演，参加人员为发行人管理层主要成员和保荐人(主承销商)相关人员",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-12-17",
+      "title": "2025小米人车家全生态合作伙伴大会将于12月17日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-12-19",
+      "title": "摩尔线程MUSA开发者大会定档12月19日，将发布全新产品和架构",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-21",
+      "title": "日本：进口金额：当月值(报告期:2025年10月)",
+      "importance": 4,
+      "country": "日本"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-21",
+      "title": "日本：贸易差额：当月值(报告期:2025年10月)",
+      "importance": 4,
+      "country": "日本"
+    }
+  ]
+}
