@@ -1,551 +1,11 @@
 {
   "platform": "cls",
-  "total_events": 37,
+  "total_events": 31,
   "data_status": "ACTIVE",
   "date_type": "FUTURE",
-  "last_updated": "2025-11-20T03:06:24.179599",
+  "last_updated": "2025-11-21T03:07:23.688255",
   "immutable": false,
   "events": [
-    {
-      "platform": "cls",
-      "event_id": "cls_373351_20251120_2",
-      "original_id": "373351",
-      "event_date": "2025-11-20",
-      "event_time": "00:00:00",
-      "event_datetime": "2025-11-20 00:00:00",
-      "title": "2025世界计算大会将于11月20日在长沙举行",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-11-19",
-      "raw_data": {
-        "id": 373351,
-        "calendar_time": "2025-11-20 00:00:00",
-        "data_id": 20150,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "2025世界计算大会将于11月20日在长沙举行",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "2025世界计算大会将于11月20日在长沙举行"
-      },
-      "created_at": "2025-11-19T03:08:35.936535"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_373354_20251120_2",
-      "original_id": "373354",
-      "event_date": "2025-11-20",
-      "event_time": "00:00:00",
-      "event_datetime": "2025-11-20 00:00:00",
-      "title": "第二届中国数据产业发展大会将于11月20日在广东举办",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-11-19",
-      "raw_data": {
-        "id": 373354,
-        "calendar_time": "2025-11-20 00:00:00",
-        "data_id": 20151,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "第二届中国数据产业发展大会将于11月20日在广东举办",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "第二届中国数据产业发展大会将于11月20日在广东举办"
-      },
-      "created_at": "2025-11-19T03:08:35.936546"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_373361_20251120_2",
-      "original_id": "373361",
-      "event_date": "2025-11-20",
-      "event_time": "00:00:00",
-      "event_datetime": "2025-11-20 00:00:00",
-      "title": "2025中国锂产业发展大会将于11月20日在厦门召开",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-11-19",
-      "raw_data": {
-        "id": 373361,
-        "calendar_time": "2025-11-20 00:00:00",
-        "data_id": 20152,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "2025中国锂产业发展大会将于11月20日在厦门召开",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "2025中国锂产业发展大会将于11月20日在厦门召开"
-      },
-      "created_at": "2025-11-19T03:08:35.936556"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_385920_20251120_2",
-      "original_id": "385920",
-      "event_date": "2025-11-20",
-      "event_time": "00:00:00",
-      "event_datetime": "2025-11-20 00:00:00",
-      "title": "2025量子科技和产业大会将于11月20日至22日在合肥举办",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-19",
-      "raw_data": {
-        "id": 385920,
-        "calendar_time": "2025-11-20 00:00:00",
-        "data_id": 20234,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "2025量子科技和产业大会将于11月20日至22日在合肥举办",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "2025量子科技和产业大会将于11月20日至22日在合肥举办"
-      },
-      "created_at": "2025-11-19T03:08:35.936566"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_385933_20251120_2",
-      "original_id": "385933",
-      "event_date": "2025-11-20",
-      "event_time": "00:00:00",
-      "event_datetime": "2025-11-20 00:00:00",
-      "title": "东风与华为合作的汽车品牌将于11月20日发布",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-19",
-      "raw_data": {
-        "id": 385933,
-        "calendar_time": "2025-11-20 00:00:00",
-        "data_id": 20236,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "东风与华为合作的汽车品牌将于11月20日发布",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "东风与华为合作的汽车品牌将于11月20日发布"
-      },
-      "created_at": "2025-11-19T03:08:35.936575"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_385942_20251120_2",
-      "original_id": "385942",
-      "event_date": "2025-11-20",
-      "event_time": "00:00:00",
-      "event_datetime": "2025-11-20 00:00:00",
-      "title": "《上海期货交易所不锈钢期货合约》《上海期货交易所热轧卷板期货合约》《上海期货交易所不锈钢期货业务细则》《上海期货交易所热轧卷板期货业务细则》自11月20日起实施",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-19",
-      "raw_data": {
-        "id": 385942,
-        "calendar_time": "2025-11-20 00:00:00",
-        "data_id": 20237,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "《上海期货交易所不锈钢期货合约》《上海期货交易所热轧卷板期货合约》《上海期货交易所不锈钢期货业务细则》《上海期货交易所热轧卷板期货业务细则》自11月20日起实施",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "《上海期货交易所不锈钢期货合约》《上海期货交易所热轧卷板期货合约》《上海期货交易所不锈钢期货业务细则》《上海期货交易所热轧卷板期货业务细则》自11月20日起实施"
-      },
-      "created_at": "2025-11-19T03:08:35.936585"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_385944_20251120_2",
-      "original_id": "385944",
-      "event_date": "2025-11-20",
-      "event_time": "00:00:00",
-      "event_datetime": "2025-11-20 00:00:00",
-      "title": "平潭发展：将于11月20日召开2025年第一次临时股东会",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-19",
-      "raw_data": {
-        "id": 385944,
-        "calendar_time": "2025-11-20 00:00:00",
-        "data_id": 20238,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "平潭发展：将于11月20日召开2025年第一次临时股东会",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "平潭发展：将于11月20日召开2025年第一次临时股东会"
-      },
-      "created_at": "2025-11-19T03:08:35.936596"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_385950_20251120_2",
-      "original_id": "385950",
-      "event_date": "2025-11-20",
-      "event_time": "00:00:00",
-      "event_datetime": "2025-11-20 00:00:00",
-      "title": "CDCC2025数据中心标准大会将于11月20日至21日举办",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-19",
-      "raw_data": {
-        "id": 385950,
-        "calendar_time": "2025-11-20 00:00:00",
-        "data_id": 20239,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "CDCC2025数据中心标准大会将于11月20日至21日举办",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "CDCC2025数据中心标准大会将于11月20日至21日举办"
-      },
-      "created_at": "2025-11-19T03:08:35.936606"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_385953_20251120_2",
-      "original_id": "385953",
-      "event_date": "2025-11-20",
-      "event_time": "00:00:00",
-      "event_datetime": "2025-11-20 00:00:00",
-      "title": "2025华为乾崑生态大会将于11月20日在广州举办",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-19",
-      "raw_data": {
-        "id": 385953,
-        "calendar_time": "2025-11-20 00:00:00",
-        "data_id": 20240,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "2025华为乾崑生态大会将于11月20日在广州举办",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "2025华为乾崑生态大会将于11月20日在广州举办"
-      },
-      "created_at": "2025-11-19T03:08:35.936616"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_385955_20251120_2",
-      "original_id": "385955",
-      "event_date": "2025-11-20",
-      "event_time": "00:00:00",
-      "event_datetime": "2025-11-20 00:00:00",
-      "title": "2025量子科技和产业大会将于11月20日至22日举办",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-19",
-      "raw_data": {
-        "id": 385955,
-        "calendar_time": "2025-11-20 00:00:00",
-        "data_id": 20241,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "2025量子科技和产业大会将于11月20日至22日举办",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "2025量子科技和产业大会将于11月20日至22日举办"
-      },
-      "created_at": "2025-11-19T03:08:35.936626"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_385962_20251120_2",
-      "original_id": "385962",
-      "event_date": "2025-11-20",
-      "event_time": "00:00:00",
-      "event_datetime": "2025-11-20 00:00:00",
-      "title": "广汽集团与华为联合打造的全新品牌“启境”将于11月20日发布",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-19",
-      "raw_data": {
-        "id": 385962,
-        "calendar_time": "2025-11-20 00:00:00",
-        "data_id": 20242,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "广汽集团与华为联合打造的全新品牌“启境”将于11月20日发布",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "广汽集团与华为联合打造的全新品牌“启境”将于11月20日发布"
-      },
-      "created_at": "2025-11-19T03:08:35.936636"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_385966_20251120_2",
-      "original_id": "385966",
-      "event_date": "2025-11-20",
-      "event_time": "00:00:00",
-      "event_datetime": "2025-11-20 00:00:00",
-      "title": "2025光刻胶及集成电路材料先进技术和产业应用研讨会将于11月20日至21日举办",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-19",
-      "raw_data": {
-        "id": 385966,
-        "calendar_time": "2025-11-20 00:00:00",
-        "data_id": 20243,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "2025光刻胶及集成电路材料先进技术和产业应用研讨会将于11月20日至21日举办",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "2025光刻胶及集成电路材料先进技术和产业应用研讨会将于11月20日至21日举办"
-      },
-      "created_at": "2025-11-19T03:08:35.936646"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_385916_20251120_2",
-      "original_id": "385916",
-      "event_date": "2025-11-20",
-      "event_time": "09:20:00",
-      "event_datetime": "2025-11-20 09:20:00",
-      "title": "今日有1900亿元7天期逆回购到期",
-      "content": null,
-      "category": "事件公告",
-      "importance": 2,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-19",
-      "raw_data": {
-        "id": 385916,
-        "calendar_time": "2025-11-20 09:20:00",
-        "data_id": 20233,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "今日有1900亿元7天期逆回购到期",
-          "country": "中国",
-          "country_icon": "",
-          "star": 2
-        },
-        "holiday": null,
-        "title": "今日有1900亿元7天期逆回购到期"
-      },
-      "created_at": "2025-11-19T03:08:35.936656"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_328124_20251120_2",
-      "original_id": "328124",
-      "event_date": "2025-11-20",
-      "event_time": "11:00:00",
-      "event_datetime": "2025-11-20 11:00:00",
-      "title": "美联储公布货币政策会议纪要",
-      "content": null,
-      "category": "事件公告",
-      "importance": 3,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-11-19",
-      "raw_data": {
-        "id": 328124,
-        "calendar_time": "2025-11-20 11:00:00",
-        "data_id": 19747,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "美联储公布货币政策会议纪要",
-          "country": "美国",
-          "country_icon": "",
-          "star": 3
-        },
-        "holiday": null,
-        "title": "美联储公布货币政策会议纪要"
-      },
-      "created_at": "2025-11-19T03:08:35.936666"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_385927_20251120_2",
-      "original_id": "385927",
-      "event_date": "2025-11-20",
-      "event_time": "15:00:00",
-      "event_datetime": "2025-11-20 15:00:00",
-      "title": "商务部定于11月20日举行新闻发布会，介绍近期商务领域重点工作有关情况，并答记者问",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-19",
-      "raw_data": {
-        "id": 385927,
-        "calendar_time": "2025-11-20 15:00:00",
-        "data_id": 20235,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "商务部定于11月20日举行新闻发布会，介绍近期商务领域重点工作有关情况，并答记者问",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "商务部定于11月20日举行新闻发布会，介绍近期商务领域重点工作有关情况，并答记者问"
-      },
-      "created_at": "2025-11-19T03:08:35.936676"
-    },
     {
       "platform": "cls",
       "event_id": "cls_336857_20251121_2",
@@ -564,7 +24,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-19",
+      "discovery_date": "2025-11-20",
       "raw_data": {
         "id": 336857,
         "calendar_time": "2025-11-21 00:00:00",
@@ -580,7 +40,7 @@
         "holiday": null,
         "title": "中国稀土学会2025学术年会暨稀土新材料与仪器设备展览会定于11月21日至24日在福建省厦门市召开"
       },
-      "created_at": "2025-11-19T03:08:35.936686"
+      "created_at": "2025-11-20T03:06:25.535343"
     },
     {
       "platform": "cls",
@@ -600,7 +60,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-19",
+      "discovery_date": "2025-11-20",
       "raw_data": {
         "id": 336860,
         "calendar_time": "2025-11-21 00:00:00",
@@ -616,7 +76,7 @@
         "holiday": null,
         "title": "2025第二十三届广州国际汽车展览会将于11月21日至30日举办"
       },
-      "created_at": "2025-11-19T03:08:35.936696"
+      "created_at": "2025-11-20T03:06:25.535353"
     },
     {
       "platform": "cls",
@@ -636,7 +96,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-19",
+      "discovery_date": "2025-11-20",
       "raw_data": {
         "id": 373364,
         "calendar_time": "2025-11-21 00:00:00",
@@ -652,7 +112,7 @@
         "holiday": null,
         "title": "第23届广州国际汽车展览会将于11月21日至30日举办"
       },
-      "created_at": "2025-11-19T03:08:35.936706"
+      "created_at": "2025-11-20T03:06:25.535364"
     },
     {
       "platform": "cls",
@@ -672,7 +132,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-19",
+      "discovery_date": "2025-11-20",
       "raw_data": {
         "id": 373369,
         "calendar_time": "2025-11-21 00:00:00",
@@ -688,7 +148,7 @@
         "holiday": null,
         "title": "2025中国5G+工业互联网大会将于11月21日至23日在湖北武汉举办"
       },
-      "created_at": "2025-11-19T03:08:35.936715"
+      "created_at": "2025-11-20T03:06:25.535375"
     },
     {
       "platform": "cls",
@@ -707,8 +167,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-19",
+      "is_new": false,
+      "discovery_date": "2025-11-20",
       "raw_data": {
         "id": 384173,
         "calendar_time": "2025-11-21 00:00:00",
@@ -724,7 +184,259 @@
         "holiday": null,
         "title": "2025青岛虚拟现实创新大会将于11月21日至22日举办"
       },
-      "created_at": "2025-11-19T03:08:35.936725"
+      "created_at": "2025-11-20T03:06:25.535386"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_388489_20251121_2",
+      "original_id": "388489",
+      "event_date": "2025-11-21",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-11-21 00:00:00",
+      "title": "国务院总理李强将于11月21日至23日出席在南非约翰内斯堡举行的二十国集团领导人第二十次峰会",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-20",
+      "raw_data": {
+        "id": 388489,
+        "calendar_time": "2025-11-21 00:00:00",
+        "data_id": 20257,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "国务院总理李强将于11月21日至23日出席在南非约翰内斯堡举行的二十国集团领导人第二十次峰会",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "国务院总理李强将于11月21日至23日出席在南非约翰内斯堡举行的二十国集团领导人第二十次峰会"
+      },
+      "created_at": "2025-11-20T03:06:25.535396"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_388495_20251121_2",
+      "original_id": "388495",
+      "event_date": "2025-11-21",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-11-21 00:00:00",
+      "title": "恒指公司：将于11月21日宣布2025年第三季度之恒生指数系列检讨结果",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国香港",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-20",
+      "raw_data": {
+        "id": 388495,
+        "calendar_time": "2025-11-21 00:00:00",
+        "data_id": 20258,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "恒指公司：将于11月21日宣布2025年第三季度之恒生指数系列检讨结果",
+          "country": "中国香港",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "恒指公司：将于11月21日宣布2025年第三季度之恒生指数系列检讨结果"
+      },
+      "created_at": "2025-11-20T03:06:25.535406"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_388508_20251121_2",
+      "original_id": "388508",
+      "event_date": "2025-11-21",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-11-21 00:00:00",
+      "title": "鸿海科技日将于11月21日至22日举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-20",
+      "raw_data": {
+        "id": 388508,
+        "calendar_time": "2025-11-21 00:00:00",
+        "data_id": 20259,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "鸿海科技日将于11月21日至22日举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "鸿海科技日将于11月21日至22日举办"
+      },
+      "created_at": "2025-11-20T03:06:25.535417"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_388534_20251121_2",
+      "original_id": "388534",
+      "event_date": "2025-11-21",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-11-21 00:00:00",
+      "title": "博雷顿无驾驶室纯电动矿卡下线仪式暨新车发布会将于11月21日举行",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-20",
+      "raw_data": {
+        "id": 388534,
+        "calendar_time": "2025-11-21 00:00:00",
+        "data_id": 20260,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "博雷顿无驾驶室纯电动矿卡下线仪式暨新车发布会将于11月21日举行",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "博雷顿无驾驶室纯电动矿卡下线仪式暨新车发布会将于11月21日举行"
+      },
+      "created_at": "2025-11-20T03:06:25.535427"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_383277_20251121_2",
+      "original_id": "383277",
+      "event_date": "2025-11-21",
+      "event_time": "08:00:00",
+      "event_datetime": "2025-11-21 08:00:00",
+      "title": "华为将发布AI领域突破性技术，有望解决算力资源利用效率难题。",
+      "content": null,
+      "category": "事件公告",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-20",
+      "raw_data": {
+        "id": 383277,
+        "calendar_time": "2025-11-21 08:00:00",
+        "data_id": 20171,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "华为将发布AI领域突破性技术，有望解决算力资源利用效率难题。",
+          "country": "中国",
+          "country_icon": "",
+          "star": 3
+        },
+        "holiday": null,
+        "title": "华为将发布AI领域突破性技术，有望解决算力资源利用效率难题。"
+      },
+      "created_at": "2025-11-20T03:06:25.535437"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_388479_20251121_2",
+      "original_id": "388479",
+      "event_date": "2025-11-21",
+      "event_time": "09:20:00",
+      "event_datetime": "2025-11-21 09:20:00",
+      "title": "今日有2128亿元7天期逆回购到期",
+      "content": null,
+      "category": "事件公告",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-20",
+      "raw_data": {
+        "id": 388479,
+        "calendar_time": "2025-11-21 09:20:00",
+        "data_id": 20254,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "今日有2128亿元7天期逆回购到期",
+          "country": "中国",
+          "country_icon": "",
+          "star": 2
+        },
+        "holiday": null,
+        "title": "今日有2128亿元7天期逆回购到期"
+      },
+      "created_at": "2025-11-20T03:06:25.535448"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_388483_20251121_2",
+      "original_id": "388483",
+      "event_date": "2025-11-21",
+      "event_time": "14:00:00",
+      "event_datetime": "2025-11-21 14:00:00",
+      "title": "摩尔线程将于11月21日进行网上路演，参加人员为发行人管理层主要成员和保荐人(主承销商)相关人员",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-20",
+      "raw_data": {
+        "id": 388483,
+        "calendar_time": "2025-11-21 14:00:00",
+        "data_id": 20255,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "摩尔线程将于11月21日进行网上路演，参加人员为发行人管理层主要成员和保荐人(主承销商)相关人员",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "摩尔线程将于11月21日进行网上路演，参加人员为发行人管理层主要成员和保荐人(主承销商)相关人员"
+      },
+      "created_at": "2025-11-20T03:06:25.535458"
     },
     {
       "platform": "cls",
@@ -744,7 +456,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-19",
+      "discovery_date": "2025-11-20",
       "raw_data": {
         "id": 373376,
         "calendar_time": "2025-11-24 00:00:00",
@@ -760,7 +472,7 @@
         "holiday": null,
         "title": "国际指数编制公司MSCI发布11月指数调整结果，所有调整将于11月24日收盘后实施"
       },
-      "created_at": "2025-11-19T03:08:35.936735"
+      "created_at": "2025-11-20T03:06:25.535469"
     },
     {
       "platform": "cls",
@@ -780,7 +492,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-19",
+      "discovery_date": "2025-11-20",
       "raw_data": {
         "id": 373379,
         "calendar_time": "2025-11-24 00:00:00",
@@ -796,7 +508,7 @@
         "holiday": null,
         "title": "中国汽车工业协会：2025中国汽车供应链大会于11月24日至26日召开"
       },
-      "created_at": "2025-11-19T03:08:35.936745"
+      "created_at": "2025-11-20T03:06:25.535479"
     },
     {
       "platform": "cls",
@@ -816,7 +528,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-19",
+      "discovery_date": "2025-11-20",
       "raw_data": {
         "id": 336854,
         "calendar_time": "2025-11-25 00:00:00",
@@ -832,7 +544,7 @@
         "holiday": null,
         "title": "国际铜业协会日中国论坛将于11月25日在上海举行"
       },
-      "created_at": "2025-11-19T03:08:35.936755"
+      "created_at": "2025-11-20T03:06:25.535490"
     },
     {
       "platform": "cls",
@@ -852,7 +564,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-19",
+      "discovery_date": "2025-11-20",
       "raw_data": {
         "id": 382284,
         "calendar_time": "2025-11-25 00:00:00",
@@ -868,7 +580,7 @@
         "holiday": null,
         "title": "华为Mate 80系列将于11月25日发布"
       },
-      "created_at": "2025-11-19T03:08:35.936765"
+      "created_at": "2025-11-20T03:06:25.535500"
     },
     {
       "platform": "cls",
@@ -888,7 +600,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-19",
+      "discovery_date": "2025-11-20",
       "raw_data": {
         "id": 336979,
         "calendar_time": "2025-11-27 00:00:00",
@@ -904,7 +616,7 @@
         "holiday": null,
         "title": "亚洲通用航空展将于11月27日至30日在珠海举行"
       },
-      "created_at": "2025-11-19T03:08:35.936775"
+      "created_at": "2025-11-20T03:06:25.535511"
     },
     {
       "platform": "cls",
@@ -924,7 +636,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-19",
+      "discovery_date": "2025-11-20",
       "raw_data": {
         "id": 333570,
         "calendar_time": "2025-11-27 11:00:00",
@@ -940,7 +652,7 @@
         "holiday": null,
         "title": "美联储公布经济状况褐皮书"
       },
-      "created_at": "2025-11-19T03:08:35.936785"
+      "created_at": "2025-11-20T03:06:25.535521"
     },
     {
       "platform": "cls",
@@ -960,7 +672,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-19",
+      "discovery_date": "2025-11-20",
       "raw_data": {
         "id": 328148,
         "calendar_time": "2025-11-28 00:00:00",
@@ -976,7 +688,7 @@
         "holiday": null,
         "title": "2025第三届新质生产力汽车大会将于11月28日至30日召开"
       },
-      "created_at": "2025-11-19T03:08:35.936795"
+      "created_at": "2025-11-20T03:06:25.535532"
     },
     {
       "platform": "cls",
@@ -996,7 +708,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-19",
+      "discovery_date": "2025-11-20",
       "raw_data": {
         "id": 328149,
         "calendar_time": "2025-11-28 00:00:00",
@@ -1012,7 +724,7 @@
         "holiday": null,
         "title": "2025软件技术大会将于11月28日在北京举行"
       },
-      "created_at": "2025-11-19T03:08:35.936805"
+      "created_at": "2025-11-20T03:06:25.535543"
     },
     {
       "platform": "cls",
@@ -1032,7 +744,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-19",
+      "discovery_date": "2025-11-20",
       "raw_data": {
         "id": 336833,
         "calendar_time": "2025-11-28 00:00:00",
@@ -1048,7 +760,7 @@
         "holiday": null,
         "title": "鸿蒙星光盛典将于11月28日在深圳举行"
       },
-      "created_at": "2025-11-19T03:08:35.936815"
+      "created_at": "2025-11-20T03:06:25.535553"
     },
     {
       "platform": "cls",
@@ -1068,7 +780,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-19",
+      "discovery_date": "2025-11-20",
       "raw_data": {
         "id": 336838,
         "calendar_time": "2025-11-28 00:00:00",
@@ -1084,7 +796,7 @@
         "holiday": null,
         "title": "恒生生物科技指数期货将于11月28日开始交易"
       },
-      "created_at": "2025-11-19T03:08:35.936825"
+      "created_at": "2025-11-20T03:06:25.535564"
     },
     {
       "platform": "cls",
@@ -1104,7 +816,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-19",
+      "discovery_date": "2025-11-20",
       "raw_data": {
         "id": 371647,
         "calendar_time": "2025-12-08 00:00:00",
@@ -1120,7 +832,7 @@
         "holiday": null,
         "title": "证监会公布《证券结算风险基金管理办法》，自2025年12月8日起施行"
       },
-      "created_at": "2025-11-19T03:08:35.936835"
+      "created_at": "2025-11-20T03:06:25.535575"
     },
     {
       "platform": "cls",
@@ -1140,7 +852,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-19",
+      "discovery_date": "2025-11-20",
       "raw_data": {
         "id": 360984,
         "calendar_time": "2025-12-08 08:00:00",
@@ -1156,7 +868,7 @@
         "holiday": null,
         "title": "国内成品油将开启新一轮调价窗口"
       },
-      "created_at": "2025-11-19T03:08:35.936846"
+      "created_at": "2025-11-20T03:06:25.535586"
     },
     {
       "platform": "cls",
@@ -1176,7 +888,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-19",
+      "discovery_date": "2025-11-20",
       "raw_data": {
         "id": 371638,
         "calendar_time": "2025-12-10 00:00:00",
@@ -1192,7 +904,7 @@
         "holiday": null,
         "title": "2025中国铂族金属市场年会定于12月10日在三亚召开"
       },
-      "created_at": "2025-11-19T03:08:35.936856"
+      "created_at": "2025-11-20T03:06:25.535597"
     },
     {
       "platform": "cls",
@@ -1212,7 +924,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-19",
+      "discovery_date": "2025-11-20",
       "raw_data": {
         "id": 366026,
         "calendar_time": "2025-12-10 09:00:00",
@@ -1228,7 +940,7 @@
         "holiday": null,
         "title": "EIA公布月度短期能源展望报告"
       },
-      "created_at": "2025-11-19T03:08:35.936866"
+      "created_at": "2025-11-20T03:06:25.535607"
     },
     {
       "platform": "cls",
@@ -1248,7 +960,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-19",
+      "discovery_date": "2025-11-20",
       "raw_data": {
         "id": 371641,
         "calendar_time": "2025-12-15 00:00:00",
@@ -1264,7 +976,43 @@
         "holiday": null,
         "title": "2025中国汽车软件大会将于12月15日至16日在上海嘉定召开"
       },
-      "created_at": "2025-11-19T03:08:35.936876"
+      "created_at": "2025-11-20T03:06:25.535619"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_388557_20251217_2",
+      "original_id": "388557",
+      "event_date": "2025-12-17",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-12-17 00:00:00",
+      "title": "2025小米人车家全生态合作伙伴大会将于12月17日举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-20",
+      "raw_data": {
+        "id": 388557,
+        "calendar_time": "2025-12-17 00:00:00",
+        "data_id": 20261,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "2025小米人车家全生态合作伙伴大会将于12月17日举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "2025小米人车家全生态合作伙伴大会将于12月17日举办"
+      },
+      "created_at": "2025-11-20T03:06:25.535630"
     },
     {
       "platform": "cls",
@@ -1284,7 +1032,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-19",
+      "discovery_date": "2025-11-20",
       "raw_data": {
         "id": 371649,
         "calendar_time": "2025-12-18 00:00:00",
@@ -1300,7 +1048,7 @@
         "holiday": null,
         "title": "12月18日，海南自由贸易港正式启动全岛封关运作"
       },
-      "created_at": "2025-11-19T03:08:35.936886"
+      "created_at": "2025-11-20T03:06:25.535640"
     },
     {
       "platform": "cls",
@@ -1320,7 +1068,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-19",
+      "discovery_date": "2025-11-20",
       "raw_data": {
         "id": 371643,
         "calendar_time": "2025-12-19 00:00:00",
@@ -1336,7 +1084,43 @@
         "holiday": null,
         "title": "2025进博优品交易会将于12月19日至21日在上海举办"
       },
-      "created_at": "2025-11-19T03:08:35.936896"
+      "created_at": "2025-11-20T03:06:25.535652"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_388559_20251219_2",
+      "original_id": "388559",
+      "event_date": "2025-12-19",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-12-19 00:00:00",
+      "title": "摩尔线程MUSA开发者大会定档12月19日，将发布全新产品和架构",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-20",
+      "raw_data": {
+        "id": 388559,
+        "calendar_time": "2025-12-19 00:00:00",
+        "data_id": 20262,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "摩尔线程MUSA开发者大会定档12月19日，将发布全新产品和架构",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "摩尔线程MUSA开发者大会定档12月19日，将发布全新产品和架构"
+      },
+      "created_at": "2025-11-20T03:06:25.535662"
     }
   ]
 }

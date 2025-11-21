@@ -1,0 +1,130 @@
+{
+  "detection_time": "2025-11-21T03:07:41.873537",
+  "summary": {
+    "total_new": 63,
+    "total_updated": 37,
+    "total_cancelled": 6
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 7,
+      "updated_events": 0,
+      "cancelled_events": 1,
+      "sample_new_titles": [
+        "华为将在11月21日发布AI领域的突破性技术，有望解决算力资源利用效率的难题",
+        "华为将于11月21日在上海举办2025AI容器应用落地与发展论坛",
+        "2025RISC-V产业发展大会暨RDSA国际论坛将于11月24日至25日在珠海、澳门联动举办"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 1,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "平潭发展：停牌核查结束"
+      ]
+    },
+    "tonghuashun": {
+      "new_events": 9,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "鸿海科技日将于11月21日至22日举办",
+        "恒指公司：将于11月21日宣布2025年第三季度之恒生指数系列检讨结果",
+        "国务院总理李强将于11月21日至23日出席在南非约翰内斯堡举行的二十国集团领导人第二十次峰会"
+      ]
+    },
+    "investing": {
+      "new_events": 19,
+      "updated_events": 37,
+      "cancelled_events": 5,
+      "sample_new_titles": [
+        "美国联邦储备银行储备金余额",
+        "印度尼西亚M2货币供应年率(%) (同比)  (十月)",
+        "中国实际外商直接投资年率(%)  (十月)"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 27,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "*ST元成停复牌",
+        "东兴证券停复牌",
+        "杭汽轮B停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-11-21",
+      "title": "华为将在11月21日发布AI领域的突破性技术，有望解决算力资源利用效率的难题",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-21",
+      "title": "华为将于11月21日在上海举办2025AI容器应用落地与发展论坛",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-24",
+      "title": "2025RISC-V产业发展大会暨RDSA国际论坛将于11月24日至25日在珠海、澳门联动举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-24",
+      "title": "2025全球BC技术创新峰会将于11月24日至25日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-24",
+      "title": "2025年第二届中国国际锂业大会将于11月24日至26日在四川举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-01-20",
+      "title": "首届北京中关村学院青年论坛将于2月20日至21日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-26",
+      "title": "美国：DOE原油引申需求:当周值(报告期:2025年11月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-26",
+      "title": "美国：EIA精炼油库存:变动值(报告期:2025年11月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-26",
+      "title": "美国：EIA原油库存:变动值(报告期:2025年11月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-11-26",
+      "title": "美国：EIA俄克拉荷马州库欣原油库存:当周值(报告期:2025年11月)",
+      "importance": 4,
+      "country": "美国"
+    }
+  ]
+}
