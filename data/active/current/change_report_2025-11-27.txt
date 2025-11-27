@@ -1,0 +1,128 @@
+{
+  "detection_time": "2025-11-27T03:08:38.276744",
+  "summary": {
+    "total_new": 108,
+    "total_updated": 26,
+    "total_cancelled": 2
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 5,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "【美国】纽交所，休市一日",
+        "中国贸促会11月27日召开11月例行新闻发布会",
+        "国家发改委11月27日召开11月份新闻发布会"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 22,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "2025世界智能制造大会将于11月27日至29日在江苏南京举行",
+        "国新办11月27日举行例行吹风会，介绍增强消费品供需适配性进一步促进消费政策措施有关情况",
+        "阿里巴巴首款自研旗舰双显AI眼镜夸克AI眼镜2025新品发布会将于11月27日举办"
+      ]
+    },
+    "investing": {
+      "new_events": 38,
+      "updated_events": 26,
+      "cancelled_events": 2,
+      "sample_new_titles": [
+        "日本央行行长植田和男讲话",
+        "澳大利亚商品价格年率(%) (同比)  (十一月)",
+        "美国联邦储备银行储备金余额"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 43,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "*ST元成停复牌",
+        "凯众股份停复牌",
+        "华锋股份停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-11-27",
+      "title": "中国贸促会11月27日召开11月例行新闻发布会",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-11-27",
+      "title": "国家发改委11月27日召开11月份新闻发布会",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-12-03",
+      "title": "第七届海南岛国际电影节将于12月3日至12月9日在三亚举行",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-05",
+      "title": "美国:PCE物价指数:季调(报告期:2025年09月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-05",
+      "title": "美国:核心PCE物价指数:季调:环比(报告期:2025年10月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-05",
+      "title": "美国:核心PCE物价指数:季调:环比(报告期:2025年09月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-05",
+      "title": "美国:核心PCE物价指数:季调(报告期:2025年10月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-05",
+      "title": "美国:核心PCE物价指数:同比(报告期:2025年09月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-05",
+      "title": "美国:核心PCE物价指数:季调(报告期:2025年09月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-05",
+      "title": "美国:核心PCE物价指数:同比(报告期:2025年10月)",
+      "importance": 4,
+      "country": "美国"
+    }
+  ]
+}
