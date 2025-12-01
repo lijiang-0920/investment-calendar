@@ -1,0 +1,129 @@
+{
+  "detection_time": "2025-12-01T03:47:12.225744",
+  "summary": {
+    "total_new": 47,
+    "total_updated": 6,
+    "total_cancelled": 0
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 12,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "中共中央政治局委员、中央外办主任王毅将于12月1日至2日赴俄罗斯举行中俄第二十轮战略安全磋商",
+        "亚马逊云科技（AWS）首席执行官马特·加曼将于12月2日发表主题演讲",
+        "英伟达将出席12月2日的瑞银全球技术与AI大会"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 4,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "华锋股份：控股股东和实控人拟均变更为陈运",
+        "凯众股份：拟购买安徽拓盛汽车零部件股份有限公司60%股权",
+        "超卓航科：实控人将变更为湖北省国资委"
+      ]
+    },
+    "tonghuashun": {
+      "new_events": 2,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "中共中央政治局委员、中央外办主任王毅将于12月1日至2日赴俄罗斯举行中俄第二十轮战略安全磋商",
+        "2025国际电子电路（深圳）展览会将于12月3日至5日举办"
+      ]
+    },
+    "investing": {
+      "new_events": 1,
+      "updated_events": 6,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "中国央行贷款市场报价利率(LPR)  (十二月)"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 28,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "东兴证券停复牌",
+        "ST天瑞停复牌",
+        "*ST东通停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-12-01",
+      "title": "中共中央政治局委员、中央外办主任王毅将于12月1日至2日赴俄罗斯举行中俄第二十轮战略安全磋商",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-12-02",
+      "title": "亚马逊云科技（AWS）首席执行官马特·加曼将于12月2日发表主题演讲",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-12-02",
+      "title": "英伟达将出席12月2日的瑞银全球技术与AI大会",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-12-02",
+      "title": "第22届中国国际海事会展将于12月2日至5日举行",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-12-03",
+      "title": "理想AI眼镜Livis发布会将于12月3日举行",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-01-01",
+      "title": "自2026年1月1日起，上海期货交易所期货公司会员、境外特殊经纪参与者和境外中介机构不执行限仓",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-01-01",
+      "title": "上期所：自2026年1月1日起，调整氧化铝和天然橡胶期货及期权持仓限额",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-01-01",
+      "title": "《森林草原防灭火条例》自2026年1月1日起施行",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-01-01",
+      "title": "《药品生产企业出口药品检查和出口证明管理规定》自2026年1月1日起施行",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-01-01",
+      "title": "1月1日起，全国卫星导航定位基准站的建设和运行维护等全链条工作进行统一规范管理",
+      "importance": 5,
+      "country": "中国"
+    }
+  ]
+}
