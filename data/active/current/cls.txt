@@ -1,299 +1,11 @@
 {
   "platform": "cls",
-  "total_events": 61,
+  "total_events": 53,
   "data_status": "ACTIVE",
   "date_type": "FUTURE",
-  "last_updated": "2025-12-01T03:47:12.226141",
+  "last_updated": "2025-12-02T03:15:19.102241",
   "immutable": false,
   "events": [
-    {
-      "platform": "cls",
-      "event_id": "cls_396942_20251201_2",
-      "original_id": "396942",
-      "event_date": "2025-12-01",
-      "event_time": "00:00:00",
-      "event_datetime": "2025-12-01 00:00:00",
-      "title": "2025“人工智能+”产业生态大会将于12月1日至3日在北京举办",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-01",
-      "raw_data": {
-        "id": 396942,
-        "calendar_time": "2025-12-01 00:00:00",
-        "data_id": 20294,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "2025“人工智能+”产业生态大会将于12月1日至3日在北京举办",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "2025“人工智能+”产业生态大会将于12月1日至3日在北京举办"
-      },
-      "created_at": "2025-12-01T03:47:01.785707"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_396988_20251201_2",
-      "original_id": "396988",
-      "event_date": "2025-12-01",
-      "event_time": "00:00:00",
-      "event_datetime": "2025-12-01 00:00:00",
-      "title": "《校园配餐服务企业管理指南》国家标准将于12月1日将正式实施",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-01",
-      "raw_data": {
-        "id": 396988,
-        "calendar_time": "2025-12-01 00:00:00",
-        "data_id": 20307,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "《校园配餐服务企业管理指南》国家标准将于12月1日将正式实施",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "《校园配餐服务企业管理指南》国家标准将于12月1日将正式实施"
-      },
-      "created_at": "2025-12-01T03:47:01.785729"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_396992_20251201_2",
-      "original_id": "396992",
-      "event_date": "2025-12-01",
-      "event_time": "00:00:00",
-      "event_datetime": "2025-12-01 00:00:00",
-      "title": "《陈年白酒流通鉴定规范》团体标准将于12月1日正式实施",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-01",
-      "raw_data": {
-        "id": 396992,
-        "calendar_time": "2025-12-01 00:00:00",
-        "data_id": 20308,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "《陈年白酒流通鉴定规范》团体标准将于12月1日正式实施",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "《陈年白酒流通鉴定规范》团体标准将于12月1日正式实施"
-      },
-      "created_at": "2025-12-01T03:47:01.785741"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_396995_20251201_2",
-      "original_id": "396995",
-      "event_date": "2025-12-01",
-      "event_time": "00:00:00",
-      "event_datetime": "2025-12-01 00:00:00",
-      "title": "12月1日至5日，新疆阿勒泰地区将试行首个“雪假”",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-01",
-      "raw_data": {
-        "id": 396995,
-        "calendar_time": "2025-12-01 00:00:00",
-        "data_id": 20309,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "12月1日至5日，新疆阿勒泰地区将试行首个“雪假”",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "12月1日至5日，新疆阿勒泰地区将试行首个“雪假”"
-      },
-      "created_at": "2025-12-01T03:47:01.785752"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_396999_20251201_2",
-      "original_id": "396999",
-      "event_date": "2025-12-01",
-      "event_time": "00:00:00",
-      "event_datetime": "2025-12-01 00:00:00",
-      "title": "《期货做市交易业务管理规则》将于12月1日起实施",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-01",
-      "raw_data": {
-        "id": 396999,
-        "calendar_time": "2025-12-01 00:00:00",
-        "data_id": 20310,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "《期货做市交易业务管理规则》将于12月1日起实施",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "《期货做市交易业务管理规则》将于12月1日起实施"
-      },
-      "created_at": "2025-12-01T03:47:01.785762"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_404145_20251201_2",
-      "original_id": "404145",
-      "event_date": "2025-12-01",
-      "event_time": "00:00:00",
-      "event_datetime": "2025-12-01 00:00:00",
-      "title": "杭州西湖景区官方账号：灵隐飞来峰景区（含灵隐寺、永福寺、韬光寺）实行免票政策",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-01",
-      "raw_data": {
-        "id": 404145,
-        "calendar_time": "2025-12-01 00:00:00",
-        "data_id": 20389,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "杭州西湖景区官方账号：灵隐飞来峰景区（含灵隐寺、永福寺、韬光寺）实行免票政策",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "杭州西湖景区官方账号：灵隐飞来峰景区（含灵隐寺、永福寺、韬光寺）实行免票政策"
-      },
-      "created_at": "2025-12-01T03:47:01.785772"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_409058_20251201_2",
-      "original_id": "409058",
-      "event_date": "2025-12-01",
-      "event_time": "00:00:00",
-      "event_datetime": "2025-12-01 00:00:00",
-      "title": "中共中央政治局委员、中央外办主任王毅将于12月1日至2日赴俄罗斯举行中俄第二十轮战略安全磋商",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-01",
-      "raw_data": {
-        "id": 409058,
-        "calendar_time": "2025-12-01 00:00:00",
-        "data_id": 20407,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "中共中央政治局委员、中央外办主任王毅将于12月1日至2日赴俄罗斯举行中俄第二十轮战略安全磋商",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "中共中央政治局委员、中央外办主任王毅将于12月1日至2日赴俄罗斯举行中俄第二十轮战略安全磋商"
-      },
-      "created_at": "2025-12-01T03:47:01.785782"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_397994_20251201_2",
-      "original_id": "397994",
-      "event_date": "2025-12-01",
-      "event_time": "17:20:00",
-      "event_datetime": "2025-12-01 17:20:00",
-      "title": "今日有3387亿元7天期逆回购到期",
-      "content": null,
-      "category": "事件公告",
-      "importance": 2,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-01",
-      "raw_data": {
-        "id": 397994,
-        "calendar_time": "2025-12-01 17:20:00",
-        "data_id": 20322,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "今日有3387亿元7天期逆回购到期",
-          "country": "中国",
-          "country_icon": "",
-          "star": 2
-        },
-        "holiday": null,
-        "title": "今日有3387亿元7天期逆回购到期"
-      },
-      "created_at": "2025-12-01T03:47:01.785792"
-    },
     {
       "platform": "cls",
       "event_id": "cls_396972_20251202_2",
@@ -312,7 +24,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 396972,
         "calendar_time": "2025-12-02 00:00:00",
@@ -328,7 +40,7 @@
         "holiday": null,
         "title": "中国航线发展大会2025将于12月2日至3日在上海召开"
       },
-      "created_at": "2025-12-01T03:47:01.785803"
+      "created_at": "2025-12-02T03:15:08.685715"
     },
     {
       "platform": "cls",
@@ -348,7 +60,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 397014,
         "calendar_time": "2025-12-02 00:00:00",
@@ -364,7 +76,7 @@
         "holiday": null,
         "title": "第八届大数据应用实践大会将于12月2日举办"
       },
-      "created_at": "2025-12-01T03:47:01.785813"
+      "created_at": "2025-12-02T03:15:08.685742"
     },
     {
       "platform": "cls",
@@ -383,8 +95,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-01",
+      "is_new": false,
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 410367,
         "calendar_time": "2025-12-02 00:00:00",
@@ -400,7 +112,7 @@
         "holiday": null,
         "title": "亚马逊云科技（AWS）首席执行官马特·加曼将于12月2日发表主题演讲"
       },
-      "created_at": "2025-12-01T03:47:01.785823"
+      "created_at": "2025-12-02T03:15:08.685758"
     },
     {
       "platform": "cls",
@@ -419,8 +131,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-01",
+      "is_new": false,
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 410371,
         "calendar_time": "2025-12-02 00:00:00",
@@ -436,7 +148,7 @@
         "holiday": null,
         "title": "英伟达将出席12月2日的瑞银全球技术与AI大会"
       },
-      "created_at": "2025-12-01T03:47:01.785833"
+      "created_at": "2025-12-02T03:15:08.685773"
     },
     {
       "platform": "cls",
@@ -455,8 +167,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-01",
+      "is_new": false,
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 410374,
         "calendar_time": "2025-12-02 00:00:00",
@@ -472,7 +184,7 @@
         "holiday": null,
         "title": "第22届中国国际海事会展将于12月2日至5日举行"
       },
-      "created_at": "2025-12-01T03:47:01.785843"
+      "created_at": "2025-12-02T03:15:08.685788"
     },
     {
       "platform": "cls",
@@ -491,8 +203,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-01",
+      "is_new": false,
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 399693,
         "calendar_time": "2025-12-02 17:20:00",
@@ -508,7 +220,7 @@
         "holiday": null,
         "title": "今日有3021亿元7天期逆回购到期"
       },
-      "created_at": "2025-12-01T03:47:01.785853"
+      "created_at": "2025-12-02T03:15:08.685803"
     },
     {
       "platform": "cls",
@@ -528,7 +240,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 397007,
         "calendar_time": "2025-12-03 00:00:00",
@@ -544,7 +256,7 @@
         "holiday": null,
         "title": "2026年度全国煤炭交易会将于12月3日至5日召开"
       },
-      "created_at": "2025-12-01T03:47:01.785864"
+      "created_at": "2025-12-02T03:15:08.685818"
     },
     {
       "platform": "cls",
@@ -564,7 +276,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 397010,
         "calendar_time": "2025-12-03 00:00:00",
@@ -580,7 +292,7 @@
         "holiday": null,
         "title": "第22届世界风能大会将于12月3日至5日举办"
       },
-      "created_at": "2025-12-01T03:47:01.785874"
+      "created_at": "2025-12-02T03:15:08.685832"
     },
     {
       "platform": "cls",
@@ -600,7 +312,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 397012,
         "calendar_time": "2025-12-03 00:00:00",
@@ -616,7 +328,7 @@
         "holiday": null,
         "title": "2025第六届深圳热管理产业大会暨博览会将于12月3日至5日举办"
       },
-      "created_at": "2025-12-01T03:47:01.785885"
+      "created_at": "2025-12-02T03:15:08.685847"
     },
     {
       "platform": "cls",
@@ -636,7 +348,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 397057,
         "calendar_time": "2025-12-03 00:00:00",
@@ -652,7 +364,7 @@
         "holiday": null,
         "title": "2025国际电子电路（深圳）展览会将于12月3日至5日举办"
       },
-      "created_at": "2025-12-01T03:47:01.785895"
+      "created_at": "2025-12-02T03:15:08.685861"
     },
     {
       "platform": "cls",
@@ -672,7 +384,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 402525,
         "calendar_time": "2025-12-03 00:00:00",
@@ -688,7 +400,7 @@
         "holiday": null,
         "title": "第七届海南岛国际电影节将于12月3日至12月9日在三亚举行"
       },
-      "created_at": "2025-12-01T03:47:01.785904"
+      "created_at": "2025-12-02T03:15:08.685875"
     },
     {
       "platform": "cls",
@@ -707,8 +419,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-01",
+      "is_new": false,
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 410440,
         "calendar_time": "2025-12-03 00:00:00",
@@ -724,7 +436,7 @@
         "holiday": null,
         "title": "理想AI眼镜Livis发布会将于12月3日举行"
       },
-      "created_at": "2025-12-01T03:47:01.785914"
+      "created_at": "2025-12-02T03:15:08.685889"
     },
     {
       "platform": "cls",
@@ -744,7 +456,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 397030,
         "calendar_time": "2025-12-04 00:00:00",
@@ -760,7 +472,7 @@
         "holiday": null,
         "title": "2025年第二届数字孪生技术与产业发展大会将于12月4日举办"
       },
-      "created_at": "2025-12-01T03:47:01.785924"
+      "created_at": "2025-12-02T03:15:08.685920"
     },
     {
       "platform": "cls",
@@ -780,7 +492,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 397034,
         "calendar_time": "2025-12-04 00:00:00",
@@ -796,7 +508,7 @@
         "holiday": null,
         "title": "2025脑机接口大会将于12月4日在上海召开"
       },
-      "created_at": "2025-12-01T03:47:01.785933"
+      "created_at": "2025-12-02T03:15:08.685935"
     },
     {
       "platform": "cls",
@@ -816,7 +528,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 397037,
         "calendar_time": "2025-12-04 00:00:00",
@@ -832,7 +544,7 @@
         "holiday": null,
         "title": "2025年第四届工业机器人产业发展上海论坛将于12月4日举办"
       },
-      "created_at": "2025-12-01T03:47:01.785943"
+      "created_at": "2025-12-02T03:15:08.685949"
     },
     {
       "platform": "cls",
@@ -852,7 +564,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 397041,
         "calendar_time": "2025-12-04 00:00:00",
@@ -868,7 +580,7 @@
         "holiday": null,
         "title": "2025全球智能机械与电子产品博览会将于12月4日至5日举办"
       },
-      "created_at": "2025-12-01T03:47:01.785953"
+      "created_at": "2025-12-02T03:15:08.685963"
     },
     {
       "platform": "cls",
@@ -888,7 +600,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 402529,
         "calendar_time": "2025-12-04 00:00:00",
@@ -904,7 +616,7 @@
         "holiday": null,
         "title": "2025年第28届中国（海南）国际热带农产品冬季交易会将于12月4日至7日在海南举行"
       },
-      "created_at": "2025-12-01T03:47:01.785963"
+      "created_at": "2025-12-02T03:15:08.685977"
     },
     {
       "platform": "cls",
@@ -924,7 +636,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 396969,
         "calendar_time": "2025-12-05 00:00:00",
@@ -940,7 +652,7 @@
         "holiday": null,
         "title": "2025中医药高质量发展大会将于12月5日至7日举办"
       },
-      "created_at": "2025-12-01T03:47:01.785973"
+      "created_at": "2025-12-02T03:15:08.685992"
     },
     {
       "platform": "cls",
@@ -960,7 +672,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 397196,
         "calendar_time": "2025-12-05 00:00:00",
@@ -976,7 +688,7 @@
         "holiday": null,
         "title": "恒生指数第三季度检讨结果生效"
       },
-      "created_at": "2025-12-01T03:47:01.785983"
+      "created_at": "2025-12-02T03:15:08.686007"
     },
     {
       "platform": "cls",
@@ -996,7 +708,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 371647,
         "calendar_time": "2025-12-08 00:00:00",
@@ -1012,43 +724,7 @@
         "holiday": null,
         "title": "证监会公布《证券结算风险基金管理办法》，自2025年12月8日起施行"
       },
-      "created_at": "2025-12-01T03:47:01.785993"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_360984_20251208_2",
-      "original_id": "360984",
-      "event_date": "2025-12-08",
-      "event_time": "08:00:00",
-      "event_datetime": "2025-12-08 08:00:00",
-      "title": "国内成品油将开启新一轮调价窗口",
-      "content": null,
-      "category": "事件公告",
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-01",
-      "raw_data": {
-        "id": 360984,
-        "calendar_time": "2025-12-08 08:00:00",
-        "data_id": 20069,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "国内成品油将开启新一轮调价窗口",
-          "country": "中国",
-          "country_icon": "",
-          "star": 3
-        },
-        "holiday": null,
-        "title": "国内成品油将开启新一轮调价窗口"
-      },
-      "created_at": "2025-12-01T03:47:01.786003"
+      "created_at": "2025-12-02T03:15:08.686022"
     },
     {
       "platform": "cls",
@@ -1068,7 +744,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 396975,
         "calendar_time": "2025-12-09 00:00:00",
@@ -1084,7 +760,7 @@
         "holiday": null,
         "title": "Carbontech2025第九届国际碳材料大会暨产业展览会将于12月9日至11日在上海举办"
       },
-      "created_at": "2025-12-01T03:47:01.786013"
+      "created_at": "2025-12-02T03:15:08.686036"
     },
     {
       "platform": "cls",
@@ -1104,7 +780,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 371638,
         "calendar_time": "2025-12-10 00:00:00",
@@ -1120,7 +796,7 @@
         "holiday": null,
         "title": "2025中国铂族金属市场年会定于12月10日在三亚召开"
       },
-      "created_at": "2025-12-01T03:47:01.786023"
+      "created_at": "2025-12-02T03:15:08.686051"
     },
     {
       "platform": "cls",
@@ -1140,7 +816,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 398750,
         "calendar_time": "2025-12-10 00:00:00",
@@ -1156,7 +832,7 @@
         "holiday": null,
         "title": "第二十届中国IDC产业年度大典将于12月10日至11日举办"
       },
-      "created_at": "2025-12-01T03:47:01.786033"
+      "created_at": "2025-12-02T03:15:08.686065"
     },
     {
       "platform": "cls",
@@ -1176,7 +852,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 366026,
         "calendar_time": "2025-12-10 09:00:00",
@@ -1192,7 +868,7 @@
         "holiday": null,
         "title": "EIA公布月度短期能源展望报告"
       },
-      "created_at": "2025-12-01T03:47:01.786042"
+      "created_at": "2025-12-02T03:15:08.686079"
     },
     {
       "platform": "cls",
@@ -1212,7 +888,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 396981,
         "calendar_time": "2025-12-11 00:00:00",
@@ -1228,7 +904,7 @@
         "holiday": null,
         "title": "2025算力产业生态高质量发展大会将于12月11日举办"
       },
-      "created_at": "2025-12-01T03:47:01.786054"
+      "created_at": "2025-12-02T03:15:08.686094"
     },
     {
       "platform": "cls",
@@ -1248,7 +924,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 368060,
         "calendar_time": "2025-12-11 08:00:00",
@@ -1264,7 +940,7 @@
         "holiday": null,
         "title": "欧佩克公布月度原油市场报告"
       },
-      "created_at": "2025-12-01T03:47:01.786064"
+      "created_at": "2025-12-02T03:15:08.686109"
     },
     {
       "platform": "cls",
@@ -1284,7 +960,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 368066,
         "calendar_time": "2025-12-11 11:00:00",
@@ -1300,7 +976,7 @@
         "holiday": null,
         "title": "美联储FOMC公布利率决议和经济预期摘要"
       },
-      "created_at": "2025-12-01T03:47:01.786074"
+      "created_at": "2025-12-02T03:15:08.686123"
     },
     {
       "platform": "cls",
@@ -1320,7 +996,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 368063,
         "calendar_time": "2025-12-11 11:30:00",
@@ -1336,7 +1012,7 @@
         "holiday": null,
         "title": "美联储主席鲍威尔召开货币政策新闻发布会"
       },
-      "created_at": "2025-12-01T03:47:01.786084"
+      "created_at": "2025-12-02T03:15:08.686137"
     },
     {
       "platform": "cls",
@@ -1356,7 +1032,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 400430,
         "calendar_time": "2025-12-12 00:00:00",
@@ -1372,7 +1048,7 @@
         "holiday": null,
         "title": "2025湖南文化旅游产业博览会暨首届 “12.12”文旅消费购物节将于12月12日至14日在湖南举办"
       },
-      "created_at": "2025-12-01T03:47:01.786094"
+      "created_at": "2025-12-02T03:15:08.686151"
     },
     {
       "platform": "cls",
@@ -1392,7 +1068,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 368065,
         "calendar_time": "2025-12-12 01:00:00",
@@ -1408,7 +1084,7 @@
         "holiday": null,
         "title": "IEA公布月度原油市场报告"
       },
-      "created_at": "2025-12-01T03:47:01.786104"
+      "created_at": "2025-12-02T03:15:08.686165"
     },
     {
       "platform": "cls",
@@ -1428,7 +1104,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 371641,
         "calendar_time": "2025-12-15 00:00:00",
@@ -1444,7 +1120,43 @@
         "holiday": null,
         "title": "2025中国汽车软件大会将于12月15日至16日在上海嘉定召开"
       },
-      "created_at": "2025-12-01T03:47:01.786115"
+      "created_at": "2025-12-02T03:15:08.686179"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_410731_20251215_2",
+      "original_id": "410731",
+      "event_date": "2025-12-15",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-12-15 00:00:00",
+      "title": "深证成指、创业板指、深证100、创业板50等深市指数实施样本定期调整,12月15日正式实施",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-02",
+      "raw_data": {
+        "id": 410731,
+        "calendar_time": "2025-12-15 00:00:00",
+        "data_id": 20424,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "深证成指、创业板指、深证100、创业板50等深市指数实施样本定期调整,12月15日正式实施",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "深证成指、创业板指、深证100、创业板50等深市指数实施样本定期调整,12月15日正式实施"
+      },
+      "created_at": "2025-12-02T03:15:08.686193"
     },
     {
       "platform": "cls",
@@ -1464,7 +1176,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 400448,
         "calendar_time": "2025-12-16 00:00:00",
@@ -1480,7 +1192,7 @@
         "holiday": null,
         "title": "2025第二届中国天然气技术与装备交流大会将于12月16日至18日在苏州召开"
       },
-      "created_at": "2025-12-01T03:47:01.786125"
+      "created_at": "2025-12-02T03:15:08.686208"
     },
     {
       "platform": "cls",
@@ -1500,7 +1212,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 388557,
         "calendar_time": "2025-12-17 00:00:00",
@@ -1516,7 +1228,7 @@
         "holiday": null,
         "title": "2025小米人车家全生态合作伙伴大会将于12月17日举办"
       },
-      "created_at": "2025-12-01T03:47:01.786135"
+      "created_at": "2025-12-02T03:15:08.686222"
     },
     {
       "platform": "cls",
@@ -1536,7 +1248,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 396959,
         "calendar_time": "2025-12-17 00:00:00",
@@ -1552,7 +1264,7 @@
         "holiday": null,
         "title": "2025中国人工智能产业创新发展大会将于12月17日举办"
       },
-      "created_at": "2025-12-01T03:47:01.786145"
+      "created_at": "2025-12-02T03:15:08.686236"
     },
     {
       "platform": "cls",
@@ -1572,7 +1284,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 371649,
         "calendar_time": "2025-12-18 00:00:00",
@@ -1588,7 +1300,7 @@
         "holiday": null,
         "title": "12月18日，海南自由贸易港正式启动全岛封关运作"
       },
-      "created_at": "2025-12-01T03:47:01.786155"
+      "created_at": "2025-12-02T03:15:08.686251"
     },
     {
       "platform": "cls",
@@ -1608,7 +1320,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 396979,
         "calendar_time": "2025-12-18 00:00:00",
@@ -1624,7 +1336,7 @@
         "holiday": null,
         "title": "2025通信产业大会暨第20届通信技术年会将于12月18日举办"
       },
-      "created_at": "2025-12-01T03:47:01.786165"
+      "created_at": "2025-12-02T03:15:08.686265"
     },
     {
       "platform": "cls",
@@ -1644,7 +1356,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 396984,
         "calendar_time": "2025-12-18 00:00:00",
@@ -1660,7 +1372,7 @@
         "holiday": null,
         "title": "2025第三届中国商业航天发展大会暨第四届中关村商业航天大会将于12月18日至19日在北京举办"
       },
-      "created_at": "2025-12-01T03:47:01.786175"
+      "created_at": "2025-12-02T03:15:08.686279"
     },
     {
       "platform": "cls",
@@ -1680,7 +1392,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 371643,
         "calendar_time": "2025-12-19 00:00:00",
@@ -1696,7 +1408,7 @@
         "holiday": null,
         "title": "2025进博优品交易会将于12月19日至21日在上海举办"
       },
-      "created_at": "2025-12-01T03:47:01.786184"
+      "created_at": "2025-12-02T03:15:08.686293"
     },
     {
       "platform": "cls",
@@ -1716,7 +1428,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 388559,
         "calendar_time": "2025-12-19 00:00:00",
@@ -1732,7 +1444,7 @@
         "holiday": null,
         "title": "摩尔线程MUSA开发者大会定档12月19日，将发布全新产品和架构"
       },
-      "created_at": "2025-12-01T03:47:01.786194"
+      "created_at": "2025-12-02T03:15:08.686307"
     },
     {
       "platform": "cls",
@@ -1752,7 +1464,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 396964,
         "calendar_time": "2025-12-19 00:00:00",
@@ -1768,7 +1480,7 @@
         "holiday": null,
         "title": "第五届碳中和博鳌大会将于12月19日至20日举办"
       },
-      "created_at": "2025-12-01T03:47:01.786203"
+      "created_at": "2025-12-02T03:15:08.686321"
     },
     {
       "platform": "cls",
@@ -1788,7 +1500,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 400445,
         "calendar_time": "2025-12-23 00:00:00",
@@ -1804,7 +1516,7 @@
         "holiday": null,
         "title": "2025工业绿色低碳发展大会将于12月23日至24日在成都举办"
       },
-      "created_at": "2025-12-01T03:47:01.786213"
+      "created_at": "2025-12-02T03:15:08.686334"
     },
     {
       "platform": "cls",
@@ -1824,7 +1536,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 396962,
         "calendar_time": "2025-12-24 00:00:00",
@@ -1840,7 +1552,7 @@
         "holiday": null,
         "title": "第二十三届中国食品安全大会暨2025全国食品工业科技进步大会将于12月24日至28日举办"
       },
-      "created_at": "2025-12-01T03:47:01.786223"
+      "created_at": "2025-12-02T03:15:08.686347"
     },
     {
       "platform": "cls",
@@ -1860,7 +1572,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 400443,
         "calendar_time": "2025-12-25 00:00:00",
@@ -1876,7 +1588,7 @@
         "holiday": null,
         "title": "第十六届物联网产业与智慧城市发展年会将于12月25日举办"
       },
-      "created_at": "2025-12-01T03:47:01.786233"
+      "created_at": "2025-12-02T03:15:08.686360"
     },
     {
       "platform": "cls",
@@ -1896,7 +1608,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 400439,
         "calendar_time": "2025-12-28 00:00:00",
@@ -1912,7 +1624,7 @@
         "holiday": null,
         "title": "第五届脑科学前沿与产业大会暨2025深圳脑机接口与人机交互技术博览会将于12月28日至29日在深圳举办"
       },
-      "created_at": "2025-12-01T03:47:01.786261"
+      "created_at": "2025-12-02T03:15:08.686373"
     },
     {
       "platform": "cls",
@@ -1932,7 +1644,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 400436,
         "calendar_time": "2025-12-30 00:00:00",
@@ -1948,7 +1660,7 @@
         "holiday": null,
         "title": "2025中国绿氢产业大会将于12月30日在北京举行"
       },
-      "created_at": "2025-12-01T03:47:01.786273"
+      "created_at": "2025-12-02T03:15:08.686386"
     },
     {
       "platform": "cls",
@@ -1967,8 +1679,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-01",
+      "is_new": false,
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 410394,
         "calendar_time": "2026-01-01 00:00:00",
@@ -1984,7 +1696,7 @@
         "holiday": null,
         "title": "自2026年1月1日起，上海期货交易所期货公司会员、境外特殊经纪参与者和境外中介机构不执行限仓"
       },
-      "created_at": "2025-12-01T03:47:01.786283"
+      "created_at": "2025-12-02T03:15:08.686398"
     },
     {
       "platform": "cls",
@@ -2003,8 +1715,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-01",
+      "is_new": false,
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 410399,
         "calendar_time": "2026-01-01 00:00:00",
@@ -2020,7 +1732,7 @@
         "holiday": null,
         "title": "上期所：自2026年1月1日起，调整氧化铝和天然橡胶期货及期权持仓限额"
       },
-      "created_at": "2025-12-01T03:47:01.786293"
+      "created_at": "2025-12-02T03:15:08.686410"
     },
     {
       "platform": "cls",
@@ -2039,8 +1751,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-01",
+      "is_new": false,
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 410411,
         "calendar_time": "2026-01-01 00:00:00",
@@ -2056,7 +1768,7 @@
         "holiday": null,
         "title": "《森林草原防灭火条例》自2026年1月1日起施行"
       },
-      "created_at": "2025-12-01T03:47:01.786302"
+      "created_at": "2025-12-02T03:15:08.686423"
     },
     {
       "platform": "cls",
@@ -2075,8 +1787,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-01",
+      "is_new": false,
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 410413,
         "calendar_time": "2026-01-01 00:00:00",
@@ -2092,7 +1804,7 @@
         "holiday": null,
         "title": "《药品生产企业出口药品检查和出口证明管理规定》自2026年1月1日起施行"
       },
-      "created_at": "2025-12-01T03:47:01.786312"
+      "created_at": "2025-12-02T03:15:08.686435"
     },
     {
       "platform": "cls",
@@ -2111,8 +1823,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-01",
+      "is_new": false,
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 410415,
         "calendar_time": "2026-01-01 00:00:00",
@@ -2128,7 +1840,7 @@
         "holiday": null,
         "title": "1月1日起，全国卫星导航定位基准站的建设和运行维护等全链条工作进行统一规范管理"
       },
-      "created_at": "2025-12-01T03:47:01.786322"
+      "created_at": "2025-12-02T03:15:08.686448"
     },
     {
       "platform": "cls",
@@ -2148,7 +1860,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-01",
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 271503,
         "calendar_time": "2026-01-20 00:00:00",
@@ -2164,7 +1876,7 @@
         "holiday": null,
         "title": "首届北京中关村学院青年论坛将于2月20日至21日举办"
       },
-      "created_at": "2025-12-01T03:47:01.786332"
+      "created_at": "2025-12-02T03:15:08.686460"
     },
     {
       "platform": "cls",
@@ -2183,8 +1895,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-01",
+      "is_new": false,
+      "discovery_date": "2025-12-02",
       "raw_data": {
         "id": 410403,
         "calendar_time": "2026-01-21 00:00:00",
@@ -2200,7 +1912,7 @@
         "holiday": null,
         "title": "2026年中国会展经济国际合作论坛将于1月21日至23日举办"
       },
-      "created_at": "2025-12-01T03:47:01.786343"
+      "created_at": "2025-12-02T03:15:08.686473"
     }
   ]
 }
