@@ -1,262 +1,11 @@
 {
   "platform": "tonghuashun",
-  "total_events": 40,
+  "total_events": 32,
   "data_status": "ACTIVE",
   "date_type": "FUTURE",
-  "last_updated": "2025-12-05T03:15:22.840458",
+  "last_updated": "2025-12-06T03:06:04.337774",
   "immutable": false,
   "events": [
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20251205_0_9311c8d6",
-      "original_id": "2025-12-05_0",
-      "event_date": "2025-12-05",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "2025数智科技生态大会将于12月5日举办",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-04",
-      "raw_data": {
-        "event": [
-          "2025数智科技生态大会将于12月5日举办",
-          "",
-          "",
-          ""
-        ],
-        "concept": []
-      },
-      "created_at": "2025-12-04T03:16:01.751506"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20251205_1_96363314",
-      "original_id": "2025-12-05_1",
-      "event_date": "2025-12-05",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "恒生指数第三季度检讨结果生效",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-04",
-      "raw_data": {
-        "event": [
-          "恒生指数第三季度检讨结果生效",
-          "",
-          "",
-          ""
-        ],
-        "concept": []
-      },
-      "created_at": "2025-12-04T03:16:01.751526"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20251205_2_9473fb8a",
-      "original_id": "2025-12-05_2",
-      "event_date": "2025-12-05",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "2025中医药高质量发展大会将于12月5日至7日举办",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-04",
-      "raw_data": {
-        "event": [
-          "2025中医药高质量发展大会将于12月5日至7日举办",
-          "",
-          "",
-          ""
-        ],
-        "concept": []
-      },
-      "created_at": "2025-12-04T03:16:01.751544"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20251205_3_96363314",
-      "original_id": "2025-12-05_3",
-      "event_date": "2025-12-05",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "恒生指数第三季度检讨结果生效",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-04",
-      "raw_data": {
-        "event": [
-          "恒生指数第三季度检讨结果生效",
-          "",
-          "",
-          ""
-        ],
-        "concept": []
-      },
-      "created_at": "2025-12-04T03:16:01.751564"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20251205_4_9473fb8a",
-      "original_id": "2025-12-05_4",
-      "event_date": "2025-12-05",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "2025中医药高质量发展大会将于12月5日至7日举办",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [
-        {
-          "code": "885661",
-          "name": "医药电商"
-        }
-      ],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-04",
-      "raw_data": {
-        "event": [
-          "2025中医药高质量发展大会将于12月5日至7日举办",
-          "",
-          "",
-          ""
-        ],
-        "concept": [
-          {
-            "code": "885661",
-            "name": "医药电商",
-            "py": "yyds"
-          }
-        ]
-      },
-      "created_at": "2025-12-04T03:16:01.751586"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20251205_5_78c1a9e0",
-      "original_id": "2025-12-05_5",
-      "event_date": "2025-12-05",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "2025第二届磷锂产业高质量发展大会将于12月5日至7日在 “中国磷都” 贵阳召开",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-04",
-      "raw_data": {
-        "event": [
-          "2025第二届磷锂产业高质量发展大会将于12月5日至7日在 “中国磷都” 贵阳召开",
-          "",
-          "",
-          ""
-        ],
-        "concept": []
-      },
-      "created_at": "2025-12-04T03:16:01.751605"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20251205_6_3b2ec2f4",
-      "original_id": "2025-12-05_6",
-      "event_date": "2025-12-05",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "国内航线燃油附加费12月5日上涨",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-04",
-      "raw_data": {
-        "event": [
-          "国内航线燃油附加费12月5日上涨",
-          "",
-          "",
-          ""
-        ],
-        "concept": []
-      },
-      "created_at": "2025-12-04T03:16:01.751622"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20251205_7_321fae5c",
-      "original_id": "2025-12-05_7",
-      "event_date": "2025-12-05",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "2025年欧洲肿瘤内科学会（ESMO）亚洲年会将于12月5日至7日举办",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-04",
-      "raw_data": {
-        "event": [
-          "2025年欧洲肿瘤内科学会（ESMO）亚洲年会将于12月5日至7日举办",
-          "",
-          "",
-          ""
-        ],
-        "concept": []
-      },
-      "created_at": "2025-12-04T03:16:01.751639"
-    },
     {
       "platform": "tonghuashun",
       "event_id": "ths_20251208_0_7000f1b6",
@@ -280,7 +29,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event": [
           "证监会公布《证券结算风险基金管理办法》，自2025年12月8日起施行",
@@ -296,7 +45,7 @@
           }
         ]
       },
-      "created_at": "2025-12-04T03:16:01.751686"
+      "created_at": "2025-12-05T03:15:27.711539"
     },
     {
       "platform": "tonghuashun",
@@ -316,7 +65,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event": [
           "证监会公布《证券结算风险基金管理办法》，自2025年12月8日起施行",
@@ -326,7 +75,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-12-04T03:16:01.751707"
+      "created_at": "2025-12-05T03:15:27.711549"
     },
     {
       "platform": "tonghuashun",
@@ -346,7 +95,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event": [
           "Carbontech2025第九届国际碳材料大会暨产业展览会将于12月9日至11日在上海举办",
@@ -356,7 +105,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-12-04T03:16:01.751747"
+      "created_at": "2025-12-05T03:15:27.711568"
     },
     {
       "platform": "tonghuashun",
@@ -376,7 +125,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event": [
           "Carbontech2025第九届国际碳材料大会暨产业展览会将于12月9日至11日在上海举办",
@@ -386,7 +135,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-12-04T03:16:01.751769"
+      "created_at": "2025-12-05T03:15:27.711577"
     },
     {
       "platform": "tonghuashun",
@@ -406,7 +155,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event": [
           "第二十届中国IDC产业年度大典将于12月10日至11日举办",
@@ -416,7 +165,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-12-04T03:16:01.751810"
+      "created_at": "2025-12-05T03:15:27.711595"
     },
     {
       "platform": "tonghuashun",
@@ -436,7 +185,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event": [
           "第二十届中国IDC产业年度大典将于12月10日至11日举办",
@@ -446,7 +195,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-12-04T03:16:01.751829"
+      "created_at": "2025-12-05T03:15:27.711604"
     },
     {
       "platform": "tonghuashun",
@@ -471,7 +220,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event": [
           "2025算力产业生态高质量发展大会将于12月11日举办",
@@ -487,7 +236,7 @@
           }
         ]
       },
-      "created_at": "2025-12-04T03:16:01.751863"
+      "created_at": "2025-12-05T03:15:27.711622"
     },
     {
       "platform": "tonghuashun",
@@ -507,7 +256,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event": [
           "美联储FOMC公布利率决议和经济预期摘要",
@@ -517,7 +266,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-12-04T03:16:01.751877"
+      "created_at": "2025-12-05T03:15:27.711631"
     },
     {
       "platform": "tonghuashun",
@@ -537,7 +286,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event": [
           "2025算力产业生态高质量发展大会将于12月11日举办",
@@ -547,7 +296,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-12-04T03:16:01.751890"
+      "created_at": "2025-12-05T03:15:27.711639"
     },
     {
       "platform": "tonghuashun",
@@ -567,7 +316,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event": [
           "美联储主席鲍威尔召开货币政策新闻发布会",
@@ -577,7 +326,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-12-04T03:16:01.751903"
+      "created_at": "2025-12-05T03:15:27.711648"
     },
     {
       "platform": "tonghuashun",
@@ -597,7 +346,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event": [
           "美联储FOMC公布利率决议和经济预期摘要。",
@@ -607,7 +356,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-12-04T03:16:01.751917"
+      "created_at": "2025-12-05T03:15:27.711656"
     },
     {
       "platform": "tonghuashun",
@@ -627,7 +376,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event": [
           "2025湖南文化旅游产业博览会暨首届 “12.12”文旅消费购物节将于12月12日至14日在湖南举办",
@@ -637,7 +386,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-12-04T03:16:01.751946"
+      "created_at": "2025-12-05T03:15:27.711674"
     },
     {
       "platform": "tonghuashun",
@@ -657,7 +406,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event": [
           "2025湖南文化旅游产业博览会暨首届 “12.12”文旅消费购物节将于12月12日至14日在湖南举办",
@@ -667,7 +416,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-12-04T03:16:01.751955"
+      "created_at": "2025-12-05T03:15:27.711683"
     },
     {
       "platform": "tonghuashun",
@@ -687,7 +436,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event": [
           "深证成指、创业板指、深证100、创业板50等深市指数实施样本定期调整,12月15日正式实施",
@@ -697,7 +446,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-12-04T03:16:01.751974"
+      "created_at": "2025-12-05T03:15:27.711699"
     },
     {
       "platform": "tonghuashun",
@@ -717,7 +466,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event": [
           "2025中国汽车软件大会将于12月15日至16日在上海嘉定召开",
@@ -727,7 +476,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-12-04T03:16:01.751983"
+      "created_at": "2025-12-05T03:15:27.711708"
     },
     {
       "platform": "tonghuashun",
@@ -747,7 +496,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event": [
           "2025中国汽车软件大会将于12月15日至16日在上海嘉定召开",
@@ -757,7 +506,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-12-04T03:16:01.751991"
+      "created_at": "2025-12-05T03:15:27.711716"
     },
     {
       "platform": "tonghuashun",
@@ -782,7 +531,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event": [
           "2025小米人车家全生态合作伙伴大会将于12月17日举办",
@@ -798,7 +547,7 @@
           }
         ]
       },
-      "created_at": "2025-12-04T03:16:01.752009"
+      "created_at": "2025-12-05T03:15:27.711733"
     },
     {
       "platform": "tonghuashun",
@@ -818,7 +567,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event": [
           "2025小米人车家全生态合作伙伴大会将于12月17日举办",
@@ -828,7 +577,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-12-04T03:16:01.752018"
+      "created_at": "2025-12-05T03:15:27.711742"
     },
     {
       "platform": "tonghuashun",
@@ -848,7 +597,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event": [
           "2025通信产业大会暨第20届通信技术年会将于12月18日举办",
@@ -858,7 +607,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-12-04T03:16:01.752036"
+      "created_at": "2025-12-05T03:15:27.711759"
     },
     {
       "platform": "tonghuashun",
@@ -878,7 +627,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event": [
           "12月18日，海南自由贸易港正式启动全岛封关运作",
@@ -888,7 +637,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-12-04T03:16:01.752045"
+      "created_at": "2025-12-05T03:15:27.711767"
     },
     {
       "platform": "tonghuashun",
@@ -908,7 +657,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event": [
           "2025通信产业大会暨第20届通信技术年会将于12月18日举办",
@@ -918,7 +667,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-12-04T03:16:01.752053"
+      "created_at": "2025-12-05T03:15:27.711775"
     },
     {
       "platform": "tonghuashun",
@@ -938,7 +687,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event": [
           "12月18日，海南自由贸易港正式启动全岛封关运作",
@@ -948,7 +697,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-12-04T03:16:01.752113"
+      "created_at": "2025-12-05T03:15:27.711783"
     },
     {
       "platform": "tonghuashun",
@@ -968,7 +717,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event": [
           "第五届碳中和博鳌大会将于12月19日至20日举办",
@@ -978,7 +727,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-12-04T03:16:01.752136"
+      "created_at": "2025-12-05T03:15:27.711800"
     },
     {
       "platform": "tonghuashun",
@@ -1003,7 +752,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event": [
           "第五届碳中和博鳌大会将于12月19日至20日举办",
@@ -1019,7 +768,7 @@
           }
         ]
       },
-      "created_at": "2025-12-04T03:16:01.752146"
+      "created_at": "2025-12-05T03:15:27.711809"
     },
     {
       "platform": "tonghuashun",
@@ -1039,7 +788,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event": [
           "2025进博优品交易会将于12月19日至21日在上海举办",
@@ -1049,7 +798,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-12-04T03:16:01.752154"
+      "created_at": "2025-12-05T03:15:27.711817"
     },
     {
       "platform": "tonghuashun",
@@ -1069,7 +818,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event": [
           "2025进博优品交易会将于12月19日至21日在上海举办",
@@ -1079,7 +828,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-12-04T03:16:01.752162"
+      "created_at": "2025-12-05T03:15:27.711825"
     },
     {
       "platform": "tonghuashun",
@@ -1104,7 +853,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event": [
           "摩尔线程MUSA开发者大会定档12月19日，将发布全新产品和架构",
@@ -1120,7 +869,7 @@
           }
         ]
       },
-      "created_at": "2025-12-04T03:16:01.752171"
+      "created_at": "2025-12-05T03:15:27.711833"
     },
     {
       "platform": "tonghuashun",
@@ -1140,7 +889,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event": [
           "摩尔线程MUSA开发者大会定档12月19日，将发布全新产品和架构",
@@ -1150,7 +899,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-12-04T03:16:01.752179"
+      "created_at": "2025-12-05T03:15:27.711841"
     },
     {
       "platform": "tonghuashun",
@@ -1170,7 +919,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event": [
           "2025工业绿色低碳发展大会将于12月23日至24日在成都举办",
@@ -1180,7 +929,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-12-04T03:16:01.752200"
+      "created_at": "2025-12-05T03:15:27.711858"
     },
     {
       "platform": "tonghuashun",
@@ -1200,7 +949,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event": [
           "2025工业绿色低碳发展大会将于12月23日至24日在成都举办",
@@ -1210,7 +959,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-12-04T03:16:01.752209"
+      "created_at": "2025-12-05T03:15:27.711866"
     },
     {
       "platform": "tonghuashun",
@@ -1230,7 +979,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event": [
           "第五届脑科学前沿与产业大会暨2025深圳脑机接口与人机交互技术博览会将于12月28日至29日在深圳举办",
@@ -1240,7 +989,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-12-04T03:16:01.752227"
+      "created_at": "2025-12-05T03:15:27.711882"
     },
     {
       "platform": "tonghuashun",
@@ -1260,7 +1009,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event": [
           "第五届脑科学前沿与产业大会暨2025深圳脑机接口与人机交互技术博览会将于12月28日至29日在深圳举办",
@@ -1270,7 +1019,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-12-04T03:16:01.752236"
+      "created_at": "2025-12-05T03:15:27.711890"
     }
   ]
 }
