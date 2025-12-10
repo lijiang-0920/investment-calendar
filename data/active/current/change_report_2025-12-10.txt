@@ -1,0 +1,132 @@
+{
+  "detection_time": "2025-12-10T03:19:43.487268",
+  "summary": {
+    "total_new": 66,
+    "total_updated": 9,
+    "total_cancelled": 1
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 13,
+      "updated_events": 0,
+      "cancelled_events": 1,
+      "sample_new_titles": [
+        "鸿蒙办公产业峰会将于12月11日举办",
+        "今日有1808亿元7天期逆回购到期",
+        "2025年工业信息安全大会将于12月11日举办"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 10,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "陶氏化学旗下消费品解决方案有机硅业务线将对主要产品提价10%-20%",
+        "思瑞浦：决定终止购买奥拉股份股权",
+        "鸿蒙办公产业峰会"
+      ]
+    },
+    "tonghuashun": {
+      "new_events": 5,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "财政部将于12月10日在香港特别行政区发行2025年第六期人民币国债，发行规模为70亿元",
+        "全球化工巨头陶氏化学向大中华区客户公告：旗下消费品解决方案有机硅业务线（Xiameter）将于12月",
+        "2025年ESMO免疫肿瘤学大会将于12月10日至12日在英国伦敦举行"
+      ]
+    },
+    "investing": {
+      "new_events": 11,
+      "updated_events": 9,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "印度尼西亚零售销售年率(%) (同比)  (十月)",
+        "新加坡失业率(%)  (第三季度)",
+        "法国6个月期BTF国债拍卖平均收益率(%)"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 27,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "*ST广道停复牌",
+        "万隆光电停复牌",
+        "皮阿诺停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-12-11",
+      "title": "鸿蒙办公产业峰会将于12月11日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-12-11",
+      "title": "2025年工业信息安全大会将于12月11日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-12-11",
+      "title": "2025冷链建设论坛将于12月11日在上海举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-12-11",
+      "title": "中国国际钒液流电池论坛2025将于12月11日至12日在合肥召开",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-12-11",
+      "title": "2025能源北斗与时空智能创新技术应用大会将于12月11日至12日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-12-12",
+      "title": "美国白宫将在12月12日召集韩国、阿联酋、澳大利亚等盟友举行人工智能供应链峰会，预期将会在能源、关键矿产、先进制造、半导体、人工智能基础设施和交通物流等领域签署协议",
+      "importance": 5,
+      "country": "美国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-12-12",
+      "title": "中证指数有限公司宣布将调整沪深300、中证A500、中证A100、中证A50等指数样本，将于12月12日收市后正式生效",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-12-12",
+      "title": "上证50、上证180、上证380、科创50等指数样本调整，12月12日收市后生效",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-01-01",
+      "title": "国家药监局：从2026年1月1日起 全面禁止生产含有“汞”元素体温计和血压计产品",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-01-01",
+      "title": "《国家基本医疗保险、生育保险和工伤保险药品目录》、首版《商业健康保险创新药品目录》将于2026年1月1日起在全国范围内正式实施",
+      "importance": 5,
+      "country": "中国"
+    }
+  ]
+}
