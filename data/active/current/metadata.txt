@@ -1,44 +1,44 @@
 {
   "collection_type": "ACTIVE",
-  "collection_time": "2025-12-10T03:19:43.558451",
+  "collection_time": "2025-12-11T03:21:23.971614",
   "platforms": {
     "cls": {
-      "event_count": 51,
+      "event_count": 46,
       "date_range": {
-        "start": "2025-12-10",
+        "start": "2025-12-11",
         "end": "2026-01-21"
       }
     },
     "jiuyangongshe": {
-      "event_count": 33,
+      "event_count": 28,
       "date_range": {
-        "start": "2025-12-10",
+        "start": "2025-12-11",
         "end": "2025-12-29"
       }
     },
     "tonghuashun": {
-      "event_count": 34,
+      "event_count": 35,
       "date_range": {
-        "start": "2025-12-10",
+        "start": "2025-12-11",
         "end": "2025-12-28"
       }
     },
     "investing": {
       "event_count": 608,
       "date_range": {
-        "start": "2025-12-10",
+        "start": "2025-12-11",
         "end": "2025-12-31"
       }
     },
     "eastmoney": {
-      "event_count": 255,
+      "event_count": 221,
       "date_range": {
         "start": "2025-12-08",
         "end": "2025-12-31"
       }
     }
   },
-  "total_events": 981,
+  "total_events": 938,
   "date_range": {
     "start": "2025-12-08",
     "end": "2026-01-21"
