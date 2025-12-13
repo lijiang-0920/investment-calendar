@@ -1,0 +1,124 @@
+{
+  "detection_time": "2025-12-13T03:12:41.199405",
+  "summary": {
+    "total_new": 68,
+    "total_updated": 13,
+    "total_cancelled": 37
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 37,
+      "sample_new_titles": []
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 5,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "国新办将于12月15日就2025年11月份国民经济运行情况举行新闻发布会",
+        "国家统计局公布70个大中城市住宅销售价格月度报告",
+        "恒生港股通软件及半导体指数将更名，剔除中芯国际、华虹半导体、英诺赛科等四股，12月16日生效。"
+      ]
+    },
+    "investing": {
+      "new_events": 15,
+      "updated_events": 13,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "澳洲联储行长助理Brad Jones讲话",
+        "南非央行季度公报",
+        "英国通胀预期"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 48,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "杭汽轮B停复牌",
+        "南都电源停复牌",
+        "万隆光电停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-17",
+      "title": "美国EIA原油库存:变动值(报告期:2025年12月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-17",
+      "title": "美国EIA俄克拉荷马州库欣原油库存:当周值(报告期:2025年12月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-17",
+      "title": "美国DOE燃料乙醇总库存:当周值(报告期:2025年12月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-17",
+      "title": "美国EIA精炼油库存:变动值(报告期:2025年12月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-17",
+      "title": "美国DOE蒸馏油引申需求:当周值(报告期:2025年12月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-17",
+      "title": "美国DOE汽油引申需求:当周值(报告期:2025年12月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-17",
+      "title": "美国EIA汽油库存:变动值(报告期:2025年12月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-17",
+      "title": "美国DOE原油引申需求:当周值(报告期:2025年12月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-17",
+      "title": "美国DOE燃料乙醇总产量:当周值(报告期:2025年12月)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "eastmoney",
+      "date": "2025-12-17",
+      "title": "美国:当周EIA车用汽油总产量引伸需求数据(报告期:2025年12月)",
+      "importance": 4,
+      "country": "美国"
+    }
+  ]
+}
