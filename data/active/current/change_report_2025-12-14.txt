@@ -1,0 +1,124 @@
+{
+  "detection_time": "2025-12-14T03:25:36.093477",
+  "summary": {
+    "total_new": 57,
+    "total_updated": 6,
+    "total_cancelled": 1
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 40,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "2025中国汽车软件大会将于12月15日至16日在上海嘉定召开",
+        "深证成指、创业板指、深证100、创业板50等深市指数实施样本定期调整,12月15日正式实施",
+        "兴福电子：拟投资4.8亿元建设4万吨/年电子级磷酸项目，预计开工时间为2025年12月15日"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 1,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "2025第二届中国天然气技术与装备交流大会将于12月16日至18日在苏州召开"
+      ]
+    },
+    "investing": {
+      "new_events": 1,
+      "updated_events": 6,
+      "cancelled_events": 1,
+      "sample_new_titles": [
+        "巴西瓦加斯基金会(FGV)消费者信心  (十二月)"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 15,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "中国高科停复牌",
+        "南都电源停复牌",
+        "万隆光电停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-12-15",
+      "title": "2025中国汽车软件大会将于12月15日至16日在上海嘉定召开",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-12-15",
+      "title": "深证成指、创业板指、深证100、创业板50等深市指数实施样本定期调整,12月15日正式实施",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-12-15",
+      "title": "兴福电子：拟投资4.8亿元建设4万吨/年电子级磷酸项目，预计开工时间为2025年12月15日",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-12-15",
+      "title": "世界旅游经济论坛2025年峰会将于12月15日至17日在哈尔滨市举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-12-15",
+      "title": "国家统计局公布70个大中城市住宅销售价格月度报告",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-12-15",
+      "title": "国新办将于12月15日就2025年11月份国民经济运行情况举行新闻发布会",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-12-16",
+      "title": "2025第二届中国天然气技术与装备交流大会将于12月16日至18日在苏州召开",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-12-16",
+      "title": "恒生港股通软件及半导体指数将更名，剔除中芯国际、华虹半导体、英诺赛科等四股，12月16日生效。",
+      "importance": 5,
+      "country": "中国香港"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-12-16",
+      "title": "国内锂电池厂商德加能源：自12月16日起对旗下电池系列产品售价上调15%",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-12-16",
+      "title": "2025两岸企业家峰会年会将于12月16日至17日在江苏南京举行",
+      "importance": 5,
+      "country": "中国"
+    }
+  ]
+}
