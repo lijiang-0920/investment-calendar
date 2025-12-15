@@ -1,9 +1,9 @@
 {
   "collection_type": "ACTIVE",
-  "collection_time": "2025-12-14T03:25:36.156001",
+  "collection_time": "2025-12-15T03:26:51.834348",
   "platforms": {
     "cls": {
-      "event_count": 40,
+      "event_count": 41,
       "date_range": {
         "start": "2025-12-15",
         "end": "2026-01-23"
@@ -17,7 +17,7 @@
       }
     },
     "tonghuashun": {
-      "event_count": 27,
+      "event_count": 28,
       "date_range": {
         "start": "2025-12-15",
         "end": "2025-12-28"
@@ -31,14 +31,14 @@
       }
     },
     "eastmoney": {
-      "event_count": 220,
+      "event_count": 219,
       "date_range": {
         "start": "2025-10-13",
         "end": "2025-12-31"
       }
     }
   },
-  "total_events": 823,
+  "total_events": 824,
   "date_range": {
     "start": "2025-10-13",
     "end": "2026-01-23"
