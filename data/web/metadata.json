@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-20T03:12:18.494811",
-  "total_events": 408,
+  "last_updated": "2025-12-21T03:25:47.705351",
+  "total_events": 381,
   "platforms": {
     "cls": {
       "name": "财联社",
@@ -12,15 +12,15 @@
     },
     "tonghuashun": {
       "name": "同花顺",
-      "event_count": 10
+      "event_count": 11
     },
     "investing": {
       "name": "英为财情",
-      "event_count": 260
+      "event_count": 243
     },
     "eastmoney": {
       "name": "东方财富",
-      "event_count": 106
+      "event_count": 95
     }
   }
 }
