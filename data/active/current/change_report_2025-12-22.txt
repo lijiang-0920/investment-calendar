@@ -1,0 +1,128 @@
+{
+  "detection_time": "2025-12-22T03:28:40.575483",
+  "summary": {
+    "total_new": 44,
+    "total_updated": 2,
+    "total_cancelled": 3
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 12,
+      "updated_events": 0,
+      "cancelled_events": 2,
+      "sample_new_titles": [
+        "AI钉钉1.1新品发布暨生态大会将于12月23日举办",
+        "“十五五”汽车产业重大前沿技术演进方向高端研讨会将于12月23日举办",
+        "今日有1353亿元7天期逆回购到期"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 9,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "华为nova 15系列及全场景新品发布会",
+        " 智元“擎天租” 平台发布会",
+        "12月LPR利率公布"
+      ]
+    },
+    "tonghuashun": {
+      "new_events": 1,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "第二十三届中国食品安全大会暨2025全国食品工业科技进步大会将于12月24日至28日举办"
+      ]
+    },
+    "investing": {
+      "new_events": 1,
+      "updated_events": 2,
+      "cancelled_events": 1,
+      "sample_new_titles": [
+        "印度尼西亚M2货币供应年率(%) (同比)  (十一月)"
+      ]
+    },
+    "eastmoney": {
+      "new_events": 21,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "福能东方停复牌",
+        "*ST围海停复牌",
+        "旭升集团停复牌"
+      ]
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2025-12-23",
+      "title": "AI钉钉1.1新品发布暨生态大会将于12月23日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-12-23",
+      "title": "“十五五”汽车产业重大前沿技术演进方向高端研讨会将于12月23日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-12-23",
+      "title": "国新办12月23日就新时代交通运输服务经济社会高质量发展有关情况举行新闻发布会",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-01-01",
+      "title": "财政部：自2026年1月1日起，山西省、青海省实施境外旅客购物离境退税政策",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-01-01",
+      "title": "印度尼西亚财政部长：计划自2026年1月1日起对煤炭出口征税",
+      "importance": 5,
+      "country": "印尼"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-01-01",
+      "title": "福建出台《福建省促进两岸标准共通条例》，将于1月1日起施行",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-01-20",
+      "title": "央行发布《金融机构客户受益所有人识别管理办法》，自2026年1月20日起施行",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2025-12-24",
+      "title": "【美国】纽交所，提前于北京时间25日02:00休市",
+      "importance": 3,
+      "country": null
+    },
+    {
+      "platform": "cls",
+      "date": "2025-12-24",
+      "title": "【中国】香港交易所，交易半日，12时08分与12时10分之间随机收市",
+      "importance": 3,
+      "country": null
+    },
+    {
+      "platform": "cls",
+      "date": "2025-12-25",
+      "title": "【美国】纽交所，休市一日",
+      "importance": 3,
+      "country": null
+    }
+  ]
+}
