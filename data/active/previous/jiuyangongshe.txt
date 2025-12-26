@@ -1,56 +1,11 @@
 {
   "platform": "jiuyangongshe",
-  "total_events": 7,
+  "total_events": 6,
   "data_status": "ACTIVE",
   "date_type": "FUTURE",
-  "last_updated": "2025-12-25T03:23:29.530808",
+  "last_updated": "2025-12-26T03:21:21.743446",
   "immutable": false,
   "events": [
-    {
-      "platform": "jiuyangongshe",
-      "event_id": "jygs_2yw1gxgm388_1224f38502104125b45b0e1186a7fb39_20251225",
-      "original_id": "2yw1gxgm388",
-      "event_date": "2025-12-25",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "第十六届物联网产业与智慧城市发展年会",
-      "content": " ",
-      "category": null,
-      "importance": 1,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-24",
-      "raw_data": {
-        "article_id": "2yw1gxgm388",
-        "user_id": "ceb69fef477947768edb2a19708bcd38",
-        "title": "第十六届物联网产业与智慧城市发展年会",
-        "content": " ",
-        "like_count": 1,
-        "comment_count": 0,
-        "forward_count": 0,
-        "is_like": 0,
-        "is_step": 0,
-        "user": {
-          "user_id": "ceb69fef477947768edb2a19708bcd38",
-          "nickname": "韭连板"
-        },
-        "timeline": {
-          "article_id": "2yw1gxgm388",
-          "timeline_id": "1224f38502104125b45b0e1186a7fb39",
-          "date": "2025-12-25",
-          "grade": 6,
-          "source": "1",
-          "create_time": "2025-12-21 19:56:05",
-          "theme_list": []
-        }
-      },
-      "created_at": "2025-12-24T03:20:47.263981"
-    },
     {
       "platform": "jiuyangongshe",
       "event_id": "jygs_20224e5796b64d468060a254c5d05399_55f1187e55504688b62425d31d19b764_20251226",
@@ -69,7 +24,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-24",
+      "discovery_date": "2025-12-25",
       "raw_data": {
         "article_id": "20224e5796b64d468060a254c5d05399",
         "user_id": "1",
@@ -94,7 +49,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-12-24T03:20:47.264001"
+      "created_at": "2025-12-25T03:23:33.586482"
     },
     {
       "platform": "jiuyangongshe",
@@ -114,7 +69,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-24",
+      "discovery_date": "2025-12-25",
       "raw_data": {
         "article_id": "5a975a0d7b074bfb8ebdcfd1c37afb72",
         "user_id": "1",
@@ -139,7 +94,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-12-24T03:20:47.264010"
+      "created_at": "2025-12-25T03:23:33.586493"
     },
     {
       "platform": "jiuyangongshe",
@@ -161,7 +116,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-24",
+      "discovery_date": "2025-12-25",
       "raw_data": {
         "article_id": "47badf532b0340d697a22e11a8a090a4",
         "user_id": "1",
@@ -191,7 +146,7 @@
           ]
         }
       },
-      "created_at": "2025-12-24T03:20:47.264027"
+      "created_at": "2025-12-25T03:23:33.586512"
     },
     {
       "platform": "jiuyangongshe",
@@ -213,7 +168,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-24",
+      "discovery_date": "2025-12-25",
       "raw_data": {
         "article_id": "0d376a65077f4d01a0faa2fb0afb3ddc",
         "user_id": "1",
@@ -243,7 +198,7 @@
           ]
         }
       },
-      "created_at": "2025-12-24T03:20:47.264043"
+      "created_at": "2025-12-25T03:23:33.586531"
     },
     {
       "platform": "jiuyangongshe",
@@ -263,7 +218,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-24",
+      "discovery_date": "2025-12-25",
       "raw_data": {
         "article_id": "2gdyy54y2f0",
         "user_id": "f64a8017e1634c85bb1be4b835bf9fd7",
@@ -288,7 +243,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-12-24T03:20:47.264058"
+      "created_at": "2025-12-25T03:23:33.586548"
     },
     {
       "platform": "jiuyangongshe",
@@ -307,8 +262,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-24",
+      "is_new": false,
+      "discovery_date": "2025-12-25",
       "raw_data": {
         "article_id": "jj8jwkmgfw",
         "user_id": "ceb69fef477947768edb2a19708bcd38",
@@ -333,7 +288,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-12-24T03:20:47.264066"
+      "created_at": "2025-12-25T03:23:33.586557"
     }
   ]
 }

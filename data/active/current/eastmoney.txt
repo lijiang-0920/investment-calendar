@@ -1,14 +1,14 @@
 {
   "platform": "eastmoney",
-  "total_events": 83,
+  "total_events": 73,
   "data_status": "ACTIVE",
   "date_type": "FUTURE",
-  "last_updated": "2025-12-25T03:23:38.954367",
+  "last_updated": "2025-12-26T03:21:31.027149",
   "immutable": false,
   "events": [
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251231_4240393094015608647",
+      "event_id": "em_xsap_20251231_-5217944940138776043",
       "original_id": "xsap_港股通(沪)、港股通(深)_2025-12-31",
       "event_date": "2025-12-31",
       "event_time": null,
@@ -24,7 +24,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "MKT": "港股通(沪)、港股通(深)",
         "HOLIDAY": "新年前夕半日市",
@@ -33,11 +33,11 @@
         "XS": null,
         "FIRST_LETTER": "G"
       },
-      "created_at": "2025-12-25T03:23:38.930639"
+      "created_at": "2025-12-26T03:21:30.996246"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251231_-8718600938515252045",
+      "event_id": "em_xsap_20251231_-6935838309205380374",
       "original_id": "xsap_港股_2025-12-31",
       "event_date": "2025-12-31",
       "event_time": null,
@@ -53,7 +53,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "MKT": "港股",
         "HOLIDAY": "元旦前夕(13:00收市)",
@@ -62,45 +62,16 @@
         "XS": "1",
         "FIRST_LETTER": "G"
       },
-      "created_at": "2025-12-25T03:23:38.930671"
+      "created_at": "2025-12-26T03:21:30.996282"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251226_4251056131627448574",
-      "original_id": "xsap_港股通(沪)、港股通(深)_2025-12-26",
-      "event_date": "2025-12-26",
-      "event_time": null,
-      "event_datetime": "2025-12-26 00:00:00",
-      "title": "港股通(沪)、港股通(深) - 圣诞节后第一个周日",
-      "content": null,
-      "category": "休市安排",
-      "importance": 2,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-25",
-      "raw_data": {
-        "MKT": "港股通(沪)、港股通(深)",
-        "HOLIDAY": "圣诞节后第一个周日",
-        "SDATE": "2025-12-26 00:00:00",
-        "EDATE": "2025-12-26 00:00:00",
-        "XS": null,
-        "FIRST_LETTER": "G"
-      },
-      "created_at": "2025-12-25T03:23:38.930683"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_xsap_20251226_4251056131627448574",
+      "event_id": "em_xsap_20251226_-4590790862728231253",
       "original_id": "xsap_沪股通、深股通_2025-12-26",
       "event_date": "2025-12-26",
       "event_time": null,
       "event_datetime": "2025-12-26 00:00:00",
-      "title": "沪股通、深股通 - 圣诞节后第一个周日",
+      "title": "沪股通、深股通 - The first weekday after Christmas Day",
       "content": null,
       "category": "休市安排",
       "importance": 2,
@@ -111,25 +82,25 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "MKT": "沪股通、深股通",
-        "HOLIDAY": "圣诞节后第一个周日",
+        "HOLIDAY": "The first weekday after Christmas Day",
         "SDATE": "2025-12-26 00:00:00",
         "EDATE": "2025-12-26 00:00:00",
         "XS": null,
         "FIRST_LETTER": "H"
       },
-      "created_at": "2025-12-25T03:23:38.930693"
+      "created_at": "2025-12-26T03:21:30.996296"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251226_4251056131627448574",
+      "event_id": "em_xsap_20251226_-4590790862728231253",
       "original_id": "xsap_港股_2025-12-26",
       "event_date": "2025-12-26",
       "event_time": null,
       "event_datetime": "2025-12-26 00:00:00",
-      "title": "港股 - 圣诞节后第一个周日",
+      "title": "港股 - The first weekday after Christmas Day",
       "content": null,
       "category": "休市安排",
       "importance": 2,
@@ -140,25 +111,25 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "MKT": "港股",
-        "HOLIDAY": "圣诞节后第一个周日",
+        "HOLIDAY": "The first weekday after Christmas Day",
         "SDATE": "2025-12-26 00:00:00",
         "EDATE": "2025-12-26 00:00:00",
         "XS": null,
         "FIRST_LETTER": "G"
       },
-      "created_at": "2025-12-25T03:23:38.930701"
+      "created_at": "2025-12-26T03:21:30.996308"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251225_6139036046649311622",
-      "original_id": "xsap_港股通(沪)、港股通(深)_2025-12-25",
-      "event_date": "2025-12-25",
+      "event_id": "em_xsap_20251226_-4590790862728231253",
+      "original_id": "xsap_港股通(沪)、港股通(深)_2025-12-26",
+      "event_date": "2025-12-26",
       "event_time": null,
-      "event_datetime": "2025-12-25 00:00:00",
-      "title": "港股通(沪)、港股通(深) - 圣诞节",
+      "event_datetime": "2025-12-26 00:00:00",
+      "title": "港股通(沪)、港股通(深) - The first weekday after Christmas Day",
       "content": null,
       "category": "休市安排",
       "importance": 2,
@@ -169,108 +140,22 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "MKT": "港股通(沪)、港股通(深)",
-        "HOLIDAY": "圣诞节",
-        "SDATE": "2025-12-25 00:00:00",
-        "EDATE": "2025-12-25 00:00:00",
+        "HOLIDAY": "The first weekday after Christmas Day",
+        "SDATE": "2025-12-26 00:00:00",
+        "EDATE": "2025-12-26 00:00:00",
         "XS": null,
         "FIRST_LETTER": "G"
       },
-      "created_at": "2025-12-25T03:23:38.930710"
+      "created_at": "2025-12-26T03:21:30.996320"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251225_6139036046649311622",
-      "original_id": "xsap_港股_2025-12-25",
-      "event_date": "2025-12-25",
-      "event_time": null,
-      "event_datetime": "2025-12-25 00:00:00",
-      "title": "港股 - 圣诞节",
-      "content": null,
-      "category": "休市安排",
-      "importance": 2,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-25",
-      "raw_data": {
-        "MKT": "港股",
-        "HOLIDAY": "圣诞节",
-        "SDATE": "2025-12-25 00:00:00",
-        "EDATE": "2025-12-25 00:00:00",
-        "XS": null,
-        "FIRST_LETTER": "G"
-      },
-      "created_at": "2025-12-25T03:23:38.930718"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_xsap_20251225_6139036046649311622",
-      "original_id": "xsap_沪股通、深股通_2025-12-25",
-      "event_date": "2025-12-25",
-      "event_time": null,
-      "event_datetime": "2025-12-25 00:00:00",
-      "title": "沪股通、深股通 - 圣诞节",
-      "content": null,
-      "category": "休市安排",
-      "importance": 2,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-25",
-      "raw_data": {
-        "MKT": "沪股通、深股通",
-        "HOLIDAY": "圣诞节",
-        "SDATE": "2025-12-25 00:00:00",
-        "EDATE": "2025-12-25 00:00:00",
-        "XS": null,
-        "FIRST_LETTER": "H"
-      },
-      "created_at": "2025-12-25T03:23:38.930726"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_tfpxx_002420_20251225_0",
-      "original_id": "002420",
-      "event_date": "2025-12-25",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "毅昌科技停复牌",
-      "content": "股票代码: 002420, 股票名称: 毅昌科技",
-      "category": "停复牌信息",
-      "importance": 2,
-      "country": "中国",
-      "city": null,
-      "stocks": [
-        "002420"
-      ],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-25",
-      "raw_data": {
-        "stock_code": "002420",
-        "stock_name": "毅昌科技",
-        "date": "2025-12-25"
-      },
-      "created_at": "2025-12-25T03:23:38.930744"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_tfpxx_300585_20251225_1",
+      "event_id": "em_tfpxx_300585_20251226_0",
       "original_id": "300585",
-      "event_date": "2025-12-25",
+      "event_date": "2025-12-26",
       "event_time": null,
       "event_datetime": null,
       "title": "奥联电子停复牌",
@@ -286,47 +171,19 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "stock_code": "300585",
         "stock_name": "奥联电子",
-        "date": "2025-12-25"
+        "date": "2025-12-26"
       },
-      "created_at": "2025-12-25T03:23:38.930757"
+      "created_at": "2025-12-26T03:21:30.996387"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_tfpxx_603608_20251225_2",
-      "original_id": "603608",
-      "event_date": "2025-12-25",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "天创时尚停复牌",
-      "content": "股票代码: 603608, 股票名称: 天创时尚",
-      "category": "停复牌信息",
-      "importance": 2,
-      "country": "中国",
-      "city": null,
-      "stocks": [
-        "603608"
-      ],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-25",
-      "raw_data": {
-        "stock_code": "603608",
-        "stock_name": "天创时尚",
-        "date": "2025-12-25"
-      },
-      "created_at": "2025-12-25T03:23:38.930765"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_tfpxx_002822_20251225_3",
+      "event_id": "em_tfpxx_002822_20251226_1",
       "original_id": "002822",
-      "event_date": "2025-12-25",
+      "event_date": "2025-12-26",
       "event_time": null,
       "event_datetime": null,
       "title": "*ST中装停复牌",
@@ -342,75 +199,47 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "stock_code": "002822",
         "stock_name": "*ST中装",
-        "date": "2025-12-25"
+        "date": "2025-12-26"
       },
-      "created_at": "2025-12-25T03:23:38.930772"
+      "created_at": "2025-12-26T03:21:30.996401"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_tfpxx_000430_20251225_4",
-      "original_id": "000430",
-      "event_date": "2025-12-25",
+      "event_id": "em_tfpxx_603608_20251226_2",
+      "original_id": "603608",
+      "event_date": "2025-12-26",
       "event_time": null,
       "event_datetime": null,
-      "title": "*ST张股停复牌",
-      "content": "股票代码: 000430, 股票名称: *ST张股",
+      "title": "天创时尚停复牌",
+      "content": "股票代码: 603608, 股票名称: 天创时尚",
       "category": "停复牌信息",
       "importance": 2,
       "country": "中国",
       "city": null,
       "stocks": [
-        "000430"
+        "603608"
       ],
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
-        "stock_code": "000430",
-        "stock_name": "*ST张股",
-        "date": "2025-12-25"
+        "stock_code": "603608",
+        "stock_name": "天创时尚",
+        "date": "2025-12-26"
       },
-      "created_at": "2025-12-25T03:23:38.930779"
+      "created_at": "2025-12-26T03:21:30.996410"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_tfpxx_600337_20251225_5",
-      "original_id": "600337",
-      "event_date": "2025-12-25",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "美克家居停复牌",
-      "content": "股票代码: 600337, 股票名称: 美克家居",
-      "category": "停复牌信息",
-      "importance": 2,
-      "country": "中国",
-      "city": null,
-      "stocks": [
-        "600337"
-      ],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-25",
-      "raw_data": {
-        "stock_code": "600337",
-        "stock_name": "美克家居",
-        "date": "2025-12-25"
-      },
-      "created_at": "2025-12-25T03:23:38.930786"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_tfpxx_300125_20251225_6",
+      "event_id": "em_tfpxx_300125_20251226_3",
       "original_id": "300125",
-      "event_date": "2025-12-25",
+      "event_date": "2025-12-26",
       "event_time": null,
       "event_datetime": null,
       "title": "*ST聆达停复牌",
@@ -426,19 +255,75 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "stock_code": "300125",
         "stock_name": "*ST聆达",
-        "date": "2025-12-25"
+        "date": "2025-12-26"
       },
-      "created_at": "2025-12-25T03:23:38.930793"
+      "created_at": "2025-12-26T03:21:30.996419"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_tfpxx_000615_20251225_7",
+      "event_id": "em_tfpxx_600337_20251226_4",
+      "original_id": "600337",
+      "event_date": "2025-12-26",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "美克家居停复牌",
+      "content": "股票代码: 600337, 股票名称: 美克家居",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "600337"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-26",
+      "raw_data": {
+        "stock_code": "600337",
+        "stock_name": "美克家居",
+        "date": "2025-12-26"
+      },
+      "created_at": "2025-12-26T03:21:30.996427"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_000430_20251226_5",
+      "original_id": "000430",
+      "event_date": "2025-12-26",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "*ST张股停复牌",
+      "content": "股票代码: 000430, 股票名称: *ST张股",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "000430"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-26",
+      "raw_data": {
+        "stock_code": "000430",
+        "stock_name": "*ST张股",
+        "date": "2025-12-26"
+      },
+      "created_at": "2025-12-26T03:21:30.996438"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_000615_20251226_6",
       "original_id": "000615",
-      "event_date": "2025-12-25",
+      "event_date": "2025-12-26",
       "event_time": null,
       "event_datetime": null,
       "title": "*ST美谷停复牌",
@@ -454,19 +339,19 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "stock_code": "000615",
         "stock_name": "*ST美谷",
-        "date": "2025-12-25"
+        "date": "2025-12-26"
       },
-      "created_at": "2025-12-25T03:23:38.930801"
+      "created_at": "2025-12-26T03:21:30.996448"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_tfpxx_300379_20251225_8",
+      "event_id": "em_tfpxx_300379_20251226_7",
       "original_id": "300379",
-      "event_date": "2025-12-25",
+      "event_date": "2025-12-26",
       "event_time": null,
       "event_datetime": null,
       "title": "*ST东通停复牌",
@@ -482,19 +367,19 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "stock_code": "300379",
         "stock_name": "*ST东通",
-        "date": "2025-12-25"
+        "date": "2025-12-26"
       },
-      "created_at": "2025-12-25T03:23:38.930807"
+      "created_at": "2025-12-26T03:21:30.996460"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_tfpxx_301025_20251225_9",
+      "event_id": "em_tfpxx_301025_20251226_8",
       "original_id": "301025",
-      "event_date": "2025-12-25",
+      "event_date": "2025-12-26",
       "event_time": null,
       "event_datetime": null,
       "title": "读客文化停复牌",
@@ -510,75 +395,19 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "stock_code": "301025",
         "stock_name": "读客文化",
-        "date": "2025-12-25"
+        "date": "2025-12-26"
       },
-      "created_at": "2025-12-25T03:23:38.930814"
+      "created_at": "2025-12-26T03:21:30.996468"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_tfpxx_301213_20251225_10",
-      "original_id": "301213",
-      "event_date": "2025-12-25",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "观想科技停复牌",
-      "content": "股票代码: 301213, 股票名称: 观想科技",
-      "category": "停复牌信息",
-      "importance": 2,
-      "country": "中国",
-      "city": null,
-      "stocks": [
-        "301213"
-      ],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-25",
-      "raw_data": {
-        "stock_code": "301213",
-        "stock_name": "观想科技",
-        "date": "2025-12-25"
-      },
-      "created_at": "2025-12-25T03:23:38.930821"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_tfpxx_688012_20251225_11",
-      "original_id": "688012",
-      "event_date": "2025-12-25",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "中微公司停复牌",
-      "content": "股票代码: 688012, 股票名称: 中微公司",
-      "category": "停复牌信息",
-      "importance": 2,
-      "country": "中国",
-      "city": null,
-      "stocks": [
-        "688012"
-      ],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-25",
-      "raw_data": {
-        "stock_code": "688012",
-        "stock_name": "中微公司",
-        "date": "2025-12-25"
-      },
-      "created_at": "2025-12-25T03:23:38.930828"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_tfpxx_300486_20251225_12",
+      "event_id": "em_tfpxx_300486_20251226_9",
       "original_id": "300486",
-      "event_date": "2025-12-25",
+      "event_date": "2025-12-26",
       "event_time": null,
       "event_datetime": null,
       "title": "东杰智能停复牌",
@@ -594,47 +423,75 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "stock_code": "300486",
         "stock_name": "东杰智能",
-        "date": "2025-12-25"
+        "date": "2025-12-26"
       },
-      "created_at": "2025-12-25T03:23:38.930834"
+      "created_at": "2025-12-26T03:21:30.996477"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_tfpxx_300955_20251225_13",
-      "original_id": "300955",
-      "event_date": "2025-12-25",
+      "event_id": "em_tfpxx_688012_20251226_10",
+      "original_id": "688012",
+      "event_date": "2025-12-26",
       "event_time": null,
       "event_datetime": null,
-      "title": "嘉亨家化停复牌",
-      "content": "股票代码: 300955, 股票名称: 嘉亨家化",
+      "title": "中微公司停复牌",
+      "content": "股票代码: 688012, 股票名称: 中微公司",
       "category": "停复牌信息",
       "importance": 2,
       "country": "中国",
       "city": null,
       "stocks": [
-        "300955"
+        "688012"
       ],
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
-        "stock_code": "300955",
-        "stock_name": "嘉亨家化",
-        "date": "2025-12-25"
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "date": "2025-12-26"
       },
-      "created_at": "2025-12-25T03:23:38.930841"
+      "created_at": "2025-12-26T03:21:30.996486"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_tfpxx_002713_20251225_14",
+      "event_id": "em_tfpxx_301213_20251226_11",
+      "original_id": "301213",
+      "event_date": "2025-12-26",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "观想科技停复牌",
+      "content": "股票代码: 301213, 股票名称: 观想科技",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "301213"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-26",
+      "raw_data": {
+        "stock_code": "301213",
+        "stock_name": "观想科技",
+        "date": "2025-12-26"
+      },
+      "created_at": "2025-12-26T03:21:30.996495"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_002713_20251226_12",
       "original_id": "002713",
-      "event_date": "2025-12-25",
+      "event_date": "2025-12-26",
       "event_time": null,
       "event_datetime": null,
       "title": "*ST东易停复牌",
@@ -650,47 +507,47 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "stock_code": "002713",
         "stock_name": "*ST东易",
-        "date": "2025-12-25"
+        "date": "2025-12-26"
       },
-      "created_at": "2025-12-25T03:23:38.930848"
+      "created_at": "2025-12-26T03:21:30.996506"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_tfpxx_300291_20251225_15",
-      "original_id": "300291",
-      "event_date": "2025-12-25",
+      "event_id": "em_tfpxx_300955_20251226_13",
+      "original_id": "300955",
+      "event_date": "2025-12-26",
       "event_time": null,
       "event_datetime": null,
-      "title": "百纳千成停复牌",
-      "content": "股票代码: 300291, 股票名称: 百纳千成",
+      "title": "嘉亨家化停复牌",
+      "content": "股票代码: 300955, 股票名称: 嘉亨家化",
       "category": "停复牌信息",
       "importance": 2,
       "country": "中国",
       "city": null,
       "stocks": [
-        "300291"
+        "300955"
       ],
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
-        "stock_code": "300291",
-        "stock_name": "百纳千成",
-        "date": "2025-12-25"
+        "stock_code": "300955",
+        "stock_name": "嘉亨家化",
+        "date": "2025-12-26"
       },
-      "created_at": "2025-12-25T03:23:38.930854"
+      "created_at": "2025-12-26T03:21:30.996515"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_tfpxx_002718_20251225_16",
+      "event_id": "em_tfpxx_002718_20251226_14",
       "original_id": "002718",
-      "event_date": "2025-12-25",
+      "event_date": "2025-12-26",
       "event_time": null,
       "event_datetime": null,
       "title": "友邦吊顶停复牌",
@@ -706,187 +563,162 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "stock_code": "002718",
         "stock_name": "友邦吊顶",
-        "date": "2025-12-25"
+        "date": "2025-12-26"
       },
-      "created_at": "2025-12-25T03:23:38.930861"
+      "created_at": "2025-12-26T03:21:30.996523"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_hsgg_688279_20251225_0",
-      "original_id": "688279",
-      "event_date": "2025-12-25",
+      "event_id": "em_hsgg_301449_20251226_0",
+      "original_id": "301449",
+      "event_date": "2025-12-26",
       "event_time": null,
       "event_datetime": null,
-      "title": "峰岹科技发布公告",
-      "content": "股票代码: 688279, 股票名称: 峰岹科技",
+      "title": "天溯计量发布公告",
+      "content": "股票代码: 301449, 股票名称: 天溯计量",
       "category": "A股公告",
       "importance": 3,
       "country": "中国",
       "city": null,
       "stocks": [
-        "688279"
+        "301449"
       ],
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
-        "stock_code": "688279",
-        "stock_name": "峰岹科技",
-        "date": "2025-12-25",
-        "total_count": 1364
+        "stock_code": "301449",
+        "stock_name": "天溯计量",
+        "date": "2025-12-26",
+        "total_count": 1407
       },
-      "created_at": "2025-12-25T03:23:38.930899"
+      "created_at": "2025-12-26T03:21:30.996544"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_hsgg_002138_20251225_1",
-      "original_id": "002138",
-      "event_date": "2025-12-25",
+      "event_id": "em_hsgg_300473_20251226_1",
+      "original_id": "300473",
+      "event_date": "2025-12-26",
       "event_time": null,
       "event_datetime": null,
-      "title": "顺络电子发布公告",
-      "content": "股票代码: 002138, 股票名称: 顺络电子",
+      "title": "德尔股份发布公告",
+      "content": "股票代码: 300473, 股票名称: 德尔股份",
       "category": "A股公告",
       "importance": 3,
       "country": "中国",
       "city": null,
       "stocks": [
-        "002138"
+        "300473"
       ],
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
-        "stock_code": "002138",
-        "stock_name": "顺络电子",
-        "date": "2025-12-25",
-        "total_count": 1364
+        "stock_code": "300473",
+        "stock_name": "德尔股份",
+        "date": "2025-12-26",
+        "total_count": 1407
       },
-      "created_at": "2025-12-25T03:23:38.930909"
+      "created_at": "2025-12-26T03:21:30.996553"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_hsgg_300735_20251225_2",
-      "original_id": "300735",
-      "event_date": "2025-12-25",
+      "event_id": "em_hsgg_002209_20251226_2",
+      "original_id": "002209",
+      "event_date": "2025-12-26",
       "event_time": null,
       "event_datetime": null,
-      "title": "光弘科技发布公告",
-      "content": "股票代码: 300735, 股票名称: 光弘科技",
+      "title": "达意隆发布公告",
+      "content": "股票代码: 002209, 股票名称: 达意隆",
       "category": "A股公告",
       "importance": 3,
       "country": "中国",
       "city": null,
       "stocks": [
-        "300735"
+        "002209"
       ],
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
-        "stock_code": "300735",
-        "stock_name": "光弘科技",
-        "date": "2025-12-25",
-        "total_count": 1364
+        "stock_code": "002209",
+        "stock_name": "达意隆",
+        "date": "2025-12-26",
+        "total_count": 1407
       },
-      "created_at": "2025-12-25T03:23:38.930917"
+      "created_at": "2025-12-26T03:21:30.996562"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_hsgg_600362_20251225_3",
-      "original_id": "600362",
-      "event_date": "2025-12-25",
+      "event_id": "em_hsgg_002238_20251226_3",
+      "original_id": "002238",
+      "event_date": "2025-12-26",
       "event_time": null,
       "event_datetime": null,
-      "title": "江西铜业发布公告",
-      "content": "股票代码: 600362, 股票名称: 江西铜业",
+      "title": "天威视讯发布公告",
+      "content": "股票代码: 002238, 股票名称: 天威视讯",
       "category": "A股公告",
       "importance": 3,
       "country": "中国",
       "city": null,
       "stocks": [
-        "600362"
+        "002238"
       ],
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
-        "stock_code": "600362",
-        "stock_name": "江西铜业",
-        "date": "2025-12-25",
-        "total_count": 1364
+        "stock_code": "002238",
+        "stock_name": "天威视讯",
+        "date": "2025-12-26",
+        "total_count": 1407
       },
-      "created_at": "2025-12-25T03:23:38.930923"
+      "created_at": "2025-12-26T03:21:30.996571"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_hsgg_300468_20251225_4",
-      "original_id": "300468",
-      "event_date": "2025-12-25",
+      "event_id": "em_hsgg_300769_20251226_4",
+      "original_id": "300769",
+      "event_date": "2025-12-26",
       "event_time": null,
       "event_datetime": null,
-      "title": "四方精创发布公告",
-      "content": "股票代码: 300468, 股票名称: 四方精创",
+      "title": "德方纳米发布公告",
+      "content": "股票代码: 300769, 股票名称: 德方纳米",
       "category": "A股公告",
       "importance": 3,
       "country": "中国",
       "city": null,
       "stocks": [
-        "300468"
+        "300769"
       ],
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
-        "stock_code": "300468",
-        "stock_name": "四方精创",
-        "date": "2025-12-25",
-        "total_count": 1364
+        "stock_code": "300769",
+        "stock_name": "德方纳米",
+        "date": "2025-12-26",
+        "total_count": 1407
       },
-      "created_at": "2025-12-25T03:23:38.930930"
+      "created_at": "2025-12-26T03:21:30.996579"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251225000000_-7107297410328762406",
-      "original_id": "2025-12-25 00:00:00_中国：库存:电解铝:保税区(报告期:2025年12月)",
-      "event_date": "2025-12-25",
-      "event_time": null,
-      "event_datetime": "2025-12-25 00:00:00",
-      "title": "中国：库存:电解铝:保税区(报告期:2025年12月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-25",
-      "raw_data": {
-        "Name": "中国：库存:电解铝:保税区(报告期:2025年12月)",
-        "City": "中国"
-      },
-      "created_at": "2025-12-25T03:23:38.930947"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251226000000_-3846788486747015648",
+      "event_id": "em_jjsj_20251226000000_28042068276044815",
       "original_id": "2025-12-26 00:00:00_菲律宾：进口额：同比(报告期:2025年11月)",
       "event_date": "2025-12-26",
       "event_time": null,
@@ -902,16 +734,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "菲律宾：进口额：同比(报告期:2025年11月)",
         "City": "菲律宾"
       },
-      "created_at": "2025-12-25T03:23:38.930956"
+      "created_at": "2025-12-26T03:21:30.996598"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251226000000_2922256673745874183",
+      "event_id": "em_jjsj_20251226000000_-5304906188982653412",
       "original_id": "2025-12-26 00:00:00_日本：失业率：季调(报告期:2025年11月)",
       "event_date": "2025-12-26",
       "event_time": null,
@@ -927,16 +759,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "日本：失业率：季调(报告期:2025年11月)",
         "City": "日本"
       },
-      "created_at": "2025-12-25T03:23:38.930965"
+      "created_at": "2025-12-26T03:21:30.996610"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251226000000_-6795016354440496326",
+      "event_id": "em_jjsj_20251226000000_5522477647165239858",
       "original_id": "2025-12-26 00:00:00_日本：失业率(报告期:2025年11月)",
       "event_date": "2025-12-26",
       "event_time": null,
@@ -952,16 +784,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "日本：失业率(报告期:2025年11月)",
         "City": "日本"
       },
-      "created_at": "2025-12-25T03:23:38.930972"
+      "created_at": "2025-12-26T03:21:30.996620"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251226000000_7133177093954844838",
+      "event_id": "em_jjsj_20251226000000_370431898337137290",
       "original_id": "2025-12-26 00:00:00_日本：核心CPI：东京：同比(报告期:2025年12月)",
       "event_date": "2025-12-26",
       "event_time": null,
@@ -977,16 +809,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "日本：核心CPI：东京：同比(报告期:2025年12月)",
         "City": "日本"
       },
-      "created_at": "2025-12-25T03:23:38.930980"
+      "created_at": "2025-12-26T03:21:30.996629"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251226000000_3286603188510383396",
+      "event_id": "em_jjsj_20251226000000_6744505171140462095",
       "original_id": "2025-12-26 00:00:00_日本：CPI：东京：同比(报告期:2025年12月)",
       "event_date": "2025-12-26",
       "event_time": null,
@@ -1002,16 +834,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "日本：CPI：东京：同比(报告期:2025年12月)",
         "City": "日本"
       },
-      "created_at": "2025-12-25T03:23:38.930987"
+      "created_at": "2025-12-26T03:21:30.996642"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251226000000_5436575462202163409",
+      "event_id": "em_jjsj_20251226000000_-8438704039442133713",
       "original_id": "2025-12-26 00:00:00_中国澳门：澳门:失业率(报告期:2025年11月)",
       "event_date": "2025-12-26",
       "event_time": null,
@@ -1027,16 +859,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "中国澳门：澳门:失业率(报告期:2025年11月)",
         "City": "中国澳门"
       },
-      "created_at": "2025-12-25T03:23:38.930997"
+      "created_at": "2025-12-26T03:21:30.996655"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251226000000_8167718920511946520",
+      "event_id": "em_jjsj_20251226000000_-4952358903685369095",
       "original_id": "2025-12-26 00:00:00_中国：库存:贸易矿:46港(报告期:2025年12月)",
       "event_date": "2025-12-26",
       "event_time": null,
@@ -1052,16 +884,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "中国：库存:贸易矿:46港(报告期:2025年12月)",
         "City": "中国"
       },
-      "created_at": "2025-12-25T03:23:38.931008"
+      "created_at": "2025-12-26T03:21:30.996666"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251226000000_3418456675221031163",
+      "event_id": "em_jjsj_20251226000000_-7080450380395760877",
       "original_id": "2025-12-26 00:00:00_中国：库存:球团:46港(报告期:2025年12月)",
       "event_date": "2025-12-26",
       "event_time": null,
@@ -1077,16 +909,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "中国：库存:球团:46港(报告期:2025年12月)",
         "City": "中国"
       },
-      "created_at": "2025-12-25T03:23:38.931016"
+      "created_at": "2025-12-26T03:21:30.996675"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251226000000_2036690278974223255",
+      "event_id": "em_jjsj_20251226000000_5983923517262898129",
       "original_id": "2025-12-26 00:00:00_中国：库存:铁矿石:46港(报告期:2025年12月)",
       "event_date": "2025-12-26",
       "event_time": null,
@@ -1102,16 +934,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "中国：库存:铁矿石:46港(报告期:2025年12月)",
         "City": "中国"
       },
-      "created_at": "2025-12-25T03:23:38.931023"
+      "created_at": "2025-12-26T03:21:30.996685"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251226000000_7903668306365631318",
+      "event_id": "em_jjsj_20251226000000_-7744502296088734589",
       "original_id": "2025-12-26 00:00:00_中国：库存:精粉:46港(报告期:2025年12月)",
       "event_date": "2025-12-26",
       "event_time": null,
@@ -1127,16 +959,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "中国：库存:精粉:46港(报告期:2025年12月)",
         "City": "中国"
       },
-      "created_at": "2025-12-25T03:23:38.931030"
+      "created_at": "2025-12-26T03:21:30.996694"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251226000000_7938203014117921482",
+      "event_id": "em_jjsj_20251226000000_-266998917981607517",
       "original_id": "2025-12-26 00:00:00_中国：库存:块矿:46港(报告期:2025年12月)",
       "event_date": "2025-12-26",
       "event_time": null,
@@ -1152,16 +984,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "中国：库存:块矿:46港(报告期:2025年12月)",
         "City": "中国"
       },
-      "created_at": "2025-12-25T03:23:38.931038"
+      "created_at": "2025-12-26T03:21:30.996704"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251227093000_2168129274109171720",
+      "event_id": "em_jjsj_20251227093000_-4456683925063436554",
       "original_id": "2025-12-27 09:30:00_中国：工业企业:利润总额:累计值(报告期:2025年11月)",
       "event_date": "2025-12-27",
       "event_time": "09:30:00",
@@ -1177,16 +1009,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "中国：工业企业:利润总额:累计值(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-12-25T03:23:38.931046"
+      "created_at": "2025-12-26T03:21:30.996714"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251227093000_-5702329695614935733",
+      "event_id": "em_jjsj_20251227093000_-7650143893420843597",
       "original_id": "2025-12-27 09:30:00_中国：工业企业:利润总额:累计同比(报告期:2025年11月)",
       "event_date": "2025-12-27",
       "event_time": "09:30:00",
@@ -1202,16 +1034,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "中国：工业企业:利润总额:累计同比(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-12-25T03:23:38.931054"
+      "created_at": "2025-12-26T03:21:30.996724"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251229000000_6145145597483692764",
+      "event_id": "em_jjsj_20251229000000_2473800014060104211",
       "original_id": "2025-12-29 00:00:00_马来西亚：PPI：同比(报告期:2025年11月)",
       "event_date": "2025-12-29",
       "event_time": null,
@@ -1227,16 +1059,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "马来西亚：PPI：同比(报告期:2025年11月)",
         "City": "马来西亚"
       },
-      "created_at": "2025-12-25T03:23:38.931062"
+      "created_at": "2025-12-26T03:21:30.996734"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251229163000_-9044987580442073904",
+      "event_id": "em_jjsj_20251229163000_6835439799807301644",
       "original_id": "2025-12-29 16:30:00_中国香港：商品贸易差额：当月值(报告期:2025年11月)",
       "event_date": "2025-12-29",
       "event_time": "16:30:00",
@@ -1252,16 +1084,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "中国香港：商品贸易差额：当月值(报告期:2025年11月)",
         "City": "中国香港"
       },
-      "created_at": "2025-12-25T03:23:38.931070"
+      "created_at": "2025-12-26T03:21:30.996743"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251229163000_6607181151687177342",
+      "event_id": "em_jjsj_20251229163000_1811089813286887243",
       "original_id": "2025-12-29 16:30:00_中国香港：整体出口货值：当月同比(报告期:2025年11月)",
       "event_date": "2025-12-29",
       "event_time": "16:30:00",
@@ -1277,16 +1109,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "中国香港：整体出口货值：当月同比(报告期:2025年11月)",
         "City": "中国香港"
       },
-      "created_at": "2025-12-25T03:23:38.931078"
+      "created_at": "2025-12-26T03:21:30.996753"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251229163000_5028298062271553541",
+      "event_id": "em_jjsj_20251229163000_69971648997955505",
       "original_id": "2025-12-29 16:30:00_中国香港：进口货值：同比(报告期:2025年11月)",
       "event_date": "2025-12-29",
       "event_time": "16:30:00",
@@ -1302,16 +1134,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "中国香港：进口货值：同比(报告期:2025年11月)",
         "City": "中国香港"
       },
-      "created_at": "2025-12-25T03:23:38.931085"
+      "created_at": "2025-12-26T03:21:30.996766"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251229230000_4630170545446053995",
+      "event_id": "em_jjsj_20251229230000_8547571874733837799",
       "original_id": "2025-12-29 23:00:00_美国：成屋签约销售指数(报告期:2025年11月)",
       "event_date": "2025-12-29",
       "event_time": "23:00:00",
@@ -1327,16 +1159,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "美国：成屋签约销售指数(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-12-25T03:23:38.931093"
+      "created_at": "2025-12-26T03:21:30.996777"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251229233000_-3825947484536060403",
+      "event_id": "em_jjsj_20251229233000_8557956527143571315",
       "original_id": "2025-12-29 23:30:00_美国DOE汽油引申需求:当周值(报告期:2025年12月)",
       "event_date": "2025-12-29",
       "event_time": "23:30:00",
@@ -1351,17 +1183,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-25",
+      "is_new": false,
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "美国DOE汽油引申需求:当周值(报告期:2025年12月)",
         "City": "美国"
       },
-      "created_at": "2025-12-25T03:23:38.931101"
+      "created_at": "2025-12-26T03:21:30.996787"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251229233000_7350062013478079209",
+      "event_id": "em_jjsj_20251229233000_8253918818153719715",
       "original_id": "2025-12-29 23:30:00_美国DOE燃料乙醇总库存:当周值(报告期:2025年12月)",
       "event_date": "2025-12-29",
       "event_time": "23:30:00",
@@ -1376,17 +1208,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-25",
+      "is_new": false,
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "美国DOE燃料乙醇总库存:当周值(报告期:2025年12月)",
         "City": "美国"
       },
-      "created_at": "2025-12-25T03:23:38.931109"
+      "created_at": "2025-12-26T03:21:30.996799"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251229233000_9205013939582761261",
+      "event_id": "em_jjsj_20251229233000_-8962519029987966299",
       "original_id": "2025-12-29 23:30:00_美国EIA精炼油库存:变动值(报告期:2025年12月)",
       "event_date": "2025-12-29",
       "event_time": "23:30:00",
@@ -1401,17 +1233,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-25",
+      "is_new": false,
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "美国EIA精炼油库存:变动值(报告期:2025年12月)",
         "City": "美国"
       },
-      "created_at": "2025-12-25T03:23:38.931116"
+      "created_at": "2025-12-26T03:21:30.996809"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251229233000_29210471247633490",
+      "event_id": "em_jjsj_20251229233000_-8806263941340958204",
       "original_id": "2025-12-29 23:30:00_美国DOE蒸馏油引申需求:当周值(报告期:2025年12月)",
       "event_date": "2025-12-29",
       "event_time": "23:30:00",
@@ -1426,17 +1258,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-25",
+      "is_new": false,
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "美国DOE蒸馏油引申需求:当周值(报告期:2025年12月)",
         "City": "美国"
       },
-      "created_at": "2025-12-25T03:23:38.931124"
+      "created_at": "2025-12-26T03:21:30.996818"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251229233000_7895190349547423246",
+      "event_id": "em_jjsj_20251229233000_-5411758592294045492",
       "original_id": "2025-12-29 23:30:00_美国DOE原油引申需求:当周值(报告期:2025年12月)",
       "event_date": "2025-12-29",
       "event_time": "23:30:00",
@@ -1451,17 +1283,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-25",
+      "is_new": false,
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "美国DOE原油引申需求:当周值(报告期:2025年12月)",
         "City": "美国"
       },
-      "created_at": "2025-12-25T03:23:38.931131"
+      "created_at": "2025-12-26T03:21:30.996827"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251229233000_6323885685494681089",
+      "event_id": "em_jjsj_20251229233000_8802191619445366688",
       "original_id": "2025-12-29 23:30:00_美国EIA原油库存:变动值(报告期:2025年12月)",
       "event_date": "2025-12-29",
       "event_time": "23:30:00",
@@ -1476,17 +1308,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-25",
+      "is_new": false,
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "美国EIA原油库存:变动值(报告期:2025年12月)",
         "City": "美国"
       },
-      "created_at": "2025-12-25T03:23:38.931139"
+      "created_at": "2025-12-26T03:21:30.996837"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251229233000_-9148816139910884089",
+      "event_id": "em_jjsj_20251229233000_-3550250198903432040",
       "original_id": "2025-12-29 23:30:00_美国EIA俄克拉荷马州库欣原油库存:当周值(报告期:2025年12月)",
       "event_date": "2025-12-29",
       "event_time": "23:30:00",
@@ -1501,17 +1333,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-25",
+      "is_new": false,
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "美国EIA俄克拉荷马州库欣原油库存:当周值(报告期:2025年12月)",
         "City": "美国"
       },
-      "created_at": "2025-12-25T03:23:38.931146"
+      "created_at": "2025-12-26T03:21:30.996849"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251229233000_-4463859105679208096",
+      "event_id": "em_jjsj_20251229233000_7453642830356617684",
       "original_id": "2025-12-29 23:30:00_美国DOE燃料乙醇总产量:当周值(报告期:2025年12月)",
       "event_date": "2025-12-29",
       "event_time": "23:30:00",
@@ -1526,17 +1358,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-25",
+      "is_new": false,
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "美国DOE燃料乙醇总产量:当周值(报告期:2025年12月)",
         "City": "美国"
       },
-      "created_at": "2025-12-25T03:23:38.931154"
+      "created_at": "2025-12-26T03:21:30.996858"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251229233000_-2677004635063385496",
+      "event_id": "em_jjsj_20251229233000_383763100457006798",
       "original_id": "2025-12-29 23:30:00_美国EIA汽油库存:变动值(报告期:2025年12月)",
       "event_date": "2025-12-29",
       "event_time": "23:30:00",
@@ -1551,17 +1383,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-25",
+      "is_new": false,
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "美国EIA汽油库存:变动值(报告期:2025年12月)",
         "City": "美国"
       },
-      "created_at": "2025-12-25T03:23:38.931161"
+      "created_at": "2025-12-26T03:21:30.996867"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251229233000_-8787131018569638743",
+      "event_id": "em_jjsj_20251229233000_5490277536277457842",
       "original_id": "2025-12-29 23:30:00_美国:当周EIA车用汽油总产量引伸需求数据(报告期:2025年12月)",
       "event_date": "2025-12-29",
       "event_time": "23:30:00",
@@ -1576,17 +1408,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-25",
+      "is_new": false,
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "美国:当周EIA车用汽油总产量引伸需求数据(报告期:2025年12月)",
         "City": "美国"
       },
-      "created_at": "2025-12-25T03:23:38.931169"
+      "created_at": "2025-12-26T03:21:30.996880"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251229233000_2008244920686476812",
+      "event_id": "em_jjsj_20251229233000_-271355207787695829",
       "original_id": "2025-12-29 23:30:00_美国：库存量:战略储备石油(报告期:2025年12月)",
       "event_date": "2025-12-29",
       "event_time": "23:30:00",
@@ -1601,17 +1433,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-25",
+      "is_new": false,
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "美国：库存量:战略储备石油(报告期:2025年12月)",
         "City": "美国"
       },
-      "created_at": "2025-12-25T03:23:38.931176"
+      "created_at": "2025-12-26T03:21:30.996892"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251229233000_1458262632096311595",
+      "event_id": "em_jjsj_20251229233000_-8616480548109734241",
       "original_id": "2025-12-29 23:30:00_美国：库存量:原油和石油产品(不包括战略储备石油)(报告期:2025年12月)",
       "event_date": "2025-12-29",
       "event_time": "23:30:00",
@@ -1626,17 +1458,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-25",
+      "is_new": false,
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "美国：库存量:原油和石油产品(不包括战略储备石油)(报告期:2025年12月)",
         "City": "美国"
       },
-      "created_at": "2025-12-25T03:23:38.931184"
+      "created_at": "2025-12-26T03:21:30.996901"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251229233000_-4691985824348652092",
+      "event_id": "em_jjsj_20251229233000_-2670304018809476534",
       "original_id": "2025-12-29 23:30:00_美国：库存量:原油(包括战略储备石油)(报告期:2025年12月)",
       "event_date": "2025-12-29",
       "event_time": "23:30:00",
@@ -1651,17 +1483,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-25",
+      "is_new": false,
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "美国：库存量:原油(包括战略储备石油)(报告期:2025年12月)",
         "City": "美国"
       },
-      "created_at": "2025-12-25T03:23:38.931191"
+      "created_at": "2025-12-26T03:21:30.996910"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251231000000_6020147729248491698",
+      "event_id": "em_jjsj_20251231000000_-8028113140086904196",
       "original_id": "2025-12-31 00:00:00_韩国：CPI：同比(报告期:2025年12月)",
       "event_date": "2025-12-31",
       "event_time": null,
@@ -1677,16 +1509,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "韩国：CPI：同比(报告期:2025年12月)",
         "City": "韩国"
       },
-      "created_at": "2025-12-25T03:23:38.931199"
+      "created_at": "2025-12-26T03:21:30.996921"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251231092000_8820595474214399373",
+      "event_id": "em_jjsj_20251231092000_6687421666382367919",
       "original_id": "2025-12-31 09:20:00_中国：人民币汇率(报告期:2025年12月)",
       "event_date": "2025-12-31",
       "event_time": "09:20:00",
@@ -1702,16 +1534,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "中国：人民币汇率(报告期:2025年12月)",
         "City": "中国"
       },
-      "created_at": "2025-12-25T03:23:38.931208"
+      "created_at": "2025-12-26T03:21:30.996931"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251231093000_-9141820348155667984",
+      "event_id": "em_jjsj_20251231093000_7407721354708026866",
       "original_id": "2025-12-31 09:30:00_中国：制造业PMI(报告期:2025年12月)",
       "event_date": "2025-12-31",
       "event_time": "09:30:00",
@@ -1727,16 +1559,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "中国：制造业PMI(报告期:2025年12月)",
         "City": "中国"
       },
-      "created_at": "2025-12-25T03:23:38.931216"
+      "created_at": "2025-12-26T03:21:30.996941"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251231093000_1753439474505925336",
+      "event_id": "em_jjsj_20251231093000_4563170626543243174",
       "original_id": "2025-12-31 09:30:00_中国：PMI(报告期:2025年12月)",
       "event_date": "2025-12-31",
       "event_time": "09:30:00",
@@ -1752,16 +1584,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "中国：PMI(报告期:2025年12月)",
         "City": "中国"
       },
-      "created_at": "2025-12-25T03:23:38.931223"
+      "created_at": "2025-12-26T03:21:30.996950"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251231093000_80775431592487949",
+      "event_id": "em_jjsj_20251231093000_7251618461432984992",
       "original_id": "2025-12-31 09:30:00_中国：非制造业PMI(报告期:2025年12月)",
       "event_date": "2025-12-31",
       "event_time": "09:30:00",
@@ -1777,16 +1609,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "中国：非制造业PMI(报告期:2025年12月)",
         "City": "中国"
       },
-      "created_at": "2025-12-25T03:23:38.931230"
+      "created_at": "2025-12-26T03:21:30.996959"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251231160000_-4426234952101725558",
+      "event_id": "em_jjsj_20251231160000_7820331362888031929",
       "original_id": "2025-12-31 16:00:00_土耳其：出口金额(报告期:2025年11月)",
       "event_date": "2025-12-31",
       "event_time": "16:00:00",
@@ -1802,16 +1634,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "土耳其：出口金额(报告期:2025年11月)",
         "City": "土耳其"
       },
-      "created_at": "2025-12-25T03:23:38.931238"
+      "created_at": "2025-12-26T03:21:30.996969"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251231213000_6746037961325815829",
+      "event_id": "em_jjsj_20251231213000_6712513911111123583",
       "original_id": "2025-12-31 21:30:00_美国:四周移动平均首次申请失业金人数:季调:初值(报告期:2025年12月)",
       "event_date": "2025-12-31",
       "event_time": "21:30:00",
@@ -1826,17 +1658,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-25",
+      "is_new": false,
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "美国:四周移动平均首次申请失业金人数:季调:初值(报告期:2025年12月)",
         "City": "美国"
       },
-      "created_at": "2025-12-25T03:23:38.931246"
+      "created_at": "2025-12-26T03:21:30.996982"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251231213000_4335406397762662832",
+      "event_id": "em_jjsj_20251231213000_2836033693152926714",
       "original_id": "2025-12-31 21:30:00_美国:当周首次申请失业金人数:季调:初值(报告期:2025年12月)",
       "event_date": "2025-12-31",
       "event_time": "21:30:00",
@@ -1851,13 +1683,13 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-25",
+      "is_new": false,
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "Name": "美国:当周首次申请失业金人数:季调:初值(报告期:2025年12月)",
         "City": "美国"
       },
-      "created_at": "2025-12-25T03:23:38.931349"
+      "created_at": "2025-12-26T03:21:30.996991"
     },
     {
       "platform": "eastmoney",
@@ -1877,7 +1709,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "fe_code": "10867584",
         "fe_name": "2026第四届上海国际热泵应用技术装备展览会",
@@ -1888,7 +1720,7 @@
         "city": "上海市",
         "content": null
       },
-      "created_at": "2025-12-25T03:23:38.931366"
+      "created_at": "2025-12-26T03:21:30.997009"
     },
     {
       "platform": "eastmoney",
@@ -1908,7 +1740,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "fe_code": "10868093",
         "fe_name": "第十四届全国人民代表大会常务委员会第十九次会议",
@@ -1919,7 +1751,7 @@
         "city": "北京市",
         "content": "委员长会议建议,十四届全国人大常委会第十九次会议审议生态环境法典草案、民族团结进步促进法草案、国家发展规划法草案、渔业法修订草案、危险化学品安全法草案、民用航空法修订草案、国家通用语言文字法修订草案、对外贸易法修订草案;审议委员长会议关于提请审议国有资产法草案的议案;审议全国人大教科文卫委关于提请审议托育服务法草案的议案;审议全国人大环资委关于提请审议南极活动与环境保护法草案的议案;审议国务院关于提请审议银行业监督管理法修订草案的议案、关于提请审议商标法修订草案的议案;审议委员长会议关于提请审议关于刑事诉讼法有关规定的解释草案的议案、关于提请审议全国人大常委会关于召开第十四届全国人民代表大会第四次会议的决定草案的议案。委员长会议建议的常委会第十九次会议议程还有:审议国务院关于2024年度中央预算执行和其他财政收支审计查出问题整改情况的报告、关于财政高等教育资金分配和使用情况的报告、关于促进科技成果转化工作情况的报告、关于建立健全城乡融合发展体制机制工作情况的报告、关于灵活就业和新就业形态劳动者权益保障工作情况的报告;审议全国人大常委会执法检查组关于检查节约能源法实施情况的报告、关于检查循环经济促进法实施情况的报告;审议全国人大民委、宪法法律委、教科文卫委、外事委、农业农村委分别提出的关于十四届全国人大三次会议主席团交付审议的代表提出的议案审议结果的报告;分别听取全国人大常委会代表工委、国家发展改革委关于十四届全国人大三次会议代表建议、批评和意见办理情况的报告;审议全国人大常委会法工委关于2025年备案审查工作情况的报告、预算工委关于2025年财政预算事项备案审查工作情况的报告、法工委关于法律清理工作情况和处理意见的报告;审议赵乐际委员长访问新西兰、澳大利亚情况的书面报告;审议全国人大常委会代表资格审查委员会关于个别代表的代表资格的报告;审议中央军事委员会关于提请审议批准增补中国人民解放军选举委员会组成人员的议案;审议有关任免案等。"
       },
-      "created_at": "2025-12-25T03:23:38.931377"
+      "created_at": "2025-12-26T03:21:30.997022"
     },
     {
       "platform": "eastmoney",
@@ -1939,7 +1771,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "fe_code": "10868098",
         "fe_name": "第二十三届中国食品安全大会暨2025全国食品工业科技进步大会",
@@ -1950,193 +1782,7 @@
         "city": "北京市",
         "content": "第二十三届中国食品安全大会是2025年12月24日-28日在北京举办的会议。"
       },
-      "created_at": "2025-12-25T03:23:38.931387"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_hyhy_10868128",
-      "original_id": "10868128",
-      "event_date": "2025-12-24",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "第七届宠物新国货大会将于12月24日举办",
-      "content": "12月24-25日,由TOPS它博会、山东省宠物行业协会、十方论坛和宠业家联合主办的2025中国宠业年度大会,将在武汉·国际会议中心举行。作为中国宠物行业一年一度的标杆会议,预计迎来4000+行业人士齐聚千湖之城武汉。",
-      "category": "行业会议",
-      "importance": 3,
-      "country": "中国",
-      "city": "武汉",
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-25",
-      "raw_data": {
-        "fe_code": "10868128",
-        "fe_name": "第七届宠物新国货大会将于12月24日举办",
-        "start_date": "2025-12-24",
-        "end_date": "2025-12-25",
-        "fe_type": "行业会议",
-        "sponsor": "TOPS它博会,山东省宠物行业协会,十方论坛和宠业家",
-        "city": "武汉",
-        "content": "12月24-25日,由TOPS它博会、山东省宠物行业协会、十方论坛和宠业家联合主办的2025中国宠业年度大会,将在武汉·国际会议中心举行。作为中国宠物行业一年一度的标杆会议,预计迎来4000+行业人士齐聚千湖之城武汉。"
-      },
-      "created_at": "2025-12-25T03:23:38.931396"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_hyhy_10868129",
-      "original_id": "10868129",
-      "event_date": "2025-12-24",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "2025算力互联网大会",
-      "content": "近年来,我国高度重视算力互联互通发展。为落实国家政策相关要求,提升我国算力互联网建设水平,搭建算力互联互通产业交流平台,中国通信企业协会和中国互联网协会拟于2025年12月24-25日在四川省成都市举办2025算力互联网大会,并同期举办算力互联网试验网第四季度推进会暨2025年度总结会(闭门会),旨在协同业界共探前沿技术与产业的发展路径,助推产业聚势、凝力、赋能,构建算力产业新生态,开拓算力经济新局面。",
-      "category": "行业会议",
-      "importance": 3,
-      "country": "中国",
-      "city": "成都市",
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-25",
-      "raw_data": {
-        "fe_code": "10868129",
-        "fe_name": "2025算力互联网大会",
-        "start_date": "2025-12-24",
-        "end_date": "2025-12-25",
-        "fe_type": "行业会议",
-        "sponsor": "中国通信企业协会,中国互联网协会",
-        "city": "成都市",
-        "content": "近年来,我国高度重视算力互联互通发展。为落实国家政策相关要求,提升我国算力互联网建设水平,搭建算力互联互通产业交流平台,中国通信企业协会和中国互联网协会拟于2025年12月24-25日在四川省成都市举办2025算力互联网大会,并同期举办算力互联网试验网第四季度推进会暨2025年度总结会(闭门会),旨在协同业界共探前沿技术与产业的发展路径,助推产业聚势、凝力、赋能,构建算力产业新生态,开拓算力经济新局面。"
-      },
-      "created_at": "2025-12-25T03:23:38.931405"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_hyhy_10868130",
-      "original_id": "10868130",
-      "event_date": "2025-12-25",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "第十六届物联网产业与智慧城市发展年会",
-      "content": "2025年12月25日,备受业界瞩目的第十六届物联网产业与智慧城市发展年会将在北京隆重举行。作为一年一度的行业风向标,本届年会汇聚了来自工信部、中国通信工业协会、中国信通院的领导,以及众多前沿企业代表与知名专家学者,共同探讨如何深化智慧城市发展,推进城市全域数字化转型路径与策略,更好的推进中国式现代化城市建设。",
-      "category": "行业会议",
-      "importance": 3,
-      "country": "中国",
-      "city": "北京市",
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-25",
-      "raw_data": {
-        "fe_code": "10868130",
-        "fe_name": "第十六届物联网产业与智慧城市发展年会",
-        "start_date": "2025-12-25",
-        "end_date": "2025-12-25",
-        "fe_type": "行业会议",
-        "sponsor": null,
-        "city": "北京市",
-        "content": "2025年12月25日,备受业界瞩目的第十六届物联网产业与智慧城市发展年会将在北京隆重举行。作为一年一度的行业风向标,本届年会汇聚了来自工信部、中国通信工业协会、中国信通院的领导,以及众多前沿企业代表与知名专家学者,共同探讨如何深化智慧城市发展,推进城市全域数字化转型路径与策略,更好的推进中国式现代化城市建设。"
-      },
-      "created_at": "2025-12-25T03:23:38.931414"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_hyhy_10868131",
-      "original_id": "10868131",
-      "event_date": "2025-12-25",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "小米集团:小米17·Ultra发布会定档12月25日19:00",
-      "content": "?2025年12月22日,小米集团总裁卢伟冰在微博官宣小米与徕卡影像战略合作升级发布会定档2025年12月25日19:00,核心是“战略共创模式”落地,同步推出小米17Ultra,首发移动影像徕卡APO认证长焦与新一代1英寸主摄,主打长焦与夜景双突破。",
-      "category": "行业会议",
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-25",
-      "raw_data": {
-        "fe_code": "10868131",
-        "fe_name": "小米集团:小米17·Ultra发布会定档12月25日19:00",
-        "start_date": "2025-12-25",
-        "end_date": "2025-12-25",
-        "fe_type": "行业会议",
-        "sponsor": null,
-        "city": null,
-        "content": "?2025年12月22日,小米集团总裁卢伟冰在微博官宣小米与徕卡影像战略合作升级发布会定档2025年12月25日19:00,核心是“战略共创模式”落地,同步推出小米17Ultra,首发移动影像徕卡APO认证长焦与新一代1英寸主摄,主打长焦与夜景双突破。"
-      },
-      "created_at": "2025-12-25T03:23:38.931423"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_hyhy_10868132",
-      "original_id": "10868132",
-      "event_date": "2025-12-25",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "思人工智能框架峰会",
-      "content": "由昇思MindSpore主办,华为联合承办、万物昇长等多方协办的年度人工智能框架盛会——昇思人工智能框架峰会,定于2025年12月25日,在杭州国际博览中心隆重举行。这不仅是一场技术分享会,更是中国AI根技术探索、行业智慧碰撞与开源生态繁荣的集中展示。我们诚邀每一位关注AI框架未来、投身产业智能化的您,共赴杭城,见证成长。",
-      "category": "行业会议",
-      "importance": 3,
-      "country": "中国",
-      "city": "杭州市",
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-25",
-      "raw_data": {
-        "fe_code": "10868132",
-        "fe_name": "思人工智能框架峰会",
-        "start_date": "2025-12-25",
-        "end_date": "2025-12-25",
-        "fe_type": "高峰论坛",
-        "sponsor": "昇思MindSpore",
-        "city": "杭州市",
-        "content": "由昇思MindSpore主办,华为联合承办、万物昇长等多方协办的年度人工智能框架盛会——昇思人工智能框架峰会,定于2025年12月25日,在杭州国际博览中心隆重举行。这不仅是一场技术分享会,更是中国AI根技术探索、行业智慧碰撞与开源生态繁荣的集中展示。我们诚邀每一位关注AI框架未来、投身产业智能化的您,共赴杭城,见证成长。"
-      },
-      "created_at": "2025-12-25T03:23:38.931432"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_hyhy_10868133",
-      "original_id": "10868133",
-      "event_date": "2025-12-25",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "2025粤港澳大湾区低空经济高质量发展大会",
-      "content": "在党中央、国务院关于发展低空经济的战略部署指引下,粤港澳大湾区依托独特优势,积极打造低空经济发展“先行样板”,持续释放发展势能,加速推进商业化进程。现定于2025年12月25日(星期四)在广州市中国进出口商品交易会展馆广交会堂,举办2025粤港澳大湾区低空经济高质量发展大会。本次大会以“创新引领、安全筑基、湾区先行”为主题,主要内容包括领导致辞、粤港澳大湾区城市代表、著名院士、领军企业、国际组织和机构代表作主题发言,低空经济重磅成果发布,创新成果展示,专题报告,圆桌对话,项目签约等活动。拟邀请政府部门、低空经济领域核心企业、投资机构、国际组织、行业协会、科研院校以及外国驻穗领团代表等参会,共商低空经济发展大计,共谋低空经济安全、高效、可持续发展之路。",
-      "category": "行业会议",
-      "importance": 3,
-      "country": "中国",
-      "city": "广州市",
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-25",
-      "raw_data": {
-        "fe_code": "10868133",
-        "fe_name": "2025粤港澳大湾区低空经济高质量发展大会",
-        "start_date": "2025-12-25",
-        "end_date": "2025-12-25",
-        "fe_type": "行业会议",
-        "sponsor": "广州市发展和改革委员会,海珠区人民政府,中国经济信息社,工信部电子五所,广东省低空经济产业发展有限公司,广州低空经济产业发展有限公司,大湾区低空经济联盟(香港),无人系统工程师协会(澳门),广州市低空经济与航空航天产业协会",
-        "city": "广州市",
-        "content": "在党中央、国务院关于发展低空经济的战略部署指引下,粤港澳大湾区依托独特优势,积极打造低空经济发展“先行样板”,持续释放发展势能,加速推进商业化进程。现定于2025年12月25日(星期四)在广州市中国进出口商品交易会展馆广交会堂,举办2025粤港澳大湾区低空经济高质量发展大会。本次大会以“创新引领、安全筑基、湾区先行”为主题,主要内容包括领导致辞、粤港澳大湾区城市代表、著名院士、领军企业、国际组织和机构代表作主题发言,低空经济重磅成果发布,创新成果展示,专题报告,圆桌对话,项目签约等活动。拟邀请政府部门、低空经济领域核心企业、投资机构、国际组织、行业协会、科研院校以及外国驻穗领团代表等参会,共商低空经济发展大计,共谋低空经济安全、高效、可持续发展之路。"
-      },
-      "created_at": "2025-12-25T03:23:38.931441"
+      "created_at": "2025-12-26T03:21:30.997034"
     },
     {
       "platform": "eastmoney",
@@ -2156,7 +1802,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "fe_code": "10867026",
         "fe_name": "2025全球文化IP产业发展大会",
@@ -2167,7 +1813,7 @@
         "city": "上海市",
         "content": "2025全球文化IP产业发展大会于2025年12月26-27日在上海举行。主题为“IP无界·智创未来——文化IP与科技融合的全球化探索”。"
       },
-      "created_at": "2025-12-25T03:23:38.931450"
+      "created_at": "2025-12-26T03:21:30.997069"
     },
     {
       "platform": "eastmoney",
@@ -2187,7 +1833,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "fe_code": "10868134",
         "fe_name": "星宸科技2025开发者大会暨产品发布会",
@@ -2198,7 +1844,7 @@
         "city": "深圳市",
         "content": "当前,AI技术正加速从云端向终端迁移,端侧智能逐渐成为推动产业智能化转型的关键力量,在此背景下,星宸科技将于12月26日在深圳湾万丽酒店举办2025开发者大会暨产品发布会。大会设置一场主论坛、两场专题分论坛以及全景生态展区,系统呈现星宸科技以及合作伙伴在端侧智能领域的技术积累与生态共建成果。"
       },
-      "created_at": "2025-12-25T03:23:38.931459"
+      "created_at": "2025-12-26T03:21:30.997082"
     },
     {
       "platform": "eastmoney",
@@ -2217,8 +1863,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-25",
+      "is_new": false,
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "fe_code": "10868159",
         "fe_name": "北京市机器人产业协会成立大会",
@@ -2229,7 +1875,38 @@
         "city": "北京市",
         "content": "当智能科技浪潮席卷全球,机器人产业正成为驱动经济升级、赋能千行百业的核心力量。为贯彻落实《北京市机器人产业创新发展行动方案(2023—2025年)》及相关扶持政策,加速产业创新资源整合与产业链协同发展,中国电子信息产业发展研究院(赛迪研究院)、北京人形机器人创新中心有限公司等多家单位将联合发起成立北京市机器人产业协会,成立大会将于12月26日(周五)在北京昌平区科兴来福城宴会厅召开。"
       },
-      "created_at": "2025-12-25T03:23:38.931468"
+      "created_at": "2025-12-26T03:21:30.997094"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10868327",
+      "original_id": "10868327",
+      "event_date": "2025-12-27",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "三亚财经国际论坛暨第五届三亚财富管理大会",
+      "content": "三亚?财经国际论坛暨第五届三亚财富管理大会12月27日在海南三亚举办,主题为海南自贸港未来定位及三亚新机遇。",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": "三亚市",
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-26",
+      "raw_data": {
+        "fe_code": "10868327",
+        "fe_name": "三亚财经国际论坛暨第五届三亚财富管理大会",
+        "start_date": "2025-12-27",
+        "end_date": "2025-12-27",
+        "fe_type": "高峰论坛",
+        "sponsor": "财经杂志",
+        "city": "三亚市",
+        "content": "三亚?财经国际论坛暨第五届三亚财富管理大会12月27日在海南三亚举办,主题为海南自贸港未来定位及三亚新机遇。"
+      },
+      "created_at": "2025-12-26T03:21:30.997108"
     },
     {
       "platform": "eastmoney",
@@ -2249,7 +1926,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "fe_code": "10866899",
         "fe_name": "第五届脑科学前沿与产业大会暨2025深圳脑机接口与人机交互技术博览会",
@@ -2260,7 +1937,38 @@
         "city": "深圳市",
         "content": "随着脑科学研究不断深入,脑机接口在医疗健康领域的应用前景广阔,未来发展仍需加强政、产、学、研、医的通力协作,进一步促进脑机接口技术发展和创新应用,让更多使用者受益。2025大湾区脑科学与类脑智能产业大会、BCI-2025深圳国际脑机接口创新技术展览会(简称:BCI-EXPO2025深圳脑博会)将于2025年12月28-30日在深圳会展中心举办,展示我国在脑机接口技术及脑科学产业应用方面的创新成果。展会将聚集“科技+资本+产业”的行业翘楚,针对脑科学、脑技术、脑健康、脑智能、脑疾病与脑康复科技领域(脑科技领域)的前沿科技与产业发展现状、未来超势及产业生态建设进行全方位展示与研讨。邀请脑科学领域国内外著名科学家、商业领袖及投资机构代表,围绕脑与健康领域的技术创新、产业转化、资本融合等,探讨脑与健康医学的发展现状、未来超势及产业路线。"
       },
-      "created_at": "2025-12-25T03:23:38.931477"
+      "created_at": "2025-12-26T03:21:30.997123"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10868165",
+      "original_id": "10868165",
+      "event_date": "2025-12-28",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "第十届中国制造强国年会",
+      "content": "12月28日,“第十届中国制造强国年会”在北京举行,主题为“实体为根,向新而行”。",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": "北京市",
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-26",
+      "raw_data": {
+        "fe_code": "10868165",
+        "fe_name": "第十届中国制造强国年会",
+        "start_date": "2025-12-28",
+        "end_date": "2025-12-28",
+        "fe_type": "行业会议",
+        "sponsor": "中制智库",
+        "city": "北京市",
+        "content": "12月28日,“第十届中国制造强国年会”在北京举行,主题为“实体为根,向新而行”。"
+      },
+      "created_at": "2025-12-26T03:21:30.997137"
     }
   ]
 }
