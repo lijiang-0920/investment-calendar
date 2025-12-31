@@ -2,52 +2,24 @@
   "platform": "jiuyangongshe",
   "platform_name": "韭研公社",
   "data_type": "ACTIVE",
-  "total_events": 3,
-  "last_updated": "2025-12-30T03:24:47.220396",
+  "total_events": 1,
+  "last_updated": "2025-12-31T03:23:33.986978",
   "events": [
-    {
-      "id": "jygs_2gdyy54y2f0_5715be0c40f94b06b85f09945c053e0e_20251230",
-      "platform": "jiuyangongshe",
-      "title": "2025中国绿氢产业大会",
-      "event_date": "2025-12-30",
-      "content": "2025中国绿氢产业大会将于12月30日在北京举行",
-      "importance": 1,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-12-30",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": []
-    },
-    {
-      "id": "jygs_jj8jwkmgfw_2772328df33a48108df65a2148c0f42b_20251230",
-      "platform": "jiuyangongshe",
-      "title": "可控核聚变创新联合体第二届锦江论坛",
-      "event_date": "2025-12-30",
-      "content": "指导单位:可控核聚变创新联合体指挥部办公室\n主办单位:中国聚变能源有限公司\n联合主办:上海电气集团股份有限公司\n协办单位:\n中国电气装备集团有限公司科学技术研究院有限公司\n上海交通大学电气工程学院\n中国动力工程学会核电专委会",
-      "importance": 1,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-12-30",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": []
-    },
     {
       "id": "jygs_2ywehh1bcjf_2451080f6e10447f87e1909fa4189da2_20251231",
       "platform": "jiuyangongshe",
       "title": "京东与宇树首家线下门店开业",
       "event_date": "2025-12-31",
-      "content": " ",
+      "content": "",
       "importance": 1,
       "country": "中国",
-      "is_new": true,
-      "discovery_date": "2025-12-30",
+      "is_new": false,
+      "discovery_date": "2025-12-31",
       "data_status": "ACTIVE",
       "stocks": [],
-      "themes": [],
+      "themes": [
+        "宇树"
+      ],
       "concepts": []
     }
   ]

@@ -2,11 +2,11 @@
   "platform": "eastmoney",
   "platform_name": "东方财富",
   "data_type": "ACTIVE",
-  "total_events": 33,
-  "last_updated": "2025-12-30T03:24:47.227075",
+  "total_events": 29,
+  "last_updated": "2025-12-31T03:23:33.991030",
   "events": [
     {
-      "id": "em_xsap_20251231_7153217521307931261",
+      "id": "em_xsap_20251231_-2383841101974365547",
       "platform": "eastmoney",
       "title": "港股 - 元旦前夕(13:00收市)",
       "event_date": "2025-12-31",
@@ -15,14 +15,14 @@
       "importance": 2,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-12-30",
+      "discovery_date": "2025-12-31",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
       "concepts": []
     },
     {
-      "id": "em_xsap_20251231_3042236864917176334",
+      "id": "em_xsap_20251231_4719478503425506892",
       "platform": "eastmoney",
       "title": "港股通(沪)、港股通(深) - 新年前夕半日市",
       "event_date": "2025-12-31",
@@ -31,113 +31,23 @@
       "importance": 2,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-12-30",
+      "discovery_date": "2025-12-31",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
       "concepts": []
     },
     {
-      "id": "em_tfpxx_600058_20251230_0",
-      "platform": "eastmoney",
-      "title": "五矿发展停复牌",
-      "event_date": "2025-12-30",
-      "content": "股票代码: 600058, 股票名称: 五矿发展",
-      "category": "停复牌信息",
-      "importance": 2,
-      "country": "中国",
-      "is_new": true,
-      "discovery_date": "2025-12-30",
-      "data_status": "ACTIVE",
-      "stocks": [
-        "600058"
-      ],
-      "themes": [],
-      "concepts": []
-    },
-    {
-      "id": "em_tfpxx_600721_20251230_1",
-      "platform": "eastmoney",
-      "title": "百花医药停复牌",
-      "event_date": "2025-12-30",
-      "content": "股票代码: 600721, 股票名称: 百花医药",
-      "category": "停复牌信息",
-      "importance": 2,
-      "country": "中国",
-      "is_new": true,
-      "discovery_date": "2025-12-30",
-      "data_status": "ACTIVE",
-      "stocks": [
-        "600721"
-      ],
-      "themes": [],
-      "concepts": []
-    },
-    {
-      "id": "em_tfpxx_600200_20251230_2",
-      "platform": "eastmoney",
-      "title": "退市苏吴停复牌",
-      "event_date": "2025-12-30",
-      "content": "股票代码: 600200, 股票名称: 退市苏吴",
-      "category": "停复牌信息",
-      "importance": 2,
-      "country": "中国",
-      "is_new": true,
-      "discovery_date": "2025-12-30",
-      "data_status": "ACTIVE",
-      "stocks": [
-        "600200"
-      ],
-      "themes": [],
-      "concepts": []
-    },
-    {
-      "id": "em_tfpxx_600337_20251230_3",
-      "platform": "eastmoney",
-      "title": "美克家居停复牌",
-      "event_date": "2025-12-30",
-      "content": "股票代码: 600337, 股票名称: 美克家居",
-      "category": "停复牌信息",
-      "importance": 2,
-      "country": "中国",
-      "is_new": true,
-      "discovery_date": "2025-12-30",
-      "data_status": "ACTIVE",
-      "stocks": [
-        "600337"
-      ],
-      "themes": [],
-      "concepts": []
-    },
-    {
-      "id": "em_tfpxx_002049_20251230_4",
-      "platform": "eastmoney",
-      "title": "紫光国微停复牌",
-      "event_date": "2025-12-30",
-      "content": "股票代码: 002049, 股票名称: 紫光国微",
-      "category": "停复牌信息",
-      "importance": 2,
-      "country": "中国",
-      "is_new": true,
-      "discovery_date": "2025-12-30",
-      "data_status": "ACTIVE",
-      "stocks": [
-        "002049"
-      ],
-      "themes": [],
-      "concepts": []
-    },
-    {
-      "id": "em_tfpxx_000691_20251230_5",
+      "id": "em_tfpxx_000691_20251231_0",
       "platform": "eastmoney",
       "title": "*ST亚太停复牌",
-      "event_date": "2025-12-30",
+      "event_date": "2025-12-31",
       "content": "股票代码: 000691, 股票名称: *ST亚太",
       "category": "停复牌信息",
       "importance": 2,
       "country": "中国",
       "is_new": true,
-      "discovery_date": "2025-12-30",
+      "discovery_date": "2025-12-31",
       "data_status": "ACTIVE",
       "stocks": [
         "000691"
@@ -146,160 +56,52 @@
       "concepts": []
     },
     {
-      "id": "em_tfpxx_603508_20251230_6",
+      "id": "em_tfpxx_600058_20251231_1",
       "platform": "eastmoney",
-      "title": "思维列控停复牌",
-      "event_date": "2025-12-30",
-      "content": "股票代码: 603508, 股票名称: 思维列控",
+      "title": "五矿发展停复牌",
+      "event_date": "2025-12-31",
+      "content": "股票代码: 600058, 股票名称: 五矿发展",
       "category": "停复牌信息",
       "importance": 2,
       "country": "中国",
       "is_new": true,
-      "discovery_date": "2025-12-30",
+      "discovery_date": "2025-12-31",
       "data_status": "ACTIVE",
       "stocks": [
-        "603508"
+        "600058"
       ],
       "themes": [],
       "concepts": []
     },
     {
-      "id": "em_tfpxx_001331_20251230_7",
+      "id": "em_tfpxx_600721_20251231_2",
       "platform": "eastmoney",
-      "title": "胜通能源停复牌",
-      "event_date": "2025-12-30",
-      "content": "股票代码: 001331, 股票名称: 胜通能源",
+      "title": "百花医药停复牌",
+      "event_date": "2025-12-31",
+      "content": "股票代码: 600721, 股票名称: 百花医药",
       "category": "停复牌信息",
       "importance": 2,
       "country": "中国",
       "is_new": true,
-      "discovery_date": "2025-12-30",
+      "discovery_date": "2025-12-31",
       "data_status": "ACTIVE",
       "stocks": [
-        "001331"
+        "600721"
       ],
       "themes": [],
       "concepts": []
     },
     {
-      "id": "em_tfpxx_300486_20251230_8",
+      "id": "em_tfpxx_301687_20251231_3",
       "platform": "eastmoney",
-      "title": "东杰智能停复牌",
-      "event_date": "2025-12-30",
-      "content": "股票代码: 300486, 股票名称: 东杰智能",
-      "category": "停复牌信息",
-      "importance": 2,
-      "country": "中国",
-      "is_new": true,
-      "discovery_date": "2025-12-30",
-      "data_status": "ACTIVE",
-      "stocks": [
-        "300486"
-      ],
-      "themes": [],
-      "concepts": []
-    },
-    {
-      "id": "em_tfpxx_688012_20251230_9",
-      "platform": "eastmoney",
-      "title": "中微公司停复牌",
-      "event_date": "2025-12-30",
-      "content": "股票代码: 688012, 股票名称: 中微公司",
-      "category": "停复牌信息",
-      "importance": 2,
-      "country": "中国",
-      "is_new": true,
-      "discovery_date": "2025-12-30",
-      "data_status": "ACTIVE",
-      "stocks": [
-        "688012"
-      ],
-      "themes": [],
-      "concepts": []
-    },
-    {
-      "id": "em_tfpxx_300955_20251230_10",
-      "platform": "eastmoney",
-      "title": "嘉亨家化停复牌",
-      "event_date": "2025-12-30",
-      "content": "股票代码: 300955, 股票名称: 嘉亨家化",
-      "category": "停复牌信息",
-      "importance": 2,
-      "country": "中国",
-      "is_new": true,
-      "discovery_date": "2025-12-30",
-      "data_status": "ACTIVE",
-      "stocks": [
-        "300955"
-      ],
-      "themes": [],
-      "concepts": []
-    },
-    {
-      "id": "em_tfpxx_002718_20251230_11",
-      "platform": "eastmoney",
-      "title": "友邦吊顶停复牌",
-      "event_date": "2025-12-30",
-      "content": "股票代码: 002718, 股票名称: 友邦吊顶",
-      "category": "停复牌信息",
-      "importance": 2,
-      "country": "中国",
-      "is_new": true,
-      "discovery_date": "2025-12-30",
-      "data_status": "ACTIVE",
-      "stocks": [
-        "002718"
-      ],
-      "themes": [],
-      "concepts": []
-    },
-    {
-      "id": "em_tfpxx_301213_20251230_12",
-      "platform": "eastmoney",
-      "title": "观想科技停复牌",
-      "event_date": "2025-12-30",
-      "content": "股票代码: 301213, 股票名称: 观想科技",
-      "category": "停复牌信息",
-      "importance": 2,
-      "country": "中国",
-      "is_new": true,
-      "discovery_date": "2025-12-30",
-      "data_status": "ACTIVE",
-      "stocks": [
-        "301213"
-      ],
-      "themes": [],
-      "concepts": []
-    },
-    {
-      "id": "em_hsgg_000528_20251230_0",
-      "platform": "eastmoney",
-      "title": "柳工发布公告",
-      "event_date": "2025-12-30",
-      "content": "股票代码: 000528, 股票名称: 柳工",
-      "category": "A股公告",
-      "importance": 3,
-      "country": "中国",
-      "is_new": true,
-      "discovery_date": "2025-12-30",
-      "data_status": "ACTIVE",
-      "stocks": [
-        "000528"
-      ],
-      "themes": [],
-      "concepts": []
-    },
-    {
-      "id": "em_hsgg_301687_20251230_1",
-      "platform": "eastmoney",
-      "title": "新广益发布公告",
-      "event_date": "2025-12-30",
+      "title": "新广益停复牌",
+      "event_date": "2025-12-31",
       "content": "股票代码: 301687, 股票名称: 新广益",
-      "category": "A股公告",
-      "importance": 3,
+      "category": "停复牌信息",
+      "importance": 2,
       "country": "中国",
       "is_new": true,
-      "discovery_date": "2025-12-30",
+      "discovery_date": "2025-12-31",
       "data_status": "ACTIVE",
       "stocks": [
         "301687"
@@ -308,61 +110,259 @@
       "concepts": []
     },
     {
-      "id": "em_hsgg_300473_20251230_2",
+      "id": "em_tfpxx_600337_20251231_4",
       "platform": "eastmoney",
-      "title": "德尔股份发布公告",
-      "event_date": "2025-12-30",
-      "content": "股票代码: 300473, 股票名称: 德尔股份",
-      "category": "A股公告",
-      "importance": 3,
+      "title": "美克家居停复牌",
+      "event_date": "2025-12-31",
+      "content": "股票代码: 600337, 股票名称: 美克家居",
+      "category": "停复牌信息",
+      "importance": 2,
       "country": "中国",
       "is_new": true,
-      "discovery_date": "2025-12-30",
+      "discovery_date": "2025-12-31",
       "data_status": "ACTIVE",
       "stocks": [
-        "300473"
+        "600337"
       ],
       "themes": [],
       "concepts": []
     },
     {
-      "id": "em_hsgg_301616_20251230_3",
+      "id": "em_tfpxx_002049_20251231_5",
       "platform": "eastmoney",
-      "title": "浙江华业发布公告",
-      "event_date": "2025-12-30",
-      "content": "股票代码: 301616, 股票名称: 浙江华业",
-      "category": "A股公告",
-      "importance": 3,
+      "title": "紫光国微停复牌",
+      "event_date": "2025-12-31",
+      "content": "股票代码: 002049, 股票名称: 紫光国微",
+      "category": "停复牌信息",
+      "importance": 2,
       "country": "中国",
       "is_new": true,
-      "discovery_date": "2025-12-30",
+      "discovery_date": "2025-12-31",
       "data_status": "ACTIVE",
       "stocks": [
-        "301616"
+        "002049"
       ],
       "themes": [],
       "concepts": []
     },
     {
-      "id": "em_hsgg_301580_20251230_4",
+      "id": "em_tfpxx_920641_20251231_6",
       "platform": "eastmoney",
-      "title": "爱迪特发布公告",
-      "event_date": "2025-12-30",
-      "content": "股票代码: 301580, 股票名称: 爱迪特",
-      "category": "A股公告",
-      "importance": 3,
+      "title": "格利尔停复牌",
+      "event_date": "2025-12-31",
+      "content": "股票代码: 920641, 股票名称: 格利尔",
+      "category": "停复牌信息",
+      "importance": 2,
       "country": "中国",
       "is_new": true,
-      "discovery_date": "2025-12-30",
+      "discovery_date": "2025-12-31",
       "data_status": "ACTIVE",
       "stocks": [
-        "301580"
+        "920641"
       ],
       "themes": [],
       "concepts": []
     },
     {
-      "id": "em_jjsj_20251231000000_7740272802205171756",
+      "id": "em_tfpxx_001331_20251231_7",
+      "platform": "eastmoney",
+      "title": "胜通能源停复牌",
+      "event_date": "2025-12-31",
+      "content": "股票代码: 001331, 股票名称: 胜通能源",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-12-31",
+      "data_status": "ACTIVE",
+      "stocks": [
+        "001331"
+      ],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "em_tfpxx_605255_20251231_8",
+      "platform": "eastmoney",
+      "title": "天普股份停复牌",
+      "event_date": "2025-12-31",
+      "content": "股票代码: 605255, 股票名称: 天普股份",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-12-31",
+      "data_status": "ACTIVE",
+      "stocks": [
+        "605255"
+      ],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "em_tfpxx_688012_20251231_9",
+      "platform": "eastmoney",
+      "title": "中微公司停复牌",
+      "event_date": "2025-12-31",
+      "content": "股票代码: 688012, 股票名称: 中微公司",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-12-31",
+      "data_status": "ACTIVE",
+      "stocks": [
+        "688012"
+      ],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "em_tfpxx_603508_20251231_10",
+      "platform": "eastmoney",
+      "title": "思维列控停复牌",
+      "event_date": "2025-12-31",
+      "content": "股票代码: 603508, 股票名称: 思维列控",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-12-31",
+      "data_status": "ACTIVE",
+      "stocks": [
+        "603508"
+      ],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "em_tfpxx_300955_20251231_11",
+      "platform": "eastmoney",
+      "title": "嘉亨家化停复牌",
+      "event_date": "2025-12-31",
+      "content": "股票代码: 300955, 股票名称: 嘉亨家化",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-12-31",
+      "data_status": "ACTIVE",
+      "stocks": [
+        "300955"
+      ],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "em_tfpxx_301213_20251231_12",
+      "platform": "eastmoney",
+      "title": "观想科技停复牌",
+      "event_date": "2025-12-31",
+      "content": "股票代码: 301213, 股票名称: 观想科技",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-12-31",
+      "data_status": "ACTIVE",
+      "stocks": [
+        "301213"
+      ],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "em_hsgg_301687_20251231_0",
+      "platform": "eastmoney",
+      "title": "新广益发布公告",
+      "event_date": "2025-12-31",
+      "content": "股票代码: 301687, 股票名称: 新广益",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-12-31",
+      "data_status": "ACTIVE",
+      "stocks": [
+        "301687"
+      ],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "em_hsgg_000096_20251231_1",
+      "platform": "eastmoney",
+      "title": "广聚能源发布公告",
+      "event_date": "2025-12-31",
+      "content": "股票代码: 000096, 股票名称: 广聚能源",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-12-31",
+      "data_status": "ACTIVE",
+      "stocks": [
+        "000096"
+      ],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "em_hsgg_301210_20251231_2",
+      "platform": "eastmoney",
+      "title": "金杨精密发布公告",
+      "event_date": "2025-12-31",
+      "content": "股票代码: 301210, 股票名称: 金杨精密",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-12-31",
+      "data_status": "ACTIVE",
+      "stocks": [
+        "301210"
+      ],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "em_hsgg_603501_20251231_3",
+      "platform": "eastmoney",
+      "title": "豪威集团发布公告",
+      "event_date": "2025-12-31",
+      "content": "股票代码: 603501, 股票名称: 豪威集团",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-12-31",
+      "data_status": "ACTIVE",
+      "stocks": [
+        "603501"
+      ],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "em_hsgg_603986_20251231_4",
+      "platform": "eastmoney",
+      "title": "兆易创新发布公告",
+      "event_date": "2025-12-31",
+      "content": "股票代码: 603986, 股票名称: 兆易创新",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "is_new": true,
+      "discovery_date": "2025-12-31",
+      "data_status": "ACTIVE",
+      "stocks": [
+        "603986"
+      ],
+      "themes": [],
+      "concepts": []
+    },
+    {
+      "id": "em_jjsj_20251231000000_4851099700665688089",
       "platform": "eastmoney",
       "title": "韩国：CPI：同比(报告期:2025年12月)",
       "event_date": "2025-12-31",
@@ -371,14 +371,14 @@
       "importance": 4,
       "country": "韩国",
       "is_new": false,
-      "discovery_date": "2025-12-30",
+      "discovery_date": "2025-12-31",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
       "concepts": []
     },
     {
-      "id": "em_jjsj_20251231092000_7639283777008484258",
+      "id": "em_jjsj_20251231092000_-6787360633902458248",
       "platform": "eastmoney",
       "title": "中国：人民币汇率(报告期:2025年12月)",
       "event_date": "2025-12-31",
@@ -388,14 +388,14 @@
       "importance": 4,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-12-30",
+      "discovery_date": "2025-12-31",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
       "concepts": []
     },
     {
-      "id": "em_jjsj_20251231093000_-1590706388351225273",
+      "id": "em_jjsj_20251231093000_7621403105954421955",
       "platform": "eastmoney",
       "title": "中国：制造业PMI(报告期:2025年12月)",
       "event_date": "2025-12-31",
@@ -405,14 +405,14 @@
       "importance": 4,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-12-30",
+      "discovery_date": "2025-12-31",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
       "concepts": []
     },
     {
-      "id": "em_jjsj_20251231093000_6395181013317964699",
+      "id": "em_jjsj_20251231093000_8386129845022957082",
       "platform": "eastmoney",
       "title": "中国：PMI(报告期:2025年12月)",
       "event_date": "2025-12-31",
@@ -422,14 +422,14 @@
       "importance": 4,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-12-30",
+      "discovery_date": "2025-12-31",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
       "concepts": []
     },
     {
-      "id": "em_jjsj_20251231093000_-6427438521944393465",
+      "id": "em_jjsj_20251231093000_-1041021479152445294",
       "platform": "eastmoney",
       "title": "中国：非制造业PMI(报告期:2025年12月)",
       "event_date": "2025-12-31",
@@ -439,14 +439,14 @@
       "importance": 4,
       "country": "中国",
       "is_new": false,
-      "discovery_date": "2025-12-30",
+      "discovery_date": "2025-12-31",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
       "concepts": []
     },
     {
-      "id": "em_jjsj_20251231160000_-1240238960283311260",
+      "id": "em_jjsj_20251231160000_-2278857776516364378",
       "platform": "eastmoney",
       "title": "土耳其：出口金额(报告期:2025年11月)",
       "event_date": "2025-12-31",
@@ -456,14 +456,14 @@
       "importance": 4,
       "country": "土耳其",
       "is_new": false,
-      "discovery_date": "2025-12-30",
+      "discovery_date": "2025-12-31",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
       "concepts": []
     },
     {
-      "id": "em_jjsj_20251231213000_-158088273440107640",
+      "id": "em_jjsj_20251231213000_1886831407008063525",
       "platform": "eastmoney",
       "title": "美国:四周移动平均首次申请失业金人数:季调:初值(报告期:2025年12月)",
       "event_date": "2025-12-31",
@@ -473,14 +473,14 @@
       "importance": 4,
       "country": "美国",
       "is_new": false,
-      "discovery_date": "2025-12-30",
+      "discovery_date": "2025-12-31",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
       "concepts": []
     },
     {
-      "id": "em_jjsj_20251231213000_-7932523596011866208",
+      "id": "em_jjsj_20251231213000_7518603704027506717",
       "platform": "eastmoney",
       "title": "美国:当周首次申请失业金人数:季调:初值(报告期:2025年12月)",
       "event_date": "2025-12-31",
@@ -490,7 +490,7 @@
       "importance": 4,
       "country": "美国",
       "is_new": false,
-      "discovery_date": "2025-12-30",
+      "discovery_date": "2025-12-31",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
@@ -507,74 +507,7 @@
       "country": "中国",
       "city": "上海市",
       "is_new": false,
-      "discovery_date": "2025-12-30",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": []
-    },
-    {
-      "id": "em_hyhy_10866899",
-      "platform": "eastmoney",
-      "title": "第五届脑科学前沿与产业大会暨2025深圳脑机接口与人机交互技术博览会",
-      "event_date": "2025-12-28",
-      "content": "随着脑科学研究不断深入,脑机接口在医疗健康领域的应用前景广阔,未来发展仍需加强政、产、学、研、医的通力协作,进一步促进脑机接口技术发展和创新应用,让更多使用者受益。2025大湾区脑科学与类脑智能产业大会、BCI-2025深圳国际脑机接口创新技术展览会(简称:BCI-EXPO2025深圳脑博会)将于2025年12月28-30日在深圳会展中心举办,展示我国在脑机接口技术及脑科学产业应用方面的创新成果。展会将聚集“科技+资本+产业”的行业翘楚,针对脑科学、脑技术、脑健康、脑智能、脑疾病与脑康复科技领域(脑科技领域)的前沿科技与产业发展现状、未来超势及产业生态建设进行全方位展示与研讨。邀请脑科学领域国内外著名科学家、商业领袖及投资机构代表,围绕脑与健康领域的技术创新、产业转化、资本融合等,探讨脑与健康医学的发展现状、未来超势及产业路线。",
-      "category": "行业会议",
-      "importance": 3,
-      "country": "中国",
-      "city": "深圳市",
-      "is_new": false,
-      "discovery_date": "2025-12-30",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": []
-    },
-    {
-      "id": "em_hyhy_10868407",
-      "platform": "eastmoney",
-      "title": "2025中国绿氢产业大会",
-      "event_date": "2025-12-30",
-      "content": "《氢能装备》全球能源转型之际,中国绿氢产业将迎来重要发展机遇期!由俊瑞绿氢能源集团总冠名并由多部门联合举办的2025中国绿氢产业大会将于12月30日在京举行!欢迎全国绿氢产业链企业来京参会,共话中国绿氢产业发展机遇,共迎全球绿氢产业发展未来!",
-      "category": "行业会议",
-      "importance": 3,
-      "country": "中国",
-      "city": "北京市",
-      "is_new": true,
-      "discovery_date": "2025-12-30",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": []
-    },
-    {
-      "id": "em_hyhy_10868430",
-      "platform": "eastmoney",
-      "title": "可控核聚变创新联合体第二届锦江论坛将于12月30日举办",
-      "event_date": "2025-12-30",
-      "content": "论坛核心议题聚焦于聚变工程化落地的关键技术与产业规划,具体包括聚变工程实验堆(CFETR)的工程化突破、示范堆建设路线图、能量转换与储能技术、特种电源研发以及产业链协同和国际合作等。",
-      "category": "行业会议",
-      "importance": 3,
-      "country": "中国",
-      "city": "上海市",
-      "is_new": true,
-      "discovery_date": "2025-12-30",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": []
-    },
-    {
-      "id": "em_hyhy_10868431",
-      "platform": "eastmoney",
-      "title": "“Physical·AI第一股”五一视界12月30日在港交所挂牌上市",
-      "event_date": "2025-12-30",
-      "content": "中国首家PhysicalAI企业51WORLD登陆港交所,市值超140亿港币,开启物理AI资本化新纪元。十年技术沉淀构建全链条生态,智能驾驶等标杆案例落地,营收年增30%,获葛卫东等知名投资人押注,引领AI下一波浪潮。",
-      "category": "行业会议",
-      "importance": 3,
-      "country": "中国",
-      "is_new": true,
-      "discovery_date": "2025-12-30",
+      "discovery_date": "2025-12-31",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
