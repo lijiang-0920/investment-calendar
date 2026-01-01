@@ -2,25 +2,7 @@
   "platform": "jiuyangongshe",
   "platform_name": "韭研公社",
   "data_type": "ACTIVE",
-  "total_events": 1,
-  "last_updated": "2025-12-31T03:23:33.986978",
-  "events": [
-    {
-      "id": "jygs_2ywehh1bcjf_2451080f6e10447f87e1909fa4189da2_20251231",
-      "platform": "jiuyangongshe",
-      "title": "京东与宇树首家线下门店开业",
-      "event_date": "2025-12-31",
-      "content": "",
-      "importance": 1,
-      "country": "中国",
-      "is_new": false,
-      "discovery_date": "2025-12-31",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [
-        "宇树"
-      ],
-      "concepts": []
-    }
-  ]
+  "total_events": 0,
+  "last_updated": "2026-01-01T03:46:32.556912",
+  "events": []
 }
