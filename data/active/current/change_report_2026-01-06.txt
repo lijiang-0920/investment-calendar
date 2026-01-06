@@ -1,0 +1,81 @@
+{
+  "detection_time": "2026-01-06T03:25:41.320109",
+  "summary": {
+    "total_new": 5,
+    "total_updated": 0,
+    "total_cancelled": 0
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 5,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "周生生：将于1月6日起对部分定价类黄金饰品进行调价，涨幅范围在200元至1500元之间",
+        "联想创新科技大会将于1月7日举办",
+        "索尼将于1月7日举办新闻发布会，预计将重点聚焦汽车技术以及 BRAVIA 电视、PlayStatio"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "investing": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "eastmoney": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2026-01-06",
+      "title": "周生生：将于1月6日起对部分定价类黄金饰品进行调价，涨幅范围在200元至1500元之间",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-01-07",
+      "title": "联想创新科技大会将于1月7日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-01-07",
+      "title": "索尼将于1月7日举办新闻发布会，预计将重点聚焦汽车技术以及 BRAVIA 电视、PlayStation 游戏机业务",
+      "importance": 5,
+      "country": "美国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-01-07",
+      "title": "2026年CES中国创新之夜将于1月7日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-01-08",
+      "title": "彭博商品指数（BCOM）将在1月8日至14日进行年度权重再平衡",
+      "importance": 5,
+      "country": "中国"
+    }
+  ]
+}
