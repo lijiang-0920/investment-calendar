@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-01-10T03:21:04.507994",
-  "total_events": 33,
+  "last_updated": "2026-01-11T03:46:25.304929",
+  "total_events": 31,
   "platforms": {
     "cls": {
       "name": "财联社",
-      "event_count": 32
+      "event_count": 31
     },
     "jiuyangongshe": {
       "name": "韭研公社",
@@ -20,7 +20,7 @@
     },
     "eastmoney": {
       "name": "东方财富",
-      "event_count": 1
+      "event_count": 0
     }
   }
 }

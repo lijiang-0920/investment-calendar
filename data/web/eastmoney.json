@@ -2,25 +2,7 @@
   "platform": "eastmoney",
   "platform_name": "东方财富",
   "data_type": "ACTIVE",
-  "total_events": 1,
-  "last_updated": "2026-01-10T03:21:04.420068",
-  "events": [
-    {
-      "id": "em_hyhy_10867584",
-      "platform": "eastmoney",
-      "title": "2026第四届上海国际热泵应用技术装备展览会",
-      "event_date": "2025-10-13",
-      "content": "",
-      "category": "行业会议",
-      "importance": 3,
-      "country": "中国",
-      "city": "上海市",
-      "is_new": false,
-      "discovery_date": "2026-01-10",
-      "data_status": "ACTIVE",
-      "stocks": [],
-      "themes": [],
-      "concepts": []
-    }
-  ]
+  "total_events": 0,
+  "last_updated": "2026-01-11T03:46:25.212823",
+  "events": []
 }
