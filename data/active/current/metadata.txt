@@ -1,11 +1,11 @@
 {
   "collection_type": "ACTIVE",
-  "collection_time": "2026-01-14T03:43:35.204072",
+  "collection_time": "2026-01-15T03:27:14.567785",
   "platforms": {
     "cls": {
-      "event_count": 31,
+      "event_count": 28,
       "date_range": {
-        "start": "2026-01-14",
+        "start": "2026-01-15",
         "end": "2026-01-29"
       }
     },
@@ -38,7 +38,7 @@
       }
     }
   },
-  "total_events": 32,
+  "total_events": 29,
   "date_range": {
     "start": "2025-10-13",
     "end": "2026-01-29"
