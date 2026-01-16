@@ -1,353 +1,11 @@
 {
   "platform": "cls",
-  "total_events": 28,
+  "total_events": 33,
   "data_status": "ACTIVE",
   "date_type": "FUTURE",
-  "last_updated": "2026-01-15T03:27:14.564101",
+  "last_updated": "2026-01-16T03:26:31.202522",
   "immutable": false,
   "events": [
-    {
-      "platform": "cls",
-      "event_id": "cls_453458_20260115_2",
-      "original_id": "453458",
-      "event_date": "2026-01-15",
-      "event_time": "00:00:00",
-      "event_datetime": "2026-01-15 00:00:00",
-      "title": "第二届中国eVTOL创新发展大会将于1月15日至16日在上海召开",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-01-15",
-      "raw_data": {
-        "id": 453458,
-        "calendar_time": "2026-01-15 00:00:00",
-        "data_id": 20666,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "第二届中国eVTOL创新发展大会将于1月15日至16日在上海召开",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "第二届中国eVTOL创新发展大会将于1月15日至16日在上海召开"
-      },
-      "created_at": "2026-01-15T03:27:13.304678"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_463766_20260115_2",
-      "original_id": "463766",
-      "event_date": "2026-01-15",
-      "event_time": "00:00:00",
-      "event_datetime": "2026-01-15 00:00:00",
-      "title": "河北省十四届人大常委会第十九次会议1月15日举行",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-01-15",
-      "raw_data": {
-        "id": 463766,
-        "calendar_time": "2026-01-15 00:00:00",
-        "data_id": 20735,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "河北省十四届人大常委会第十九次会议1月15日举行",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "河北省十四届人大常委会第十九次会议1月15日举行"
-      },
-      "created_at": "2026-01-15T03:27:13.304702"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_497289_20260115_2",
-      "original_id": "497289",
-      "event_date": "2026-01-15",
-      "event_time": "00:00:00",
-      "event_datetime": "2026-01-15 00:00:00",
-      "title": "中国核能领域首部基础性法律《原子能法》将于1月15日正式施行",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-01-15",
-      "raw_data": {
-        "id": 497289,
-        "calendar_time": "2026-01-15 00:00:00",
-        "data_id": 20902,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "中国核能领域首部基础性法律《原子能法》将于1月15日正式施行",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "中国核能领域首部基础性法律《原子能法》将于1月15日正式施行"
-      },
-      "created_at": "2026-01-15T03:27:13.304716"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_497302_20260115_2",
-      "original_id": "497302",
-      "event_date": "2026-01-15",
-      "event_time": "00:00:00",
-      "event_datetime": "2026-01-15 00:00:00",
-      "title": "台积电将于1月15日美股盘前发布第四财季财报",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-01-15",
-      "raw_data": {
-        "id": 497302,
-        "calendar_time": "2026-01-15 00:00:00",
-        "data_id": 20903,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "台积电将于1月15日美股盘前发布第四财季财报",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "台积电将于1月15日美股盘前发布第四财季财报"
-      },
-      "created_at": "2026-01-15T03:27:13.304728"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_497286_20260115_2",
-      "original_id": "497286",
-      "event_date": "2026-01-15",
-      "event_time": "09:20:00",
-      "event_datetime": "2026-01-15 09:20:00",
-      "title": "今日有99亿元7天期逆回购到期",
-      "content": null,
-      "category": "事件公告",
-      "importance": 2,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-01-15",
-      "raw_data": {
-        "id": 497286,
-        "calendar_time": "2026-01-15 09:20:00",
-        "data_id": 20901,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "今日有99亿元7天期逆回购到期",
-          "country": "中国",
-          "country_icon": "",
-          "star": 2
-        },
-        "holiday": null,
-        "title": "今日有99亿元7天期逆回购到期"
-      },
-      "created_at": "2026-01-15T03:27:13.304745"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_497321_20260115_2",
-      "original_id": "497321",
-      "event_date": "2026-01-15",
-      "event_time": "15:00:00",
-      "event_datetime": "2026-01-15 15:00:00",
-      "title": "商务部定于1月15日举行新闻发布会，介绍近期商务领域重点工作有关情况",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-01-15",
-      "raw_data": {
-        "id": 497321,
-        "calendar_time": "2026-01-15 15:00:00",
-        "data_id": 20904,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "商务部定于1月15日举行新闻发布会，介绍近期商务领域重点工作有关情况",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "商务部定于1月15日举行新闻发布会，介绍近期商务领域重点工作有关情况"
-      },
-      "created_at": "2026-01-15T03:27:13.304758"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_499557_20260115_2",
-      "original_id": "499557",
-      "event_date": "2026-01-15",
-      "event_time": "15:00:00",
-      "event_datetime": "2026-01-15 15:00:00",
-      "title": "国新办1月15日就货币金融政策支持实体经济高质量发展成效举行新闻发布会",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-01-15",
-      "raw_data": {
-        "id": 499557,
-        "calendar_time": "2026-01-15 15:00:00",
-        "data_id": 20914,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "国新办1月15日就货币金融政策支持实体经济高质量发展成效举行新闻发布会",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "国新办1月15日就货币金融政策支持实体经济高质量发展成效举行新闻发布会"
-      },
-      "created_at": "2026-01-15T03:27:13.304771"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_442532_20260115_1",
-      "original_id": "442532",
-      "event_date": "2026-01-15",
-      "event_time": "21:30:00",
-      "event_datetime": "2026-01-15 21:30:00",
-      "title": "美国12月零售销售月率",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-01-15",
-      "raw_data": {
-        "id": 442532,
-        "calendar_time": "2026-01-15 21:30:00",
-        "data_id": 57766,
-        "type": 1,
-        "economic": {
-          "title": "美国12月零售销售月率",
-          "country": "美国",
-          "country_icon": "",
-          "star": 4,
-          "indicator_id": 194,
-          "front": "--",
-          "fix": "--",
-          "consensus": "--",
-          "actual": "--",
-          "unit": "%",
-          "flag": "--",
-          "interpret": "",
-          "interpret_img": []
-        },
-        "event": null,
-        "holiday": null,
-        "title": "美国12月零售销售月率"
-      },
-      "created_at": "2026-01-15T03:27:13.304783"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_489305_20260115_1",
-      "original_id": "489305",
-      "event_date": "2026-01-15",
-      "event_time": "21:30:00",
-      "event_datetime": "2026-01-15 21:30:00",
-      "title": "美国至1月10日当周初请失业金人数(万人)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-01-15",
-      "raw_data": {
-        "id": 489305,
-        "calendar_time": "2026-01-15 21:30:00",
-        "data_id": 57759,
-        "type": 1,
-        "economic": {
-          "title": "美国至1月10日当周初请失业金人数(万人)",
-          "country": "美国",
-          "country_icon": "",
-          "star": 4,
-          "indicator_id": 79,
-          "front": "0",
-          "fix": "--",
-          "consensus": "--",
-          "actual": "--",
-          "unit": "万人",
-          "flag": "--",
-          "interpret": "",
-          "interpret_img": []
-        },
-        "event": null,
-        "holiday": null,
-        "title": "美国至1月10日当周初请失业金人数(万人)"
-      },
-      "created_at": "2026-01-15T03:27:13.304795"
-    },
     {
       "platform": "cls",
       "event_id": "cls_453460_20260116_2",
@@ -366,7 +24,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-15",
+      "discovery_date": "2026-01-16",
       "raw_data": {
         "id": 453460,
         "calendar_time": "2026-01-16 00:00:00",
@@ -382,7 +40,7 @@
         "holiday": null,
         "title": "中国汽车供应链出海高峰论坛暨采购商大会将于1月16日举办"
       },
-      "created_at": "2026-01-15T03:27:13.304808"
+      "created_at": "2026-01-16T03:26:29.426144"
     },
     {
       "platform": "cls",
@@ -402,7 +60,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-15",
+      "discovery_date": "2026-01-16",
       "raw_data": {
         "id": 463761,
         "calendar_time": "2026-01-16 00:00:00",
@@ -418,7 +76,7 @@
         "holiday": null,
         "title": "2026核聚变能科技与产业大会将于1月16日至17日举办"
       },
-      "created_at": "2026-01-15T03:27:13.304821"
+      "created_at": "2026-01-16T03:26:29.426165"
     },
     {
       "platform": "cls",
@@ -437,8 +95,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-01-15",
+      "is_new": false,
+      "discovery_date": "2026-01-16",
       "raw_data": {
         "id": 499558,
         "calendar_time": "2026-01-16 00:00:00",
@@ -454,7 +112,7 @@
         "holiday": null,
         "title": "2026年低空资源和经济发展大会暨低空经济发展工作委员会年度工作会议将于1月16日至17日召开"
       },
-      "created_at": "2026-01-15T03:27:13.304833"
+      "created_at": "2026-01-16T03:26:29.426177"
     },
     {
       "platform": "cls",
@@ -473,8 +131,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-01-15",
+      "is_new": false,
+      "discovery_date": "2026-01-16",
       "raw_data": {
         "id": 499573,
         "calendar_time": "2026-01-16 00:00:00",
@@ -490,7 +148,7 @@
         "holiday": null,
         "title": "首届“AI+传统产业”实践应用发展论坛将于1月16日举办"
       },
-      "created_at": "2026-01-15T03:27:13.304845"
+      "created_at": "2026-01-16T03:26:29.426188"
     },
     {
       "platform": "cls",
@@ -499,7 +157,7 @@
       "event_date": "2026-01-16",
       "event_time": "00:00:00",
       "event_datetime": "2026-01-16 00:00:00",
-      "title": "星河动力“谷神星一号”海遥七运载火箭将于1月16日至18日举办",
+      "title": "星河动力“谷神星一号”海遥七运载火箭将于1月16日至18日发射",
       "content": null,
       "category": "事件公告",
       "importance": 5,
@@ -509,8 +167,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-01-15",
+      "is_new": false,
+      "discovery_date": "2026-01-16",
       "raw_data": {
         "id": 499575,
         "calendar_time": "2026-01-16 00:00:00",
@@ -518,15 +176,15 @@
         "type": 2,
         "economic": null,
         "event": {
-          "title": "星河动力“谷神星一号”海遥七运载火箭将于1月16日至18日举办",
+          "title": "星河动力“谷神星一号”海遥七运载火箭将于1月16日至18日发射",
           "country": "中国",
           "country_icon": "",
           "star": 5
         },
         "holiday": null,
-        "title": "星河动力“谷神星一号”海遥七运载火箭将于1月16日至18日举办"
+        "title": "星河动力“谷神星一号”海遥七运载火箭将于1月16日至18日发射"
       },
-      "created_at": "2026-01-15T03:27:13.304872"
+      "created_at": "2026-01-16T03:26:29.426200"
     },
     {
       "platform": "cls",
@@ -545,8 +203,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-01-15",
+      "is_new": false,
+      "discovery_date": "2026-01-16",
       "raw_data": {
         "id": 499578,
         "calendar_time": "2026-01-16 00:00:00",
@@ -562,7 +220,7 @@
         "holiday": null,
         "title": "大商所：焦煤期权将于1月16日上市"
       },
-      "created_at": "2026-01-15T03:27:13.304885"
+      "created_at": "2026-01-16T03:26:29.426211"
     },
     {
       "platform": "cls",
@@ -581,8 +239,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-01-15",
+      "is_new": false,
+      "discovery_date": "2026-01-16",
       "raw_data": {
         "id": 499565,
         "calendar_time": "2026-01-16 09:20:00",
@@ -598,7 +256,7 @@
         "holiday": null,
         "title": "今日有340亿元7天期逆回购到期"
       },
-      "created_at": "2026-01-15T03:27:13.304898"
+      "created_at": "2026-01-16T03:26:29.426221"
     },
     {
       "platform": "cls",
@@ -618,7 +276,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-15",
+      "discovery_date": "2026-01-16",
       "raw_data": {
         "id": 489356,
         "calendar_time": "2026-01-16 23:00:00",
@@ -643,7 +301,7 @@
         "holiday": null,
         "title": "美国1月NAHB房产市场指数"
       },
-      "created_at": "2026-01-15T03:27:13.304910"
+      "created_at": "2026-01-16T03:26:29.426230"
     },
     {
       "platform": "cls",
@@ -663,7 +321,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-15",
+      "discovery_date": "2026-01-16",
       "raw_data": {
         "id": 429408,
         "calendar_time": "2026-01-19 00:00:00",
@@ -679,7 +337,268 @@
         "holiday": null,
         "title": "第56届世界经济论坛年会（冬季达沃斯）将于1月19日至23日在瑞士达沃斯举行"
       },
-      "created_at": "2026-01-15T03:27:13.304923"
+      "created_at": "2026-01-16T03:26:29.426241"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_499970_20260119_2",
+      "original_id": "499970",
+      "event_date": "2026-01-19",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-01-19 00:00:00",
+      "title": "2026全国网上年货节1月19日至3月4日举行",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-16",
+      "raw_data": {
+        "id": 499970,
+        "calendar_time": "2026-01-19 00:00:00",
+        "data_id": 20923,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "2026全国网上年货节1月19日至3月4日举行",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "2026全国网上年货节1月19日至3月4日举行"
+      },
+      "created_at": "2026-01-16T03:26:29.426251"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_499972_20260119_2",
+      "original_id": "499972",
+      "event_date": "2026-01-19",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-01-19 00:00:00",
+      "title": "荣耀数字500系列将与泡泡玛特合作，新机1月19日发布",
+      "content": null,
+      "category": "事件公告",
+      "importance": 4,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-16",
+      "raw_data": {
+        "id": 499972,
+        "calendar_time": "2026-01-19 00:00:00",
+        "data_id": 20924,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "荣耀数字500系列将与泡泡玛特合作，新机1月19日发布",
+          "country": "中国",
+          "country_icon": "",
+          "star": 4
+        },
+        "holiday": null,
+        "title": "荣耀数字500系列将与泡泡玛特合作，新机1月19日发布"
+      },
+      "created_at": "2026-01-16T03:26:29.426260"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_499974_20260119_2",
+      "original_id": "499974",
+      "event_date": "2026-01-19",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-01-19 00:00:00",
+      "title": "香港交易所将于1月19日推出新股票期权类别",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国香港",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-16",
+      "raw_data": {
+        "id": 499974,
+        "calendar_time": "2026-01-19 00:00:00",
+        "data_id": 20925,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "香港交易所将于1月19日推出新股票期权类别",
+          "country": "中国香港",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "香港交易所将于1月19日推出新股票期权类别"
+      },
+      "created_at": "2026-01-16T03:26:29.426270"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_501452_20260119_2",
+      "original_id": "501452",
+      "event_date": "2026-01-19",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-01-19 00:00:00",
+      "title": "中国人民银行：自1月19日起，下调再贷款、再贴现利率0.25个百分点",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-16",
+      "raw_data": {
+        "id": 501452,
+        "calendar_time": "2026-01-19 00:00:00",
+        "data_id": 20938,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "中国人民银行：自1月19日起，下调再贷款、再贴现利率0.25个百分点",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "中国人民银行：自1月19日起，下调再贷款、再贴现利率0.25个百分点"
+      },
+      "created_at": "2026-01-16T03:26:29.426279"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_501456_20260119_2",
+      "original_id": "501456",
+      "event_date": "2026-01-19",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-01-19 00:00:00",
+      "title": "沪深北交易所发布通知调整融资保证金比例，将投资者融资买入证券时的融资保证金最低比例从80%提高至100%，相关安排自1月19日起正式施行",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-16",
+      "raw_data": {
+        "id": 501456,
+        "calendar_time": "2026-01-19 00:00:00",
+        "data_id": 20939,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "沪深北交易所发布通知调整融资保证金比例，将投资者融资买入证券时的融资保证金最低比例从80%提高至100%，相关安排自1月19日起正式施行",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "沪深北交易所发布通知调整融资保证金比例，将投资者融资买入证券时的融资保证金最低比例从80%提高至100%，相关安排自1月19日起正式施行"
+      },
+      "created_at": "2026-01-16T03:26:29.426289"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_494173_20260119_2",
+      "original_id": "494173",
+      "event_date": "2026-01-19",
+      "event_time": "17:20:00",
+      "event_datetime": "2026-01-19 17:20:00",
+      "title": "今日有861亿元7天期逆回购到期",
+      "content": null,
+      "category": "事件公告",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-16",
+      "raw_data": {
+        "id": 494173,
+        "calendar_time": "2026-01-19 17:20:00",
+        "data_id": 20713,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "今日有861亿元7天期逆回购到期",
+          "country": "中国",
+          "country_icon": "",
+          "star": 2
+        },
+        "holiday": null,
+        "title": "今日有861亿元7天期逆回购到期"
+      },
+      "created_at": "2026-01-16T03:26:29.426299"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_500724_20260119_1",
+      "original_id": "500724",
+      "event_date": "2026-01-19",
+      "event_time": "18:00:00",
+      "event_datetime": "2026-01-19 18:00:00",
+      "title": "欧元区12月CPI月率终值",
+      "content": null,
+      "category": "经济数据",
+      "importance": 3,
+      "country": "欧元区",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-16",
+      "raw_data": {
+        "id": 500724,
+        "calendar_time": "2026-01-19 18:00:00",
+        "data_id": 58092,
+        "type": 1,
+        "economic": {
+          "title": "欧元区12月CPI月率终值",
+          "country": "欧元区",
+          "country_icon": "",
+          "star": 3,
+          "indicator_id": 8125,
+          "front": "--",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "%",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "欧元区12月CPI月率终值"
+      },
+      "created_at": "2026-01-16T03:26:29.426323"
     },
     {
       "platform": "cls",
@@ -699,7 +618,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-15",
+      "discovery_date": "2026-01-16",
       "raw_data": {
         "id": 448994,
         "calendar_time": "2026-01-20 00:00:00",
@@ -715,7 +634,7 @@
         "holiday": null,
         "title": "央行发布《金融机构客户受益所有人识别管理办法》，自2026年1月20日起施行"
       },
-      "created_at": "2026-01-15T03:27:13.304935"
+      "created_at": "2026-01-16T03:26:29.426335"
     },
     {
       "platform": "cls",
@@ -735,7 +654,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-15",
+      "discovery_date": "2026-01-16",
       "raw_data": {
         "id": 455012,
         "calendar_time": "2026-01-20 00:00:00",
@@ -751,7 +670,124 @@
         "holiday": null,
         "title": "2026阿里云PolarDB开发者大会将于1月20日举办"
       },
-      "created_at": "2026-01-15T03:27:13.304948"
+      "created_at": "2026-01-16T03:26:29.426345"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_499981_20260120_2",
+      "original_id": "499981",
+      "event_date": "2026-01-20",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-01-20 00:00:00",
+      "title": "沃尔玛百货美股将于1月20日取代阿斯利康进入纳斯达克100指数",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-16",
+      "raw_data": {
+        "id": 499981,
+        "calendar_time": "2026-01-20 00:00:00",
+        "data_id": 20926,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "沃尔玛百货美股将于1月20日取代阿斯利康进入纳斯达克100指数",
+          "country": "美国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "沃尔玛百货美股将于1月20日取代阿斯利康进入纳斯达克100指数"
+      },
+      "created_at": "2026-01-16T03:26:29.426358"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_500727_20260120_1",
+      "original_id": "500727",
+      "event_date": "2026-01-20",
+      "event_time": "17:00:00",
+      "event_datetime": "2026-01-20 17:00:00",
+      "title": "欧元区11月季调后经常帐(亿欧元)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 3,
+      "country": "欧元区",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-16",
+      "raw_data": {
+        "id": 500727,
+        "calendar_time": "2026-01-20 17:00:00",
+        "data_id": 58094,
+        "type": 1,
+        "economic": {
+          "title": "欧元区11月季调后经常帐(亿欧元)",
+          "country": "欧元区",
+          "country_icon": "",
+          "star": 3,
+          "indicator_id": 420,
+          "front": "0",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "亿欧元",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "欧元区11月季调后经常帐(亿欧元)"
+      },
+      "created_at": "2026-01-16T03:26:29.426370"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_495938_20260120_2",
+      "original_id": "495938",
+      "event_date": "2026-01-20",
+      "event_time": "17:20:00",
+      "event_datetime": "2026-01-20 17:20:00",
+      "title": "今日有3586亿元7天期逆回购到期",
+      "content": null,
+      "category": "事件公告",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-16",
+      "raw_data": {
+        "id": 495938,
+        "calendar_time": "2026-01-20 17:20:00",
+        "data_id": 20704,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "今日有3586亿元7天期逆回购到期",
+          "country": "中国",
+          "country_icon": "",
+          "star": 2
+        },
+        "holiday": null,
+        "title": "今日有3586亿元7天期逆回购到期"
+      },
+      "created_at": "2026-01-16T03:26:29.426381"
     },
     {
       "platform": "cls",
@@ -771,7 +807,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-15",
+      "discovery_date": "2026-01-16",
       "raw_data": {
         "id": 410403,
         "calendar_time": "2026-01-21 00:00:00",
@@ -787,7 +823,97 @@
         "holiday": null,
         "title": "2026年中国会展经济国际合作论坛将于1月21日至23日举办"
       },
-      "created_at": "2026-01-15T03:27:13.304960"
+      "created_at": "2026-01-16T03:26:29.426391"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_458309_20260121_1",
+      "original_id": "458309",
+      "event_date": "2026-01-21",
+      "event_time": "21:30:00",
+      "event_datetime": "2026-01-21 21:30:00",
+      "title": "美国12月新屋开工总数年化(万户)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 3,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-16",
+      "raw_data": {
+        "id": 458309,
+        "calendar_time": "2026-01-21 21:30:00",
+        "data_id": 58142,
+        "type": 1,
+        "economic": {
+          "title": "美国12月新屋开工总数年化(万户)",
+          "country": "美国",
+          "country_icon": "",
+          "star": 3,
+          "indicator_id": 173,
+          "front": "0",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "万户",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "美国12月新屋开工总数年化(万户)"
+      },
+      "created_at": "2026-01-16T03:26:29.426401"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_500832_20260122_1",
+      "original_id": "500832",
+      "event_date": "2026-01-22",
+      "event_time": "21:30:00",
+      "event_datetime": "2026-01-22 21:30:00",
+      "title": "美国11月核心PCE物价指数年率",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-16",
+      "raw_data": {
+        "id": 500832,
+        "calendar_time": "2026-01-22 21:30:00",
+        "data_id": 59001,
+        "type": 1,
+        "economic": {
+          "title": "美国11月核心PCE物价指数年率",
+          "country": "美国",
+          "country_icon": "",
+          "star": 4,
+          "indicator_id": 211,
+          "front": "--",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "%",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "美国11月核心PCE物价指数年率"
+      },
+      "created_at": "2026-01-16T03:26:29.426410"
     },
     {
       "platform": "cls",
@@ -807,7 +933,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-15",
+      "discovery_date": "2026-01-16",
       "raw_data": {
         "id": 429432,
         "calendar_time": "2026-01-23 00:00:00",
@@ -823,7 +949,97 @@
         "holiday": null,
         "title": "2026北京商业航天展暨大会将于1月23日至25日举办"
       },
-      "created_at": "2026-01-15T03:27:13.304973"
+      "created_at": "2026-01-16T03:26:29.426420"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_500851_20260123_1",
+      "original_id": "500851",
+      "event_date": "2026-01-23",
+      "event_time": "01:00:00",
+      "event_datetime": "2026-01-23 01:00:00",
+      "title": "美国至1月16日当周EIA原油库存(万桶)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-16",
+      "raw_data": {
+        "id": 500851,
+        "calendar_time": "2026-01-23 01:00:00",
+        "data_id": 58227,
+        "type": 1,
+        "economic": {
+          "title": "美国至1月16日当周EIA原油库存(万桶)",
+          "country": "美国",
+          "country_icon": "",
+          "star": 4,
+          "indicator_id": 111,
+          "front": "0",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "万桶",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "美国至1月16日当周EIA原油库存(万桶)"
+      },
+      "created_at": "2026-01-16T03:26:29.426430"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_500920_20260123_1",
+      "original_id": "500920",
+      "event_date": "2026-01-23",
+      "event_time": "17:00:00",
+      "event_datetime": "2026-01-23 17:00:00",
+      "title": "欧元区1月制造业PMI初值",
+      "content": null,
+      "category": "经济数据",
+      "importance": 3,
+      "country": "欧元区",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-16",
+      "raw_data": {
+        "id": 500920,
+        "calendar_time": "2026-01-23 17:00:00",
+        "data_id": 58270,
+        "type": 1,
+        "economic": {
+          "title": "欧元区1月制造业PMI初值",
+          "country": "欧元区",
+          "country_icon": "",
+          "star": 3,
+          "indicator_id": 624,
+          "front": "0",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "欧元区1月制造业PMI初值"
+      },
+      "created_at": "2026-01-16T03:26:29.426439"
     },
     {
       "platform": "cls",
@@ -843,7 +1059,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-15",
+      "discovery_date": "2026-01-16",
       "raw_data": {
         "id": 455016,
         "calendar_time": "2026-01-25 00:00:00",
@@ -859,7 +1075,7 @@
         "holiday": null,
         "title": "第十九届亚洲金融论坛将于1月25日至28日举办"
       },
-      "created_at": "2026-01-15T03:27:13.304986"
+      "created_at": "2026-01-16T03:26:29.426454"
     },
     {
       "platform": "cls",
@@ -879,7 +1095,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-15",
+      "discovery_date": "2026-01-16",
       "raw_data": {
         "id": 454994,
         "calendar_time": "2026-01-26 00:00:00",
@@ -895,7 +1111,7 @@
         "holiday": null,
         "title": "标普：自动化软件公司UiPath获纳入标普中型股400指数成分股，将于2026年1月6日开盘前生效"
       },
-      "created_at": "2026-01-15T03:27:13.305002"
+      "created_at": "2026-01-16T03:26:29.426464"
     },
     {
       "platform": "cls",
@@ -915,7 +1131,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-15",
+      "discovery_date": "2026-01-16",
       "raw_data": {
         "id": 455019,
         "calendar_time": "2026-01-26 00:00:00",
@@ -931,7 +1147,7 @@
         "holiday": null,
         "title": "河南省第十四届人民代表大会第四次会议将于1月26日在郑州召开"
       },
-      "created_at": "2026-01-15T03:27:13.305014"
+      "created_at": "2026-01-16T03:26:29.426474"
     },
     {
       "platform": "cls",
@@ -951,7 +1167,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-15",
+      "discovery_date": "2026-01-16",
       "raw_data": {
         "id": 455060,
         "calendar_time": "2026-01-27 00:00:00",
@@ -967,7 +1183,7 @@
         "holiday": null,
         "title": "江西省第十四届人民代表大会第四次会议将于1月27日召开"
       },
-      "created_at": "2026-01-15T03:27:13.305027"
+      "created_at": "2026-01-16T03:26:29.426483"
     },
     {
       "platform": "cls",
@@ -987,7 +1203,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-15",
+      "discovery_date": "2026-01-16",
       "raw_data": {
         "id": 455062,
         "calendar_time": "2026-01-27 00:00:00",
@@ -1003,7 +1219,7 @@
         "holiday": null,
         "title": "海南省第七届人民代表大会第五次会议将于1月27日召开"
       },
-      "created_at": "2026-01-15T03:27:13.305039"
+      "created_at": "2026-01-16T03:26:29.426493"
     },
     {
       "platform": "cls",
@@ -1023,7 +1239,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-15",
+      "discovery_date": "2026-01-16",
       "raw_data": {
         "id": 455070,
         "calendar_time": "2026-01-29 00:00:00",
@@ -1039,7 +1255,7 @@
         "holiday": null,
         "title": "第五届东盟轨道交通国际峰会将于1月29日至30日在马来西亚吉隆坡举行"
       },
-      "created_at": "2026-01-15T03:27:13.305054"
+      "created_at": "2026-01-16T03:26:29.426502"
     }
   ]
 }

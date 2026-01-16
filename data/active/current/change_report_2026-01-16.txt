@@ -1,0 +1,116 @@
+{
+  "detection_time": "2026-01-16T03:26:31.202255",
+  "summary": {
+    "total_new": 14,
+    "total_updated": 1,
+    "total_cancelled": 0
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 14,
+      "updated_events": 1,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "2026全国网上年货节1月19日至3月4日举行",
+        "荣耀数字500系列将与泡泡玛特合作，新机1月19日发布",
+        "香港交易所将于1月19日推出新股票期权类别"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "investing": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "eastmoney": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2026-01-19",
+      "title": "2026全国网上年货节1月19日至3月4日举行",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-01-19",
+      "title": "香港交易所将于1月19日推出新股票期权类别",
+      "importance": 5,
+      "country": "中国香港"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-01-19",
+      "title": "中国人民银行：自1月19日起，下调再贷款、再贴现利率0.25个百分点",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-01-19",
+      "title": "沪深北交易所发布通知调整融资保证金比例，将投资者融资买入证券时的融资保证金最低比例从80%提高至100%，相关安排自1月19日起正式施行",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-01-20",
+      "title": "沃尔玛百货美股将于1月20日取代阿斯利康进入纳斯达克100指数",
+      "importance": 5,
+      "country": "美国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-01-19",
+      "title": "荣耀数字500系列将与泡泡玛特合作，新机1月19日发布",
+      "importance": 4,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-01-22",
+      "title": "美国11月核心PCE物价指数年率",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-01-23",
+      "title": "美国至1月16日当周EIA原油库存(万桶)",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-01-19",
+      "title": "欧元区12月CPI月率终值",
+      "importance": 3,
+      "country": "欧元区"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-01-20",
+      "title": "欧元区11月季调后经常帐(亿欧元)",
+      "importance": 3,
+      "country": "欧元区"
+    }
+  ]
+}
