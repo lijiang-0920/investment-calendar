@@ -1,12 +1,12 @@
 {
   "collection_type": "ACTIVE",
-  "collection_time": "2026-01-18T03:42:19.435346",
+  "collection_time": "2026-01-19T03:46:27.931269",
   "platforms": {
     "cls": {
-      "event_count": 26,
+      "event_count": 40,
       "date_range": {
         "start": "2026-01-19",
-        "end": "2026-01-29"
+        "end": "2026-02-01"
       }
     },
     "jiuyangongshe": {
@@ -38,9 +38,9 @@
       }
     }
   },
-  "total_events": 27,
+  "total_events": 41,
   "date_range": {
     "start": "2025-10-13",
-    "end": "2026-01-29"
+    "end": "2026-02-01"
   }
 }
