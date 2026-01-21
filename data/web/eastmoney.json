@@ -3,7 +3,7 @@
   "platform_name": "东方财富",
   "data_type": "ACTIVE",
   "total_events": 1,
-  "last_updated": "2026-01-20T03:40:17.073958",
+  "last_updated": "2026-01-21T03:39:53.494369",
   "events": [
     {
       "id": "em_hyhy_10867584",
@@ -16,7 +16,7 @@
       "country": "中国",
       "city": "上海市",
       "is_new": false,
-      "discovery_date": "2026-01-20",
+      "discovery_date": "2026-01-21",
       "data_status": "ACTIVE",
       "stocks": [],
       "themes": [],
