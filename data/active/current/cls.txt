@@ -1,272 +1,11 @@
 {
   "platform": "cls",
-  "total_events": 27,
+  "total_events": 25,
   "data_status": "ACTIVE",
   "date_type": "FUTURE",
-  "last_updated": "2026-01-21T03:39:53.491302",
+  "last_updated": "2026-01-22T03:43:54.577112",
   "immutable": false,
   "events": [
-    {
-      "platform": "cls",
-      "event_id": "cls_410403_20260121_2",
-      "original_id": "410403",
-      "event_date": "2026-01-21",
-      "event_time": "00:00:00",
-      "event_datetime": "2026-01-21 00:00:00",
-      "title": "2026年中国会展经济国际合作论坛将于1月21日至23日举办",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-01-21",
-      "raw_data": {
-        "id": 410403,
-        "calendar_time": "2026-01-21 00:00:00",
-        "data_id": 20416,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "2026年中国会展经济国际合作论坛将于1月21日至23日举办",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "2026年中国会展经济国际合作论坛将于1月21日至23日举办"
-      },
-      "created_at": "2026-01-21T03:39:52.261226"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_507618_20260121_2",
-      "original_id": "507618",
-      "event_date": "2026-01-21",
-      "event_time": "00:00:00",
-      "event_datetime": "2026-01-21 00:00:00",
-      "title": "第十届中国不动产资产管理峰会暨2025第四届智慧低碳产融大会将于1月21日至22日举办",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-01-21",
-      "raw_data": {
-        "id": 507618,
-        "calendar_time": "2026-01-21 00:00:00",
-        "data_id": 20961,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "第十届中国不动产资产管理峰会暨2025第四届智慧低碳产融大会将于1月21日至22日举办",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "第十届中国不动产资产管理峰会暨2025第四届智慧低碳产融大会将于1月21日至22日举办"
-      },
-      "created_at": "2026-01-21T03:39:52.261248"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_507619_20260121_2",
-      "original_id": "507619",
-      "event_date": "2026-01-21",
-      "event_time": "00:00:00",
-      "event_datetime": "2026-01-21 00:00:00",
-      "title": "2026中国文旅IP创新发展研讨会将于1月21日举办",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-01-21",
-      "raw_data": {
-        "id": 507619,
-        "calendar_time": "2026-01-21 00:00:00",
-        "data_id": 20962,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "2026中国文旅IP创新发展研讨会将于1月21日举办",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "2026中国文旅IP创新发展研讨会将于1月21日举办"
-      },
-      "created_at": "2026-01-21T03:39:52.261260"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_509334_20260121_2",
-      "original_id": "509334",
-      "event_date": "2026-01-21",
-      "event_time": "00:00:00",
-      "event_datetime": "2026-01-21 00:00:00",
-      "title": "IEA公布月度原油市场报告",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-01-21",
-      "raw_data": {
-        "id": 509334,
-        "calendar_time": "2026-01-21 00:00:00",
-        "data_id": 20989,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "IEA公布月度原油市场报告",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "IEA公布月度原油市场报告"
-      },
-      "created_at": "2026-01-21T03:39:52.261271"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_509331_20260121_2",
-      "original_id": "509331",
-      "event_date": "2026-01-21",
-      "event_time": "09:20:00",
-      "event_datetime": "2026-01-21 09:20:00",
-      "title": "今日有2408亿元7天期逆回购到期",
-      "content": null,
-      "category": "事件公告",
-      "importance": 2,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-01-21",
-      "raw_data": {
-        "id": 509331,
-        "calendar_time": "2026-01-21 09:20:00",
-        "data_id": 20988,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "今日有2408亿元7天期逆回购到期",
-          "country": "中国",
-          "country_icon": "",
-          "star": 2
-        },
-        "holiday": null,
-        "title": "今日有2408亿元7天期逆回购到期"
-      },
-      "created_at": "2026-01-21T03:39:52.261281"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_509288_20260121_2",
-      "original_id": "509288",
-      "event_date": "2026-01-21",
-      "event_time": "10:00:00",
-      "event_datetime": "2026-01-21 10:00:00",
-      "title": "国务院新闻办公室将于1月21日举行新闻发布会，介绍2025年工业和信息化发展成效",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-01-21",
-      "raw_data": {
-        "id": 509288,
-        "calendar_time": "2026-01-21 10:00:00",
-        "data_id": 20985,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "国务院新闻办公室将于1月21日举行新闻发布会，介绍2025年工业和信息化发展成效",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "国务院新闻办公室将于1月21日举行新闻发布会，介绍2025年工业和信息化发展成效"
-      },
-      "created_at": "2026-01-21T03:39:52.261292"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_500742_20260121_1",
-      "original_id": "500742",
-      "event_date": "2026-01-21",
-      "event_time": "15:00:00",
-      "event_datetime": "2026-01-21 15:00:00",
-      "title": "英国12月CPI月率",
-      "content": null,
-      "category": "经济数据",
-      "importance": 3,
-      "country": "英国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-01-21",
-      "raw_data": {
-        "id": 500742,
-        "calendar_time": "2026-01-21 15:00:00",
-        "data_id": 58153,
-        "type": 1,
-        "economic": {
-          "title": "英国12月CPI月率",
-          "country": "英国",
-          "country_icon": "",
-          "star": 3,
-          "indicator_id": 348,
-          "front": "--",
-          "fix": "--",
-          "consensus": "--",
-          "actual": "--",
-          "unit": "%",
-          "flag": "--",
-          "interpret": "",
-          "interpret_img": []
-        },
-        "event": null,
-        "holiday": null,
-        "title": "英国12月CPI月率"
-      },
-      "created_at": "2026-01-21T03:39:52.261302"
-    },
     {
       "platform": "cls",
       "event_id": "cls_510963_20260122_2",
@@ -284,8 +23,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-01-21",
+      "is_new": false,
+      "discovery_date": "2026-01-22",
       "raw_data": {
         "id": 510963,
         "calendar_time": "2026-01-22 00:00:00",
@@ -301,7 +40,7 @@
         "holiday": null,
         "title": "上海外滩数据智能科技创新论坛将于1月22日举办"
       },
-      "created_at": "2026-01-21T03:39:52.261313"
+      "created_at": "2026-01-22T03:43:53.141401"
     },
     {
       "platform": "cls",
@@ -310,10 +49,10 @@
       "event_date": "2026-01-22",
       "event_time": "01:00:00",
       "event_datetime": "2026-01-22 01:00:00",
-      "title": "IEA公布月度原油市场报告",
+      "title": "欧盟委员会主席冯德莱恩在欧盟议会发表讲话。",
       "content": null,
       "category": "事件公告",
-      "importance": 3,
+      "importance": 2,
       "country": "法国",
       "city": null,
       "stocks": [],
@@ -321,7 +60,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-21",
+      "discovery_date": "2026-01-22",
       "raw_data": {
         "id": 458461,
         "calendar_time": "2026-01-22 01:00:00",
@@ -329,15 +68,15 @@
         "type": 2,
         "economic": null,
         "event": {
-          "title": "IEA公布月度原油市场报告",
+          "title": "欧盟委员会主席冯德莱恩在欧盟议会发表讲话。",
           "country": "法国",
           "country_icon": "",
-          "star": 3
+          "star": 2
         },
         "holiday": null,
-        "title": "IEA公布月度原油市场报告"
+        "title": "欧盟委员会主席冯德莱恩在欧盟议会发表讲话。"
       },
-      "created_at": "2026-01-21T03:39:52.261323"
+      "created_at": "2026-01-22T03:43:53.141423"
     },
     {
       "platform": "cls",
@@ -356,8 +95,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-01-21",
+      "is_new": false,
+      "discovery_date": "2026-01-22",
       "raw_data": {
         "id": 510926,
         "calendar_time": "2026-01-22 09:20:00",
@@ -373,7 +112,7 @@
         "holiday": null,
         "title": "今日有1793亿元7天期逆回购到期"
       },
-      "created_at": "2026-01-21T03:39:52.261332"
+      "created_at": "2026-01-22T03:43:53.141435"
     },
     {
       "platform": "cls",
@@ -392,8 +131,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-01-21",
+      "is_new": false,
+      "discovery_date": "2026-01-22",
       "raw_data": {
         "id": 510922,
         "calendar_time": "2026-01-22 10:00:00",
@@ -409,7 +148,7 @@
         "holiday": null,
         "title": "国新办定于1月22日就加快农业农村现代化，扎实推进乡村全面振兴有关情况举行新闻发布会"
       },
-      "created_at": "2026-01-21T03:39:52.261343"
+      "created_at": "2026-01-22T03:43:53.141446"
     },
     {
       "platform": "cls",
@@ -429,7 +168,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-21",
+      "discovery_date": "2026-01-22",
       "raw_data": {
         "id": 507921,
         "calendar_time": "2026-01-22 15:00:00",
@@ -445,52 +184,7 @@
         "holiday": null,
         "title": "商务部定于1月22日举行新闻发布会近期商务领域重点工作有关情况"
       },
-      "created_at": "2026-01-21T03:39:52.261353"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_500832_20260122_1",
-      "original_id": "500832",
-      "event_date": "2026-01-22",
-      "event_time": "21:30:00",
-      "event_datetime": "2026-01-22 21:30:00",
-      "title": "美国11月核心PCE物价指数年率",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-01-21",
-      "raw_data": {
-        "id": 500832,
-        "calendar_time": "2026-01-22 21:30:00",
-        "data_id": 59001,
-        "type": 1,
-        "economic": {
-          "title": "美国11月核心PCE物价指数年率",
-          "country": "美国",
-          "country_icon": "",
-          "star": 4,
-          "indicator_id": 211,
-          "front": "--",
-          "fix": "--",
-          "consensus": "--",
-          "actual": "--",
-          "unit": "%",
-          "flag": "--",
-          "interpret": "",
-          "interpret_img": []
-        },
-        "event": null,
-        "holiday": null,
-        "title": "美国11月核心PCE物价指数年率"
-      },
-      "created_at": "2026-01-21T03:39:52.261362"
+      "created_at": "2026-01-22T03:43:53.141457"
     },
     {
       "platform": "cls",
@@ -510,7 +204,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-21",
+      "discovery_date": "2026-01-22",
       "raw_data": {
         "id": 429432,
         "calendar_time": "2026-01-23 00:00:00",
@@ -526,7 +220,7 @@
         "holiday": null,
         "title": "2026北京商业航天展暨大会将于1月23日至25日举办"
       },
-      "created_at": "2026-01-21T03:39:52.261373"
+      "created_at": "2026-01-22T03:43:53.141468"
     },
     {
       "platform": "cls",
@@ -546,7 +240,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-21",
+      "discovery_date": "2026-01-22",
       "raw_data": {
         "id": 507631,
         "calendar_time": "2026-01-23 00:00:00",
@@ -562,7 +256,187 @@
         "holiday": null,
         "title": "国证指数：定于1月23日发布国证创业板指股债恒定比例指数系列和国证创业板50股债恒定比例指数系列"
       },
-      "created_at": "2026-01-21T03:39:52.261383"
+      "created_at": "2026-01-22T03:43:53.141478"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_512671_20260123_2",
+      "original_id": "512671",
+      "event_date": "2026-01-23",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-01-23 00:00:00",
+      "title": "日本央行公布利率决议和经济前景展望报告",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-22",
+      "raw_data": {
+        "id": 512671,
+        "calendar_time": "2026-01-23 00:00:00",
+        "data_id": 21019,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "日本央行公布利率决议和经济前景展望报告",
+          "country": "日本",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "日本央行公布利率决议和经济前景展望报告"
+      },
+      "created_at": "2026-01-22T03:43:53.141491"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_512695_20260123_2",
+      "original_id": "512695",
+      "event_date": "2026-01-23",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-01-23 00:00:00",
+      "title": "第三届全国人工智能应用场景创新挑战赛总决赛暨全国人工智能+应用场景创新大会将于1月23日至25日在苏州举行",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-22",
+      "raw_data": {
+        "id": 512695,
+        "calendar_time": "2026-01-23 00:00:00",
+        "data_id": 21020,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "第三届全国人工智能应用场景创新挑战赛总决赛暨全国人工智能+应用场景创新大会将于1月23日至25日在苏州举行",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "第三届全国人工智能应用场景创新挑战赛总决赛暨全国人工智能+应用场景创新大会将于1月23日至25日在苏州举行"
+      },
+      "created_at": "2026-01-22T03:43:53.141502"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_512697_20260123_2",
+      "original_id": "512697",
+      "event_date": "2026-01-23",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-01-23 00:00:00",
+      "title": "2026智能机器人城市空间应用场景大会暨机器人交易中心建设启动仪式将于1月23日举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-22",
+      "raw_data": {
+        "id": 512697,
+        "calendar_time": "2026-01-23 00:00:00",
+        "data_id": 21021,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "2026智能机器人城市空间应用场景大会暨机器人交易中心建设启动仪式将于1月23日举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "2026智能机器人城市空间应用场景大会暨机器人交易中心建设启动仪式将于1月23日举办"
+      },
+      "created_at": "2026-01-22T03:43:53.141511"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_512700_20260123_2",
+      "original_id": "512700",
+      "event_date": "2026-01-23",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-01-23 00:00:00",
+      "title": "A123半固态浸没式储能产品全球线上发布会将于1月23日举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-22",
+      "raw_data": {
+        "id": 512700,
+        "calendar_time": "2026-01-23 00:00:00",
+        "data_id": 21022,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "A123半固态浸没式储能产品全球线上发布会将于1月23日举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "A123半固态浸没式储能产品全球线上发布会将于1月23日举办"
+      },
+      "created_at": "2026-01-22T03:43:53.141521"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_512703_20260123_2",
+      "original_id": "512703",
+      "event_date": "2026-01-23",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-01-23 00:00:00",
+      "title": "银发经济产业创新发展大会将于1月23日举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-22",
+      "raw_data": {
+        "id": 512703,
+        "calendar_time": "2026-01-23 00:00:00",
+        "data_id": 21023,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "银发经济产业创新发展大会将于1月23日举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "银发经济产业创新发展大会将于1月23日举办"
+      },
+      "created_at": "2026-01-22T03:43:53.141531"
     },
     {
       "platform": "cls",
@@ -582,7 +456,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-21",
+      "discovery_date": "2026-01-22",
       "raw_data": {
         "id": 500851,
         "calendar_time": "2026-01-23 01:00:00",
@@ -607,7 +481,79 @@
         "holiday": null,
         "title": "美国至1月16日当周EIA原油库存(万桶)"
       },
-      "created_at": "2026-01-21T03:39:52.261393"
+      "created_at": "2026-01-22T03:43:53.141541"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_512666_20260123_2",
+      "original_id": "512666",
+      "event_date": "2026-01-23",
+      "event_time": "09:20:00",
+      "event_datetime": "2026-01-23 09:20:00",
+      "title": "今日有867亿元7天期逆回购到期",
+      "content": null,
+      "category": "事件公告",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-22",
+      "raw_data": {
+        "id": 512666,
+        "calendar_time": "2026-01-23 09:20:00",
+        "data_id": 21017,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "今日有867亿元7天期逆回购到期",
+          "country": "中国",
+          "country_icon": "",
+          "star": 2
+        },
+        "holiday": null,
+        "title": "今日有867亿元7天期逆回购到期"
+      },
+      "created_at": "2026-01-22T03:43:53.141550"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_512669_20260123_2",
+      "original_id": "512669",
+      "event_date": "2026-01-23",
+      "event_time": "10:00:00",
+      "event_datetime": "2026-01-23 10:00:00",
+      "title": "国新办将于1月23日举行新闻发布会，介绍2025年知识产权工作进展情况",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-22",
+      "raw_data": {
+        "id": 512669,
+        "calendar_time": "2026-01-23 10:00:00",
+        "data_id": 21018,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "国新办将于1月23日举行新闻发布会，介绍2025年知识产权工作进展情况",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "国新办将于1月23日举行新闻发布会，介绍2025年知识产权工作进展情况"
+      },
+      "created_at": "2026-01-22T03:43:53.141560"
     },
     {
       "platform": "cls",
@@ -627,7 +573,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-21",
+      "discovery_date": "2026-01-22",
       "raw_data": {
         "id": 500920,
         "calendar_time": "2026-01-23 17:00:00",
@@ -652,43 +598,7 @@
         "holiday": null,
         "title": "欧元区1月制造业PMI初值"
       },
-      "created_at": "2026-01-21T03:39:52.261402"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_502534_20260123_2",
-      "original_id": "502534",
-      "event_date": "2026-01-23",
-      "event_time": "17:20:00",
-      "event_datetime": "2026-01-23 17:20:00",
-      "title": "今日有867亿元7天期逆回购到期",
-      "content": null,
-      "category": "事件公告",
-      "importance": 2,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-01-21",
-      "raw_data": {
-        "id": 502534,
-        "calendar_time": "2026-01-23 17:20:00",
-        "data_id": 20948,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "今日有867亿元7天期逆回购到期",
-          "country": "中国",
-          "country_icon": "",
-          "star": 2
-        },
-        "holiday": null,
-        "title": "今日有867亿元7天期逆回购到期"
-      },
-      "created_at": "2026-01-21T03:39:52.261412"
+      "created_at": "2026-01-22T03:43:53.141569"
     },
     {
       "platform": "cls",
@@ -708,7 +618,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-21",
+      "discovery_date": "2026-01-22",
       "raw_data": {
         "id": 455016,
         "calendar_time": "2026-01-25 00:00:00",
@@ -724,7 +634,7 @@
         "holiday": null,
         "title": "第十九届亚洲金融论坛将于1月25日至28日举办"
       },
-      "created_at": "2026-01-21T03:39:52.261423"
+      "created_at": "2026-01-22T03:43:53.141579"
     },
     {
       "platform": "cls",
@@ -744,7 +654,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-21",
+      "discovery_date": "2026-01-22",
       "raw_data": {
         "id": 454994,
         "calendar_time": "2026-01-26 00:00:00",
@@ -760,7 +670,7 @@
         "holiday": null,
         "title": "标普：自动化软件公司UiPath获纳入标普中型股400指数成分股，将于2026年1月6日开盘前生效"
       },
-      "created_at": "2026-01-21T03:39:52.261434"
+      "created_at": "2026-01-22T03:43:53.141589"
     },
     {
       "platform": "cls",
@@ -780,7 +690,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-21",
+      "discovery_date": "2026-01-22",
       "raw_data": {
         "id": 455019,
         "calendar_time": "2026-01-26 00:00:00",
@@ -796,7 +706,7 @@
         "holiday": null,
         "title": "河南省第十四届人民代表大会第四次会议将于1月26日在郑州召开"
       },
-      "created_at": "2026-01-21T03:39:52.261443"
+      "created_at": "2026-01-22T03:43:53.141599"
     },
     {
       "platform": "cls",
@@ -816,7 +726,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-21",
+      "discovery_date": "2026-01-22",
       "raw_data": {
         "id": 455060,
         "calendar_time": "2026-01-27 00:00:00",
@@ -832,7 +742,7 @@
         "holiday": null,
         "title": "江西省第十四届人民代表大会第四次会议将于1月27日召开"
       },
-      "created_at": "2026-01-21T03:39:52.261454"
+      "created_at": "2026-01-22T03:43:53.141609"
     },
     {
       "platform": "cls",
@@ -852,7 +762,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-21",
+      "discovery_date": "2026-01-22",
       "raw_data": {
         "id": 455062,
         "calendar_time": "2026-01-27 00:00:00",
@@ -868,7 +778,7 @@
         "holiday": null,
         "title": "海南省第七届人民代表大会第五次会议将于1月27日召开"
       },
-      "created_at": "2026-01-21T03:39:52.261464"
+      "created_at": "2026-01-22T03:43:53.141619"
     },
     {
       "platform": "cls",
@@ -888,7 +798,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-21",
+      "discovery_date": "2026-01-22",
       "raw_data": {
         "id": 455070,
         "calendar_time": "2026-01-29 00:00:00",
@@ -904,43 +814,7 @@
         "holiday": null,
         "title": "第五届东盟轨道交通国际峰会将于1月29日至30日在马来西亚吉隆坡举行"
       },
-      "created_at": "2026-01-21T03:39:52.261478"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_507636_20260201_2",
-      "original_id": "507636",
-      "event_date": "2026-02-01",
-      "event_time": "00:00:00",
-      "event_datetime": "2026-02-01 00:00:00",
-      "title": "美国总统特朗普：自2月1日起，丹麦、挪威、瑞典、法国、德国、英国、荷兰和芬兰向美国出口的所有商品都将被加征10%的关税",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-01-21",
-      "raw_data": {
-        "id": 507636,
-        "calendar_time": "2026-02-01 00:00:00",
-        "data_id": 20964,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "美国总统特朗普：自2月1日起，丹麦、挪威、瑞典、法国、德国、英国、荷兰和芬兰向美国出口的所有商品都将被加征10%的关税",
-          "country": "美国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "美国总统特朗普：自2月1日起，丹麦、挪威、瑞典、法国、德国、英国、荷兰和芬兰向美国出口的所有商品都将被加征10%的关税"
-      },
-      "created_at": "2026-01-21T03:39:52.261491"
+      "created_at": "2026-01-22T03:43:53.141629"
     },
     {
       "platform": "cls",
@@ -960,7 +834,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-21",
+      "discovery_date": "2026-01-22",
       "raw_data": {
         "id": 507639,
         "calendar_time": "2026-02-01 00:00:00",
@@ -976,7 +850,7 @@
         "holiday": null,
         "title": "国巨：由于芯片产品线成本显著上涨，决定从2月1日起，对部分电阻产品进行价格调整，调涨幅度约15%-20％"
       },
-      "created_at": "2026-01-21T03:39:52.261502"
+      "created_at": "2026-01-22T03:43:53.141639"
     },
     {
       "platform": "cls",
@@ -996,7 +870,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-21",
+      "discovery_date": "2026-01-22",
       "raw_data": {
         "id": 480468,
         "calendar_time": "2026-02-01 08:00:00",
@@ -1012,7 +886,43 @@
         "holiday": null,
         "title": "欧佩克+八个产油国就产油政策举行月度会议"
       },
-      "created_at": "2026-01-21T03:39:52.261511"
+      "created_at": "2026-01-22T03:43:53.141649"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_512797_20260204_2",
+      "original_id": "512797",
+      "event_date": "2026-02-04",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-02-04 00:00:00",
+      "title": "思科将于2月4日北京时间凌晨在美国旧金山举办2026人工智能大会，并以线上形式面向全球直播",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-22",
+      "raw_data": {
+        "id": 512797,
+        "calendar_time": "2026-02-04 00:00:00",
+        "data_id": 21025,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "思科将于2月4日北京时间凌晨在美国旧金山举办2026人工智能大会，并以线上形式面向全球直播",
+          "country": "美国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "思科将于2月4日北京时间凌晨在美国旧金山举办2026人工智能大会，并以线上形式面向全球直播"
+      },
+      "created_at": "2026-01-22T03:43:53.141659"
     }
   ]
 }
