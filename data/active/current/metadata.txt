@@ -1,6 +1,6 @@
 {
   "collection_type": "ACTIVE",
-  "collection_time": "2026-01-24T03:23:30.302535",
+  "collection_time": "2026-01-25T03:50:05.981101",
   "platforms": {
     "cls": {
       "event_count": 20,
