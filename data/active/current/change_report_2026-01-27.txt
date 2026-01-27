@@ -1,0 +1,116 @@
+{
+  "detection_time": "2026-01-27T03:44:01.837744",
+  "summary": {
+    "total_new": 13,
+    "total_updated": 0,
+    "total_cancelled": 1
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 13,
+      "updated_events": 0,
+      "cancelled_events": 1,
+      "sample_new_titles": [
+        "人力资源社会保障部定于1月27日举行例行新闻发布会，介绍2025年人力资源和社会保障工作进展情况",
+        "财政部、央行：定于1月28日进行2026年中央国库现金管理商业银行定期存款（一期）招投标",
+        "鸣鸣很忙计划于1月28日在港交所挂牌上市，将成为港股“量贩零食第一股”"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "investing": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "eastmoney": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2026-01-27",
+      "title": "人力资源社会保障部定于1月27日举行例行新闻发布会，介绍2025年人力资源和社会保障工作进展情况",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-01-28",
+      "title": "财政部、央行：定于1月28日进行2026年中央国库现金管理商业银行定期存款（一期）招投标",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-01-28",
+      "title": "鸣鸣很忙计划于1月28日在港交所挂牌上市，将成为港股“量贩零食第一股”",
+      "importance": 5,
+      "country": "中国香港"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-01-28",
+      "title": "重庆市六届人大四次会议定于1月28日至2月1日举行，正式会期4天半",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-01-28",
+      "title": "生态环境部1月28日将举行例行新闻发布会",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-02-15",
+      "title": "2026年春节假期从2月15日开始，至2月23日结束，共放假9天",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-02-20",
+      "title": "首届北京中关村学院青年论坛将于2月20日至21日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-02-17",
+      "title": "美国1月零售销售月率",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-02-19",
+      "title": "美联储公布货币政策会议纪要",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-02-19",
+      "title": "美国至2月14日当周初请失业金人数(万人)",
+      "importance": 4,
+      "country": "美国"
+    }
+  ]
+}
