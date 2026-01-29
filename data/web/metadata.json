@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-01-28T03:41:35.932137",
-  "total_events": 65,
+  "last_updated": "2026-01-29T04:04:26.126269",
+  "total_events": 64,
   "platforms": {
     "cls": {
       "name": "财联社",
-      "event_count": 64
+      "event_count": 63
     },
     "jiuyangongshe": {
       "name": "韭研公社",
