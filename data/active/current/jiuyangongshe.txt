@@ -3,7 +3,7 @@
   "total_events": 0,
   "data_status": "ACTIVE",
   "date_type": "FUTURE",
-  "last_updated": "2026-01-31T04:01:44.134839",
+  "last_updated": "2026-02-01T04:26:59.767266",
   "immutable": false,
   "events": []
 }
