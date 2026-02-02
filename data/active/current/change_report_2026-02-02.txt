@@ -1,0 +1,74 @@
+{
+  "detection_time": "2026-02-02T04:21:05.343735",
+  "summary": {
+    "total_new": 4,
+    "total_updated": 0,
+    "total_cancelled": 0
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 4,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "AMD将于当地时间2月3日美股盘后（北京时间次日凌晨）发布2025财年第四季度及全年财务业绩。",
+        "中证指数有限公司调整中证1000指数样本，于2月4日收市后生效",
+        "谷歌将于美东时间2月4日美股盘后（北京时间次日凌晨）发布财报"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "investing": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "eastmoney": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2026-02-03",
+      "title": "AMD将于当地时间2月3日美股盘后（北京时间次日凌晨）发布2025财年第四季度及全年财务业绩。",
+      "importance": 5,
+      "country": "美国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-02-04",
+      "title": "中证指数有限公司调整中证1000指数样本，于2月4日收市后生效",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-02-04",
+      "title": "谷歌将于美东时间2月4日美股盘后（北京时间次日凌晨）发布财报",
+      "importance": 5,
+      "country": "美国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-02-05",
+      "title": "商务部定于2月5日举行新闻发布会，介绍近期商务领域重点工作有关情况",
+      "importance": 5,
+      "country": "中国"
+    }
+  ]
+}
