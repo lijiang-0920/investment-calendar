@@ -1,0 +1,67 @@
+{
+  "detection_time": "2026-02-03T04:11:35.527241",
+  "summary": {
+    "total_new": 3,
+    "total_updated": 0,
+    "total_cancelled": 0
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 3,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "国务院新闻办公室将于2月4日举行新闻发布会，介绍锚定农业农村现代化、扎实推进乡村全面振兴有关情况",
+        "千问APP宣布投入30亿启动“春节请客计划”，将于2月6日正式上线",
+        "第25届冬季奥林匹克运动会将于2月6日至22日在意大利举行"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "investing": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "eastmoney": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2026-02-04",
+      "title": "国务院新闻办公室将于2月4日举行新闻发布会，介绍锚定农业农村现代化、扎实推进乡村全面振兴有关情况",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-02-06",
+      "title": "千问APP宣布投入30亿启动“春节请客计划”，将于2月6日正式上线",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-02-06",
+      "title": "第25届冬季奥林匹克运动会将于2月6日至22日在意大利举行",
+      "importance": 5,
+      "country": "意大利"
+    }
+  ]
+}
