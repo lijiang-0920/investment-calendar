@@ -1,0 +1,74 @@
+{
+  "detection_time": "2026-02-09T04:24:07.220502",
+  "summary": {
+    "total_new": 4,
+    "total_updated": 0,
+    "total_cancelled": 0
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 4,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "欧元区2月Sentix投资者信心指数",
+        "中国边缘AI芯片企业爱芯元智将于2月10日在香港联交所挂牌上市",
+        "美国12月零售销售月率"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "investing": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "eastmoney": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2026-02-10",
+      "title": "中国边缘AI芯片企业爱芯元智将于2月10日在香港联交所挂牌上市",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-02-11",
+      "title": "国新办2月11日举行新闻发布会，介绍2026“乐购新春”春节特别活动、保障春节市场供应有关情况",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-02-10",
+      "title": "美国12月零售销售月率",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-02-09",
+      "title": "欧元区2月Sentix投资者信心指数",
+      "importance": 3,
+      "country": "欧元区"
+    }
+  ]
+}
