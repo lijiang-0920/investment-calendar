@@ -1,0 +1,109 @@
+{
+  "detection_time": "2026-02-10T04:28:33.406838",
+  "summary": {
+    "total_new": 9,
+    "total_updated": 0,
+    "total_cancelled": 4
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 9,
+      "updated_events": 0,
+      "cancelled_events": 4,
+      "sample_new_titles": [
+        "中共中央政治局委员、外交部长王毅将于2月10日在广州出席2026年亚太经合组织（APEC）第一次高官",
+        "松延动力Bumi-X1智脑版联名机器人于2月11日正式预售",
+        "上海市政府将于2月11日举行新闻发布会，介绍《上海市国民经济和社会发展第十五个五年规划纲要》有关内容"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "investing": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "eastmoney": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2026-02-10",
+      "title": "中共中央政治局委员、外交部长王毅将于2月10日在广州出席2026年亚太经合组织（APEC）第一次高官会开幕式并致辞",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-02-11",
+      "title": "松延动力Bumi-X1智脑版联名机器人于2月11日正式预售",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-02-11",
+      "title": "上海市政府将于2月11日举行新闻发布会，介绍《上海市国民经济和社会发展第十五个五年规划纲要》有关内容",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-02-11",
+      "title": "美国1月失业率",
+      "importance": 5,
+      "country": "美国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-02-11",
+      "title": "美国1月季调后非农就业人口(万人)",
+      "importance": 5,
+      "country": "美国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-02-12",
+      "title": "商务部定于2月12日举行新闻发布会，介绍近期商务领域重点工作有关情况",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-02-11",
+      "title": "中国1月CPI年率",
+      "importance": 3,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-02-11",
+      "title": "今日有750亿元7天期逆回购到期",
+      "importance": 2,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-02-11",
+      "title": "中国1月PPI年率",
+      "importance": 2,
+      "country": "中国"
+    }
+  ]
+}
