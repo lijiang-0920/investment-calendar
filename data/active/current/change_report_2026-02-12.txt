@@ -1,0 +1,88 @@
+{
+  "detection_time": "2026-02-12T04:22:10.492842",
+  "summary": {
+    "total_new": 6,
+    "total_updated": 0,
+    "total_cancelled": 0
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 6,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "国新办2月12日将就《现代化首都都市圈空间协同规划（2023—2035年）》有关情况举行新闻发布会",
+        "国家统计局公布70个大中城市住宅销售价格月度报告",
+        "沃尔核材H股将于2月13日在香港联交所主板挂牌并开始上市交易"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "investing": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "eastmoney": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2026-02-12",
+      "title": "国新办2月12日将就《现代化首都都市圈空间协同规划（2023—2035年）》有关情况举行新闻发布会",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-02-13",
+      "title": "国家统计局公布70个大中城市住宅销售价格月度报告",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-02-13",
+      "title": "沃尔核材H股将于2月13日在香港联交所主板挂牌并开始上市交易",
+      "importance": 5,
+      "country": "中国香港"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-02-13",
+      "title": "加拿大多伦多国际汽车展将于2月13日至22日举办",
+      "importance": 5,
+      "country": "加拿大"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-02-16",
+      "title": "央行等八部门发布《反洗钱特别预防措施管理办法》，自2月16日起施行",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-02-17",
+      "title": "2026年春节档将于2月17日（大年初一）正式开启",
+      "importance": 5,
+      "country": "中国"
+    }
+  ]
+}
