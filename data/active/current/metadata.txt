@@ -1,12 +1,12 @@
 {
   "collection_type": "ACTIVE",
-  "collection_time": "2026-02-23T04:21:21.898975",
+  "collection_time": "2026-02-24T04:14:56.952508",
   "platforms": {
     "cls": {
-      "event_count": 9,
+      "event_count": 47,
       "date_range": {
         "start": "2026-02-24",
-        "end": "2026-02-28"
+        "end": "2026-03-27"
       }
     },
     "jiuyangongshe": {
@@ -31,16 +31,16 @@
       }
     },
     "eastmoney": {
-      "event_count": 1,
+      "event_count": 0,
       "date_range": {
-        "start": "2025-10-13",
-        "end": "2025-10-13"
+        "start": null,
+        "end": null
       }
     }
   },
-  "total_events": 10,
+  "total_events": 47,
   "date_range": {
-    "start": "2025-10-13",
-    "end": "2026-02-28"
+    "start": "2026-02-24",
+    "end": "2026-03-27"
   }
 }
