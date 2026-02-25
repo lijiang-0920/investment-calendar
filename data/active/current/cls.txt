@@ -1,353 +1,11 @@
 {
   "platform": "cls",
-  "total_events": 47,
+  "total_events": 63,
   "data_status": "ACTIVE",
   "date_type": "FUTURE",
-  "last_updated": "2026-02-24T04:14:56.945967",
+  "last_updated": "2026-02-25T04:16:51.497626",
   "immutable": false,
   "events": [
-    {
-      "platform": "cls",
-      "event_id": "cls_519854_20260224_2",
-      "original_id": "519854",
-      "event_date": "2026-02-24",
-      "event_time": "00:00:00",
-      "event_datetime": "2026-02-24 00:00:00",
-      "title": "苹果2月24日举行2026年度股东大会",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-02-24",
-      "raw_data": {
-        "id": 519854,
-        "calendar_time": "2026-02-24 00:00:00",
-        "data_id": 21080,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "苹果2月24日举行2026年度股东大会",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "苹果2月24日举行2026年度股东大会"
-      },
-      "created_at": "2026-02-24T04:14:46.041744"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_523784_20260224_2",
-      "original_id": "523784",
-      "event_date": "2026-02-24",
-      "event_time": "00:00:00",
-      "event_datetime": "2026-02-24 00:00:00",
-      "title": "第十三届亚太可持续发展论坛将于2月24日至27日举行",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-02-24",
-      "raw_data": {
-        "id": 523784,
-        "calendar_time": "2026-02-24 00:00:00",
-        "data_id": 21127,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "第十三届亚太可持续发展论坛将于2月24日至27日举行",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "第十三届亚太可持续发展论坛将于2月24日至27日举行"
-      },
-      "created_at": "2026-02-24T04:14:46.041765"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_576577_20260224_2",
-      "original_id": "576577",
-      "event_date": "2026-02-24",
-      "event_time": "00:00:00",
-      "event_datetime": "2026-02-24 00:00:00",
-      "title": "国内成品油将开启新一轮调价窗口",
-      "content": null,
-      "category": "事件公告",
-      "importance": 2,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
-      "raw_data": {
-        "id": 576577,
-        "calendar_time": "2026-02-24 00:00:00",
-        "data_id": 21400,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "国内成品油将开启新一轮调价窗口",
-          "country": "中国",
-          "country_icon": "",
-          "star": 2
-        },
-        "holiday": null,
-        "title": "国内成品油将开启新一轮调价窗口"
-      },
-      "created_at": "2026-02-24T04:14:46.041777"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_576582_20260224_2",
-      "original_id": "576582",
-      "event_date": "2026-02-24",
-      "event_time": "00:00:00",
-      "event_datetime": "2026-02-24 00:00:00",
-      "title": "广东省高质量发展大会将于2月24日在广州召开",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
-      "raw_data": {
-        "id": 576582,
-        "calendar_time": "2026-02-24 00:00:00",
-        "data_id": 21401,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "广东省高质量发展大会将于2月24日在广州召开",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "广东省高质量发展大会将于2月24日在广州召开"
-      },
-      "created_at": "2026-02-24T04:14:46.041788"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_576603_20260224_2",
-      "original_id": "576603",
-      "event_date": "2026-02-24",
-      "event_time": "00:00:00",
-      "event_datetime": "2026-02-24 00:00:00",
-      "title": "白宫：临时进口关税将于美国东部标准时间2月24日零时01分生效",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
-      "raw_data": {
-        "id": 576603,
-        "calendar_time": "2026-02-24 00:00:00",
-        "data_id": 21402,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "白宫：临时进口关税将于美国东部标准时间2月24日零时01分生效",
-          "country": "美国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "白宫：临时进口关税将于美国东部标准时间2月24日零时01分生效"
-      },
-      "created_at": "2026-02-24T04:14:46.041811"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_517785_20260224_2",
-      "original_id": "517785",
-      "event_date": "2026-02-24",
-      "event_time": "08:00:00",
-      "event_datetime": "2026-02-24 08:00:00",
-      "title": "美国总统特朗普发表国情咨文",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-02-24",
-      "raw_data": {
-        "id": 517785,
-        "calendar_time": "2026-02-24 08:00:00",
-        "data_id": 21066,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "美国总统特朗普发表国情咨文",
-          "country": "美国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "美国总统特朗普发表国情咨文"
-      },
-      "created_at": "2026-02-24T04:14:46.041821"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_569493_20260224_1",
-      "original_id": "569493",
-      "event_date": "2026-02-24",
-      "event_time": "09:00:00",
-      "event_datetime": "2026-02-24 09:00:00",
-      "title": "中国至2月24日一年期贷款市场报价利率",
-      "content": null,
-      "category": "经济数据",
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
-      "raw_data": {
-        "id": 569493,
-        "calendar_time": "2026-02-24 09:00:00",
-        "data_id": 59502,
-        "type": 1,
-        "economic": {
-          "title": "中国至2月24日一年期贷款市场报价利率",
-          "country": "中国",
-          "country_icon": "",
-          "star": 3,
-          "indicator_id": 1417,
-          "front": "--",
-          "fix": "--",
-          "consensus": "--",
-          "actual": "--",
-          "unit": "%",
-          "flag": "--",
-          "interpret": "",
-          "interpret_img": []
-        },
-        "event": null,
-        "holiday": null,
-        "title": "中国至2月24日一年期贷款市场报价利率"
-      },
-      "created_at": "2026-02-24T04:14:46.041832"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_569510_20260224_1",
-      "original_id": "569510",
-      "event_date": "2026-02-24",
-      "event_time": "09:00:00",
-      "event_datetime": "2026-02-24 09:00:00",
-      "title": "中国至2月24日五年期贷款市场报价利率",
-      "content": null,
-      "category": "经济数据",
-      "importance": 2,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
-      "raw_data": {
-        "id": 569510,
-        "calendar_time": "2026-02-24 09:00:00",
-        "data_id": 59509,
-        "type": 1,
-        "economic": {
-          "title": "中国至2月24日五年期贷款市场报价利率",
-          "country": "中国",
-          "country_icon": "",
-          "star": 2,
-          "indicator_id": 1416,
-          "front": "--",
-          "fix": "--",
-          "consensus": "--",
-          "actual": "--",
-          "unit": "%",
-          "flag": "--",
-          "interpret": "",
-          "interpret_img": []
-        },
-        "event": null,
-        "holiday": null,
-        "title": "中国至2月24日五年期贷款市场报价利率"
-      },
-      "created_at": "2026-02-24T04:14:46.041842"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_559113_20260224_2",
-      "original_id": "559113",
-      "event_date": "2026-02-24",
-      "event_time": "17:20:00",
-      "event_datetime": "2026-02-24 17:20:00",
-      "title": "今日有8144亿元7天期逆回购和6000亿元14天期逆回购到期",
-      "content": null,
-      "category": "事件公告",
-      "importance": 2,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
-      "raw_data": {
-        "id": 559113,
-        "calendar_time": "2026-02-24 17:20:00",
-        "data_id": 21067,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "今日有8144亿元7天期逆回购和6000亿元14天期逆回购到期",
-          "country": "中国",
-          "country_icon": "",
-          "star": 2
-        },
-        "holiday": null,
-        "title": "今日有8144亿元7天期逆回购和6000亿元14天期逆回购到期"
-      },
-      "created_at": "2026-02-24T04:14:46.041855"
-    },
     {
       "platform": "cls",
       "event_id": "cls_577572_20260225_2",
@@ -365,8 +23,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
+      "is_new": false,
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 577572,
         "calendar_time": "2026-02-25 00:00:00",
@@ -382,7 +40,7 @@
         "holiday": null,
         "title": "三星将于2月25日发布搭载人工智能技术的Galaxy S26系列手机"
       },
-      "created_at": "2026-02-24T04:14:46.041867"
+      "created_at": "2026-02-25T04:16:49.616689"
     },
     {
       "platform": "cls",
@@ -401,8 +59,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
+      "is_new": false,
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 577575,
         "calendar_time": "2026-02-25 00:00:00",
@@ -418,7 +76,115 @@
         "holiday": null,
         "title": "德国总理默茨将于2月25日至26日访华"
       },
-      "created_at": "2026-02-24T04:14:46.041877"
+      "created_at": "2026-02-25T04:16:49.616710"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_577750_20260225_2",
+      "original_id": "577750",
+      "event_date": "2026-02-25",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-02-25 00:00:00",
+      "title": "香港新一份财政预算案将于2月25日发表",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国香港",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-02-25",
+      "raw_data": {
+        "id": 577750,
+        "calendar_time": "2026-02-25 00:00:00",
+        "data_id": 21421,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "香港新一份财政预算案将于2月25日发表",
+          "country": "中国香港",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "香港新一份财政预算案将于2月25日发表"
+      },
+      "created_at": "2026-02-25T04:16:49.616723"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_577757_20260225_2",
+      "original_id": "577757",
+      "event_date": "2026-02-25",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-02-25 00:00:00",
+      "title": "十四届全国人大常委会第二十一次会议2月25日至26日在北京举行",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-02-25",
+      "raw_data": {
+        "id": 577757,
+        "calendar_time": "2026-02-25 00:00:00",
+        "data_id": 21422,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "十四届全国人大常委会第二十一次会议2月25日至26日在北京举行",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "十四届全国人大常委会第二十一次会议2月25日至26日在北京举行"
+      },
+      "created_at": "2026-02-25T04:16:49.616735"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_577762_20260225_2",
+      "original_id": "577762",
+      "event_date": "2026-02-25",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-02-25 00:00:00",
+      "title": "德中经济顾问委员会座谈会将于2月25日举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-02-25",
+      "raw_data": {
+        "id": 577762,
+        "calendar_time": "2026-02-25 00:00:00",
+        "data_id": 21423,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "德中经济顾问委员会座谈会将于2月25日举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "德中经济顾问委员会座谈会将于2月25日举办"
+      },
+      "created_at": "2026-02-25T04:16:49.616746"
     },
     {
       "platform": "cls",
@@ -437,8 +203,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
+      "is_new": false,
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 577570,
         "calendar_time": "2026-02-25 09:20:00",
@@ -454,7 +220,7 @@
         "holiday": null,
         "title": "今日有3000亿元1年期中期借贷便利（MLF）和4000亿元14天期逆回购到期"
       },
-      "created_at": "2026-02-24T04:14:46.041887"
+      "created_at": "2026-02-25T04:16:49.616757"
     },
     {
       "platform": "cls",
@@ -473,8 +239,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
+      "is_new": false,
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 569491,
         "calendar_time": "2026-02-25 18:00:00",
@@ -499,7 +265,7 @@
         "holiday": null,
         "title": "欧元区1月CPI月率终值"
       },
-      "created_at": "2026-02-24T04:14:46.041898"
+      "created_at": "2026-02-25T04:16:49.616767"
     },
     {
       "platform": "cls",
@@ -518,8 +284,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
+      "is_new": false,
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 569517,
         "calendar_time": "2026-02-25 23:30:00",
@@ -544,7 +310,7 @@
         "holiday": null,
         "title": "美国至2月20日当周EIA原油库存(万桶)"
       },
-      "created_at": "2026-02-24T04:14:46.041907"
+      "created_at": "2026-02-25T04:16:49.616777"
     },
     {
       "platform": "cls",
@@ -564,7 +330,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-02-24",
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 544007,
         "calendar_time": "2026-02-26 00:00:00",
@@ -580,43 +346,115 @@
         "holiday": null,
         "title": "华为将于2月26日在西班牙马德里举办主题为\"Now is Your Run\"的创新产品发布会"
       },
-      "created_at": "2026-02-24T04:14:46.041918"
+      "created_at": "2026-02-25T04:16:49.616789"
     },
     {
       "platform": "cls",
-      "event_id": "cls_520929_20260226_2",
-      "original_id": "520929",
+      "event_id": "cls_579722_20260226_2",
+      "original_id": "579722",
       "event_date": "2026-02-26",
-      "event_time": "08:00:00",
-      "event_datetime": "2026-02-26 08:00:00",
-      "title": "日本央行金融市场局举行“市场操作会议”",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-02-26 00:00:00",
+      "title": "泡泡玛特官宣新IP放学后的Merodi，线上发售时间为2月26日",
       "content": null,
       "category": "事件公告",
-      "importance": 2,
-      "country": "日本",
+      "importance": 4,
+      "country": "中国",
       "city": null,
       "stocks": [],
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-02-24",
+      "is_new": true,
+      "discovery_date": "2026-02-25",
       "raw_data": {
-        "id": 520929,
-        "calendar_time": "2026-02-26 08:00:00",
-        "data_id": 21099,
+        "id": 579722,
+        "calendar_time": "2026-02-26 00:00:00",
+        "data_id": 21446,
         "type": 2,
         "economic": null,
         "event": {
-          "title": "日本央行金融市场局举行“市场操作会议”",
-          "country": "日本",
+          "title": "泡泡玛特官宣新IP放学后的Merodi，线上发售时间为2月26日",
+          "country": "中国",
+          "country_icon": "",
+          "star": 4
+        },
+        "holiday": null,
+        "title": "泡泡玛特官宣新IP放学后的Merodi，线上发售时间为2月26日"
+      },
+      "created_at": "2026-02-25T04:16:49.616799"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_579674_20260226_2",
+      "original_id": "579674",
+      "event_date": "2026-02-26",
+      "event_time": "09:20:00",
+      "event_datetime": "2026-02-26 09:20:00",
+      "title": "今日有4000亿元14天期逆回购到期",
+      "content": null,
+      "category": "事件公告",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-02-25",
+      "raw_data": {
+        "id": 579674,
+        "calendar_time": "2026-02-26 09:20:00",
+        "data_id": 21444,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "今日有4000亿元14天期逆回购到期",
+          "country": "中国",
           "country_icon": "",
           "star": 2
         },
         "holiday": null,
-        "title": "日本央行金融市场局举行“市场操作会议”"
+        "title": "今日有4000亿元14天期逆回购到期"
       },
-      "created_at": "2026-02-24T04:14:46.042518"
+      "created_at": "2026-02-25T04:16:49.616810"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_579713_20260226_2",
+      "original_id": "579713",
+      "event_date": "2026-02-26",
+      "event_time": "15:00:00",
+      "event_datetime": "2026-02-26 15:00:00",
+      "title": "商务部定于2月26日举行新闻发布会，介绍近期商务领域重点工作有关情况",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-02-25",
+      "raw_data": {
+        "id": 579713,
+        "calendar_time": "2026-02-26 15:00:00",
+        "data_id": 21445,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "商务部定于2月26日举行新闻发布会，介绍近期商务领域重点工作有关情况",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "商务部定于2月26日举行新闻发布会，介绍近期商务领域重点工作有关情况"
+      },
+      "created_at": "2026-02-25T04:16:49.616820"
     },
     {
       "platform": "cls",
@@ -635,8 +473,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
+      "is_new": false,
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 569550,
         "calendar_time": "2026-02-26 21:30:00",
@@ -661,7 +499,7 @@
         "holiday": null,
         "title": "美国至2月21日当周初请失业金人数(万人)"
       },
-      "created_at": "2026-02-24T04:14:46.042535"
+      "created_at": "2026-02-25T04:16:49.616831"
     },
     {
       "platform": "cls",
@@ -681,7 +519,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-02-24",
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 523765,
         "calendar_time": "2026-02-27 00:00:00",
@@ -697,7 +535,7 @@
         "holiday": null,
         "title": "2026银发文旅创新发展大会暨全域生态融合产业展将于2月27日举办"
       },
-      "created_at": "2026-02-24T04:14:46.042547"
+      "created_at": "2026-02-25T04:16:49.616841"
     },
     {
       "platform": "cls",
@@ -716,8 +554,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
+      "is_new": false,
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 569573,
         "calendar_time": "2026-02-27 21:00:00",
@@ -742,7 +580,7 @@
         "holiday": null,
         "title": "德国2月CPI月率初值"
       },
-      "created_at": "2026-02-24T04:14:46.042565"
+      "created_at": "2026-02-25T04:16:49.616853"
     },
     {
       "platform": "cls",
@@ -762,7 +600,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-02-24",
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 543969,
         "calendar_time": "2026-02-28 00:00:00",
@@ -778,7 +616,7 @@
         "holiday": null,
         "title": "香港金管局：2月28日起“置易付”将扩展至二手住宅物业买卖"
       },
-      "created_at": "2026-02-24T04:14:46.042591"
+      "created_at": "2026-02-25T04:16:49.616864"
     },
     {
       "platform": "cls",
@@ -798,7 +636,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-02-24",
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 524920,
         "calendar_time": "2026-02-28 17:30:00",
@@ -814,7 +652,7 @@
         "holiday": null,
         "title": "国家统计局公布2025年国民经济和社会发展统计公报"
       },
-      "created_at": "2026-02-24T04:14:46.042602"
+      "created_at": "2026-02-25T04:16:49.616874"
     },
     {
       "platform": "cls",
@@ -833,8 +671,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
+      "is_new": false,
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 577602,
         "calendar_time": "2026-03-01 00:00:00",
@@ -850,7 +688,7 @@
         "holiday": null,
         "title": "日本半导体材料厂Resonac宣布自3月1日起调涨铜箔基板（CCL）、黏合胶片等印刷电路板（PCB）材料售价"
       },
-      "created_at": "2026-02-24T04:14:46.042612"
+      "created_at": "2026-02-25T04:16:49.616901"
     },
     {
       "platform": "cls",
@@ -869,8 +707,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
+      "is_new": false,
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 577605,
         "calendar_time": "2026-03-01 00:00:00",
@@ -886,7 +724,43 @@
         "holiday": null,
         "title": "云计算服务商优刻得发布涨价公告，决定自3月1日起对续签及新签用户的全线产品与服务进行价格上浮调整"
       },
-      "created_at": "2026-02-24T04:14:46.042626"
+      "created_at": "2026-02-25T04:16:49.616912"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_575359_20260301_2",
+      "original_id": "575359",
+      "event_date": "2026-03-01",
+      "event_time": "08:00:00",
+      "event_datetime": "2026-03-01 08:00:00",
+      "title": "八个欧佩克+产油国就产油政策举行月度会议",
+      "content": null,
+      "category": "事件公告",
+      "importance": 3,
+      "country": "奥地利",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-02-25",
+      "raw_data": {
+        "id": 575359,
+        "calendar_time": "2026-03-01 08:00:00",
+        "data_id": 21393,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "八个欧佩克+产油国就产油政策举行月度会议",
+          "country": "奥地利",
+          "country_icon": "",
+          "star": 3
+        },
+        "holiday": null,
+        "title": "八个欧佩克+产油国就产油政策举行月度会议"
+      },
+      "created_at": "2026-02-25T04:16:49.616922"
     },
     {
       "platform": "cls",
@@ -905,8 +779,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
+      "is_new": false,
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 577590,
         "calendar_time": "2026-03-02 00:00:00",
@@ -922,7 +796,7 @@
         "holiday": null,
         "title": "江西铜业收购索尔黄金方案将于3月2日经英国法院进行裁决庭审"
       },
-      "created_at": "2026-02-24T04:14:46.042636"
+      "created_at": "2026-02-25T04:16:49.616933"
     },
     {
       "platform": "cls",
@@ -941,8 +815,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
+      "is_new": false,
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 577607,
         "calendar_time": "2026-03-02 00:00:00",
@@ -958,7 +832,7 @@
         "holiday": null,
         "title": "芝加哥商品交易所（CME）计划于3月2日推出四款南亚食用油期货合约"
       },
-      "created_at": "2026-02-24T04:14:46.042646"
+      "created_at": "2026-02-25T04:16:49.616943"
     },
     {
       "platform": "cls",
@@ -977,8 +851,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
+      "is_new": false,
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 530004,
         "calendar_time": "2026-03-02 23:00:00",
@@ -1003,7 +877,7 @@
         "holiday": null,
         "title": "美国2月ISM制造业PMI"
       },
-      "created_at": "2026-02-24T04:14:46.042656"
+      "created_at": "2026-02-25T04:16:49.616954"
     },
     {
       "platform": "cls",
@@ -1022,8 +896,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
+      "is_new": false,
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 532897,
         "calendar_time": "2026-03-03 18:00:00",
@@ -1048,7 +922,79 @@
         "holiday": null,
         "title": "欧元区2月CPI年率初值"
       },
-      "created_at": "2026-02-24T04:14:46.042666"
+      "created_at": "2026-02-25T04:16:49.616964"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_577793_20260304_2",
+      "original_id": "577793",
+      "event_date": "2026-03-04",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-03-04 00:00:00",
+      "title": "全国政协十四届四次会议将于3月4日在北京召开",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-02-25",
+      "raw_data": {
+        "id": 577793,
+        "calendar_time": "2026-03-04 00:00:00",
+        "data_id": 21425,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "全国政协十四届四次会议将于3月4日在北京召开",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "全国政协十四届四次会议将于3月4日在北京召开"
+      },
+      "created_at": "2026-02-25T04:16:49.616975"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_577802_20260304_2",
+      "original_id": "577802",
+      "event_date": "2026-03-04",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-03-04 00:00:00",
+      "title": "苹果将于3月4日举行春季发布会",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-02-25",
+      "raw_data": {
+        "id": 577802,
+        "calendar_time": "2026-03-04 00:00:00",
+        "data_id": 21426,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "苹果将于3月4日举行春季发布会",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "苹果将于3月4日举行春季发布会"
+      },
+      "created_at": "2026-02-25T04:16:49.616985"
     },
     {
       "platform": "cls",
@@ -1067,8 +1013,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
+      "is_new": false,
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 534413,
         "calendar_time": "2026-03-04 21:15:00",
@@ -1093,7 +1039,7 @@
         "holiday": null,
         "title": "美国2月ADP就业人数(万人)"
       },
-      "created_at": "2026-02-24T04:14:46.042687"
+      "created_at": "2026-02-25T04:16:49.616995"
     },
     {
       "platform": "cls",
@@ -1112,8 +1058,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
+      "is_new": false,
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 534405,
         "calendar_time": "2026-03-04 23:30:00",
@@ -1138,7 +1084,43 @@
         "holiday": null,
         "title": "美国至2月27日当周EIA原油库存(万桶)"
       },
-      "created_at": "2026-02-24T04:14:46.042698"
+      "created_at": "2026-02-25T04:16:49.617005"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_577791_20260305_2",
+      "original_id": "577791",
+      "event_date": "2026-03-05",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-03-05 00:00:00",
+      "title": "十四届全国人大四次会议将于3月5日在北京召开",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-02-25",
+      "raw_data": {
+        "id": 577791,
+        "calendar_time": "2026-03-05 00:00:00",
+        "data_id": 21424,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "十四届全国人大四次会议将于3月5日在北京召开",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "十四届全国人大四次会议将于3月5日在北京召开"
+      },
+      "created_at": "2026-02-25T04:16:49.617015"
     },
     {
       "platform": "cls",
@@ -1157,8 +1139,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
+      "is_new": false,
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 536053,
         "calendar_time": "2026-03-05 21:30:00",
@@ -1183,7 +1165,7 @@
         "holiday": null,
         "title": "美国至2月28日当周初请失业金人数(万人)"
       },
-      "created_at": "2026-02-24T04:14:46.042708"
+      "created_at": "2026-02-25T04:16:49.617025"
     },
     {
       "platform": "cls",
@@ -1202,8 +1184,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
+      "is_new": false,
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 577597,
         "calendar_time": "2026-03-06 00:00:00",
@@ -1219,7 +1201,7 @@
         "holiday": null,
         "title": "恒生指数系列调整，将于3月6日收市后实施"
       },
-      "created_at": "2026-02-24T04:14:46.042718"
+      "created_at": "2026-02-25T04:16:49.617036"
     },
     {
       "platform": "cls",
@@ -1238,8 +1220,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
+      "is_new": false,
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 537775,
         "calendar_time": "2026-03-06 21:30:00",
@@ -1264,7 +1246,7 @@
         "holiday": null,
         "title": "美国2月失业率"
       },
-      "created_at": "2026-02-24T04:14:46.042728"
+      "created_at": "2026-02-25T04:16:49.617045"
     },
     {
       "platform": "cls",
@@ -1283,8 +1265,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
+      "is_new": false,
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 537792,
         "calendar_time": "2026-03-06 21:30:00",
@@ -1309,7 +1291,7 @@
         "holiday": null,
         "title": "美国2月季调后非农就业人口(万人)"
       },
-      "created_at": "2026-02-24T04:14:46.042737"
+      "created_at": "2026-02-25T04:16:49.617055"
     },
     {
       "platform": "cls",
@@ -1328,8 +1310,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
+      "is_new": false,
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 545227,
         "calendar_time": "2026-03-09 17:30:00",
@@ -1354,7 +1336,79 @@
         "holiday": null,
         "title": "欧元区3月Sentix投资者信心指数"
       },
-      "created_at": "2026-02-24T04:14:46.042747"
+      "created_at": "2026-02-25T04:16:49.617065"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_549665_20260311_2",
+      "original_id": "549665",
+      "event_date": "2026-03-11",
+      "event_time": "08:00:00",
+      "event_datetime": "2026-03-11 08:00:00",
+      "title": "EIA公布月度短期能源展望报告",
+      "content": null,
+      "category": "事件公告",
+      "importance": 3,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-02-25",
+      "raw_data": {
+        "id": 549665,
+        "calendar_time": "2026-03-11 08:00:00",
+        "data_id": 21263,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "EIA公布月度短期能源展望报告",
+          "country": "美国",
+          "country_icon": "",
+          "star": 3
+        },
+        "holiday": null,
+        "title": "EIA公布月度短期能源展望报告"
+      },
+      "created_at": "2026-02-25T04:16:49.617076"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_549666_20260311_2",
+      "original_id": "549666",
+      "event_date": "2026-03-11",
+      "event_time": "08:00:00",
+      "event_datetime": "2026-03-11 08:00:00",
+      "title": "欧佩克公布月度原油市场报告",
+      "content": null,
+      "category": "事件公告",
+      "importance": 3,
+      "country": "奥地利",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-02-25",
+      "raw_data": {
+        "id": 549666,
+        "calendar_time": "2026-03-11 08:00:00",
+        "data_id": 21264,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "欧佩克公布月度原油市场报告",
+          "country": "奥地利",
+          "country_icon": "",
+          "star": 3
+        },
+        "holiday": null,
+        "title": "欧佩克公布月度原油市场报告"
+      },
+      "created_at": "2026-02-25T04:16:49.617086"
     },
     {
       "platform": "cls",
@@ -1373,8 +1427,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
+      "is_new": false,
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 549622,
         "calendar_time": "2026-03-11 20:30:00",
@@ -1399,7 +1453,7 @@
         "holiday": null,
         "title": "美国2月未季调CPI年率"
       },
-      "created_at": "2026-02-24T04:14:46.042757"
+      "created_at": "2026-02-25T04:16:49.617096"
     },
     {
       "platform": "cls",
@@ -1418,8 +1472,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
+      "is_new": false,
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 549624,
         "calendar_time": "2026-03-11 20:30:00",
@@ -1444,7 +1498,7 @@
         "holiday": null,
         "title": "美国2月季调后CPI月率"
       },
-      "created_at": "2026-02-24T04:14:46.042767"
+      "created_at": "2026-02-25T04:16:49.617106"
     },
     {
       "platform": "cls",
@@ -1463,8 +1517,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
+      "is_new": false,
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 549635,
         "calendar_time": "2026-03-11 22:30:00",
@@ -1489,7 +1543,43 @@
         "holiday": null,
         "title": "美国至3月6日当周EIA原油库存(万桶)"
       },
-      "created_at": "2026-02-24T04:14:46.042779"
+      "created_at": "2026-02-25T04:16:49.617116"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_579805_20260312_2",
+      "original_id": "579805",
+      "event_date": "2026-03-12",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-03-12 00:00:00",
+      "title": "中国家电及消费电子博览会将于3月12日至15日在上海举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-02-25",
+      "raw_data": {
+        "id": 579805,
+        "calendar_time": "2026-03-12 00:00:00",
+        "data_id": 21448,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "中国家电及消费电子博览会将于3月12日至15日在上海举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "中国家电及消费电子博览会将于3月12日至15日在上海举办"
+      },
+      "created_at": "2026-02-25T04:16:49.617126"
     },
     {
       "platform": "cls",
@@ -1508,8 +1598,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
+      "is_new": false,
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 551327,
         "calendar_time": "2026-03-12 20:30:00",
@@ -1534,7 +1624,7 @@
         "holiday": null,
         "title": "美国至3月7日当周初请失业金人数(万人)"
       },
-      "created_at": "2026-02-24T04:14:46.042789"
+      "created_at": "2026-02-25T04:16:49.617136"
     },
     {
       "platform": "cls",
@@ -1553,8 +1643,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
+      "is_new": false,
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 552975,
         "calendar_time": "2026-03-13 15:45:00",
@@ -1579,7 +1669,7 @@
         "holiday": null,
         "title": "法国2月CPI月率终值"
       },
-      "created_at": "2026-02-24T04:14:46.042799"
+      "created_at": "2026-02-25T04:16:49.617146"
     },
     {
       "platform": "cls",
@@ -1598,8 +1688,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
+      "is_new": false,
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 577595,
         "calendar_time": "2026-03-15 00:00:00",
@@ -1615,7 +1705,7 @@
         "holiday": null,
         "title": "GTC 2026大会的主题演讲将于3月15日在加利福尼亚州圣何塞举行"
       },
-      "created_at": "2026-02-24T04:14:46.042809"
+      "created_at": "2026-02-25T04:16:49.617157"
     },
     {
       "platform": "cls",
@@ -1634,8 +1724,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
+      "is_new": false,
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 559224,
         "calendar_time": "2026-03-16 18:00:00",
@@ -1651,7 +1741,7 @@
         "holiday": null,
         "title": "国新办就国民经济运行情况举行新闻发布会"
       },
-      "created_at": "2026-02-24T04:14:46.042819"
+      "created_at": "2026-02-25T04:16:49.617167"
     },
     {
       "platform": "cls",
@@ -1670,8 +1760,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
+      "is_new": false,
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 559191,
         "calendar_time": "2026-03-16 20:30:00",
@@ -1696,7 +1786,133 @@
         "holiday": null,
         "title": "美国2月零售销售月率"
       },
-      "created_at": "2026-02-24T04:14:46.042831"
+      "created_at": "2026-02-25T04:16:49.617177"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_579848_20260317_2",
+      "original_id": "579848",
+      "event_date": "2026-03-17",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-03-17 00:00:00",
+      "title": "2026第二届商业航天产业发展大会暨2026商业航天展将于3月17日至18日在深圳举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-02-25",
+      "raw_data": {
+        "id": 579848,
+        "calendar_time": "2026-03-17 00:00:00",
+        "data_id": 21449,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "2026第二届商业航天产业发展大会暨2026商业航天展将于3月17日至18日在深圳举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "2026第二届商业航天产业发展大会暨2026商业航天展将于3月17日至18日在深圳举办"
+      },
+      "created_at": "2026-02-25T04:16:49.617188"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_560654_20260317_1",
+      "original_id": "560654",
+      "event_date": "2026-03-17",
+      "event_time": "20:30:00",
+      "event_datetime": "2026-03-17 20:30:00",
+      "title": "美国2月新屋开工总数年化(万户)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 3,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-02-25",
+      "raw_data": {
+        "id": 560654,
+        "calendar_time": "2026-03-17 20:30:00",
+        "data_id": 60200,
+        "type": 1,
+        "economic": {
+          "title": "美国2月新屋开工总数年化(万户)",
+          "country": "美国",
+          "country_icon": "",
+          "star": 3,
+          "indicator_id": 173,
+          "front": "0",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "万户",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "美国2月新屋开工总数年化(万户)"
+      },
+      "created_at": "2026-02-25T04:16:49.617198"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_562120_20260318_1",
+      "original_id": "562120",
+      "event_date": "2026-03-18",
+      "event_time": "22:30:00",
+      "event_datetime": "2026-03-18 22:30:00",
+      "title": "美国至3月13日当周EIA原油库存(万桶)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-02-25",
+      "raw_data": {
+        "id": 562120,
+        "calendar_time": "2026-03-18 22:30:00",
+        "data_id": 60221,
+        "type": 1,
+        "economic": {
+          "title": "美国至3月13日当周EIA原油库存(万桶)",
+          "country": "美国",
+          "country_icon": "",
+          "star": 4,
+          "indicator_id": 111,
+          "front": "0",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "万桶",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "美国至3月13日当周EIA原油库存(万桶)"
+      },
+      "created_at": "2026-02-25T04:16:49.617209"
     },
     {
       "platform": "cls",
@@ -1715,8 +1931,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
+      "is_new": false,
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 577603,
         "calendar_time": "2026-03-19 00:00:00",
@@ -1732,7 +1948,358 @@
         "holiday": null,
         "title": "华为中国合作伙伴大会2026将于3月19日至20日举办"
       },
-      "created_at": "2026-02-24T04:14:46.042841"
+      "created_at": "2026-02-25T04:16:49.617219"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_563613_20260319_1",
+      "original_id": "563613",
+      "event_date": "2026-03-19",
+      "event_time": "02:00:00",
+      "event_datetime": "2026-03-19 02:00:00",
+      "title": "美国至3月18日美联储利率决定(上限)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 5,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-02-25",
+      "raw_data": {
+        "id": 563613,
+        "calendar_time": "2026-03-19 02:00:00",
+        "data_id": 60271,
+        "type": 1,
+        "economic": {
+          "title": "美国至3月18日美联储利率决定(上限)",
+          "country": "美国",
+          "country_icon": "",
+          "star": 5,
+          "indicator_id": 77,
+          "front": "--",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "%",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "美国至3月18日美联储利率决定(上限)"
+      },
+      "created_at": "2026-02-25T04:16:49.617230"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_563627_20260319_1",
+      "original_id": "563627",
+      "event_date": "2026-03-19",
+      "event_time": "20:00:00",
+      "event_datetime": "2026-03-19 20:00:00",
+      "title": "英国至3月19日央行利率决定",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "英国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-02-25",
+      "raw_data": {
+        "id": 563627,
+        "calendar_time": "2026-03-19 20:00:00",
+        "data_id": 60269,
+        "type": 1,
+        "economic": {
+          "title": "英国至3月19日央行利率决定",
+          "country": "英国",
+          "country_icon": "",
+          "star": 4,
+          "indicator_id": 638,
+          "front": "--",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "%",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "英国至3月19日央行利率决定"
+      },
+      "created_at": "2026-02-25T04:16:49.617240"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_563628_20260319_1",
+      "original_id": "563628",
+      "event_date": "2026-03-19",
+      "event_time": "20:30:00",
+      "event_datetime": "2026-03-19 20:30:00",
+      "title": "美国至3月14日当周初请失业金人数(万人)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-02-25",
+      "raw_data": {
+        "id": 563628,
+        "calendar_time": "2026-03-19 20:30:00",
+        "data_id": 60285,
+        "type": 1,
+        "economic": {
+          "title": "美国至3月14日当周初请失业金人数(万人)",
+          "country": "美国",
+          "country_icon": "",
+          "star": 4,
+          "indicator_id": 79,
+          "front": "0",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "万人",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "美国至3月14日当周初请失业金人数(万人)"
+      },
+      "created_at": "2026-02-25T04:16:49.617250"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_565088_20260320_1",
+      "original_id": "565088",
+      "event_date": "2026-03-20",
+      "event_time": "09:00:00",
+      "event_datetime": "2026-03-20 09:00:00",
+      "title": "中国至3月20日一年期贷款市场报价利率",
+      "content": null,
+      "category": "经济数据",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-02-25",
+      "raw_data": {
+        "id": 565088,
+        "calendar_time": "2026-03-20 09:00:00",
+        "data_id": 60291,
+        "type": 1,
+        "economic": {
+          "title": "中国至3月20日一年期贷款市场报价利率",
+          "country": "中国",
+          "country_icon": "",
+          "star": 3,
+          "indicator_id": 1417,
+          "front": "--",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "%",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "中国至3月20日一年期贷款市场报价利率"
+      },
+      "created_at": "2026-02-25T04:16:49.617261"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_565101_20260320_1",
+      "original_id": "565101",
+      "event_date": "2026-03-20",
+      "event_time": "09:00:00",
+      "event_datetime": "2026-03-20 09:00:00",
+      "title": "中国至3月20日五年期贷款市场报价利率",
+      "content": null,
+      "category": "经济数据",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-02-25",
+      "raw_data": {
+        "id": 565101,
+        "calendar_time": "2026-03-20 09:00:00",
+        "data_id": 60303,
+        "type": 1,
+        "economic": {
+          "title": "中国至3月20日五年期贷款市场报价利率",
+          "country": "中国",
+          "country_icon": "",
+          "star": 2,
+          "indicator_id": 1416,
+          "front": "--",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "%",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "中国至3月20日五年期贷款市场报价利率"
+      },
+      "created_at": "2026-02-25T04:16:49.617271"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_572501_20260323_1",
+      "original_id": "572501",
+      "event_date": "2026-03-23",
+      "event_time": "20:00:00",
+      "event_datetime": "2026-03-23 20:00:00",
+      "title": "加拿大至3月20日全国经济信心指数",
+      "content": null,
+      "category": "经济数据",
+      "importance": 2,
+      "country": "加拿大",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-02-25",
+      "raw_data": {
+        "id": 572501,
+        "calendar_time": "2026-03-23 20:00:00",
+        "data_id": 60359,
+        "type": 1,
+        "economic": {
+          "title": "加拿大至3月20日全国经济信心指数",
+          "country": "加拿大",
+          "country_icon": "",
+          "star": 2,
+          "indicator_id": 935,
+          "front": "0",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "加拿大至3月20日全国经济信心指数"
+      },
+      "created_at": "2026-02-25T04:16:49.617281"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_579857_20260324_2",
+      "original_id": "579857",
+      "event_date": "2026-03-24",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-03-24 00:00:00",
+      "title": "博鳌亚洲论坛2026年年会将于3月24日至27日举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-02-25",
+      "raw_data": {
+        "id": 579857,
+        "calendar_time": "2026-03-24 00:00:00",
+        "data_id": 21450,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "博鳌亚洲论坛2026年年会将于3月24日至27日举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "博鳌亚洲论坛2026年年会将于3月24日至27日举办"
+      },
+      "created_at": "2026-02-25T04:16:49.617291"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_573968_20260324_1",
+      "original_id": "573968",
+      "event_date": "2026-03-24",
+      "event_time": "07:30:00",
+      "event_datetime": "2026-03-24 07:30:00",
+      "title": "日本2月核心CPI年率",
+      "content": null,
+      "category": "经济数据",
+      "importance": 3,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-02-25",
+      "raw_data": {
+        "id": 573968,
+        "calendar_time": "2026-03-24 07:30:00",
+        "data_id": 60381,
+        "type": 1,
+        "economic": {
+          "title": "日本2月核心CPI年率",
+          "country": "日本",
+          "country_icon": "",
+          "star": 3,
+          "indicator_id": 275,
+          "front": "--",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "%",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "日本2月核心CPI年率"
+      },
+      "created_at": "2026-02-25T04:16:49.617301"
     },
     {
       "platform": "cls",
@@ -1751,8 +2318,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
+      "is_new": false,
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 577609,
         "calendar_time": "2026-03-25 00:00:00",
@@ -1768,7 +2335,7 @@
         "holiday": null,
         "title": "中国五矿化工进出口商会2月12日发布通知，将于3月25日举办稀土和稀有金属出口政策及形势说明会"
       },
-      "created_at": "2026-02-24T04:14:46.042851"
+      "created_at": "2026-02-25T04:16:49.617311"
     },
     {
       "platform": "cls",
@@ -1787,8 +2354,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
+      "is_new": false,
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 575489,
         "calendar_time": "2026-03-25 15:50:00",
@@ -1804,7 +2371,7 @@
         "holiday": null,
         "title": "日本央行公布1月货币政策会议纪要"
       },
-      "created_at": "2026-02-24T04:14:46.042861"
+      "created_at": "2026-02-25T04:16:49.617321"
     },
     {
       "platform": "cls",
@@ -1823,8 +2390,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
+      "is_new": false,
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 575486,
         "calendar_time": "2026-03-25 17:20:00",
@@ -1840,7 +2407,97 @@
         "holiday": null,
         "title": "今日有4500亿元1年期中期借贷便利（MLF）到期"
       },
-      "created_at": "2026-02-24T04:14:46.042873"
+      "created_at": "2026-02-25T04:16:49.617331"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_575444_20260325_1",
+      "original_id": "575444",
+      "event_date": "2026-03-25",
+      "event_time": "22:30:00",
+      "event_datetime": "2026-03-25 22:30:00",
+      "title": "美国至3月20日当周EIA原油库存(万桶)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-02-25",
+      "raw_data": {
+        "id": 575444,
+        "calendar_time": "2026-03-25 22:30:00",
+        "data_id": 60408,
+        "type": 1,
+        "economic": {
+          "title": "美国至3月20日当周EIA原油库存(万桶)",
+          "country": "美国",
+          "country_icon": "",
+          "star": 4,
+          "indicator_id": 111,
+          "front": "0",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "万桶",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "美国至3月20日当周EIA原油库存(万桶)"
+      },
+      "created_at": "2026-02-25T04:16:49.617341"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_576935_20260326_1",
+      "original_id": "576935",
+      "event_date": "2026-03-26",
+      "event_time": "20:30:00",
+      "event_datetime": "2026-03-26 20:30:00",
+      "title": "美国至3月21日当周初请失业金人数(万人)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-02-25",
+      "raw_data": {
+        "id": 576935,
+        "calendar_time": "2026-03-26 20:30:00",
+        "data_id": 60441,
+        "type": 1,
+        "economic": {
+          "title": "美国至3月21日当周初请失业金人数(万人)",
+          "country": "美国",
+          "country_icon": "",
+          "star": 4,
+          "indicator_id": 79,
+          "front": "0",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "万人",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "美国至3月21日当周初请失业金人数(万人)"
+      },
+      "created_at": "2026-02-25T04:16:49.617352"
     },
     {
       "platform": "cls",
@@ -1859,8 +2516,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-24",
+      "is_new": false,
+      "discovery_date": "2026-02-25",
       "raw_data": {
         "id": 577599,
         "calendar_time": "2026-03-27 00:00:00",
@@ -1876,7 +2533,7 @@
         "holiday": null,
         "title": "2026全球开发者先锋大会将于3月27日至29日在沪举行"
       },
-      "created_at": "2026-02-24T04:14:46.042884"
+      "created_at": "2026-02-25T04:16:49.617362"
     }
   ]
 }
