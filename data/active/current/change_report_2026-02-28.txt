@@ -1,0 +1,59 @@
+{
+  "detection_time": "2026-02-28T03:50:40.224465",
+  "summary": {
+    "total_new": 2,
+    "total_updated": 1,
+    "total_cancelled": 1
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 2,
+      "updated_events": 1,
+      "cancelled_events": 1,
+      "sample_new_titles": [
+        "阿里千问将在2026年世界移动通信大会（MWC）上发布AI眼镜，并于3月2日开启线上线下全渠道预约",
+        "央行决定自3月2日起，将远期售汇业务的外汇风险准备金率从20%下调至0"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "investing": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "eastmoney": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2026-03-02",
+      "title": "阿里千问将在2026年世界移动通信大会（MWC）上发布AI眼镜，并于3月2日开启线上线下全渠道预约",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-03-02",
+      "title": "央行决定自3月2日起，将远期售汇业务的外汇风险准备金率从20%下调至0",
+      "importance": 5,
+      "country": "中国"
+    }
+  ]
+}
