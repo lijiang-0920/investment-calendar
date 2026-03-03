@@ -1,0 +1,116 @@
+{
+  "detection_time": "2026-03-03T04:11:30.285133",
+  "summary": {
+    "total_new": 24,
+    "total_updated": 0,
+    "total_cancelled": 0
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 24,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "苹果推出搭载M4处理器的全新iPad Air，售价起价为599美元，预购将于3月4日开始",
+        "鸿蒙智行技术焕新发布会将于3月4日举办",
+        "十四届全国人大四次会议新闻发布会将于3月4日举行"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "investing": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "eastmoney": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2026-03-04",
+      "title": "苹果推出搭载M4处理器的全新iPad Air，售价起价为599美元，预购将于3月4日开始",
+      "importance": 5,
+      "country": "美国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-03-04",
+      "title": "鸿蒙智行技术焕新发布会将于3月4日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-03-04",
+      "title": "十四届全国人大四次会议新闻发布会将于3月4日举行",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-03-04",
+      "title": "今日有4095亿元7天期逆回购到期",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-03-05",
+      "title": "比亚迪：将于3月5日召开颠覆性技术发布会",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-03-05",
+      "title": "太阳纸业、五洲特纸均计划自3月5日起，对旗下白牛皮纸产品价格在目前执行价格基础上，统一提价300元/吨",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-03-05",
+      "title": "3月5日，京东、哔哩哔哩及芯片巨头博通将发布财报并举行电话会",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-03-25",
+      "title": "第十六届中国国际清洁能源博览会（CEEC 2026）将于3月25日至27日在北京举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-03-25",
+      "title": "第十一届钙钛矿与叠层电池（长三角）产业化论坛暨首届太空光伏技术与应用创新论坛将于3月25日至27日在无锡举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-03-25",
+      "title": "2026中国商用车论坛将于3月25日至27日举办",
+      "importance": 5,
+      "country": "中国"
+    }
+  ]
+}
