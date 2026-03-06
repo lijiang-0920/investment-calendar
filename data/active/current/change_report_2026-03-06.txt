@@ -1,0 +1,102 @@
+{
+  "detection_time": "2026-03-06T04:05:51.952184",
+  "summary": {
+    "total_new": 8,
+    "total_updated": 0,
+    "total_cancelled": 7
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 8,
+      "updated_events": 0,
+      "cancelled_events": 7,
+      "sample_new_titles": [
+        "十四届全国人大四次会议将于3月7日上午10时举行民生主题记者会",
+        "华峰超纤：拟从3月9日开始对超纤基布统一上调1-4元/米",
+        "国内成品油将开启新一轮调价窗口"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "investing": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "eastmoney": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2026-03-07",
+      "title": "十四届全国人大四次会议将于3月7日上午10时举行民生主题记者会",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-03-09",
+      "title": "华峰超纤：拟从3月9日开始对超纤基布统一上调1-4元/米",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-03-11",
+      "title": "美国2月未季调CPI年率",
+      "importance": 5,
+      "country": "美国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-03-09",
+      "title": "欧元区3月Sentix投资者信心指数",
+      "importance": 3,
+      "country": "欧元区"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-03-10",
+      "title": "美国2月成屋销售总数年化(万户)",
+      "importance": 3,
+      "country": "美国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-03-09",
+      "title": "国内成品油将开启新一轮调价窗口",
+      "importance": 2,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-03-10",
+      "title": "今日有343亿元7天期逆回购到期",
+      "importance": 2,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-03-11",
+      "title": "今日有405亿元7天期逆回购到期",
+      "importance": 2,
+      "country": "中国"
+    }
+  ]
+}
