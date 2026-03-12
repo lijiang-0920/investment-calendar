@@ -1,11 +1,11 @@
 {
   "collection_type": "ACTIVE",
-  "collection_time": "2026-03-11T04:06:17.353777",
+  "collection_time": "2026-03-12T04:10:03.884531",
   "platforms": {
     "cls": {
-      "event_count": 47,
+      "event_count": 79,
       "date_range": {
-        "start": "2026-03-11",
+        "start": "2026-03-12",
         "end": "2026-05-01"
       }
     },
@@ -31,16 +31,16 @@
       }
     },
     "eastmoney": {
-      "event_count": 0,
+      "event_count": 1,
       "date_range": {
-        "start": null,
-        "end": null
+        "start": "2025-10-13",
+        "end": "2025-10-13"
       }
     }
   },
-  "total_events": 47,
+  "total_events": 80,
   "date_range": {
-    "start": "2026-03-11",
+    "start": "2025-10-13",
     "end": "2026-05-01"
   }
 }
