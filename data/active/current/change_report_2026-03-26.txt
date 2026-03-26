@@ -1,0 +1,109 @@
+{
+  "detection_time": "2026-03-26T04:30:27.376283",
+  "summary": {
+    "total_new": 9,
+    "total_updated": 1,
+    "total_cancelled": 1
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 9,
+      "updated_events": 1,
+      "cancelled_events": 1,
+      "sample_new_titles": [
+        "国新办3月26日举行新闻发布会，介绍加快建立长期护理保险制度有关情况",
+        "2026中国科幻大会将于3月27日至29日在北京举办",
+        "国家统计局将于3月27日发布工业经济效益月度报告"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "investing": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "eastmoney": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2026-03-26",
+      "title": "国新办3月26日举行新闻发布会，介绍加快建立长期护理保险制度有关情况",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-03-27",
+      "title": "2026中国科幻大会将于3月27日至29日在北京举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-03-27",
+      "title": "国家统计局将于3月27日发布工业经济效益月度报告",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-03-27",
+      "title": "昆仑万维旗下天工AI将于3月27日举办世界模型前沿技术与天工AIGC全家桶大模型生态专场发布会，携Matrix-Game 3.0、SkyReels V4、Mureka V9三大核心模型亮相",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-03-30",
+      "title": "耀才证券金融公告：蚂蚁集团发起的要约收购已通过中国有关部门审批，预计将于3月30日完成交割",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-03-30",
+      "title": "第三十四届上海国际酒店及餐饮业博览会将于3月30日至4月2日在上海举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-05",
+      "title": "春秋航空：国内航线燃油附加费4月5日上涨",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-03-27",
+      "title": "今日有205亿元7天期逆回购到期",
+      "importance": 2,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-03-30",
+      "title": "今日有80亿元7天期逆回购到期",
+      "importance": 2,
+      "country": "中国"
+    }
+  ]
+}
