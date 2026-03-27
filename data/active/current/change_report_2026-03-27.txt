@@ -1,0 +1,116 @@
+{
+  "detection_time": "2026-03-27T04:31:13.816724",
+  "summary": {
+    "total_new": 12,
+    "total_updated": 1,
+    "total_cancelled": 1
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 12,
+      "updated_events": 1,
+      "cancelled_events": 1,
+      "sample_new_titles": [
+        "今日有80亿元7天期逆回购到期",
+        "国新办将于3月30日就第六届中国国际消费品博览会有关情况举行新闻发布会",
+        "自4月1日起，光伏等产品的增值税出口退税将被取消"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "investing": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "eastmoney": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2026-03-30",
+      "title": "国新办将于3月30日就第六届中国国际消费品博览会有关情况举行新闻发布会",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-01",
+      "title": "自4月1日起，光伏等产品的增值税出口退税将被取消",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-01",
+      "title": "被动元器件大厂村田已提出涨价，针对AI服务器和高端车规级MLCC产品启动全面涨价，涨幅在15%-35%之间，新价格体系将于4月1日生效",
+      "importance": 5,
+      "country": "日本"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-09",
+      "title": "中欧合作“微笑卫星”完成发射场最后准备，计划4月9日发射",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-09",
+      "title": "2026第三届AI算力产业大会暨展览会将于4月9日至11日在深圳举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-19",
+      "title": "2026北京亦庄半程马拉松暨人形机器人半程马拉松将于4月19日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-21",
+      "title": "第十四届中国数控机床展览会将于4月21日至25日在上海举行",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-29",
+      "title": "第九届数字中国建设峰会将于4月29日至4月30日在福建举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-09",
+      "title": "美联储公布货币政策会议纪要",
+      "importance": 4,
+      "country": "美国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-21",
+      "title": "国内成品油将开启新一轮调价窗口",
+      "importance": 3,
+      "country": "中国"
+    }
+  ]
+}
