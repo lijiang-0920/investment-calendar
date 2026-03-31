@@ -1,335 +1,11 @@
 {
   "platform": "cls",
-  "total_events": 33,
+  "total_events": 35,
   "data_status": "ACTIVE",
   "date_type": "FUTURE",
-  "last_updated": "2026-03-30T04:42:00.698384",
+  "last_updated": "2026-03-31T04:33:22.769433",
   "immutable": false,
   "events": [
-    {
-      "platform": "cls",
-      "event_id": "cls_593515_20260330_2",
-      "original_id": "593515",
-      "event_date": "2026-03-30",
-      "event_time": "00:00:00",
-      "event_datetime": "2026-03-30 00:00:00",
-      "title": "上交所对《上海证券交易所基金业务指南第2号——上市基金做市业务》进行了修订，并自3月30日起实施",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-03-29",
-      "raw_data": {
-        "id": 593515,
-        "calendar_time": "2026-03-30 00:00:00",
-        "data_id": 21546,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "上交所对《上海证券交易所基金业务指南第2号——上市基金做市业务》进行了修订，并自3月30日起实施",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "上交所对《上海证券交易所基金业务指南第2号——上市基金做市业务》进行了修订，并自3月30日起实施"
-      },
-      "created_at": "2026-03-29T04:34:42.094014"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_593516_20260330_2",
-      "original_id": "593516",
-      "event_date": "2026-03-30",
-      "event_time": "00:00:00",
-      "event_datetime": "2026-03-30 00:00:00",
-      "title": "修订后的《殡葬管理条例》自3月30日起施行",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-03-29",
-      "raw_data": {
-        "id": 593516,
-        "calendar_time": "2026-03-30 00:00:00",
-        "data_id": 21547,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "修订后的《殡葬管理条例》自3月30日起施行",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "修订后的《殡葬管理条例》自3月30日起施行"
-      },
-      "created_at": "2026-03-29T04:34:42.094037"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_637665_20260330_2",
-      "original_id": "637665",
-      "event_date": "2026-03-30",
-      "event_time": "00:00:00",
-      "event_datetime": "2026-03-30 00:00:00",
-      "title": "耀才证券金融公告：蚂蚁集团发起的要约收购已通过中国有关部门审批，预计将于3月30日完成交割",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-03-29",
-      "raw_data": {
-        "id": 637665,
-        "calendar_time": "2026-03-30 00:00:00",
-        "data_id": 21859,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "耀才证券金融公告：蚂蚁集团发起的要约收购已通过中国有关部门审批，预计将于3月30日完成交割",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "耀才证券金融公告：蚂蚁集团发起的要约收购已通过中国有关部门审批，预计将于3月30日完成交割"
-      },
-      "created_at": "2026-03-29T04:34:42.094048"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_637668_20260330_2",
-      "original_id": "637668",
-      "event_date": "2026-03-30",
-      "event_time": "00:00:00",
-      "event_datetime": "2026-03-30 00:00:00",
-      "title": "第三十四届上海国际酒店及餐饮业博览会将于3月30日至4月2日在上海举办",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-03-29",
-      "raw_data": {
-        "id": 637668,
-        "calendar_time": "2026-03-30 00:00:00",
-        "data_id": 21860,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "第三十四届上海国际酒店及餐饮业博览会将于3月30日至4月2日在上海举办",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "第三十四届上海国际酒店及餐饮业博览会将于3月30日至4月2日在上海举办"
-      },
-      "created_at": "2026-03-29T04:34:42.094059"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_640304_20260330_2",
-      "original_id": "640304",
-      "event_date": "2026-03-30",
-      "event_time": "00:00:00",
-      "event_datetime": "2026-03-30 00:00:00",
-      "title": "2026（第三届）数据要素融合与应用创新大会将于3月30日至31日在北京召开",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-03-29",
-      "raw_data": {
-        "id": 640304,
-        "calendar_time": "2026-03-30 00:00:00",
-        "data_id": 21878,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "2026（第三届）数据要素融合与应用创新大会将于3月30日至31日在北京召开",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "2026（第三届）数据要素融合与应用创新大会将于3月30日至31日在北京召开"
-      },
-      "created_at": "2026-03-29T04:34:42.094070"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_640312_20260330_2",
-      "original_id": "640312",
-      "event_date": "2026-03-30",
-      "event_time": "00:00:00",
-      "event_datetime": "2026-03-30 00:00:00",
-      "title": "2026 IEAE深圳消费类电子展将于3月30日至4月1日举办",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-03-29",
-      "raw_data": {
-        "id": 640312,
-        "calendar_time": "2026-03-30 00:00:00",
-        "data_id": 21879,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "2026 IEAE深圳消费类电子展将于3月30日至4月1日举办",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "2026 IEAE深圳消费类电子展将于3月30日至4月1日举办"
-      },
-      "created_at": "2026-03-29T04:34:42.094080"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_640318_20260330_2",
-      "original_id": "640318",
-      "event_date": "2026-03-30",
-      "event_time": "00:00:00",
-      "event_datetime": "2026-03-30 00:00:00",
-      "title": "2026年电力建设行业质量安全工作推进会暨全产业链创新展将于3月30日至4月1日举办",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-03-29",
-      "raw_data": {
-        "id": 640318,
-        "calendar_time": "2026-03-30 00:00:00",
-        "data_id": 21880,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "2026年电力建设行业质量安全工作推进会暨全产业链创新展将于3月30日至4月1日举办",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "2026年电力建设行业质量安全工作推进会暨全产业链创新展将于3月30日至4月1日举办"
-      },
-      "created_at": "2026-03-29T04:34:42.094090"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_640116_20260330_2",
-      "original_id": "640116",
-      "event_date": "2026-03-30",
-      "event_time": "09:20:00",
-      "event_datetime": "2026-03-30 09:20:00",
-      "title": "今日有80亿元7天期逆回购到期",
-      "content": null,
-      "category": "事件公告",
-      "importance": 2,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-03-29",
-      "raw_data": {
-        "id": 640116,
-        "calendar_time": "2026-03-30 09:20:00",
-        "data_id": 21877,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "今日有80亿元7天期逆回购到期",
-          "country": "中国",
-          "country_icon": "",
-          "star": 2
-        },
-        "holiday": null,
-        "title": "今日有80亿元7天期逆回购到期"
-      },
-      "created_at": "2026-03-29T04:34:42.094099"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_637890_20260330_2",
-      "original_id": "637890",
-      "event_date": "2026-03-30",
-      "event_time": "10:00:00",
-      "event_datetime": "2026-03-30 10:00:00",
-      "title": "国新办将于3月30日就第六届中国国际消费品博览会有关情况举行新闻发布会",
-      "content": null,
-      "category": "事件公告",
-      "importance": 5,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-03-29",
-      "raw_data": {
-        "id": 637890,
-        "calendar_time": "2026-03-30 10:00:00",
-        "data_id": 21870,
-        "type": 2,
-        "economic": null,
-        "event": {
-          "title": "国新办将于3月30日就第六届中国国际消费品博览会有关情况举行新闻发布会",
-          "country": "中国",
-          "country_icon": "",
-          "star": 5
-        },
-        "holiday": null,
-        "title": "国新办将于3月30日就第六届中国国际消费品博览会有关情况举行新闻发布会"
-      },
-      "created_at": "2026-03-29T04:34:42.094109"
-    },
     {
       "platform": "cls",
       "event_id": "cls_582453_20260331_2",
@@ -348,7 +24,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-03-29",
+      "discovery_date": "2026-03-30",
       "raw_data": {
         "id": 582453,
         "calendar_time": "2026-03-31 00:00:00",
@@ -364,7 +40,7 @@
         "holiday": null,
         "title": "2026年中国绿色经济年会将于3月31日在北京召开"
       },
-      "created_at": "2026-03-29T04:34:42.094123"
+      "created_at": "2026-03-30T04:42:02.404902"
     },
     {
       "platform": "cls",
@@ -384,7 +60,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-03-29",
+      "discovery_date": "2026-03-30",
       "raw_data": {
         "id": 593504,
         "calendar_time": "2026-03-31 00:00:00",
@@ -400,7 +76,7 @@
         "holiday": null,
         "title": "交易所规范ETF命名：3月31日起ETF必须包含基金管理人简称"
       },
-      "created_at": "2026-03-29T04:34:42.094133"
+      "created_at": "2026-03-30T04:42:02.404917"
     },
     {
       "platform": "cls",
@@ -420,7 +96,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-03-29",
+      "discovery_date": "2026-03-30",
       "raw_data": {
         "id": 593508,
         "calendar_time": "2026-03-31 00:00:00",
@@ -436,7 +112,7 @@
         "holiday": null,
         "title": "2026年中国绿色经济年会将于3月31日在北京召开"
       },
-      "created_at": "2026-03-29T04:34:42.094143"
+      "created_at": "2026-03-30T04:42:02.404929"
     },
     {
       "platform": "cls",
@@ -456,7 +132,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-03-29",
+      "discovery_date": "2026-03-30",
       "raw_data": {
         "id": 593510,
         "calendar_time": "2026-03-31 00:00:00",
@@ -472,7 +148,151 @@
         "holiday": null,
         "title": "《2026年版团队旅游合同（示范文本）》将于3月31日起在全国范围内推行使用"
       },
-      "created_at": "2026-03-29T04:34:42.094153"
+      "created_at": "2026-03-30T04:42:02.404941"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_647050_20260331_2",
+      "original_id": "647050",
+      "event_date": "2026-03-31",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-03-31 00:00:00",
+      "title": "第十四届储能国际峰会暨展览会将于3月31日至4月3日举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-03-30",
+      "raw_data": {
+        "id": 647050,
+        "calendar_time": "2026-03-31 00:00:00",
+        "data_id": 21911,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "第十四届储能国际峰会暨展览会将于3月31日至4月3日举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "第十四届储能国际峰会暨展览会将于3月31日至4月3日举办"
+      },
+      "created_at": "2026-03-30T04:42:02.404954"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_647055_20260331_2",
+      "original_id": "647055",
+      "event_date": "2026-03-31",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-03-31 00:00:00",
+      "title": "IAPS2026第十四届中国国际汽车动力系统峰会将于3月31日至4月1日在上海举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-03-30",
+      "raw_data": {
+        "id": 647055,
+        "calendar_time": "2026-03-31 00:00:00",
+        "data_id": 21912,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "IAPS2026第十四届中国国际汽车动力系统峰会将于3月31日至4月1日在上海举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "IAPS2026第十四届中国国际汽车动力系统峰会将于3月31日至4月1日在上海举办"
+      },
+      "created_at": "2026-03-30T04:42:02.404966"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_647061_20260331_2",
+      "original_id": "647061",
+      "event_date": "2026-03-31",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-03-31 00:00:00",
+      "title": "2026第十届中国医疗器械供应链生态大会暨展览会将于3月31日至4月2日举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-03-30",
+      "raw_data": {
+        "id": 647061,
+        "calendar_time": "2026-03-31 00:00:00",
+        "data_id": 21913,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "2026第十届中国医疗器械供应链生态大会暨展览会将于3月31日至4月2日举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "2026第十届中国医疗器械供应链生态大会暨展览会将于3月31日至4月2日举办"
+      },
+      "created_at": "2026-03-30T04:42:02.404978"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_634102_20260331_2",
+      "original_id": "634102",
+      "event_date": "2026-03-31",
+      "event_time": "17:20:00",
+      "event_datetime": "2026-03-31 17:20:00",
+      "title": "今日有175亿元7天期逆回购到期",
+      "content": null,
+      "category": "事件公告",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-03-30",
+      "raw_data": {
+        "id": 634102,
+        "calendar_time": "2026-03-31 17:20:00",
+        "data_id": 21840,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "今日有175亿元7天期逆回购到期",
+          "country": "中国",
+          "country_icon": "",
+          "star": 2
+        },
+        "holiday": null,
+        "title": "今日有175亿元7天期逆回购到期"
+      },
+      "created_at": "2026-03-30T04:42:02.404990"
     },
     {
       "platform": "cls",
@@ -492,7 +312,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-03-29",
+      "discovery_date": "2026-03-30",
       "raw_data": {
         "id": 610774,
         "calendar_time": "2026-04-01 00:00:00",
@@ -508,7 +328,7 @@
         "holiday": null,
         "title": "日本化工巨头三菱瓦斯化学株式会社（MGC）宣布自4月1日起，将其电子材料部门旗下的核心产品——覆铜板（CCL）、预浸料（Prepreg）及背胶铜箔（CRS）的价格统一上调30%"
       },
-      "created_at": "2026-03-29T04:34:42.094163"
+      "created_at": "2026-03-30T04:42:02.405003"
     },
     {
       "platform": "cls",
@@ -528,7 +348,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-03-29",
+      "discovery_date": "2026-03-30",
       "raw_data": {
         "id": 637827,
         "calendar_time": "2026-04-01 00:00:00",
@@ -544,7 +364,7 @@
         "holiday": null,
         "title": "自4月1日起，光伏等产品的增值税出口退税将被取消"
       },
-      "created_at": "2026-03-29T04:34:42.094172"
+      "created_at": "2026-03-30T04:42:02.405016"
     },
     {
       "platform": "cls",
@@ -564,7 +384,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-03-29",
+      "discovery_date": "2026-03-30",
       "raw_data": {
         "id": 637874,
         "calendar_time": "2026-04-01 00:00:00",
@@ -580,7 +400,7 @@
         "holiday": null,
         "title": "被动元器件大厂村田已提出涨价，针对AI服务器和高端车规级MLCC产品启动全面涨价，涨幅在15%-35%之间，新价格体系将于4月1日生效"
       },
-      "created_at": "2026-03-29T04:34:42.094182"
+      "created_at": "2026-03-30T04:42:02.405028"
     },
     {
       "platform": "cls",
@@ -600,7 +420,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-03-29",
+      "discovery_date": "2026-03-30",
       "raw_data": {
         "id": 637694,
         "calendar_time": "2026-04-05 00:00:00",
@@ -616,7 +436,7 @@
         "holiday": null,
         "title": "春秋航空：国内航线燃油附加费4月5日上涨"
       },
-      "created_at": "2026-03-29T04:34:42.094192"
+      "created_at": "2026-03-30T04:42:02.405041"
     },
     {
       "platform": "cls",
@@ -636,7 +456,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-03-29",
+      "discovery_date": "2026-03-30",
       "raw_data": {
         "id": 610781,
         "calendar_time": "2026-04-07 00:00:00",
@@ -652,7 +472,7 @@
         "holiday": null,
         "title": "证监会发布《关于短线交易监管的若干规定》，自4月7日起施行"
       },
-      "created_at": "2026-03-29T04:34:42.094202"
+      "created_at": "2026-03-30T04:42:02.405054"
     },
     {
       "platform": "cls",
@@ -672,7 +492,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-03-29",
+      "discovery_date": "2026-03-30",
       "raw_data": {
         "id": 602531,
         "calendar_time": "2026-04-07 08:00:00",
@@ -688,7 +508,7 @@
         "holiday": null,
         "title": "国内成品油将开启新一轮调价窗口"
       },
-      "created_at": "2026-03-29T04:34:42.094211"
+      "created_at": "2026-03-30T04:42:02.405066"
     },
     {
       "platform": "cls",
@@ -708,7 +528,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-03-29",
+      "discovery_date": "2026-03-30",
       "raw_data": {
         "id": 637812,
         "calendar_time": "2026-04-09 00:00:00",
@@ -724,7 +544,7 @@
         "holiday": null,
         "title": "中欧合作“微笑卫星”完成发射场最后准备，计划4月9日发射"
       },
-      "created_at": "2026-03-29T04:34:42.094222"
+      "created_at": "2026-03-30T04:42:02.405079"
     },
     {
       "platform": "cls",
@@ -744,7 +564,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-03-29",
+      "discovery_date": "2026-03-30",
       "raw_data": {
         "id": 637842,
         "calendar_time": "2026-04-09 00:00:00",
@@ -760,7 +580,43 @@
         "holiday": null,
         "title": "2026第三届AI算力产业大会暨展览会将于4月9日至11日在深圳举办"
       },
-      "created_at": "2026-03-29T04:34:42.094234"
+      "created_at": "2026-03-30T04:42:02.405091"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_647069_20260409_2",
+      "original_id": "647069",
+      "event_date": "2026-04-09",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-04-09 00:00:00",
+      "title": "2026第十四届深圳国际半导体产业及应用展览会将于4月9日至11日举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-03-30",
+      "raw_data": {
+        "id": 647069,
+        "calendar_time": "2026-04-09 00:00:00",
+        "data_id": 21914,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "2026第十四届深圳国际半导体产业及应用展览会将于4月9日至11日举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "2026第十四届深圳国际半导体产业及应用展览会将于4月9日至11日举办"
+      },
+      "created_at": "2026-03-30T04:42:02.405104"
     },
     {
       "platform": "cls",
@@ -780,7 +636,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-03-29",
+      "discovery_date": "2026-03-30",
       "raw_data": {
         "id": 605641,
         "calendar_time": "2026-04-09 10:00:00",
@@ -796,7 +652,7 @@
         "holiday": null,
         "title": "美联储公布货币政策会议纪要"
       },
-      "created_at": "2026-03-29T04:34:42.094243"
+      "created_at": "2026-03-30T04:42:02.405116"
     },
     {
       "platform": "cls",
@@ -816,7 +672,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-03-29",
+      "discovery_date": "2026-03-30",
       "raw_data": {
         "id": 635382,
         "calendar_time": "2026-04-11 00:00:00",
@@ -832,7 +688,7 @@
         "holiday": null,
         "title": "“苏超”将于4月11日开赛，历时6个多月、共有91场"
       },
-      "created_at": "2026-03-29T04:34:42.094253"
+      "created_at": "2026-03-30T04:42:02.405129"
     },
     {
       "platform": "cls",
@@ -852,7 +708,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-03-29",
+      "discovery_date": "2026-03-30",
       "raw_data": {
         "id": 610771,
         "calendar_time": "2026-04-12 00:00:00",
@@ -868,7 +724,7 @@
         "holiday": null,
         "title": "2026年湖北省城市足球联赛将于4月12日在黄石揭幕"
       },
-      "created_at": "2026-03-29T04:34:42.094263"
+      "created_at": "2026-03-30T04:42:02.405142"
     },
     {
       "platform": "cls",
@@ -888,7 +744,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-03-29",
+      "discovery_date": "2026-03-30",
       "raw_data": {
         "id": 620666,
         "calendar_time": "2026-04-13 00:00:00",
@@ -904,7 +760,7 @@
         "holiday": null,
         "title": "2026年世界互联网大会亚太峰会将于4月13日至14日召开"
       },
-      "created_at": "2026-03-29T04:34:42.094274"
+      "created_at": "2026-03-30T04:42:02.405154"
     },
     {
       "platform": "cls",
@@ -924,7 +780,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-03-29",
+      "discovery_date": "2026-03-30",
       "raw_data": {
         "id": 631678,
         "calendar_time": "2026-04-13 00:00:00",
@@ -940,7 +796,79 @@
         "holiday": null,
         "title": "香港邮政宣布将于4月13日起上调主要邮费"
       },
-      "created_at": "2026-03-29T04:34:42.094284"
+      "created_at": "2026-03-30T04:42:02.405167"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_647073_20260413_2",
+      "original_id": "647073",
+      "event_date": "2026-04-13",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-04-13 00:00:00",
+      "title": "2026钙钛矿电池技术与应用交流会将于4月13日至15日在江苏苏州举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-03-30",
+      "raw_data": {
+        "id": 647073,
+        "calendar_time": "2026-04-13 00:00:00",
+        "data_id": 21915,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "2026钙钛矿电池技术与应用交流会将于4月13日至15日在江苏苏州举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "2026钙钛矿电池技术与应用交流会将于4月13日至15日在江苏苏州举办"
+      },
+      "created_at": "2026-03-30T04:42:02.405179"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_647158_20260413_2",
+      "original_id": "647158",
+      "event_date": "2026-04-13",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-04-13 00:00:00",
+      "title": "第六届消博会将于4月13日至18日在海南举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-03-30",
+      "raw_data": {
+        "id": 647158,
+        "calendar_time": "2026-04-13 00:00:00",
+        "data_id": 21922,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "第六届消博会将于4月13日至18日在海南举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "第六届消博会将于4月13日至18日在海南举办"
+      },
+      "created_at": "2026-03-30T04:42:02.405194"
     },
     {
       "platform": "cls",
@@ -960,7 +888,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-03-29",
+      "discovery_date": "2026-03-30",
       "raw_data": {
         "id": 618815,
         "calendar_time": "2026-04-16 00:00:00",
@@ -976,7 +904,79 @@
         "holiday": null,
         "title": "第十六届北京国际电影节将于4月16日至4月25日举办"
       },
-      "created_at": "2026-03-29T04:34:42.094293"
+      "created_at": "2026-03-30T04:42:02.405209"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_647076_20260416_2",
+      "original_id": "647076",
+      "event_date": "2026-04-16",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-04-16 00:00:00",
+      "title": "2026第三届数据要素创新发展大会将于4月16日至17日举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-03-30",
+      "raw_data": {
+        "id": 647076,
+        "calendar_time": "2026-04-16 00:00:00",
+        "data_id": 21916,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "2026第三届数据要素创新发展大会将于4月16日至17日举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "2026第三届数据要素创新发展大会将于4月16日至17日举办"
+      },
+      "created_at": "2026-03-30T04:42:02.405222"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_647079_20260416_2",
+      "original_id": "647079",
+      "event_date": "2026-04-16",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-04-16 00:00:00",
+      "title": "第四届数据中心液冷技术大会将于4月16日在深圳召开",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-03-30",
+      "raw_data": {
+        "id": 647079,
+        "calendar_time": "2026-04-16 00:00:00",
+        "data_id": 21917,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "第四届数据中心液冷技术大会将于4月16日在深圳召开",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "第四届数据中心液冷技术大会将于4月16日在深圳召开"
+      },
+      "created_at": "2026-03-30T04:42:02.405234"
     },
     {
       "platform": "cls",
@@ -996,7 +996,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-03-29",
+      "discovery_date": "2026-03-30",
       "raw_data": {
         "id": 618962,
         "calendar_time": "2026-04-17 00:00:00",
@@ -1012,7 +1012,7 @@
         "holiday": null,
         "title": "2026中国人形机器人生态大会将于4月17日至19日在上海举办"
       },
-      "created_at": "2026-03-29T04:34:42.094303"
+      "created_at": "2026-03-30T04:42:02.405251"
     },
     {
       "platform": "cls",
@@ -1032,7 +1032,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-03-29",
+      "discovery_date": "2026-03-30",
       "raw_data": {
         "id": 637858,
         "calendar_time": "2026-04-19 00:00:00",
@@ -1048,7 +1048,7 @@
         "holiday": null,
         "title": "2026北京亦庄半程马拉松暨人形机器人半程马拉松将于4月19日举办"
       },
-      "created_at": "2026-03-29T04:34:42.094313"
+      "created_at": "2026-03-30T04:42:02.405282"
     },
     {
       "platform": "cls",
@@ -1068,7 +1068,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-03-29",
+      "discovery_date": "2026-03-30",
       "raw_data": {
         "id": 637854,
         "calendar_time": "2026-04-21 00:00:00",
@@ -1084,7 +1084,43 @@
         "holiday": null,
         "title": "第十四届中国数控机床展览会将于4月21日至25日在上海举行"
       },
-      "created_at": "2026-03-29T04:34:42.094343"
+      "created_at": "2026-03-30T04:42:02.405296"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_647085_20260421_2",
+      "original_id": "647085",
+      "event_date": "2026-04-21",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-04-21 00:00:00",
+      "title": "2026全球6G技术与产业生态大会将于4月21日至23日在南京举行",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-03-30",
+      "raw_data": {
+        "id": 647085,
+        "calendar_time": "2026-04-21 00:00:00",
+        "data_id": 21920,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "2026全球6G技术与产业生态大会将于4月21日至23日在南京举行",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "2026全球6G技术与产业生态大会将于4月21日至23日在南京举行"
+      },
+      "created_at": "2026-03-30T04:42:02.405309"
     },
     {
       "platform": "cls",
@@ -1104,7 +1140,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-03-29",
+      "discovery_date": "2026-03-30",
       "raw_data": {
         "id": 628097,
         "calendar_time": "2026-04-21 08:00:00",
@@ -1120,7 +1156,43 @@
         "holiday": null,
         "title": "国内成品油将开启新一轮调价窗口"
       },
-      "created_at": "2026-03-29T04:34:42.094355"
+      "created_at": "2026-03-30T04:42:02.405322"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_647087_20260422_2",
+      "original_id": "647087",
+      "event_date": "2026-04-22",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-04-22 00:00:00",
+      "title": "2026（第五届）半导体生态创新大会将于4月22日至23日在上海举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-03-30",
+      "raw_data": {
+        "id": 647087,
+        "calendar_time": "2026-04-22 00:00:00",
+        "data_id": 21921,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "2026（第五届）半导体生态创新大会将于4月22日至23日在上海举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "2026（第五届）半导体生态创新大会将于4月22日至23日在上海举办"
+      },
+      "created_at": "2026-03-30T04:42:02.405335"
     },
     {
       "platform": "cls",
@@ -1140,7 +1212,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-03-29",
+      "discovery_date": "2026-03-30",
       "raw_data": {
         "id": 637839,
         "calendar_time": "2026-04-29 00:00:00",
@@ -1156,7 +1228,7 @@
         "holiday": null,
         "title": "第九届数字中国建设峰会将于4月29日至4月30日在福建举办"
       },
-      "created_at": "2026-03-29T04:34:42.094365"
+      "created_at": "2026-03-30T04:42:02.405348"
     },
     {
       "platform": "cls",
@@ -1176,7 +1248,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-03-29",
+      "discovery_date": "2026-03-30",
       "raw_data": {
         "id": 427491,
         "calendar_time": "2026-05-01 00:00:00",
@@ -1192,7 +1264,7 @@
         "holiday": null,
         "title": "《民用无人驾驶航空器实名登记和激活要求》（GB 46761—2025）和《民用无人驾驶航空器系统运行识别规范》（GB 46750—2025）两项强制性国家标准将于5月1日起正式实施"
       },
-      "created_at": "2026-03-29T04:34:42.094378"
+      "created_at": "2026-03-30T04:42:02.405360"
     }
   ]
 }

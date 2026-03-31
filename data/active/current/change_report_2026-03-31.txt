@@ -1,0 +1,116 @@
+{
+  "detection_time": "2026-03-31T04:33:34.931283",
+  "summary": {
+    "total_new": 10,
+    "total_updated": 0,
+    "total_cancelled": 2
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 10,
+      "updated_events": 0,
+      "cancelled_events": 2,
+      "sample_new_titles": [
+        "德州仪器、恩智浦、英飞凌三大公司，近期相继向客户发出调价通知，宣布将自4月1日起上调部分产品售价",
+        "国巨第三次发涨价函：4月1日起调涨钽电容产品价格",
+        "岳阳林纸发布涨价函，自4月1日起，3、6、7号机的纸袋纸系列、复合系列、功能包装纸系列接单价格在现行"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "investing": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "eastmoney": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2026-04-01",
+      "title": "德州仪器、恩智浦、英飞凌三大公司，近期相继向客户发出调价通知，宣布将自4月1日起上调部分产品售价",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-01",
+      "title": "国巨第三次发涨价函：4月1日起调涨钽电容产品价格",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-01",
+      "title": "岳阳林纸发布涨价函，自4月1日起，3、6、7号机的纸袋纸系列、复合系列、功能包装纸系列接单价格在现行价格基础上上调200元/吨",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-01",
+      "title": "晨鸣纸业自2026年4月1日起白卡纸系列产品每吨涨价200元",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-01",
+      "title": "财政部：自2026年4月1日起对刚果（布）实施共同发展经济伙伴关系协定早期收获安排协定税率",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-02",
+      "title": "索尼集团决定在全球范围内上调PS5、PS5 PRO及PlayStation Portal遥控器的价格，自4月2日起生效",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-02",
+      "title": "地中海航运公司（MSC）：自4月2日起直至另行通知，对欧洲至印度洋群岛航线征收燃油附加费（EFS）",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-03",
+      "title": "2026太空算力产业大会将于4月3日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-01",
+      "title": "今日有785亿元7天期逆回购到期",
+      "importance": 2,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-03",
+      "title": "今日有1462亿元7天期逆回购到期",
+      "importance": 2,
+      "country": "中国"
+    }
+  ]
+}
