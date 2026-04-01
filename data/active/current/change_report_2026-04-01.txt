@@ -1,0 +1,109 @@
+{
+  "detection_time": "2026-04-01T04:44:19.548486",
+  "summary": {
+    "total_new": 9,
+    "total_updated": 0,
+    "total_cancelled": 0
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 9,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "上证科创板公司可转换债券指数将于4月1日正式发布",
+        "中证指数有限公司将于4月1日正式发布中证科创创业可转换债券指数等3条指数",
+        "天兵科技天龙三号预计拟于北京时间4月2日执行首飞发射"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "investing": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "eastmoney": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2026-04-01",
+      "title": "上证科创板公司可转换债券指数将于4月1日正式发布",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-01",
+      "title": "中证指数有限公司将于4月1日正式发布中证科创创业可转换债券指数等3条指数",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-02",
+      "title": "天兵科技天龙三号预计拟于北京时间4月2日执行首飞发射",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-02",
+      "title": "2026第25届中国（济南）新能源电动车及零部件展览会、中国(济南)新能源锂电池产业及充换电设施展将于4月2日至4日在济南举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-02",
+      "title": "2026分布式光储创新论坛将于4月2日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-02",
+      "title": "商务部定于4月2日举行新闻发布会，介绍近期商务领域重点工作有关情况",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-06",
+      "title": "白宫：特朗普希望4月6日前与伊朗达成协议",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-09",
+      "title": "第十四届中国电子信息博览会将于4月9日至11日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-02",
+      "title": "今日有2240亿元7天期逆回购到期",
+      "importance": 2,
+      "country": "中国"
+    }
+  ]
+}
