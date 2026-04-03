@@ -1,0 +1,116 @@
+{
+  "detection_time": "2026-04-03T04:27:07.846092",
+  "summary": {
+    "total_new": 16,
+    "total_updated": 0,
+    "total_cancelled": 0
+  },
+  "platforms": {
+    "cls": {
+      "new_events": 16,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": [
+        "天兵科技天龙三号火箭或调整至4月3日发射",
+        "中证指数：4月3日发布中证科创创业股债恒定比例指数系列等15条指数",
+        "【中国】香港交易所，休市一日，南、北向交易关闭"
+      ]
+    },
+    "jiuyangongshe": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "tonghuashun": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "investing": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    },
+    "eastmoney": {
+      "new_events": 0,
+      "updated_events": 0,
+      "cancelled_events": 0,
+      "sample_new_titles": []
+    }
+  },
+  "top_new_events": [
+    {
+      "platform": "cls",
+      "date": "2026-04-03",
+      "title": "天兵科技天龙三号火箭或调整至4月3日发射",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-03",
+      "title": "中证指数：4月3日发布中证科创创业股债恒定比例指数系列等15条指数",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-07",
+      "title": "谷歌推出Veo 3.1 Lite版本，将视频模型成本降低50%，将自4月7日起下调Veo 3.1 Fast版本定价",
+      "importance": 5,
+      "country": "美国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-07",
+      "title": "东南亚网约车平台Grab将于4月7日起上调燃油附加费",
+      "importance": 5,
+      "country": "印尼"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-07",
+      "title": "中国国民党主席郑丽文将于4月7日至12日到江苏、上海、北京参观访问",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-07",
+      "title": "中国亚洲国际精酿啤酒会议暨展览会将于4月7日至9日举办",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-07",
+      "title": "智元将于4月7日开启 “智元AI发布周”",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-08",
+      "title": "国家消防救援局定于4月8日在国家应急指挥总部新闻发布厅举行政策吹风会，解读《国务院办公厅关于加强基层消防工作的意见》",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-08",
+      "title": "国务院台湾事务办公室定于4月8日举行例行新闻发布会，发言人就近期两岸热点问题回答记者提问",
+      "importance": 5,
+      "country": "中国"
+    },
+    {
+      "platform": "cls",
+      "date": "2026-04-10",
+      "title": "2026（第二届）起点圆柱电池技术论坛暨圆柱电池20强排行榜发布会将于4月10日举办",
+      "importance": 5,
+      "country": "中国"
+    }
+  ]
+}
